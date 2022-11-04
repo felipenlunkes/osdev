@@ -35,6 +35,9 @@ This is a list of all opensource operating systems being developed, sorted by pr
 | [Banana Operating System](https://github.com/alexdboxall/Banana-Operating-System)| C| Yes| ![](https://img.shields.io/github/license/alexdboxall/Banana-Operating-System.svg)        |
 | [LittleKernel](https://github.com/littlekernel/lk)| C| Yes| ![](https://img.shields.io/github/license/littlekernel/lk.svg)        |
 | [FreeBSD](https://github.com/freebsd/freebsd-src)| C| Yes| ![](https://img.shields.io/github/license/freebsd/freebsd-src.svg)        |
+| [OSv](https://github.com/cloudius-systems/osv)| C| Yes| ![](https://img.shields.io/github/license/cloudius-systems/osv.svg)        |
+| [Harvey](https://github.com/Harvey-OS/harvey)| C| Yes| ![](https://img.shields.io/github/license/Harvey-OS/harvey.svg)        |
+| [Interim](https://github.com/mntmn/interim)| C| Yes| ![](https://img.shields.io/github/license/mntmn/interim.svg)        |
 
 ## C++
 
@@ -46,12 +49,20 @@ This is a list of all opensource operating systems being developed, sorted by pr
 | [duckOS](https://github.com/byteduck/duckOS)| C++| Yes| ![](https://img.shields.io/github/license/byteduck/duckOS.svg)        |
 | [LemonOS](https://github.com/LemonOSProject/LemonOS)| C++| Yes| ![](https://img.shields.io/github/license/LemonOSProject/LemonOS.svg)        |
 | [skiftOS](https://github.com/skiftOS/skift)| C++| Yes| ![](https://img.shields.io/github/license/skiftOS/skift.svg)        |
+| [mikanos](https://github.com/uchan-nos/mikanos)| C++| Yes| ![](https://img.shields.io/github/license/uchan-nos/mikanos.svg)        |
 
 ## Rust
 
 | Name          | Language        | Active | License |
 |:-------------:|:---------------:|:------:|:-------:|
-| Theseus               | Rust                |    Yes    | ![](https://img.shields.io/github/license/theseus-os/Theseus.svg)        |
-| MOROS              | Rust                | Yes       | ![](https://img.shields.io/github/license/vinc/moros.svg)        |
-| Redox-OS              | Rust                | Yes       | ![](https://img.shields.io/github/license/redox-os/kernel.svg)        |
-| The Stupid Operating System              | Rust                | Yes       | ![](https://img.shields.io/github/license/sos-os/kernel.svg)        |
+| [Theseus](https://github.com/theseus-os/Theseus)| Rust| Yes| ![](https://img.shields.io/github/license/theseus-os/Theseus.svg)        |
+| [MOROS](https://github.com/vinc/moros)| Rust| Yes| ![](https://img.shields.io/github/license/vinc/moros.svg)        |
+| [Redox-OS](https://github.com/redox-os/kernel)| Rust| Yes| ![](https://img.shields.io/github/license/redox-os/kernel.svg)        |
+| [The Stupid Operating System](https://github.com/sos-os/kernel)| Rust| Yes| ![](https://img.shields.io/github/license/sos-os/kernel.svg)        |
+| [snarkOS](https://github.com/AleoHQ/snarkOS)| Rust| Yes| ![](https://img.shields.io/github/license/AleoHQ/snarkOS.svg)        |
+
+## Common Lisp
+
+| Name          | Language        | Active | License |
+|:-------------:|:---------------:|:------:|:-------:|
+| [Mezzano](https://github.com/froggey/Mezzano)| Rust| Yes| ![](https://img.shields.io/github/license/froggey/Mezzano.svg)        |
