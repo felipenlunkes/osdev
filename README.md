@@ -14,7 +14,7 @@ This is a list of all opensource operating systems being developed, sorted by pr
 
 | Name          | Language        | Active | License |
 |:-------------:|:---------------:|:------:|:-------:|
-| MollenOS              | C                |        | ![](https://img.shields.io/github/license/Meulengracht/MollenOS.svg)        |
+| MollenOS              | C                | Yes       | ![](https://img.shields.io/github/license/Meulengracht/MollenOS.svg)        |
 | Research Unix v10              | C                | Yes       | ![](https://img.shields.io/github/license/Alhadis/Research-Unix-v10.svg)        |
 | seL4              | C                | Yes       | ![](https://img.shields.io/github/license/seL4/seL4.svg)        |
 | mos              | C                | Yes       | ![](https://img.shields.io/github/license/MQuy/mos.svg)        |
