@@ -40,7 +40,6 @@ This is a list of all opensource operating systems being developed, sorted by pr
 
 | Name          | Language        | Active | License |
 |:-------------:|:---------------:|:------:|:-------:|
-
 | SerenityOS              | C++                |        | ![](https://img.shields.io/github/license/SerenityOS/serenity.svg)        |
 | Managarm              | C++                |        | ![](https://img.shields.io/github/license/managarm/managarm.svg)        |
 | Haiku              | C++                |        | ![](https://img.shields.io/github/license/haiku/haiku.svg)        |
