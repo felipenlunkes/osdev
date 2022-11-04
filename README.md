@@ -1,6 +1,6 @@
 # OSDev projects
 
-This is a list of all opensource operating systems being developed, sorted by programming language.
+This is a list of all open source operating systems being developed, sorted by programming language.
 
 ## Assembly
 
@@ -9,7 +9,7 @@ This is a list of all opensource operating systems being developed, sorted by pr
 | [BareMetal](https://github.com/ReturnInfinity/BareMetal)| Assembly (x86_84)| Yes | ![](https://img.shields.io/github/license/ReturnInfinity/BareMetal.svg)        |
 | [Unix](https://github.com/dspinellis/unix-history-repo)| Assembly (early versions) and C| Yes | ![](https://img.shields.io/github/license/dspinellis/unix-history-repo.svg)        |
 | [Hexagonix](https://github.com/hexagonix/)| Assembly (x86)| Yes | ![](https://img.shields.io/github/license/Hexagonix/hexagonix.svg)        |
-
+| [Snowdrop OS](http://sebastianmihai.com/snowdrop/)| Assembly (x86)| Yes | Public domain
 ## C
 
 | Name          | Language        | Active | License |
@@ -38,6 +38,8 @@ This is a list of all opensource operating systems being developed, sorted by pr
 | [OSv](https://github.com/cloudius-systems/osv)| C| Yes| ![](https://img.shields.io/github/license/cloudius-systems/osv.svg)        |
 | [Harvey](https://github.com/Harvey-OS/harvey)| C| Yes| ![](https://img.shields.io/github/license/Harvey-OS/harvey.svg)        |
 | [Interim](https://github.com/mntmn/interim)| C| Yes| ![](https://img.shields.io/github/license/mntmn/interim.svg)        |
+| [Lunix OS](https://github.com/felipenlunkes/lunix)| C| Yes| ![](https://img.shields.io/github/license/felipenlunkes/lunix.svg)        |
+| [PX-DOS](https://github.com/felipenlunkes/PX-DOS-Core)| C| Yes| ![](https://img.shields.io/github/license/felipenlunkes/PX-DOS-Core.svg)        |
 
 ## C++
 
