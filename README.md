@@ -40,12 +40,12 @@ This is a list of all opensource operating systems being developed, sorted by pr
 
 | Name          | Language        | Active | License |
 |:-------------:|:---------------:|:------:|:-------:|
-| SerenityOS              | C++                |        | ![](https://img.shields.io/github/license/SerenityOS/serenity.svg)        |
-| Managarm              | C++                |        | ![](https://img.shields.io/github/license/managarm/managarm.svg)        |
-| Haiku              | C++                |        | ![](https://img.shields.io/github/license/haiku/haiku.svg)        |
-| duckOS              | C++                |        | ![](https://img.shields.io/github/license/byteduck/duckOS.svg)        |
-| LemonOS              | C++                |        | ![](https://img.shields.io/github/license/LemonOSProject/LemonOS.svg)        |
-| skiftOS              | C++                |        | ![](https://img.shields.io/github/license/skiftOS/skift.svg)        |
+| SerenityOS              | C++                | Yes       | ![](https://img.shields.io/github/license/SerenityOS/serenity.svg)        |
+| Managarm              | C++                | Yes       | ![](https://img.shields.io/github/license/managarm/managarm.svg)        |
+| Haiku              | C++                | Yes       | ![](https://img.shields.io/github/license/haiku/haiku.svg)        |
+| duckOS              | C++                | Yes       | ![](https://img.shields.io/github/license/byteduck/duckOS.svg)        |
+| LemonOS              | C++                | Yes       | ![](https://img.shields.io/github/license/LemonOSProject/LemonOS.svg)        |
+| skiftOS              | C++                | Yes       | ![](https://img.shields.io/github/license/skiftOS/skift.svg)        |
 
 ## Rust
 
