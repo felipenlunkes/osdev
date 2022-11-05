@@ -132,7 +132,7 @@ This is a list of open source operating system projects, as well as useful mater
 * [mkfreeOS](https://github.com/ramonmayedo/mkfreeOS)
 * [MollenOS](https://github.com/Meulengracht/MollenOS)
 * [MOROS](https://github.com/vinc/moros)
-* [mos](https://github.com/MQuy/mos
+* [mos](https://github.com/MQuy/mos)
 * [Mu](https://github.com/akkartik/mu)
 * [MysticOS](http://www.d-rift.nl/combuster/mos3/)
 * [Nano](https://github.com/NANO-DEV/)
@@ -200,7 +200,7 @@ This is a list of open source operating system projects, as well as useful mater
 
 | Name | Language | Architecture | OS family | Available on GitHub | Active | License |
 |:----:|:--------:|:------------:|:---------:|:-------------------:|:------:|:-------:|
-|Research Unix v1-v7](https://github.com/dspinellis/unix-history-repo)|Assembly (early versions) and C|PDP-7, PDP-11| Unix | Yes | No (historical) | ![](https://img.shields.io/github/license/dspinellis/unix-history-repo.svg)|
+|[Research Unix v1-v7](https://github.com/dspinellis/unix-history-repo)|Assembly (early versions) and C|PDP-7, PDP-11| Unix | Yes | No (historical) | ![](https://img.shields.io/github/license/dspinellis/unix-history-repo.svg)|
 |[BareMetal](https://github.com/ReturnInfinity/BareMetal)|Assembly|x86|Other|Yes|No|![](https://img.shields.io/github/license/ReturnInfinity/BareMetal.svg)|
 |[Hexagonix](https://github.com/hexagonix/)|Assembly|x86|Unix-like|Yes|Yes|![](https://img.shields.io/github/license/Hexagonix/hexagonix.svg)|
 |[Snowdrop OS](http://sebastianmihai.com/snowdrop/)|Assembly|x86 (16-bit)|Other|No|Yes|Public domain|
@@ -250,8 +250,8 @@ This is a list of open source operating system projects, as well as useful mater
 
 ## Rust
 
-| Name          | Language        | Active | License |
-|:-------------:|:---------------:|:------:|:-------:|
+| Name | Language | Architecture | OS family | Available on GitHub | Active | License |
+|:----:|:--------:|:------------:|:---------:|:-------------------:|:------:|:-------:|
 |[Theseus](https://github.com/theseus-os/Theseus)|Rust|-|Other|Yes|Yes|![](https://img.shields.io/github/license/theseus-os/Theseus.svg)|
 |[MOROS](https://github.com/vinc/moros)|Rust|x86|Other|Yes|Yes|![](https://img.shields.io/github/license/vinc/moros.svg)|
 |[Redox-OS](https://github.com/redox-os/kernel)|Rust|x86, arm|Other|Yes|Yes|![](https://img.shields.io/github/license/redox-os/kernel.svg)|
@@ -260,8 +260,8 @@ This is a list of open source operating system projects, as well as useful mater
 
 ## Common Lisp
 
-| Name          | Language        | Active | License |
-|:-------------:|:---------------:|:------:|:-------:|
+| Name | Language | Architecture | OS family | Available on GitHub | Active | License |
+|:----:|:--------:|:------------:|:---------:|:-------------------:|:------:|:-------:|
 |[Mezzano](https://github.com/froggey/Mezzano)|Rust|-|Other|Yes|Yes|![](https://img.shields.io/github/license/froggey/Mezzano.svg)|
 
 <hr>
