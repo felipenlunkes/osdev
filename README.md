@@ -1,4 +1,4 @@
-# OSDev projects and reference material
+# Operating system projects and reference material
 
 <div align="justify">
 
