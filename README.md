@@ -48,7 +48,7 @@ This is a list of open source operating system projects, as well as useful mater
 * [Tilck](https://github.com/vvaltchev/tilck)
 * [ToaruOS](http://github.com/klange/toaruos)
 * [TravorOS](https://github.com/TravorLZH/TravorOS)
-* [Tupai](https://gitlab.com/zesterer/tupai/commits/dev)
+* [Tupai](https://gitlab.com/zesterer/tupai/)
 * [Upanix](https://github.com/prajwal83/upanix)
 * [Vanadium OS](https://github.com/p-durlej/newsys)
 * [ZeldaOS](https://github.com/chillancezen/ZeldaOS)
@@ -225,57 +225,54 @@ This is a list of open source operating system projects, as well as useful mater
 |[Fiwix](http://github.com/mikaku/Fiwix)|C|x86|Unix-like|Yes|Yes|![](https://img.shields.io/github/license/mikaku/Fiwix.svg)|
 |[Harvey](https://github.com/Harvey-OS/harvey)|C|x86|Unix-like (Plan 9)|Yes|Yes|![](https://img.shields.io/github/license/Harvey-OS/harvey.svg)|
 |[HelenOS](https://github.com/HelenOS/helenos)|C, C++|x86, x86_64, i64, ARM, SPARC|Unix-like|Yes|Yes|![](https://img.shields.io/github/license/HelenOS/helenos.svg)|
-
-
-
-
-<!--
-|[MollenOS](https://github.com/Meulengracht/MollenOS)|C|-|Other|Yes|Yes|![](https://img.shields.io/github/license/Meulengracht/MollenOS.svg)|
-|[Research Unix v10](https://github.com/Alhadis/Research-Unix-v10)|C|-|Unix|Yes|No (historical)|![](https://img.shields.io/github/license/Alhadis/Research-Unix-v10.svg)|
-|[seL4](https://github.com/seL4/seL4)|C|-|L4|Yes|Yes|![](https://img.shields.io/github/license/seL4/seL4.svg)|
-|[mos](https://github.com/MQuy/mos)|C|-|Other|Yes|Yes|![](https://img.shields.io/github/license/MQuy/mos.svg)|
+|[lk](https://github.com/littlekernel/lk)|C|x86, ARM|Unix-like|Yes|Yes|![](https://img.shields.io/github/license/littlekernel/lk.svg)|
 |[Minix](https://github.com/Stichting-MINIX-Research-Foundation/minix)|C|x86, arm64|Unix-like|Yes|Yes|![](https://img.shields.io/github/license/Stichting-MINIX-Research-Foundation/minix.svg)|
 |[Nanvix](https://github.com/nanvix/nanvix)|C|x86|Unix-like|Yes|Yes|![](https://img.shields.io/github/license/nanvix/nanvix.svg)|
-|[HelenOS](https://github.com/HelenOS/helenos)|C|x86|Unix-like|Yes|Yes|![](https://img.shields.io/github/license/HelenOS/helenos.svg)|
+|[NexNix](https://github.com/nexos-dev/nexnix)|C|x86|Unix-like|Yes|Yes|![](https://img.shields.io/github/license/nexos-dev/nexnix.svg)|
+|[nightingale](https://github.com/tyler569/nightingale)|C|x86|Unix-like|Yes|Yes|![](https://img.shields.io/github/license/tyler569/nightingale.svg)|
+|[Sortix](https://sortix.org/)|C|x86, x86_64|No|Yes|ISC license|
+|[Soso](https://github.com/ozkl/soso)|C|x86|Unix-like|Yes|Yes|![](https://img.shields.io/github/license/ozkl/soso.svg)|
+|[Tilck](https://github.com/vvaltchev/tilck)|C|x86|Unix-like|Yes|Yes|![](https://img.shields.io/github/license/vvaltchev/tilck.svg)|
+|[ToaruOS](http://github.com/klange/toaruos)|C|x86_64, ARMv8|Unix-like|Yes|Yes|![](https://img.shields.io/github/license/klange/toaruos.svg)|
+|[TravorOS](https://github.com/TravorLZH/TravorOS)|C|x86|Unix-like|Yes|No|![](https://img.shields.io/github/license/TravorLZH/TravorOS.svg)|
+|[Tupai](https://gitlab.com/zesterer/tupai/)|C|x86, ARM|Unix-like|No|Yes|GNU General Public License version 3|
+|[Vanadium OS](https://github.com/p-durlej/newsys)|C|x86|Unix-like|Yes|Yes|![](https://img.shields.io/github/license/p-durlej/newsys.svg)|
+|[ZeldaOS](https://github.com/chillancezen/ZeldaOS)|C|x86, x86_64|Unix-like|Yes|Yes|![](https://img.shields.io/github/license/chillancezen/ZeldaOS.svg)|
+|[FreeDOS](https://github.com/FDOS/kernel)|C|x86 (16-bit)|DOS|Yes|Yes|![](https://img.shields.io/github/license/FDOS/kernel.svg)|
+|[NetDOS/32](https://github.com/clementtttttttt/NetDOS-32)|C|x86|DOS|Yes|No|![](https://img.shields.io/github/license/clementtttttttt/NetDOS-32.svg)|
+|[Public Domain Operating System](http://pdos.org/)|C|x86 (16-bit, 32-bit)|DOS|No|Yes|Public Domain|
+|[PX-DOS](https://github.com/felipenlunkes/PX-DOS-Core)|C|x86 (16-bit)|DOS|Yes|No|![](https://img.shields.io/github/license/felipenlunkes/PX-DOS-Core.svg)|
+|[ReactOS](https://github.com/reactos/reactos)|C|x86|Windows|Yes|Yes|![](https://img.shields.io/github/license/reactos/reactos.svg)|
+|[NewOS](https://github.com/travisg/newos)|C|x86|BeOS-like|Yes|Yes|![](https://img.shields.io/github/license/travisg/newos.svg)|
+|[MollenOS](https://github.com/Meulengracht/MollenOS)|C|-|Other|Yes|Yes|![](https://img.shields.io/github/license/Meulengracht/MollenOS.svg)|
+|[seL4](https://github.com/seL4/seL4)|C|-|L4|Yes|Yes|![](https://img.shields.io/github/license/seL4/seL4.svg)|
+|[mos](https://github.com/MQuy/mos)|C|-|Other|Yes|Yes|![](https://img.shields.io/github/license/MQuy/mos.svg)|
 |[Polaris](https://github.com/NSG650/Polaris)|C|-|Other|Yes|Yes|![](https://img.shields.io/github/license/NSG650/Polaris.svg)|
 |[Lyre](https://github.com/lyre-os/lyre)|C|-|Other|Yes|Yes|![](https://img.shields.io/github/license/lyre-os/lyre.svg)|
 |[primus-os](https://github.com/araujo88/primus-os)|C|x86|Other|Yes|Yes|![](https://img.shields.io/github/license/araujo88/primus-os.svg)|
 |[opuntiaOS](https://github.com/opuntiaOS-Project/opuntiaOS)|C|x86, ARM|Other|Yes|Yes|![](https://img.shields.io/github/license/opuntiaOS-Project/opuntiaOS.svg)|
 |[OS67](https://github.com/SilverRainZ/OS67)|C|-|Other|Yes|Yes|![](https://img.shields.io/github/license/SilverRainZ/OS67.svg)|
-|[FreeDOS](https://github.com/FDOS/kernel)|C|x86 (16-bit)|DOS|Yes|Yes|![](https://img.shields.io/github/license/FDOS/kernel.svg)|
 |[PastaOS](https://github.com/arighi/pastaos)|C|x86|Other|Yes|Yes|![](https://img.shields.io/github/license/arighi/pastaos.svg)|
-|[NewOS](https://github.com/travisg/newos)|C|-|BeOS-like|Yes|Yes|![](https://img.shields.io/github/license/travisg/newos.svg)|
 |[Minoca](https://github.com/minoca/os)|C|-|Other|Yes|Yes|![](https://img.shields.io/github/license/minoca/os.svg)|
-
-|[ReactOS](https://github.com/reactos/reactos)|C|x86|Windows|Yes|Yes|![](https://img.shields.io/github/license/reactos/reactos.svg)|
 |[Banana Operating System](https://github.com/alexdboxall/Banana-Operating-System)|C|x86|Other|Yes|Yes|![](https://img.shields.io/github/license/alexdboxall/Banana-Operating-System.svg)|
-|[LittleKernel](https://github.com/littlekernel/lk)|C|x86, ARM|Unix-like|Yes|Yes|![](https://img.shields.io/github/license/littlekernel/lk.svg)|
-
 |[OSv](https://github.com/cloudius-systems/osv)|C|-|Other|Yes|Yes|![](https://img.shields.io/github/license/cloudius-systems/osv.svg)|
-|[Harvey](https://github.com/Harvey-OS/harvey)|C|-|Unix-like|Yes|Yes|![](https://img.shields.io/github/license/Harvey-OS/harvey.svg)|
 |[Interim](https://github.com/mntmn/interim)|C|-|Other|Yes|Yes|![](https://img.shields.io/github/license/mntmn/interim.svg)|
 |[Lunix OS](https://github.com/felipenlunkes/lunix)|C|x86|Other|Yes|Yes|![](https://img.shields.io/github/license/felipenlunkes/lunix.svg)|
-|[PX-DOS](https://github.com/felipenlunkes/PX-DOS-Core)|C|x86 (16-bit)|DOS|Yes|No|![](https://img.shields.io/github/license/felipenlunkes/PX-DOS-Core.svg)|
-
--->
 
 ## C++
 
 | Name | Language | Architecture | OS family | Available on GitHub | Active | License |
 |:----:|:--------:|:------------:|:---------:|:-------------------:|:------:|:-------:|
 |[Dennix](https://github.com/dennis95/dennix)|C++|x86_64|Unix-like|Yes|Yes|![](https://img.shields.io/github/license/dennis95/dennix.svg)|
-
-
-
-
-
+|[JSD/OS](https://github.com/pgrAm/JSD-OS)|C++|x86|DOS|Yes|Yes|![](https://img.shields.io/github/license/pgrAm/JSD-OS.svg)|
+|[Haiku](https://github.com/haiku/haiku)|C++|x86, ARM|BeOS-like|Yes|Yes|![](https://img.shields.io/github/license/haiku/haiku.svg)|
 |[SerenityOS](https://github.com/SerenityOS/serenity)|C++|x86|Unix-like|Yes|Yes|![](https://img.shields.io/github/license/SerenityOS/serenity.svg)|
 |[Managarm](https://github.com/managarm/managarm)|C++|-|Other|Yes|Yes|![](https://img.shields.io/github/license/managarm/managarm.svg)|
-|[Haiku](https://github.com/haiku/haiku)|C++|x86, ARM|BeOS-like|Yes|Yes|![](https://img.shields.io/github/license/haiku/haiku.svg)|
 |[duckOS](https://github.com/byteduck/duckOS)|C++|-|Unix-like|Yes|Yes|![](https://img.shields.io/github/license/byteduck/duckOS.svg)|
 |[LemonOS](https://github.com/LemonOSProject/LemonOS)|C++|-|Unix-like|Yes|Yes|![](https://img.shields.io/github/license/LemonOSProject/LemonOS.svg)       |
 |[skiftOS](https://github.com/skiftOS/skift)|C++|-|Other|Yes|Yes|![](https://img.shields.io/github/license/skiftOS/skift.svg)|
 |[mikanos](https://github.com/uchan-nos/mikanos)|C++|-|Other|Yes|Yes|![](https://img.shields.io/github/license/uchan-nos/mikanos.svg)|
+|[Upanix](https://github.com/prajwal83/upanix)|C++|x86|Unix-like|Yes|Yes|![](https://img.shields.io/github/license/prajwal83/upanix.svg)|
 
 ## Rust
 
