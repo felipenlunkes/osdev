@@ -225,7 +225,7 @@ This is a list of open source operating system projects, as well as useful mater
 |[Escape](https://github.com/Nils-TUD/Escape)|C, C++|x86, x86_64, ECO32, MMIX|Unix-like|Yes|Yes|![](https://img.shields.io/github/license/Nils-TUD/Escape.svg)|
 |[Fiwix](http://github.com/mikaku/Fiwix)|C|x86|Unix-like|Yes|Yes|![](https://img.shields.io/github/license/mikaku/Fiwix.svg)|
 |[FreeDOS](https://github.com/FDOS/kernel)|C|x86 (16-bit)|DOS|Yes|Yes|![](https://img.shields.io/github/license/FDOS/kernel.svg)|
-|[Harvey](https://github.com/Harvey-OS/harvey)|C|x86|Unix-like (Plan 9)|Yes|Yes|![](https://img.shields.io/github/license/Harvey-OS/harvey.svg)|
+|[Harvey](https://github.com/Harvey-OS/harvey)|C|x86|Unix (Plan 9)|Yes|Yes|![](https://img.shields.io/github/license/Harvey-OS/harvey.svg)|
 |[HelenOS](https://github.com/HelenOS/helenos)|C, C++|x86, x86_64, i64, ARM, SPARC|Unix-like|Yes|Yes|![](https://img.shields.io/github/license/HelenOS/helenos.svg)|
 |[Interim](https://github.com/mntmn/interim)|C|-|Other|Yes|Yes|![](https://img.shields.io/github/license/mntmn/interim.svg)|
 |[lk](https://github.com/littlekernel/lk)|C|x86, ARM|Unix-like|Yes|Yes|![](https://img.shields.io/github/license/littlekernel/lk.svg)|
