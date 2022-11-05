@@ -230,7 +230,7 @@ This is a list of open source operating system projects, as well as useful mater
 |[Nanvix](https://github.com/nanvix/nanvix)|C|x86|Unix-like|Yes|Yes|![](https://img.shields.io/github/license/nanvix/nanvix.svg)|
 |[NexNix](https://github.com/nexos-dev/nexnix)|C|x86|Unix-like|Yes|Yes|![](https://img.shields.io/github/license/nexos-dev/nexnix.svg)|
 |[nightingale](https://github.com/tyler569/nightingale)|C|x86|Unix-like|Yes|Yes|![](https://img.shields.io/github/license/tyler569/nightingale.svg)|
-|[Sortix](https://sortix.org/)|C|x86, x86_64|No|Yes|ISC license|
+|[Sortix](https://sortix.org/)|C|x86, x86_64|Unix-like|No|Yes|ISC license|
 |[Soso](https://github.com/ozkl/soso)|C|x86|Unix-like|Yes|Yes|![](https://img.shields.io/github/license/ozkl/soso.svg)|
 |[Tilck](https://github.com/vvaltchev/tilck)|C|x86|Unix-like|Yes|Yes|![](https://img.shields.io/github/license/vvaltchev/tilck.svg)|
 |[ToaruOS](http://github.com/klange/toaruos)|C|x86_64, ARMv8|Unix-like|Yes|Yes|![](https://img.shields.io/github/license/klange/toaruos.svg)|
