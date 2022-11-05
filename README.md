@@ -38,6 +38,7 @@ This is a list of open source operating system projects, as well as useful mater
 * [Hexagonix](https://github.com/hexagonix)
 * [Lemon OS](https://github.com/LemonOSProject/LemonOS)
 * [lk](https://github.com/littlekernel/lk)
+* [Lunix OS](https://github.com/felipenlunkes/lunix)
 * [Minix](http://minix3.org/)
 * [Nanvix](https://github.com/nanvix/nanvix)
 * [NexNix](https://github.com/nexos-dev/nexnix)
@@ -117,7 +118,6 @@ This is a list of open source operating system projects, as well as useful mater
 * [Lambda OS](https://github.com/farlepet/lambda-os)
 * [LFOS](https://github.com/LittleFox94/lf-os_amd64)
 * [Lotus-Effect](https://blackdev.org/)
-* [Lunix OS](https://github.com/felipenlunkes/lunix)
 * [Lyre](https://github.com/lyre-os/lyre)
 * [MajickOS](https://github.com/MajickTek/MajickOS/wiki)
 * [Managarm](http://www.managarm.org/)
@@ -257,7 +257,7 @@ This is a list of open source operating system projects, as well as useful mater
 |[Banana Operating System](https://github.com/alexdboxall/Banana-Operating-System)|C|x86|Other|Yes|Yes|![](https://img.shields.io/github/license/alexdboxall/Banana-Operating-System.svg)|
 |[OSv](https://github.com/cloudius-systems/osv)|C|-|Other|Yes|Yes|![](https://img.shields.io/github/license/cloudius-systems/osv.svg)|
 |[Interim](https://github.com/mntmn/interim)|C|-|Other|Yes|Yes|![](https://img.shields.io/github/license/mntmn/interim.svg)|
-|[Lunix OS](https://github.com/felipenlunkes/lunix)|C|x86|Other|Yes|Yes|![](https://img.shields.io/github/license/felipenlunkes/lunix.svg)|
+|[Lunix OS](https://github.com/felipenlunkes/lunix)|C|x86|Unix-like|Yes|Yes|![](https://img.shields.io/github/license/felipenlunkes/lunix.svg)|
 
 ## C++
 
