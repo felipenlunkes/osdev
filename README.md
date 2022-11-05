@@ -1,4 +1,4 @@
-# OSDev projects
+# OSDev projects and reference material
 
 <div align="justify">
 
@@ -6,7 +6,7 @@ This is a list of open source operating system projects, as well as useful mater
 
 * [Sorted by family](#sorted-by-family)
 * [Sorted by language](#sorted-by-language-under-construction)
-<!-- * [OSDev material]() -->
+* [Reference material](#reference-material)
 
 </div>
 
@@ -194,7 +194,7 @@ This is a list of open source operating system projects, as well as useful mater
 
 <hr>
 
-# Sorted by language (under construction)
+# Sorted by language (under update)
 
 ## Assembly
 
@@ -262,3 +262,7 @@ This is a list of open source operating system projects, as well as useful mater
 | Name          | Language        | Active | License |
 |:-------------:|:---------------:|:------:|:-------:|
 | [Mezzano](https://github.com/froggey/Mezzano)| Rust| Yes| ![](https://img.shields.io/github/license/froggey/Mezzano.svg)        |
+
+<hr>
+
+# Reference material
