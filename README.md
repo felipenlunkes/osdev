@@ -216,6 +216,8 @@ This is a list of open source operating system projects, as well as useful mater
 |[Minix](https://github.com/Stichting-MINIX-Research-Foundation/minix)|C|x86, arm64|Unix-like|Yes|Yes|![](https://img.shields.io/github/license/Stichting-MINIX-Research-Foundation/minix.svg)|
 |[Nanvix](https://github.com/nanvix/nanvix)|C|x86|Unix-like|Yes|Yes|![](https://img.shields.io/github/license/nanvix/nanvix.svg)|
 |[HelenOS](https://github.com/HelenOS/helenos)|C|x86|Unix-like|Yes|Yes|![](https://img.shields.io/github/license/HelenOS/helenos.svg)|
+|[Plan 9](https://9p.io/plan9/)|C|x86, arm|Unix|No|Yes|-|
+|[9front](https://code.9front.org/hg/plan9front)|C|-|Unix|No|Yes|-|
 |[Polaris](https://github.com/NSG650/Polaris)|C|-|Other|Yes|Yes|![](https://img.shields.io/github/license/NSG650/Polaris.svg)|
 |[Lyre](https://github.com/lyre-os/lyre)|C|-|Other|Yes|Yes|![](https://img.shields.io/github/license/lyre-os/lyre.svg)|
 |[primus-os](https://github.com/araujo88/primus-os)|C|x86|Other|Yes|Yes|![](https://img.shields.io/github/license/araujo88/primus-os.svg)|
@@ -230,6 +232,8 @@ This is a list of open source operating system projects, as well as useful mater
 |[Banana Operating System](https://github.com/alexdboxall/Banana-Operating-System)|C|x86|Other|Yes|Yes|![](https://img.shields.io/github/license/alexdboxall/Banana-Operating-System.svg)|
 |[LittleKernel](https://github.com/littlekernel/lk)|C|x86, arm|Unix-like|Yes|Yes|![](https://img.shields.io/github/license/littlekernel/lk.svg)|
 |[FreeBSD](https://github.com/freebsd/freebsd-src)|C|x86, arm, PowerPC, riscV|Unix|Yes|Yes|![](https://img.shields.io/github/license/freebsd/freebsd-src.svg)|
+|[NetBSD](https://github.com/NetBSD/src)|C|x86, arm, PowerPC, riscV|Unix|Yes|Yes|![](https://img.shields.io/github/license/NetBSD/src.svg)|
+|[OpenBSD](https://github.com/openbsd)|C|x86, arm, PowerPC, riscV|Unix|Yes|Yes|![](https://img.shields.io/github/license/openbsd.svg)|
 |[OSv](https://github.com/cloudius-systems/osv)|C|-|Other|Yes|Yes|![](https://img.shields.io/github/license/cloudius-systems/osv.svg)|
 |[Harvey](https://github.com/Harvey-OS/harvey)|C|-|Unix-like|Yes|Yes|![](https://img.shields.io/github/license/Harvey-OS/harvey.svg)|
 |[Interim](https://github.com/mntmn/interim)|C|-|Other|Yes|Yes|![](https://img.shields.io/github/license/mntmn/interim.svg)|
