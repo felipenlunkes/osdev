@@ -5,7 +5,7 @@
 This is a list of open source operating system projects, as well as useful material for operating system development.
 
 * [Sorted by family](#sorted-by-family)
-* [Sorted by language](#sorted-by-language-under-construction)
+* [Sorted by language](#sorted-by-language-under-update)
 * [Reference material](#reference-material)
 
 </div>
