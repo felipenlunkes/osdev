@@ -1,8 +1,16 @@
 # OSDev projects
 
-This is a list of all open source operating systems being developed, sorted by programming language.
+<div align="justify">
 
-# Sorted by family
+This is a list of open source operating system projects, as well as useful material for operating system development.
+
+* [Sorted by family](#sorted-by-family)
+* [Sorted by language](#sorted-by-language-under-construction)
+<!-- * [OSDev material]() -->
+
+</div>
+
+## Sorted by family
 
 ## Unix
 
