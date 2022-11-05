@@ -16,8 +16,8 @@ This is a list of open source operating system projects, as well as useful mater
 
 * [Research Unix v1-v7](https://github.com/dspinellis/unix-history-repo)
 * [Research Unix v10](https://github.com/Alhadis/Research-Unix-v10)
-* [9front](https://code.9front.org/hg/plan9front)
 * [Plan 9](https://9p.io/plan9/)
+* [9front](https://code.9front.org/hg/plan9front)
 * [FreeBSD](https://github.com/freebsd/freebsd-src)
 * [NetBSD](https://github.com/NetBSD/src)
 * [OpenBSD](https://github.com/openbsd)
@@ -26,13 +26,13 @@ This is a list of open source operating system projects, as well as useful mater
 ## Unix-like
 
 * [The Apollo Project](https://github.com/primis/Apollo)
-* [AquilaOS](http://aquilaos.com/)
+* [AquilaOS](http://github.com/thethumbler/Aquila)
 * [BeeOS](https://github.com/davxy/beeos)
 * [Brutal](https://github.com/brutal-org/brutal)
 * [Dennix](https://github.com/dennis95/dennix)
 * [duckOS](https://github.com/byteduck/duckOS)
 * [Escape](https://github.com/Nils-TUD/Escape)
-* [Fiwix](http://www.fiwix.org/)
+* [Fiwix](http://github.com/mikaku/Fiwix)
 * [Harvey](https://github.com/Harvey-OS/harvey)
 * [HelenOS](https://github.com/HelenOS/helenos)
 * [Hexagonix](https://github.com/hexagonix)
@@ -209,6 +209,27 @@ This is a list of open source operating system projects, as well as useful mater
 
 | Name | Language | Architecture | OS family | Available on GitHub | Active | License |
 |:----:|:--------:|:------------:|:---------:|:-------------------:|:------:|:-------:|
+|[Research Unix v10](https://github.com/Alhadis/Research-Unix-v10)|C|-|Unix|Yes|No|![](https://img.shields.io/github/license/Alhadis/Research-Unix-v10.svg)|
+|[Plan 9](https://9p.io/plan9/)|C|x86|Unix|No|Yes|-|
+|[9front](https://code.9front.org/hg/plan9front)|C|x86|Unix|No|Yes|-|
+|[FreeBSD](https://github.com/freebsd/freebsd-src)|C|x86, ARM, PowerPC, RISC-V|Unix|Yes|Yes|![](https://img.shields.io/github/license/freebsd/freebsd-src.svg)|
+|[NetBSD](https://github.com/NetBSD/src)|C|x86, ARM, PowerPC, RISC-V|Unix|Yes|Yes|![](https://img.shields.io/github/license/NetBSD/src.svg)|
+|[OpenBSD](https://github.com/openbsd)|C|x86, ARM, PowerPC, RISC-V|Unix|Yes|Yes|![](https://img.shields.io/github/license/openbsd.svg)|
+|[Illumos (openSolaris)](https://github.com/illumos/illumos-gate)|C|x86, SPARC|Unix|Yes|Yes|![](https://img.shields.io/github/license/illumos/illumos-gate.svg)|
+|[The Apollo Project](https://github.com/primis/Apollo)|C|x86, Raspberry Pi Model 4B|Unix-like|Yes|Yes|![](https://img.shields.io/github/license/primis/Apollo.svg)|
+|[AquilaOS](http://github.com/thethumbler/Aquila)|C|x86|Unix-like|Yes|Yes|![](https://img.shields.io/github/license/thethumbler/Aquila.svg)|
+|[BeeOS](https://github.com/davxy/beeos)|C|x86|Unix-like|Yes|Yes|![](https://img.shields.io/github/license/davxy/beeos.svg)|
+|[Brutal](https://github.com/brutal-org/brutal)|C|x86, x86_64, ARM, RISC-V|Unix-like|Yes|Yes|![](https://img.shields.io/github/license/brutal-org/brutal.svg)|
+|[duckOS](https://github.com/byteduck/duckOS)|C, C++|x86|Unix-like|Yes|Yes|![](https://img.shields.io/github/license/byteduck/duckOS.svg)|
+|[Escape](https://github.com/Nils-TUD/Escape)|C, C++|x86, x86_64, ECO32, MMIX|Unix-like|Yes|Yes|![](https://img.shields.io/github/license/Nils-TUD/Escape.svg)|
+|[Fiwix](http://github.com/mikaku/Fiwix)|C|x86|Unix-like|Yes|Yes|![](https://img.shields.io/github/license/mikaku/Fiwix.svg)|
+|[Harvey](https://github.com/Harvey-OS/harvey)|C|x86|Unix-like (Plan 9)|Yes|Yes|![](https://img.shields.io/github/license/Harvey-OS/harvey.svg)|
+|[HelenOS](https://github.com/HelenOS/helenos)|C, C++|x86, x86_64, i64, ARM, SPARC|Unix-like|Yes|Yes|![](https://img.shields.io/github/license/HelenOS/helenos.svg)|
+
+
+
+
+<!--
 |[MollenOS](https://github.com/Meulengracht/MollenOS)|C|-|Other|Yes|Yes|![](https://img.shields.io/github/license/Meulengracht/MollenOS.svg)|
 |[Research Unix v10](https://github.com/Alhadis/Research-Unix-v10)|C|-|Unix|Yes|No (historical)|![](https://img.shields.io/github/license/Alhadis/Research-Unix-v10.svg)|
 |[seL4](https://github.com/seL4/seL4)|C|-|L4|Yes|Yes|![](https://img.shields.io/github/license/seL4/seL4.svg)|
@@ -216,37 +237,41 @@ This is a list of open source operating system projects, as well as useful mater
 |[Minix](https://github.com/Stichting-MINIX-Research-Foundation/minix)|C|x86, arm64|Unix-like|Yes|Yes|![](https://img.shields.io/github/license/Stichting-MINIX-Research-Foundation/minix.svg)|
 |[Nanvix](https://github.com/nanvix/nanvix)|C|x86|Unix-like|Yes|Yes|![](https://img.shields.io/github/license/nanvix/nanvix.svg)|
 |[HelenOS](https://github.com/HelenOS/helenos)|C|x86|Unix-like|Yes|Yes|![](https://img.shields.io/github/license/HelenOS/helenos.svg)|
-|[Plan 9](https://9p.io/plan9/)|C|x86, arm|Unix|No|Yes|-|
-|[9front](https://code.9front.org/hg/plan9front)|C|-|Unix|No|Yes|-|
 |[Polaris](https://github.com/NSG650/Polaris)|C|-|Other|Yes|Yes|![](https://img.shields.io/github/license/NSG650/Polaris.svg)|
 |[Lyre](https://github.com/lyre-os/lyre)|C|-|Other|Yes|Yes|![](https://img.shields.io/github/license/lyre-os/lyre.svg)|
 |[primus-os](https://github.com/araujo88/primus-os)|C|x86|Other|Yes|Yes|![](https://img.shields.io/github/license/araujo88/primus-os.svg)|
-|[opuntiaOS](https://github.com/opuntiaOS-Project/opuntiaOS)|C|x86, arm|Other|Yes|Yes|![](https://img.shields.io/github/license/opuntiaOS-Project/opuntiaOS.svg)|
+|[opuntiaOS](https://github.com/opuntiaOS-Project/opuntiaOS)|C|x86, ARM|Other|Yes|Yes|![](https://img.shields.io/github/license/opuntiaOS-Project/opuntiaOS.svg)|
 |[OS67](https://github.com/SilverRainZ/OS67)|C|-|Other|Yes|Yes|![](https://img.shields.io/github/license/SilverRainZ/OS67.svg)|
 |[FreeDOS](https://github.com/FDOS/kernel)|C|x86 (16-bit)|DOS|Yes|Yes|![](https://img.shields.io/github/license/FDOS/kernel.svg)|
 |[PastaOS](https://github.com/arighi/pastaos)|C|x86|Other|Yes|Yes|![](https://img.shields.io/github/license/arighi/pastaos.svg)|
 |[NewOS](https://github.com/travisg/newos)|C|-|BeOS-like|Yes|Yes|![](https://img.shields.io/github/license/travisg/newos.svg)|
 |[Minoca](https://github.com/minoca/os)|C|-|Other|Yes|Yes|![](https://img.shields.io/github/license/minoca/os.svg)|
-|[Illumos (openSolaris)](https://github.com/illumos/illumos-gate)|C|x86, SPARC|Unix|Yes|Yes|![](https://img.shields.io/github/license/illumos/illumos-gate.svg)|
+
 |[ReactOS](https://github.com/reactos/reactos)|C|x86|Windows|Yes|Yes|![](https://img.shields.io/github/license/reactos/reactos.svg)|
 |[Banana Operating System](https://github.com/alexdboxall/Banana-Operating-System)|C|x86|Other|Yes|Yes|![](https://img.shields.io/github/license/alexdboxall/Banana-Operating-System.svg)|
-|[LittleKernel](https://github.com/littlekernel/lk)|C|x86, arm|Unix-like|Yes|Yes|![](https://img.shields.io/github/license/littlekernel/lk.svg)|
-|[FreeBSD](https://github.com/freebsd/freebsd-src)|C|x86, arm, PowerPC, riscV|Unix|Yes|Yes|![](https://img.shields.io/github/license/freebsd/freebsd-src.svg)|
-|[NetBSD](https://github.com/NetBSD/src)|C|x86, arm, PowerPC, riscV|Unix|Yes|Yes|![](https://img.shields.io/github/license/NetBSD/src.svg)|
-|[OpenBSD](https://github.com/openbsd)|C|x86, arm, PowerPC, riscV|Unix|Yes|Yes|![](https://img.shields.io/github/license/openbsd.svg)|
+|[LittleKernel](https://github.com/littlekernel/lk)|C|x86, ARM|Unix-like|Yes|Yes|![](https://img.shields.io/github/license/littlekernel/lk.svg)|
+
 |[OSv](https://github.com/cloudius-systems/osv)|C|-|Other|Yes|Yes|![](https://img.shields.io/github/license/cloudius-systems/osv.svg)|
 |[Harvey](https://github.com/Harvey-OS/harvey)|C|-|Unix-like|Yes|Yes|![](https://img.shields.io/github/license/Harvey-OS/harvey.svg)|
 |[Interim](https://github.com/mntmn/interim)|C|-|Other|Yes|Yes|![](https://img.shields.io/github/license/mntmn/interim.svg)|
 |[Lunix OS](https://github.com/felipenlunkes/lunix)|C|x86|Other|Yes|Yes|![](https://img.shields.io/github/license/felipenlunkes/lunix.svg)|
 |[PX-DOS](https://github.com/felipenlunkes/PX-DOS-Core)|C|x86 (16-bit)|DOS|Yes|No|![](https://img.shields.io/github/license/felipenlunkes/PX-DOS-Core.svg)|
 
+-->
+
 ## C++
 
 | Name | Language | Architecture | OS family | Available on GitHub | Active | License |
 |:----:|:--------:|:------------:|:---------:|:-------------------:|:------:|:-------:|
+|[Dennix](https://github.com/dennis95/dennix)|C++|x86_64|Unix-like|Yes|Yes|![](https://img.shields.io/github/license/dennis95/dennix.svg)|
+
+
+
+
+
 |[SerenityOS](https://github.com/SerenityOS/serenity)|C++|x86|Unix-like|Yes|Yes|![](https://img.shields.io/github/license/SerenityOS/serenity.svg)|
 |[Managarm](https://github.com/managarm/managarm)|C++|-|Other|Yes|Yes|![](https://img.shields.io/github/license/managarm/managarm.svg)|
-|[Haiku](https://github.com/haiku/haiku)|C++|x86, arm|BeOS-like|Yes|Yes|![](https://img.shields.io/github/license/haiku/haiku.svg)|
+|[Haiku](https://github.com/haiku/haiku)|C++|x86, ARM|BeOS-like|Yes|Yes|![](https://img.shields.io/github/license/haiku/haiku.svg)|
 |[duckOS](https://github.com/byteduck/duckOS)|C++|-|Unix-like|Yes|Yes|![](https://img.shields.io/github/license/byteduck/duckOS.svg)|
 |[LemonOS](https://github.com/LemonOSProject/LemonOS)|C++|-|Unix-like|Yes|Yes|![](https://img.shields.io/github/license/LemonOSProject/LemonOS.svg)       |
 |[skiftOS](https://github.com/skiftOS/skift)|C++|-|Other|Yes|Yes|![](https://img.shields.io/github/license/skiftOS/skift.svg)|
@@ -258,7 +283,7 @@ This is a list of open source operating system projects, as well as useful mater
 |:----:|:--------:|:------------:|:---------:|:-------------------:|:------:|:-------:|
 |[Theseus](https://github.com/theseus-os/Theseus)|Rust|-|Other|Yes|Yes|![](https://img.shields.io/github/license/theseus-os/Theseus.svg)|
 |[MOROS](https://github.com/vinc/moros)|Rust|x86|Other|Yes|Yes|![](https://img.shields.io/github/license/vinc/moros.svg)|
-|[Redox-OS](https://github.com/redox-os/kernel)|Rust|x86, arm|Other|Yes|Yes|![](https://img.shields.io/github/license/redox-os/kernel.svg)|
+|[Redox-OS](https://github.com/redox-os/kernel)|Rust|x86, ARM|Other|Yes|Yes|![](https://img.shields.io/github/license/redox-os/kernel.svg)|
 |[The Stupid Operating System](https://github.com/sos-os/kernel)|Rust|-|Other|Yes|Yes|![](https://img.shields.io/github/license/sos-os/kernel.svg)|
 |[snarkOS](https://github.com/AleoHQ/snarkOS)|Rust|-|Other|Yes|Yes|![](https://img.shields.io/github/license/AleoHQ/snarkOS.svg)|
 
