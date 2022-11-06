@@ -428,7 +428,7 @@ This repository aims to count and list the open source operating system projects
 
 # Reference material
 
-## Books, online books, historical material and documents
+## Books, papers, historical material and documents
 
 <details title="UNIX" align='left'>
 <br>
