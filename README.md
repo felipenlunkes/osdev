@@ -430,9 +430,11 @@ This is a list of open source operating system projects, as well as useful mater
 <br>
 <summary align='left'>UNIX</summary>
 
-* [Unix Seventh Edition Manual, Volume 2](https://wolfram.schneider.org/bsd/7thEdManVol2/)
+* [UNIX Seventh Edition Manual, Volume 2](https://wolfram.schneider.org/bsd/7thEdManVol2/)
 * [Read The Single UNIX® Specification](https://unix.org/online.html)
 * [A Brief History of Everything UNIX](https://illumos.org/docs/about/history/)
+* [UNIX releases](https://www.tuhs.org/Archive/Distributions/Research/)
+* [About the Unix Boot Process](https://www.oreilly.com/library/view/essential-system-administration/0596003439/ch04s01.html)
 
 </details>
 
