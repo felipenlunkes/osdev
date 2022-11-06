@@ -20,7 +20,7 @@ This is a list of open source operating system projects, as well as useful mater
 * [9front](https://code.9front.org/hg/plan9front)
 * [FreeBSD](https://github.com/freebsd/freebsd-src)
 * [NetBSD](https://github.com/NetBSD/src)
-* [OpenBSD](https://github.com/openbsd)
+* [OpenBSD](https://github.com/openbsd/src)
 * [illumos (openSolaris)](https://github.com/illumos/illumos-gate)
 
 ## Unix-like
@@ -214,7 +214,7 @@ This is a list of open source operating system projects, as well as useful mater
 |[9front](https://code.9front.org/hg/plan9front)|C|x86|Unix|No|Yes|-|
 |[FreeBSD](https://github.com/freebsd/freebsd-src)|C|x86, ARM, PowerPC, RISC-V|Unix|Yes|Yes|![](https://img.shields.io/github/license/freebsd/freebsd-src.svg)|
 |[NetBSD](https://github.com/NetBSD/src)|C|x86, ARM, PowerPC, RISC-V|Unix|Yes|Yes|![](https://img.shields.io/github/license/NetBSD/src.svg)|
-|[OpenBSD](https://github.com/openbsd)|C|x86, ARM, PowerPC, RISC-V|Unix|Yes|Yes|![](https://img.shields.io/github/license/openbsd.svg)|
+|[OpenBSD](https://github.com/openbsd/src)|C|x86, ARM, PowerPC, RISC-V|Unix|Yes|Yes|![](https://img.shields.io/github/license/openbsd/src.svg)|
 |[Illumos (openSolaris)](https://github.com/illumos/illumos-gate)|C|x86, SPARC|Unix|Yes|Yes|![](https://img.shields.io/github/license/illumos/illumos-gate.svg)|
 |[The Apollo Project](https://github.com/primis/Apollo)|C|x86, Raspberry Pi Model 4B|Unix-like|Yes|Yes|![](https://img.shields.io/github/license/primis/Apollo.svg)|
 |[AquilaOS](http://github.com/thethumbler/Aquila)|C|x86|Unix-like|Yes|Yes|![](https://img.shields.io/github/license/thethumbler/Aquila.svg)|
