@@ -239,7 +239,17 @@ This repository aims to count and list the open source operating system projects
 
 # OS projects sorted by language
 
-> This section is under update.
+<div align="justify">
+
+In this session, the projects were separated by the main programming language used. You can also look at information like:
+
+- [x] Architecture;
+- [x] Operating system family;
+- [x] If the project is hosted on GitHub;
+- [x] If the project is active (commits more recent than 4 years);
+- [x] License of each project.
+
+</div>
 
 ## Assembly language
 
