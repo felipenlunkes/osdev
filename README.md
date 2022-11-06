@@ -43,9 +43,11 @@ This is a list of open source operating system projects, as well as useful mater
 * [Harvey](https://github.com/Harvey-OS/harvey)
 * [HelenOS](https://github.com/HelenOS/helenos)
 * [Hexagonix](https://github.com/hexagonix)
+* [KnightOS](https://github.com/KnightOS/KnightOS)
 * [Lemon OS](https://github.com/LemonOSProject/LemonOS)
 * [lk](https://github.com/littlekernel/lk)
 * [Lunix OS](https://github.com/felipenlunkes/lunix)
+* [MentOS](https://github.com/mentos-team/MentOS)
 * [Minix](http://minix3.org/)
 * [Nanvix](https://github.com/nanvix/nanvix)
 * [NexNix](https://github.com/nexos-dev/nexnix)
@@ -125,7 +127,7 @@ This is a list of open source operating system projects, as well as useful mater
 * [FROST](https://github.com/thrimbor/frost)
 * [Fudge](http://github.com/jezze/fudge/)
 * [FuzzyOS](https://github.com/scopeInfinity/FuzzyOS)
-* [Ghost OS](http://ghostkernel.org/)
+* [Ghost OS](https://github.com/maxdev1/ghost/)
 * [Gubernatrix](https://gitlab.com/hgoel0974/gubernatrix)
 * [GreenteaOS](https://github.com/GreenteaOS)
 * [HeliX](https://github.com/Helix-OS/helix-os)
@@ -136,17 +138,15 @@ This is a list of open source operating system projects, as well as useful mater
 * [JaeOS](https://github.com/azsoter/jaeos-devel)
 * [JSLK](https://github.com/sofferjacob/jslk)
 * [KLIKA-OS](https://github.com/klikaba/klika-os)
-* [KnightOS](https://github.com/KnightOS/KnightOS)
 * [Kolibri OS](http://www.kolibrios.org/)
 * [Kora OS](https://github.com/AxFab/kora-kernel)
 * [KOS](https://github.com/guilt/KOS)
 * [Lambda OS](https://github.com/farlepet/lambda-os)
 * [LFOS](https://github.com/LittleFox94/lf-os_amd64)
-* [Lotus-Effect](https://blackdev.org/)
+* [Lotus-Effect](https://github.com/CorruptedByCPU/Lotus-Effect/)
 * [Lyre](https://github.com/lyre-os/lyre)
 * [MajickOS](https://github.com/MajickTek/MajickOS/wiki)
 * [Managarm](http://www.managarm.org/)
-* [MentOS](https://mentos-team.github.io/)
 * [MenuetOS](http://www.menuetos.net/)
 * [Metta](https://github.com/berkus/metta/wiki)
 * [Mezzano](https://github.com/froggey/Mezzano)
@@ -240,7 +240,16 @@ This is a list of open source operating system projects, as well as useful mater
 |[Cyjon](https://github.com/CorruptedByCPU/Cyjon/)|Assembly|x86_64|Other|Yes|Yes|![](https://img.shields.io/github/license/CorruptedByCPU/Cyjon.svg)|
 |[MS-DOS](https://github.com/microsoft/MS-DOS)|Assembly|x86 (16-bit)|DOS|Yes|No|![](https://img.shields.io/github/license/microsoft/MS-DOS.svg)|
 |[Hexagonix](https://github.com/hexagonix/)|Assembly|x86|Unix-like|Yes|Yes|![](https://img.shields.io/github/license/Hexagonix/hexagonix.svg)|
+|[KnightOS](https://github.com/KnightOS/KnightOS)|Assembly|Texas Instruments Calculators|Unix-like|Yes|Yes|![](https://img.shields.io/github/license/KnightOS/KnightOS.svg)|
+|[Kolibri OS](http://www.kolibrios.org/)|Assembly|x86|Other|No|Yes|GPLv2|
+|[MenuetOS](http://www.menuetos.net/)|Assembly|x86, x86_64|Other|No|Yes|GPL|
 |[Snowdrop OS](http://sebastianmihai.com/snowdrop/)|Assembly|x86 (16-bit)|Other|No|Yes|Public domain|
+
+## Basic
+
+| Name | Language | Architecture | OS family | Available on GitHub | Active | License |
+|:----:|:--------:|:------------:|:---------:|:-------------------:|:------:|:-------:|
+|[FROST](https://github.com/thrimbor/frost)|Basic (FreeBasic)|x86|Yes|Yes|![](https://img.shields.io/github/license/thrimbor/frost.svg)|
 
 ## C
 
@@ -272,12 +281,26 @@ This is a list of open source operating system projects, as well as useful mater
 |[Escape](https://github.com/Nils-TUD/Escape)|C, C++|x86, x86_64, ECO32, MMIX|Unix-like|Yes|Yes|![](https://img.shields.io/github/license/Nils-TUD/Escape.svg)|
 |[Fiwix](http://github.com/mikaku/Fiwix)|C|x86|Unix-like|Yes|Yes|![](https://img.shields.io/github/license/mikaku/Fiwix.svg)|
 |[FreeDOS](https://github.com/FDOS/kernel)|C|x86 (16-bit)|DOS|Yes|Yes|![](https://img.shields.io/github/license/FDOS/kernel.svg)|
+|[Fudge](http://github.com/jezze/fudge/)|C|x86, ARM|Other|Yes|Yes|![](https://img.shields.io/github/license/jezze/fudge.svg)|
+|[FuzzyOS](https://github.com/scopeInfinity/FuzzyOS|C|x86|Other|Yes|Yes|![](https://img.shields.io/github/license/scopeInfinity/FuzzyOS.svg)|
 |[Harvey](https://github.com/Harvey-OS/harvey)|C|x86|Unix (Plan 9)|Yes|Yes|![](https://img.shields.io/github/license/Harvey-OS/harvey.svg)|
 |[HelenOS](https://github.com/HelenOS/helenos)|C, C++|x86, x86_64, i64, ARM, SPARC|Unix-like|Yes|Yes|![](https://img.shields.io/github/license/HelenOS/helenos.svg)|
-|[Interim](https://github.com/mntmn/interim)|C|-|Other|Yes|Yes|![](https://img.shields.io/github/license/mntmn/interim.svg)|
+|[HeliX](https://github.com/Helix-OS/helix-os)|C|x86|Other|Yes|Yes|![](https://img.shields.io/github/license/Helix-OS/helix-os.svg)|
+|[Hoho](https://github.com/davidepianca98/hoho-os)|C|x86|Other|Yes|Yes|![](https://img.shields.io/github/license/davidepianca98/hoho-os.svg)|
+|[HypnoticOS](https://github.com/hypnoticos/hypnoticos)|C|x86|Other|Yes|Yes|![](https://img.shields.io/github/license/hypnoticos/hypnoticos.svg)|
+|[Interim](https://github.com/mntmn/interim)|C|x86, x86_64, ARMv7, Motorola 68020|Other|Yes|Yes|![](https://img.shields.io/github/license/mntmn/interims.svg)|
+|[JaeOS](https://github.com/azsoter/jaeos-devel)|C|x86|Other|Yes|Yes|![](https://img.shields.io/github/license/azsoter/jaeos-devel.svg)|
+|[JSLK](https://github.com/sofferjacob/jslk)|C|x86|Other|Yes|Yes|![](https://img.shields.io/github/license/sofferjacob/jslk.svg)|
+|[KLIKA-OS](https://github.com/klikaba/klika-os)|C|x86_64|Other|Yes|Yes|![](https://img.shields.io/github/license/klikaba/klika-os.svg)|
+|[Kora OS](https://github.com/AxFab/kora-kernel)|C|x86, x86_64, ARM|Other|Yes|Yes|![](https://img.shields.io/github/license/AxFab/kora-kernel.svg)|
+|[KOS](https://github.com/guilt/KOS)|C|x86|Other|Yes|Yes|![](https://img.shields.io/github/license/guilt/KOS.svg)|
+|[Lambda OS](https://github.com/farlepet/lambda-os)|C|x86, ARMv7|Other|Yes|Yes|![](https://img.shields.io/github/license/farlepet/lambda-kern.svg)|
+|[LFOS](https://github.com/LittleFox94/lf-os_amd64)|C|x86_64|Other|Yes|Yes|![](https://img.shields.io/github/license/LittleFox94/lf-os_amd64.svg)|
 |[lk](https://github.com/littlekernel/lk)|C|x86, ARM|Unix-like|Yes|Yes|![](https://img.shields.io/github/license/littlekernel/lk.svg)|
+|[Lotus-Effect](https://github.com/CorruptedByCPU/Lotus-Effect/)|C|x86|Other|Yes|Yes|![](https://img.shields.io/github/license/CorruptedByCPU/Lotus-Effect.svg)|
 |[Lunix OS](https://github.com/felipenlunkes/lunix)|C|x86|Unix-like|Yes|Yes|![](https://img.shields.io/github/license/felipenlunkes/lunix.svg)|
-|[Lyre](https://github.com/lyre-os/lyre)|C|-|Other|Yes|Yes|![](https://img.shields.io/github/license/lyre-os/lyre.svg)|
+|[Lyre](https://github.com/lyre-os/lyre)|C|x86_64|Other|Yes|Yes|![](https://img.shields.io/github/license/lyre-os/lyre.svg)|
+|[MentOS](https://github.com/mentos-team/MentOS)|C|x86|Unix-like|Yes|Yes|![](https://img.shields.io/github/license/mentos-team/MentOS.svg)|
 |[Minix](https://github.com/Stichting-MINIX-Research-Foundation/minix)|C|x86, arm64|Unix-like|Yes|Yes|![](https://img.shields.io/github/license/Stichting-MINIX-Research-Foundation/minix.svg)|
 |[Minoca](https://github.com/minoca/os)|C|-|Other|Yes|Yes|![](https://img.shields.io/github/license/minoca/os.svg)|
 |[MollenOS](https://github.com/Meulengracht/MollenOS)|C|-|Other|Yes|Yes|![](https://img.shields.io/github/license/Meulengracht/MollenOS.svg)|
@@ -318,6 +341,8 @@ This is a list of open source operating system projects, as well as useful mater
 |[Dennix](https://github.com/dennis95/dennix)|C++|x86_64|Unix-like|Yes|Yes|![](https://img.shields.io/github/license/dennis95/dennix.svg)|
 |[duckOS](https://github.com/byteduck/duckOS)|C++|-|Unix-like|Yes|Yes|![](https://img.shields.io/github/license/byteduck/duckOS.svg)|
 |[FoxOS](https://github.com/TheUltimateFoxOS/horizon)|C++|x86|Other|Yes|Yes|![](https://img.shields.io/github/license/TheUltimateFoxOS/horizon.svg)
+|[Ghost OS](https://github.com/maxdev1/ghost/)|C++|x86|Other|Yes|Yes|![](https://img.shields.io/github/license/maxdev1/ghostx.svg)|
+|[GreenteaOS](https://github.com/GreenteaOS)|C++|x86|Yes|Yes|![](https://img.shields.io/github/license/GreenteaOS/Tofita.svg)|
 |[Haiku](https://github.com/haiku/haiku)|C++|x86, ARM|BeOS-like|Yes|Yes|![](https://img.shields.io/github/license/haiku/haiku.svg)|
 |[JSD/OS](https://github.com/pgrAm/JSD-OS)|C++|x86|DOS|Yes|Yes|![](https://img.shields.io/github/license/pgrAm/JSD-OS.svg)|
 |[LemonOS](https://github.com/LemonOSProject/LemonOS)|C++|-|Unix-like|Yes|Yes|![](https://img.shields.io/github/license/LemonOSProject/LemonOS.svg)|
