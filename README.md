@@ -420,7 +420,7 @@ This is a list of open source operating system projects, as well as useful mater
 
 # Reference material
 
-## Online books
+## Online books and documents
 
 <details title="DOS (Disk Operating System)" align='left'>
 <br>
@@ -431,6 +431,8 @@ This is a list of open source operating system projects, as well as useful mater
 <details title="UNIX" align='left'>
 <br>
 <summary align='left'>UNIX</summary>
+
+* [Unix Seventh Edition Manual, Volume 2](https://wolfram.schneider.org/bsd/7thEdManVol2/)
 
 </details>
 
@@ -444,11 +446,28 @@ This is a list of open source operating system projects, as well as useful mater
 <br>
 <summary align='left'>BSD</summary>
 
+* [The Design and Implementation of the 4.4BSD Operating System](https://docs.freebsd.org/en/books/design-44bsd/)
+* [Explaining BSD](https://docs.freebsd.org/en/articles/explaining-bsd/)
+* [4.4BSD Documents](https://docs-legacy.freebsd.org/44doc/)
+* [Berkeley Software Architecture Manual
+4.4BSD Edition](https://docs-legacy.freebsd.org/44doc/psd/05.sysman/paper.html)
+
 </details>
 
 <details title="FreeBSD" align='left'>
 <br>
 <summary align='left'>FreeBSD</summary>
+
+* [FreeBSD Handbook](https://docs.freebsd.org/en/books/handbook/)
+* [FreeBSD Porter's Handbook](https://docs.freebsd.org/en/books/porters-handbook/)
+* [FreeBSD Developers' Handbook](https://docs.freebsd.org/en/books/developers-handbook/)
+* [FreeBSD Documentation Project Primer for New Contributors](https://docs.freebsd.org/en/books/fdp-primer/)
+* [A project model for the FreeBSD Project](https://docs.freebsd.org/en/books/dev-model/)
+* [FreeBSD Architecture Handbook](https://docs.freebsd.org/en/books/arch-handbook/)
+* [For People New to Both FreeBSD and UNIX®](https://docs.freebsd.org/en/articles/new-users/)
+* [FreeBSD Licensing Policy](https://docs.freebsd.org/en/articles/license-guide/)
+* [Instroduction to NanoBSD](https://docs.freebsd.org/en/articles/nanobsd/)
+* [Linux® emulation in FreeBSD](https://docs.freebsd.org/en/articles/linux-emulation/)
 
 </details>
 
@@ -468,6 +487,8 @@ This is a list of open source operating system projects, as well as useful mater
 <br>
 <summary align='left'>Linux</summary>
 
+* [Linux Kernel in a Nutshell](http://www.kroah.com/lkn/)
+
 </details>
 
 <details title="Windows" align='left'>
@@ -476,15 +497,17 @@ This is a list of open source operating system projects, as well as useful mater
 
 </details>
 
-<details title="Programming languages" align='left'>
+<details title="OSDev" align='left'>
 <br>
-<summary align='left'>Programming languages</summary>
+<summary align='left'>OSdev</summary>
 
-</details>
-
-<details title="OS backbones" align='left'>
-<br>
-<summary align='left'>OS backbones</summary>
+* [How to Make a Computer Operating System](https://github.com/SamyPesse/How-to-Make-a-Computer-Operating-System)
+* [Operating Systems: From 0 to 1](https://tuhdo.github.io/os01/)
+* [Operating System Development Series](http://www.brokenthorn.com/Resources/OSDevIndex.html)
+* [Operating Systems: Three Easy Pieces](http://pages.cs.wisc.edu/~remzi/OSTEP/)
+* [The little book about OS development](http://littleosbook.github.io/)
+* [Think OS](http://greenteapress.com/thinkos/)
+* [xv6: a simple, Unix-like teaching operating system](https://pdos.csail.mit.edu/6.828/2019/xv6/book-riscv-rev0.pdf)
 
 </details>
 
@@ -550,15 +573,9 @@ This is a list of open source operating system projects, as well as useful mater
 
 </details>
 
-<details title="Programming languages" align='left'>
+<details title="OSdev" align='left'>
 <br>
-<summary align='left'>Programming languages</summary>
-
-</details>
-
-<details title="OS backbones" align='left'>
-<br>
-<summary align='left'>OS backbones</summary>
+<summary align='left'>OSdev</summary>
 
 </details>
 
