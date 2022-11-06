@@ -4,9 +4,15 @@
 
 This repository aims to count and list the open source operating system projects in activity, in addition to cataloging bibliographic references and useful material for the development and administration of operating systems.
 
+</div>
+
 <hr>
 
 ## Summary
+
+<div align="justify">
+
+A quick summary of the sessions in this document:
 
 * [Sorted by family](#os-projects-sorted-by-family)
 * [Sorted by language](#os-projects-sorted-by-language)
@@ -16,7 +22,15 @@ This repository aims to count and list the open source operating system projects
 
 </div>
 
+<hr>
+
 ## OS projects sorted by family
+
+<div align="justify">
+
+In this session, the projects were separated by the operating system family to which they belong/declare. You can go straight to each repository by clicking on the project name. In the [next section](#os-projects-sorted-by-language) you can get more information about each of them.
+
+</div>
 
 <details title="UNIX and descendants" align='left'>
 <br>
@@ -237,7 +251,7 @@ This repository aims to count and list the open source operating system projects
 
 <hr>
 
-# OS projects sorted by language
+## OS projects sorted by language
 
 <div align="justify">
 
@@ -251,7 +265,7 @@ In this session, the projects were separated by the main programming language us
 
 </div>
 
-## Assembly language
+### Assembly language
 
 | Name | Language | Architecture | OS family | Available on GitHub | Active | License |
 |:----:|:--------:|:------------:|:---------:|:-------------------:|:------:|:-------:|
@@ -273,13 +287,13 @@ In this session, the projects were separated by the main programming language us
 |[Snowdrop OS](http://sebastianmihai.com/snowdrop/)|Assembly|x86 (16-bit)|Other|No|Yes|Public domain|
 |[tatOS](https://github.com/tatimmer/tatOS)|Assembly|x86|Other|Yes|No|![](https://img.shields.io/github/license/tatimmer/tatOS.svg)|
 
-## Basic
+### Basic
 
 | Name | Language | Architecture | OS family | Available on GitHub | Active | License |
 |:----:|:--------:|:------------:|:---------:|:-------------------:|:------:|:-------:|
 |[FROST](https://github.com/thrimbor/frost)|Basic (FreeBasic)|x86|Other|Yes|Yes|![](https://img.shields.io/github/license/thrimbor/frost.svg)|
 
-## C
+### C
 
 | Name | Language | Architecture | OS family | Available on GitHub | Active | License |
 |:----:|:--------:|:------------:|:---------:|:-------------------:|:------:|:-------:|
@@ -374,7 +388,7 @@ In this session, the projects were separated by the main programming language us
 
 <!-- Em atualização -->
 
-## C++
+### C++
 
 | Name | Language | Architecture | OS family | Available on GitHub | Active | License |
 |:----:|:--------:|:------------:|:---------:|:-------------------:|:------:|:-------:|
@@ -404,27 +418,27 @@ In this session, the projects were separated by the main programming language us
 |[Upanix](https://github.com/prajwal83/upanix)|C++|x86|Unix-like|Yes|Yes|![](https://img.shields.io/github/license/prajwal83/upanix.svg)|
 |[WingOS](https://github.com/Supercip971/WingOS_x64/)|C++|x86_64|Other|Yes|[No](https://github.com/brutal-org/brutal)|![](https://img.shields.io/github/license/Supercip971/WingOS_x64.svg)|
 
-## C#
+### C#
 
 | Name | Language | Architecture | OS family | Available on GitHub | Active | License |
 |:----:|:--------:|:------------:|:---------:|:-------------------:|:------:|:-------:|
 |[Fling OS](https://github.com/FlingOS/FlingOS)|C#|x86|Other|Yes|Yes|![](https://img.shields.io/github/license/FlingOS/FlingOS.svg)
 |[Tysos](https://github.com/jncronin/tysos)|C#|x86_64|Other|Yes|Yes|![](https://img.shields.io/github/license/jncronin/tysos.svg)
 
-## Common Lisp
+### Common Lisp
 
 | Name | Language | Architecture | OS family | Available on GitHub | Active | License |
 |:----:|:--------:|:------------:|:---------:|:-------------------:|:------:|:-------:|
 |[Mezzano](https://github.com/froggey/Mezzano)|Rust|-|Other|Yes|Yes|![](https://img.shields.io/github/license/froggey/Mezzano.svg)|
 
-## Pascal
+### Pascal
 
 | Name | Language | Architecture | OS family | Available on GitHub | Active | License |
 |:----:|:--------:|:------------:|:---------:|:-------------------:|:------:|:-------:|
 |[Asuro](https://www.spexeah.com/index.php/asuro/)|Pascal (FreePascal)|x86|Other|No|Yes|Apache License 2.0|
 |[Ultibo Core](https://github.com/ultibohub/Core)|Pascal|Raspberry Pi|Other|Yes|Yes|![](https://img.shields.io/github/license/ultibohub/Core.svg)|
 
-## Rust
+### Rust
 
 | Name | Language | Architecture | OS family | Available on GitHub | Active | License |
 |:----:|:--------:|:------------:|:---------:|:-------------------:|:------:|:-------:|
@@ -437,9 +451,9 @@ In this session, the projects were separated by the main programming language us
 
 <hr>
 
-# Reference material
+## Reference material
 
-## Books, papers, historical material and documents
+### Books, papers, historical material and documents
 
 <details title="UNIX" align='left'>
 <br>
@@ -633,9 +647,11 @@ In this session, the projects were separated by the main programming language us
 
 </details>
 
-# Tutorials
+<hr>
 
-## Creating an x86 operating system
+## Tutorials
+
+### Creating an x86 operating system
 
 * [Kernels 101 – Let’s write a Kernel](https://arjunsreedharan.org/post/82710718100/kernels-101-lets-write-a-kernel)
 * [Kernels 201 - Let’s write a Kernel with keyboard and screen support](https://arjunsreedharan.org/post/99370248137/kernels-201-lets-write-a-kernel-with-keyboard)
@@ -646,32 +662,34 @@ In this session, the projects were separated by the main programming language us
 * [Roll your own toy UNIX-clone OS](http://jamesmolloy.co.uk/tutorial_html/)
 * [Writing an OS in Rust](https://os.phil-opp.com/)
 
-## Creating an ARM operating system
+### Creating an ARM operating system
 
 * [Baking Pi  Operating Systems Development](https://www.cl.cam.ac.uk/projects/raspberrypi/tutorials/os/index.html)
 * [Learning operating system development using Linux kernel and Raspberry Pi](https://github.com/s-matyukevich/raspberry-pi-os)
 * [Build a minimal multi-tasking OS kernel for ARM from scratch](https://github.com/jserv/mini-arm-os)
 
-## Creating an RISC-V operating system
+### Creating an RISC-V operating system
 
 * [Making a RISC-V Operating System using Rust](http://osblog.stephenmarz.com/)
 
-## General OSDev
+### General OSDev
 
 * [Operating systems development for Dummies](https://medium.com/@lduck11007/operating-systems-development-for-dummies-3d4d786e8ac)
 
-## Linux tutorials
+### Linux tutorials
 
 * [How to write a Linux kernel patch and submit it](https://github.com/gregkh/kernel-tutorial)
 * [Presentation on how the Linux kernel is developed](https://github.com/gregkh/kernel-development)
 
-## Video tutorials
+### Video tutorials
 
 * [Write your own Operating System](https://www.youtube.com/playlist?list=PLHh55M_Kq4OApWScZyPl5HhgsTJS9MZ6M)
 * [Kernel dev from scratch by Dragon Zap Education](https://www.youtube.com/watch?v=HNIg3TXfdX8&list=PLrGN1Qi7t67V-9uXzj4VSQCffntfvn42v)
 * [Nanobyte](https://www.youtube.com/channel/UCSPIuWADJIMIf9Erf--XAsA)
 
-# Websites and other resources
+<hr>
+
+## Websites and other resources
 
 * [OSDev Wiki](http://wiki.osdev.org/Main_Page)
 * [Images of historical operating systems](https://winworldpc.com/library/operating-systems)
