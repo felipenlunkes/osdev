@@ -533,6 +533,8 @@ This is a list of open source operating system projects, as well as useful mater
 * [MACH threads and the UNIX kernel : the battle for control](https://kilthub.cmu.edu/articles/journal_contribution/MACH_threads_and_the_UNIX_kernel_the_battle_for_control/6607079/1)
 * [A Trusted, Scalable, Real-Time Operating System Environment - PDF](https://web.archive.org/web/20170822053715/https://pdfs.semanticscholar.org/03ac/1296f530719497b49d7580b55a2d9b8353ab.pdf)
 * [Mach: A New Kernel Foundation For UNIX Development - PDF](https://www.cs.ubc.ca/~norm/508/2009W1/mach_usenix86.pdf)
+* [A comparison of Mach, Amoeba and Chorus](https://web.archive.org/web/20050513191623/http://www.cdk3.net/oss/Ed2/Comparison.pdf)
+* [The Mach System](https://web.archive.org/web/20130511223918/http://codex.cs.yale.edu/avi/os-book/OS8/os8e/appendices-dir/b.pdf)
 * [Mach Overview - Apple](https://developer.apple.com/library/archive/documentation/Darwin/Conceptual/KernelProgramming/Mach/Mach.html)
 * [Mach Kernel Interface Reference - MIT](http://web.mit.edu/darwin/src/modules/xnu/osfmk/man/)
 * [The GNU Mach Reference Manual - PDF](https://www.gnu.org/software/hurd/gnumach-doc/mach.pdf)
@@ -567,6 +569,7 @@ This is a list of open source operating system projects, as well as useful mater
 * [Think OS](http://greenteapress.com/thinkos/)
 * [xv6: a simple, Unix-like teaching operating system](https://pdos.csail.mit.edu/6.828/2019/xv6/book-riscv-rev0.pdf)
 * [Operating System Concepts](https://www.os-book.com/OS9/index.html)
+* [FreeBSD/Linux Kernel Cross Reference](http://fxr.watson.org/fxr/source/?v=MK84)
 
 </details>
 
