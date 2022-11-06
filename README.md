@@ -422,23 +422,11 @@ This is a list of open source operating system projects, as well as useful mater
 
 ## Books, online books and documents
 
-<details title="DOS (Disk Operating System)" align='left'>
-<br>
-<summary align='left'>DOS (Disk Operating System)</summary>
-
-</details>
-
 <details title="UNIX" align='left'>
 <br>
 <summary align='left'>UNIX</summary>
 
 * [Unix Seventh Edition Manual, Volume 2](https://wolfram.schneider.org/bsd/7thEdManVol2/)
-
-</details>
-
-<details title="Mach Kernel" align='left'>
-<br>
-<summary align='left'>Mach Kernel</summary>
 
 </details>
 
@@ -487,7 +475,30 @@ This is a list of open source operating system projects, as well as useful mater
 <br>
 <summary align='left'>Linux</summary>
 
+* [The Linux Kernel Module Programming Guide](https://sysprog21.github.io/lkmpg/)
+* [The Linux Kernel documentation](https://www.kernel.org/doc/html/latest/)
+* [Working with the kernel development community](https://www.kernel.org/doc/html/latest/process/)
+* [Linux Kernel Teaching](https://linux-kernel-labs.github.io/refs/heads/master)
+* [linux-insides](https://0xax.gitbooks.io/linux-insides/content/)
+* [Linux Kernel Workbook](https://lkw.readthedocs.io/en/latest/index.html)
+* [bootlins interactive Linux kernel map](https://makelinux.github.io/kernel/map/)
+* [OldLinux](http://www.oldlinux.org/) - A Heavily Commented Linux kernel source and more
+* [sam4ks Linux Kernel Resources](https://github.com/sam4k/linux-kernel-resources)
+* [xairys Linux Kernel Exploitation](https://github.com/xairy/linux-kernel-exploitation)
+* [Linux kernel system call table for all archs](https://marcin.juszkiewicz.com.pl/download/tables/syscalls.html) by Marcin Juszkiewicz
 * [Linux Kernel in a Nutshell](http://www.kroah.com/lkn/)
+
+</details>
+
+<details title="Mach Kernel" align='left'>
+<br>
+<summary align='left'>Mach Kernel</summary>
+
+</details>
+
+<details title="DOS (Disk Operating System)" align='left'>
+<br>
+<summary align='left'>DOS (Disk Operating System)</summary>
 
 </details>
 
@@ -548,3 +559,13 @@ This is a list of open source operating system projects, as well as useful mater
 * [How to write a Linux kernel patch and submit it](https://github.com/gregkh/kernel-tutorial)
 * [Presentation on how the Linux kernel is developed](https://github.com/gregkh/kernel-development)
 * [Writing an OS in Rust](https://os.phil-opp.com/)
+
+## Video tutorials
+
+* [Write your own Operating System](https://www.youtube.com/playlist?list=PLHh55M_Kq4OApWScZyPl5HhgsTJS9MZ6M)
+* [Kernel dev from scratch by Dragon Zap Education](https://www.youtube.com/watch?v=HNIg3TXfdX8&list=PLrGN1Qi7t67V-9uXzj4VSQCffntfvn42v)
+* [Nanobyte](https://www.youtube.com/channel/UCSPIuWADJIMIf9Erf--XAsA)
+
+## Other resources
+
+* [os-dev](http://wiki.osdev.org/Main_Page)
