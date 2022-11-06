@@ -203,13 +203,11 @@ This is a list of open source operating system projects, as well as useful mater
 |:----:|:--------:|:------------:|:---------:|:-------------------:|:------:|:-------:|
 |[Research Unix v1-v7](https://github.com/dspinellis/unix-history-repo)|Assembly (early versions) and C|PDP-7, PDP-11| Unix | Yes | No (historical) | ![](https://img.shields.io/github/license/dspinellis/unix-history-repo.svg)|
 |[BareMetal](https://github.com/ReturnInfinity/BareMetal)|Assembly|x86|Other|Yes|No|![](https://img.shields.io/github/license/ReturnInfinity/BareMetal.svg)|
-|[Hexagonix](https://github.com/hexagonix/)|Assembly|x86|Unix-like|Yes|Yes|![](https://img.shields.io/github/license/Hexagonix/hexagonix.svg)|
-|[Snowdrop OS](http://sebastianmihai.com/snowdrop/)|Assembly|x86 (16-bit)|Other|No|Yes|Public domain|
-
-
 |[BleskOS](https://github.com/Klaykap/BleskOS)|Assembly|x86|Other|Yes|Yes|![](https://img.shields.io/github/license/Klaykap/BleskOS.svg)|
 |[Cloudium OS](https://sourceforge.net/projects/cloudium-os/)|Assembly|x86|Other|No|Yes|Unknow|
 |[Cyjon](https://github.com/CorruptedByCPU/Cyjon/)|Assembly|x86_64|Other|Yes|Yes|![](https://img.shields.io/github/license/CorruptedByCPU/Cyjon.svg)|
+|[Hexagonix](https://github.com/hexagonix/)|Assembly|x86|Unix-like|Yes|Yes|![](https://img.shields.io/github/license/Hexagonix/hexagonix.svg)|
+|[Snowdrop OS](http://sebastianmihai.com/snowdrop/)|Assembly|x86 (16-bit)|Other|No|Yes|Public domain|
 
 ## C
 
