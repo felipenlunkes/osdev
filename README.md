@@ -431,6 +431,7 @@ This is a list of open source operating system projects, as well as useful mater
 <summary align='left'>UNIX</summary>
 
 * [Unix Seventh Edition Manual, Volume 2](https://wolfram.schneider.org/bsd/7thEdManVol2/)
+* [Read The Single UNIX® Specification](https://unix.org/online.html)
 
 </details>
 
@@ -441,8 +442,9 @@ This is a list of open source operating system projects, as well as useful mater
 * [The Design and Implementation of the 4.4BSD Operating System](https://docs.freebsd.org/en/books/design-44bsd/)
 * [Explaining BSD](https://docs.freebsd.org/en/articles/explaining-bsd/)
 * [4.4BSD Documents](https://docs-legacy.freebsd.org/44doc/)
-* [Berkeley Software Architecture Manual
-4.4BSD Edition](https://docs-legacy.freebsd.org/44doc/psd/05.sysman/paper.html)
+* [Berkeley Software Architecture Manual 4.4BSD Edition](https://docs-legacy.freebsd.org/44doc/psd/05.sysman/paper.html)
+* [4.4 Berkeley Software Distribution Documentation](https://www.netbsd.org/docs/bsd/lite2/)
+* [4.3 Berkeley Software Distribution Documentation](https://www.netbsd.org/docs/bsd/net2/)
 
 </details>
 
@@ -467,11 +469,31 @@ This is a list of open source operating system projects, as well as useful mater
 <br>
 <summary align='left'>NetBSD</summary>
 
+* [The NetBSD Guide](https://www.netbsd.org/docs/guide/en/index.html)
+* [NetBSD Internals](https://www.netbsd.org/docs/internals/en/index.html)
+*
+*
+*
+
 </details>
 
 <details title="OpenBSD" align='left'>
 <br>
 <summary align='left'>OpenBSD</summary>
+
+</details>
+
+<details title="Solaris" align='left'>
+<br>
+<summary align='left'>Solaris</summary>
+
+* [Oracle Solaris Documentation](https://docs.oracle.com/en/operating-systems/solaris.html)
+
+</details>
+
+<details title="illumos (openSolaris)" align='left'>
+<br>
+<summary align='left'>illumos (openSolaris)</summary>
 
 </details>
 
