@@ -530,7 +530,7 @@ This is a list of open source operating system projects, as well as useful mater
 <summary align='left'>Mach Kernel and XNU</summary>
 
 * [The Mach Project](https://www.cs.cmu.edu/afs/cs/project/mach/public/www/mach.html)
-* [MACH threads and the UNIX kernel : the battle for control](https://kilthub.cmu.edu/articles/journal_contribution/MACH_threads_and_the_UNIX_kernel_the_battle_for_control/6607079/1)
+* [MACH threads and the UNIX kernel: the battle for control](https://kilthub.cmu.edu/articles/journal_contribution/MACH_threads_and_the_UNIX_kernel_the_battle_for_control/6607079/1)
 * [A Trusted, Scalable, Real-Time Operating System Environment - PDF](https://web.archive.org/web/20170822053715/https://pdfs.semanticscholar.org/03ac/1296f530719497b49d7580b55a2d9b8353ab.pdf)
 * [Mach: A New Kernel Foundation For UNIX Development - PDF](https://www.cs.ubc.ca/~norm/508/2009W1/mach_usenix86.pdf)
 * [A comparison of Mach, Amoeba and Chorus](https://web.archive.org/web/20050513191623/http://www.cdk3.net/oss/Ed2/Comparison.pdf)
