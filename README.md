@@ -566,6 +566,9 @@ This repository aims to count and list the open source operating system projects
 * [The roots of DOS: Tim Paterson](https://patersontech.com/dos/softalk.aspx)
 * [A Short History of MS-DOS](https://patersontech.com/dos/byte%E2%80%93history.aspx)
 * [An Inside Look at MS-DOS](https://patersontech.com/dos/byte%E2%80%93inside-look.aspx)
+* [The Origins of DOS - PDF](https://web.archive.org/web/20120531090452/http://www.ece.umd.edu/courses/enee759m.S2000/papers/paterson1994-kildall.pdf)
+* [Undocumented DOS: a programmer's guide to reserved MS-DOS functions and data structures](https://archive.org/details/undocumenteddosp00andr_0)
+* [86-DOS 1.0 Addendum - PDF](http://bitsavers.informatik.uni-stuttgart.de/pdf/seattleComputer/86-DOS_1.0_Addendum.pdf)
 
 </details>
 
