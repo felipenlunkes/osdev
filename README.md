@@ -561,6 +561,8 @@ This repository aims to count and list the open source operating system projects
 <br>
 <summary align='left'>DOS (Disk Operating System)</summary>
 
+#### 86-DOS and MS-DOS
+
 * [MS-DOS v1.25 and v2.0 source code](https://github.com/microsoft/MS-DOS)
 * [VCF West XIII -- Tim Paterson -- Original DOS and the old days - YouTube](https://www.youtube.com/watch?v=R2Qh0O3Dt10)
 * [The roots of DOS: Tim Paterson](https://patersontech.com/dos/softalk.aspx)
@@ -569,6 +571,12 @@ This repository aims to count and list the open source operating system projects
 * [The Origins of DOS - PDF](https://web.archive.org/web/20120531090452/http://www.ece.umd.edu/courses/enee759m.S2000/papers/paterson1994-kildall.pdf)
 * [Undocumented DOS: a programmer's guide to reserved MS-DOS functions and data structures](https://archive.org/details/undocumenteddosp00andr_0)
 * [86-DOS 1.0 Addendum - PDF](http://bitsavers.informatik.uni-stuttgart.de/pdf/seattleComputer/86-DOS_1.0_Addendum.pdf)
+
+#### FreeDOS
+
+* [FreeDOS Wiki](http://wiki.freedos.org/wiki/index.php/Main_Page)
+* [Using FreeDOS - PDF](https://www.freedos.org/books/download/using-freedos-24.pdf)
+* [Writing FreeDOS programs in C](https://www.freedos.org/books/cprogramming/)
 
 </details>
 
