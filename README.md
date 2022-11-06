@@ -482,10 +482,10 @@ This is a list of open source operating system projects, as well as useful mater
 * [linux-insides](https://0xax.gitbooks.io/linux-insides/content/)
 * [Linux Kernel Workbook](https://lkw.readthedocs.io/en/latest/index.html)
 * [bootlins interactive Linux kernel map](https://makelinux.github.io/kernel/map/)
-* [OldLinux](http://www.oldlinux.org/) - A Heavily Commented Linux kernel source and more
+* [OldLinux](http://www.oldlinux.org/)
 * [sam4ks Linux Kernel Resources](https://github.com/sam4k/linux-kernel-resources)
 * [xairys Linux Kernel Exploitation](https://github.com/xairy/linux-kernel-exploitation)
-* [Linux kernel system call table for all archs](https://marcin.juszkiewicz.com.pl/download/tables/syscalls.html) by Marcin Juszkiewicz
+* [Linux kernel system call table for all archs](https://marcin.juszkiewicz.com.pl/download/tables/syscalls.html)
 * [Linux Kernel in a Nutshell](http://www.kroah.com/lkn/)
 
 </details>
