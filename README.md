@@ -136,7 +136,7 @@ This repository aims to count and list the open source operating system projects
 * [DreamOS64](https://github.com/dreamos82/Dreamos64)
 * [Dux](https://github.com/duckinator/dux)
 * [Einherjar](https://github.com/narke/Einherjar)
-* [Everest OS (based on Snowdrop OS](https://github.com/felipenlunkes/EverestOS)
+* [Everest OS](https://github.com/felipenlunkes/EverestOS)
 * [Fling OS](https://github.com/FlingOS/FlingOS)
 * [FoxOS](https://github.com/TheUltimateFoxOS/horizon)
 * [FROST](https://github.com/thrimbor/frost)
@@ -250,7 +250,7 @@ This repository aims to count and list the open source operating system projects
 |[BleskOS](https://github.com/Klaykap/BleskOS)|Assembly|x86|Other|Yes|Yes|![](https://img.shields.io/github/license/Klaykap/BleskOS.svg)|
 |[Cloudium OS](https://sourceforge.net/projects/cloudium-os/)|Assembly|x86|Other|No|Yes|Unknown|
 |[Cyjon](https://github.com/CorruptedByCPU/Cyjon/)|Assembly|x86_64|Other|Yes|Yes|![](https://img.shields.io/github/license/CorruptedByCPU/Cyjon.svg)|
-|[Everest OS (based on Snowdrop OS](https://github.com/felipenlunkes/EverestOS)|Assembly|x86 (16-bit)|Other|Yes|No|![](https://img.shields.io/github/license/felipenlunkes/EverestOS.svg)|
+|[Everest OS](https://github.com/felipenlunkes/EverestOS)|Assembly|x86 (16-bit)|Other|Yes|No|![](https://img.shields.io/github/license/felipenlunkes/EverestOS.svg)|
 |[MicroBe OS](http://www.microbe.cz/)|Assembly|x86|Other|No|Yes|Unknown|
 |[MikeOS](http://mikeos.sourceforge.net/)|Assembly|x86 (16-bit)|Other|No|Yes|BSD-like|
 |[MS-DOS](https://github.com/microsoft/MS-DOS)|Assembly|x86 (16-bit)|DOS|Yes|No|![](https://img.shields.io/github/license/microsoft/MS-DOS.svg)|
