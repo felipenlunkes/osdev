@@ -489,6 +489,7 @@ Click on each highlighted operating system to access material for that operating
 * [UNIX History - Figure](https://upload.wikimedia.org/wikipedia/commons/7/77/Unix_history-simple.svg)
 * [History of UNIX](http://ibgwww.colorado.edu/~lessem/psyc5112/usail/concepts/hx-of-unix/unixhx.html)
 * [History and Timeline - UNIX.org](https://unix.org/what_is_unix/history_timeline.html#:~:text=The%20history%20of%20UNIX%20starts,what%20was%20to%20become%20UNIX.&text=It%20had%20a%20assembler%20for,text%20processing%20of%20patent%20documents.)
+* [UNIX - Wikipedia](https://en.wikipedia.org/wiki/Unix)
 * [History of UNIX - Wikipedia](https://en.wikipedia.org/wiki/History_of_Unix)
 * [Research UNIX v1-v7 source code (documentation)](https://github.com/dspinellis/unix-history-repo)
 * [Research UNIX v10 source code (documentation)](https://github.com/Alhadis/Research-Unix-v10)
