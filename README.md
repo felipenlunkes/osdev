@@ -17,9 +17,9 @@ This is a list of open source operating system projects, as well as useful mater
 
 ## Sorted by family
 
-<details title="UNIX" align='left'>
+<details title="UNIX and descendants" align='left'>
 <br>
-<summary align='left'>UNIX</summary>
+<summary align='left'>UNIX and descendants</summary>
 
 * [Research Unix v1-v7](https://github.com/dspinellis/unix-history-repo)
 * [Research Unix v10](https://github.com/Alhadis/Research-Unix-v10)
