@@ -19,6 +19,7 @@ This is a list of open source operating system projects, as well as useful mater
 
 * [Research Unix v1-v7](https://github.com/dspinellis/unix-history-repo)
 * [Research Unix v10](https://github.com/Alhadis/Research-Unix-v10)
+* [Unix SystemV](https://archive.org/details/ATTUNIXSystemVRelease4Version2)
 * [Plan 9](https://9p.io/plan9/)
 * [9front](https://code.9front.org/hg/plan9front)
 * [FreeBSD](https://github.com/freebsd/freebsd-src)
@@ -64,6 +65,7 @@ This is a list of open source operating system projects, as well as useful mater
 * [Tupai](https://gitlab.com/zesterer/tupai/)
 * [Upanix](https://github.com/prajwal83/upanix)
 * [Vanadium OS](https://github.com/p-durlej/newsys)
+* [Darwin (XNU kernel)](https://github.com/apple/darwin-xnu)
 * [ZeldaOS](https://github.com/chillancezen/ZeldaOS)
 
 </details>
@@ -260,6 +262,7 @@ This is a list of open source operating system projects, as well as useful mater
 | Name | Language | Architecture | OS family | Available on GitHub | Active | License |
 |:----:|:--------:|:------------:|:---------:|:-------------------:|:------:|:-------:|
 |[Research Unix v10](https://github.com/Alhadis/Research-Unix-v10)|C|-|Unix|Yes|No (historical)|![](https://img.shields.io/github/license/Alhadis/Research-Unix-v10.svg)|
+|[Unix SystemV](https://archive.org/details/ATTUNIXSystemVRelease4Version2)|C|PDP-11, VAX 11/780, x86|Unix|No|No (historical)|Check files|
 |[Plan 9](https://9p.io/plan9/)|C|x86|Unix|No|Yes|-|
 |[9front](https://code.9front.org/hg/plan9front)|C|x86|Unix|No|Yes|-|
 |[FreeBSD](https://github.com/freebsd/freebsd-src)|C|x86, ARM, PowerPC, RISC-V|Unix|Yes|Yes|![](https://img.shields.io/github/license/freebsd/freebsd-src.svg)|
@@ -277,6 +280,7 @@ This is a list of open source operating system projects, as well as useful mater
 |[BoneOS](https://github.com/Bone-Project/BoneOS)|C|x86|Other|Yes|Yes|![](https://img.shields.io/github/license/Bone-Project/BoneOS.svg)|
 |[Brutal](https://github.com/brutal-org/brutal)|C|x86, x86_64, ARM, RISC-V|Unix-like|Yes|Yes|![](https://img.shields.io/github/license/brutal-org/brutal.svg)|
 |[Cthulhu OS](https://github.com/Enerccio/Cthulhu-OS)|C|x86_64|Other|Yes|Yes|![](https://img.shields.io/github/license/Enerccio/Cthulhu-OS.svg)|
+|[Darwin (XNU kernel)](https://github.com/apple/darwin-xnu)|C|x86_64, ARM, ARM AArch64, PowerPC|Unix-like|Yes|Yes|![](https://img.shields.io/github/license/apple/darwin-xnu.svg)|
 |[DreamOS](https://github.com/inuyasha82/DreamOs)|C|x86|Other|Yes|No|![](https://img.shields.io/github/license/inuyasha82/DreamOs.svg)|
 |[DreamOS64](https://github.com/dreamos82/Dreamos64)|C|x86_64|Other|Yes|Yes|![](https://img.shields.io/github/license/dreamos82/Dreamos64.svg)|
 |[duckOS](https://github.com/byteduck/duckOS)|C, C++|x86|Unix-like|Yes|Yes|![](https://img.shields.io/github/license/byteduck/duckOS.svg)|
