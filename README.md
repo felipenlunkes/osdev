@@ -29,7 +29,7 @@ This is a list of open source operating system projects, as well as useful mater
 * [FreeBSD](https://github.com/freebsd/freebsd-src)
 * [NetBSD](https://github.com/NetBSD/src)
 * [OpenBSD](https://github.com/openbsd/src)
-* [illumos (openSolaris)](https://github.com/illumos/illumos-gate)
+* [illumos (OpenSolaris)](https://github.com/illumos/illumos-gate)
 
 </details>
 
@@ -275,7 +275,7 @@ This is a list of open source operating system projects, as well as useful mater
 |[FreeBSD](https://github.com/freebsd/freebsd-src)|C|x86, ARM, PowerPC, RISC-V|Unix|Yes|Yes|![](https://img.shields.io/github/license/freebsd/freebsd-src.svg)|
 |[NetBSD](https://github.com/NetBSD/src)|C|x86, ARM, PowerPC, RISC-V|Unix|Yes|Yes|![](https://img.shields.io/github/license/NetBSD/src.svg)|
 |[OpenBSD](https://github.com/openbsd/src)|C|x86, ARM, PowerPC, RISC-V|Unix|Yes|Yes|![](https://img.shields.io/github/license/openbsd/src.svg)|
-|[Illumos (openSolaris)](https://github.com/illumos/illumos-gate)|C|x86, SPARC|Unix|Yes|Yes|![](https://img.shields.io/github/license/illumos/illumos-gate.svg)|
+|[Illumos (OpenSolaris)](https://github.com/illumos/illumos-gate)|C|x86, SPARC|Unix|Yes|Yes|![](https://img.shields.io/github/license/illumos/illumos-gate.svg)|
 |[Amiga Research Operating System](https://github.com/aros-development-team/AROS)|C|x68k, x86, x86_64, PowerPC, ARM|Other (Amiga)|Yes|Yes|![](https://img.shields.io/github/license/aros-development-team/AROS.svg)|
 |[The Apollo Project](https://github.com/primis/Apollo)|C|x86, Raspberry Pi Model 4B|Unix-like|Yes|Yes|![](https://img.shields.io/github/license/primis/Apollo.svg)|
 |[AQUA OS](https://github.com/inobulles/aquabsd-core)|C|x86_64|Unix (FreeBSD)|Yes|Yes|![](https://img.shields.io/github/license/inobulles/aquabsd-core.svg)|
@@ -432,6 +432,7 @@ This is a list of open source operating system projects, as well as useful mater
 
 * [Unix Seventh Edition Manual, Volume 2](https://wolfram.schneider.org/bsd/7thEdManVol2/)
 * [Read The Single UNIX® Specification](https://unix.org/online.html)
+* [A Brief History of Everything UNIX](https://illumos.org/docs/about/history/)
 
 </details>
 
@@ -479,6 +480,9 @@ This is a list of open source operating system projects, as well as useful mater
 <br>
 <summary align='left'>OpenBSD</summary>
 
+* [OpenBSD FAQ](https://www.openbsd.org/faq/index.html)
+* [OpenBSD Porter's Handbook](https://www.openbsd.org/faq/ports/index.html)
+
 </details>
 
 <details title="Solaris" align='left'>
@@ -489,9 +493,16 @@ This is a list of open source operating system projects, as well as useful mater
 
 </details>
 
-<details title="illumos (openSolaris)" align='left'>
+<details title="illumos (OpenSolaris)" align='left'>
 <br>
-<summary align='left'>illumos (openSolaris)</summary>
+<summary align='left'>illumos (OpenSolaris)</summary>
+
+* [illumos Documentation](https://illumos.org/docs/)
+* [illumos developer's guide](https://illumos.org/books/dev/)
+* [Dynamic Tracing Guide](https://illumos.org/books/dtrace/preface.html#preface)
+* [Modular Debugger Guide](https://illumos.org/books/mdb/preface.html#preface)
+* [Writing Device Drivers](https://illumos.org/books/wdd/preface.html#preface)
+* [Memory and Thread Placement Optimization Developer's Guide](https://illumos.org/books/lgrps/preface.html#preface)
 
 </details>
 
