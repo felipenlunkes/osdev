@@ -12,7 +12,9 @@ This is a list of open source operating system projects, as well as useful mater
 
 ## Sorted by family
 
-## Unix
+<details title="UNIX" align='left'>
+<br>
+<summary align='left'>UNIX</summary>
 
 * [Research Unix v1-v7](https://github.com/dspinellis/unix-history-repo)
 * [Research Unix v10](https://github.com/Alhadis/Research-Unix-v10)
@@ -23,7 +25,11 @@ This is a list of open source operating system projects, as well as useful mater
 * [OpenBSD](https://github.com/openbsd/src)
 * [illumos (openSolaris)](https://github.com/illumos/illumos-gate)
 
-## Unix-like
+</details>
+
+<details title="Unix-like" align='left'>
+<br>
+<summary align='left'>Unix-like</summary>
 
 * [The Apollo Project](https://github.com/primis/Apollo)
 * [AquilaOS](http://github.com/thethumbler/Aquila)
@@ -54,7 +60,11 @@ This is a list of open source operating system projects, as well as useful mater
 * [Vanadium OS](https://github.com/p-durlej/newsys)
 * [ZeldaOS](https://github.com/chillancezen/ZeldaOS)
 
-## DOS (Disk Operating System)
+</details>
+
+<details title="DOS (Disk Operating System)" align='left'>
+<br>
+<summary align='left'>DOS (Disk Operating System)</summary>
 
 * [FreeDOS](http://www.freedos.org/)
 * [JSD/OS](https://github.com/pgrAm/JSD-OS)
@@ -63,16 +73,28 @@ This is a list of open source operating system projects, as well as useful mater
 * [Public Domain Operating System](http://pdos.org/)
 * [PX-DOS](https://github.com/felipenlunkes/PX-DOS-Core)
 
-## Windows
+</details>
+
+<details title="Windows" align='left'>
+<br>
+<summary align='left'>Windows</summary>
 
 * [ReactOS](http://www.reactos.com/)
 
-## BeOS-like
+</details>
+
+<details title="BeOS-like" align='left'>
+<br>
+<summary align='left'>BeOS-like</summary>
 
 * [Haiku](https://github.com/GreenteaOS)
 * [NewOS](https://github.com/travisg/newos)
 
-## Other
+</details>
+
+<details title="Other" align='left'>
+<br>
+<summary align='left'>Other</summary>
 
 * [Amiga Research Operating System](https://github.com/aros-development-team/AROS)
 * [AQUA OS](https://github.com/inobulles/aquabsd-core)
@@ -188,10 +210,16 @@ This is a list of open source operating system projects, as well as useful mater
 * [XEOS](http://www.xs-labs.com/en/projects/xeos/)
 * [YaxOS](https://gitlab.com/SopaXorzTaker/yaxos)
 
-## Mainframe OS
+</details>
+
+<details title="Mainframe OS" align='left'>
+<br>
+<summary align='left'>Mainframe OS</summary>
 
 * [MVS/380](https://sourceforge.net/projects/mvs380/)
 * [uDOS](https://github.com/SuperLeaf1995/uDOS)
+
+</details>
 
 <hr>
 
