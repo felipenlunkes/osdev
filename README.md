@@ -10,7 +10,9 @@ This repository aims to count and list the open source operating system projects
 
 </div>
 
-<hr>
+<!-- Vai funcionar como <hr> -->
+
+<img src="https://github.com/felipenlunkes/osdev/blob/main/img/banner.png" width="100%" height="2px" />
 
 ## Summary
 
