@@ -487,6 +487,9 @@ Click on each highlighted operating system to access material for that operating
 <summary align='left'>UNIX</summary>
 
 * [UNIX History - Figure](https://upload.wikimedia.org/wikipedia/commons/7/77/Unix_history-simple.svg)
+* [History of UNIX](http://ibgwww.colorado.edu/~lessem/psyc5112/usail/concepts/hx-of-unix/unixhx.html)
+* [History and Timeline - UNIX.org](https://unix.org/what_is_unix/history_timeline.html#:~:text=The%20history%20of%20UNIX%20starts,what%20was%20to%20become%20UNIX.&text=It%20had%20a%20assembler%20for,text%20processing%20of%20patent%20documents.)
+* [History of UNIX - Wikipedia](https://en.wikipedia.org/wiki/History_of_Unix)
 * [Research UNIX v1-v7 source code (documentation)](https://github.com/dspinellis/unix-history-repo)
 * [Research UNIX v10 source code (documentation)](https://github.com/Alhadis/Research-Unix-v10)
 * [UNIX System V source code (documentation)](https://archive.org/details/ATTUNIXSystemVRelease4Version2)
@@ -498,6 +501,14 @@ Click on each highlighted operating system to access material for that operating
 * [The UNIX HATERS Handbook - PDF](https://web.mit.edu/~simsong/www/ugh.pdf)
 * [UNIX Documentation at Stanford](https://uit.stanford.edu/service/sharedcomputing/unix)
 * [X Window System at Stanford](https://web.stanford.edu/group/farmshare/cgi-bin/wiki/index.php/X_Window_System)
+* [A Brief History of Unix and How did Linux came into being](https://medium.com/@safiuddinkhan/a-brief-history-of-unix-dcd41d0816c1)
+* [Multics - The ancestor of UNIX](https://www.multicians.org/)
+
+#### Papers
+
+* [The Evolution of the Unix Time-sharing System - Dennis M. Ritchie (Bell Labs), 1984](https://www.bell-labs.com/usr/dmr/www/hist.html)
+* [The Evolution of the UNIX Time-sharing System - PDF (same as above)](https://curtsinger.cs.grinnell.edu/teaching/2019S/CSC213/files/unix_evolution.pdf)
+* [Spinellis, D. A repository of Unix history and evolution. Empir Software Eng 22, 1372–1404 (2017). https://doi.org/10.1007/s10664-016-9445-5](https://link.springer.com/article/10.1007/s10664-016-9445-5)
 
 
 </details>
