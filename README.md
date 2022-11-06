@@ -663,6 +663,8 @@ In this session, the projects were separated by the main programming language us
 
 ## Tutorials
 
+<div align="justify">
+
 ### Creating an x86 operating system
 
 * [Kernels 101 – Let’s write a Kernel](https://arjunsreedharan.org/post/82710718100/kernels-101-lets-write-a-kernel)
@@ -701,7 +703,13 @@ In this session, the projects were separated by the main programming language us
 
 <hr>
 
+</div>
+
 ## Websites and other resources
+
+<div align="justify">
 
 * [OSDev Wiki](http://wiki.osdev.org/Main_Page)
 * [Images of historical operating systems](https://winworldpc.com/library/operating-systems)
+
+</div>
