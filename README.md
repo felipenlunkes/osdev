@@ -21,9 +21,9 @@ This repository aims to count and list the open source operating system projects
 <br>
 <summary align='left'>UNIX and descendants</summary>
 
-* [Research Unix v1-v7](https://github.com/dspinellis/unix-history-repo)
-* [Research Unix v10](https://github.com/Alhadis/Research-Unix-v10)
-* [Unix SystemV](https://archive.org/details/ATTUNIXSystemVRelease4Version2)
+* [Research UNIX v1-v7](https://github.com/dspinellis/unix-history-repo)
+* [Research UNIX v10](https://github.com/Alhadis/Research-Unix-v10)
+* [UNIX System V](https://archive.org/details/ATTUNIXSystemVRelease4Version2)
 * [Plan 9](https://9p.io/plan9/)
 * [9front](https://code.9front.org/hg/plan9front)
 * [FreeBSD](https://github.com/freebsd/freebsd-src)
@@ -244,7 +244,7 @@ This repository aims to count and list the open source operating system projects
 
 | Name | Language | Architecture | OS family | Available on GitHub | Active | License |
 |:----:|:--------:|:------------:|:---------:|:-------------------:|:------:|:-------:|
-|[Research Unix v1-v7](https://github.com/dspinellis/unix-history-repo)|Assembly (early versions) and C|PDP-7, PDP-11| Unix | Yes | No (historical) | ![](https://img.shields.io/github/license/dspinellis/unix-history-repo.svg)|
+|[Research UNIX v1-v7](https://github.com/dspinellis/unix-history-repo)|Assembly (early versions) and C|PDP-7, PDP-11| Unix | Yes | No (historical) | ![](https://img.shields.io/github/license/dspinellis/unix-history-repo.svg)|
 |[BareMetal](https://github.com/ReturnInfinity/BareMetal)|Assembly|x86|Other|Yes|No|![](https://img.shields.io/github/license/ReturnInfinity/BareMetal.svg)|
 |[Bin S.O](https://github.com/felipenlunkes/Bin-S.O)|Assembly|x86 (16-bit)|Other|Yes|No|![](https://img.shields.io/github/license/felipenlunkes/Bin-S.O.svg)|
 |[BleskOS](https://github.com/Klaykap/BleskOS)|Assembly|x86|Other|Yes|Yes|![](https://img.shields.io/github/license/Klaykap/BleskOS.svg)|
@@ -272,8 +272,8 @@ This repository aims to count and list the open source operating system projects
 
 | Name | Language | Architecture | OS family | Available on GitHub | Active | License |
 |:----:|:--------:|:------------:|:---------:|:-------------------:|:------:|:-------:|
-|[Research Unix v10](https://github.com/Alhadis/Research-Unix-v10)|C|-|Unix|Yes|No (historical)|![](https://img.shields.io/github/license/Alhadis/Research-Unix-v10.svg)|
-|[Unix SystemV](https://archive.org/details/ATTUNIXSystemVRelease4Version2)|C|PDP-11, VAX 11/780, x86|Unix|No|No (historical)|Check files|
+|[Research UNIX v10](https://github.com/Alhadis/Research-Unix-v10)|C|-|Unix|Yes|No (historical)|![](https://img.shields.io/github/license/Alhadis/Research-Unix-v10.svg)|
+|[UNIX System V](https://archive.org/details/ATTUNIXSystemVRelease4Version2)|C|PDP-11, VAX 11/780, x86|Unix|No|No (historical)|Check files|
 |[Plan 9](https://9p.io/plan9/)|C|x86|Unix|No|Yes|-|
 |[9front](https://code.9front.org/hg/plan9front)|C|x86|Unix|No|Yes|-|
 |[FreeBSD](https://github.com/freebsd/freebsd-src)|C|x86, ARM, PowerPC, RISC-V|Unix|Yes|Yes|![](https://img.shields.io/github/license/freebsd/freebsd-src.svg)|
@@ -434,11 +434,16 @@ This repository aims to count and list the open source operating system projects
 <br>
 <summary align='left'>UNIX</summary>
 
+* [Research UNIX v1-v7 source code - documentation](https://github.com/dspinellis/unix-history-repo)
+* [Research UNIX v10 source code - documentation](https://github.com/Alhadis/Research-Unix-v10)
+* [UNIX System V source code - documentation](https://archive.org/details/ATTUNIXSystemVRelease4Version2)
 * [UNIX Seventh Edition Manual, Volume 2](https://wolfram.schneider.org/bsd/7thEdManVol2/)
 * [Read The Single UNIX® Specification](https://unix.org/online.html)
 * [A Brief History of Everything UNIX](https://illumos.org/docs/about/history/)
 * [UNIX releases](https://www.tuhs.org/Archive/Distributions/Research/)
 * [About the Unix Boot Process](https://www.oreilly.com/library/view/essential-system-administration/0596003439/ch04s01.html)
+* [UNIX Documentation at Stanford](https://uit.stanford.edu/service/sharedcomputing/unix)
+* [X Window System at Stanford](https://web.stanford.edu/group/farmshare/cgi-bin/wiki/index.php/X_Window_System)
 
 </details>
 
@@ -516,6 +521,7 @@ This repository aims to count and list the open source operating system projects
 <br>
 <summary align='left'>Linux</summary>
 
+* [Linux Training Course Notes - LPI 101 - PDF](http://academy.delmar.edu/Courses/ITSC1358/eBooks/LPI-101.LinuxTrainingCourseNotes.pdf)
 * [The Linux Kernel Module Programming Guide](https://sysprog21.github.io/lkmpg/)
 * [The Linux Kernel documentation](https://www.kernel.org/doc/html/latest/)
 * [Working with the kernel development community](https://www.kernel.org/doc/html/latest/process/)
@@ -528,6 +534,8 @@ This repository aims to count and list the open source operating system projects
 * [xairys Linux Kernel Exploitation](https://github.com/xairy/linux-kernel-exploitation)
 * [Linux kernel system call table for all archs](https://marcin.juszkiewicz.com.pl/download/tables/syscalls.html)
 * [Linux Kernel in a Nutshell](http://www.kroah.com/lkn/)
+* [HowToForge Linux Tutorials](https://howtoforge.com/)
+* [The Revised Slackware Book Project](http://www.slackbook.org/)
 
 </details>
 
@@ -585,6 +593,14 @@ This repository aims to count and list the open source operating system projects
 
 </details>
 
+<details title="SysAdmin" align='left'>
+<br>
+<summary align='left'>SysAdmin</summary>
+
+* [Reading UNIX Manual Pages - Apple](https://developer.apple.com/documentation/os/reading_unix_manual_pages)
+
+</details>
+
 # Tutorials
 
 ## Creating an x86 operating system
@@ -596,6 +612,7 @@ This repository aims to count and list the open source operating system projects
 * [Writing a Bootloader](http://3zanders.co.uk/2017/10/13/writing-a-bootloader/)
 * [os-tutorial - How to create an OS from scratch](https://github.com/cfenollosa/os-tutorial)
 * [Roll your own toy UNIX-clone OS](http://jamesmolloy.co.uk/tutorial_html/)
+* [Writing an OS in Rust](https://os.phil-opp.com/)
 
 ## Creating an ARM operating system
 
@@ -615,7 +632,6 @@ This repository aims to count and list the open source operating system projects
 
 * [How to write a Linux kernel patch and submit it](https://github.com/gregkh/kernel-tutorial)
 * [Presentation on how the Linux kernel is developed](https://github.com/gregkh/kernel-development)
-* [Writing an OS in Rust](https://os.phil-opp.com/)
 
 ## Video tutorials
 
