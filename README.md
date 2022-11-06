@@ -495,6 +495,7 @@ Click on each highlighted operating system to access material for that operating
 * [A Brief History of Everything UNIX](https://illumos.org/docs/about/history/)
 * [UNIX releases](https://www.tuhs.org/Archive/Distributions/Research/)
 * [About the Unix Boot Process](https://www.oreilly.com/library/view/essential-system-administration/0596003439/ch04s01.html)
+* [The UNIX HATERS Handbook - PDF](https://web.mit.edu/~simsong/www/ugh.pdf)
 * [UNIX Documentation at Stanford](https://uit.stanford.edu/service/sharedcomputing/unix)
 * [X Window System at Stanford](https://web.stanford.edu/group/farmshare/cgi-bin/wiki/index.php/X_Window_System)
 
