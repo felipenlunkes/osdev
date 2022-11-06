@@ -471,9 +471,7 @@ This is a list of open source operating system projects, as well as useful mater
 
 * [The NetBSD Guide](https://www.netbsd.org/docs/guide/en/index.html)
 * [NetBSD Internals](https://www.netbsd.org/docs/internals/en/index.html)
-*
-*
-*
+* [Hardware Documentation - NetBSD](https://www.netbsd.org/docs/Hardware/index.html)
 
 </details>
 
