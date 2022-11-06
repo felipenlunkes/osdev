@@ -10,9 +10,7 @@ This repository aims to count and list the open source operating system projects
 
 </div>
 
-<!-- Vai funcionar como <hr> -->
-
-<img src="https://github.com/felipenlunkes/osdev/blob/main/img/banner.png" width="100%" height="2px" />
+<hr>
 
 ## Summary
 
@@ -37,6 +35,8 @@ A quick summary of the sessions in this document:
 In this session, the projects were separated by the operating system family to which they belong/declare. You can go straight to each repository by clicking on the project name. In the [next section](#os-projects-sorted-by-language) you can get more information about each of them.
 
 </div>
+
+<div align="justify">
 
 <details title="UNIX and descendants" align='left'>
 <br>
@@ -254,6 +254,8 @@ In this session, the projects were separated by the operating system family to w
 * [uDOS](https://github.com/SuperLeaf1995/uDOS)
 
 </details>
+
+</div>
 
 <hr>
 
