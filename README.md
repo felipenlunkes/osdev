@@ -619,6 +619,6 @@ This repository aims to count and list the open source operating system projects
 * [Kernel dev from scratch by Dragon Zap Education](https://www.youtube.com/watch?v=HNIg3TXfdX8&list=PLrGN1Qi7t67V-9uXzj4VSQCffntfvn42v)
 * [Nanobyte](https://www.youtube.com/channel/UCSPIuWADJIMIf9Erf--XAsA)
 
-## Other resources
+## Websites and other resources
 
 * [OSDev Wiki](http://wiki.osdev.org/Main_Page)
