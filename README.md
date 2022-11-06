@@ -2,7 +2,7 @@
 
 <div align="justify">
 
-This is a list of open source operating system projects, as well as useful material for operating system development.
+This repository aims to count and list the open source operating system projects in activity, in addition to cataloging bibliographic references and useful material for the development and administration of operating systems.
 
 <hr>
 
