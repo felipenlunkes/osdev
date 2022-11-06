@@ -422,6 +422,78 @@ This is a list of open source operating system projects, as well as useful mater
 
 ## Online books
 
+<details title="DOS (Disk Operating System)" align='left'>
+<br>
+<summary align='left'>DOS (Disk Operating System)</summary>
+
+</details>
+
+<details title="UNIX" align='left'>
+<br>
+<summary align='left'>UNIX</summary>
+
+</details>
+
+<details title="Mach Kernel" align='left'>
+<br>
+<summary align='left'>Mach Kernel</summary>
+
+</details>
+
+<details title="BSD" align='left'>
+<br>
+<summary align='left'>BSD</summary>
+
+</details>
+
+<details title="FreeBSD" align='left'>
+<br>
+<summary align='left'>FreeBSD</summary>
+
+</details>
+
+<details title="NetBSD" align='left'>
+<br>
+<summary align='left'>NetBSD</summary>
+
+</details>
+
+<details title="OpenBSD" align='left'>
+<br>
+<summary align='left'>OpenBSD</summary>
+
+</details>
+
+<details title="Linux" align='left'>
+<br>
+<summary align='left'>Linux</summary>
+
+</details>
+
+<details title="Windows" align='left'>
+<br>
+<summary align='left'>Windows</summary>
+
+</details>
+
+<details title="Programming languages" align='left'>
+<br>
+<summary align='left'>Programming languages</summary>
+
+</details>
+
+<details title="OS backbones" align='left'>
+<br>
+<summary align='left'>OS backbones</summary>
+
+</details>
+
+<details title="Hardware" align='left'>
+<br>
+<summary align='left'>Hardware</summary>
+
+</details>
+
 ## Books
 
 <details title="DOS (Disk Operating System)" align='left'>
@@ -498,6 +570,76 @@ This is a list of open source operating system projects, as well as useful mater
 
 ## Documentation
 
-## References
+<details title="DOS (Disk Operating System)" align='left'>
+<br>
+<summary align='left'>DOS (Disk Operating System)</summary>
+
+</details>
+
+<details title="UNIX" align='left'>
+<br>
+<summary align='left'>UNIX</summary>
+
+</details>
+
+<details title="Mach Kernel" align='left'>
+<br>
+<summary align='left'>Mach Kernel</summary>
+
+</details>
+
+<details title="BSD" align='left'>
+<br>
+<summary align='left'>BSD</summary>
+
+</details>
+
+<details title="FreeBSD" align='left'>
+<br>
+<summary align='left'>FreeBSD</summary>
+
+</details>
+
+<details title="NetBSD" align='left'>
+<br>
+<summary align='left'>NetBSD</summary>
+
+</details>
+
+<details title="OpenBSD" align='left'>
+<br>
+<summary align='left'>OpenBSD</summary>
+
+</details>
+
+<details title="Linux" align='left'>
+<br>
+<summary align='left'>Linux</summary>
+
+</details>
+
+<details title="Windows" align='left'>
+<br>
+<summary align='left'>Windows</summary>
+
+</details>
+
+<details title="Programming languages" align='left'>
+<br>
+<summary align='left'>Programming languages</summary>
+
+</details>
+
+<details title="OS backbones" align='left'>
+<br>
+<summary align='left'>OS backbones</summary>
+
+</details>
+
+<details title="Hardware" align='left'>
+<br>
+<summary align='left'>Hardware</summary>
+
+</details>
 
 # Tutorials
