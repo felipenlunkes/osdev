@@ -463,14 +463,16 @@ In this session, the projects were separated by the main programming language us
 
 <div align="justify">
 
-In this section you will find documentation available for the main operating systems (open source or not). This documentation includes official material, scientific papers, original source code from historic operating systems, and books, online or in print. The session addresses:
+In this section you will find documentation available for the main operating systems (open source or not). This documentation includes official material, scientific articles, original source code from historic operating systems, and books, online or in print. The session addresses:
 
 - [x] History of operating systems;
 - [x] Historical material;
 - [x] Internal technical documentation (kernel, interfaces, etc);
 - [x] User manuals;
 - [x] Manuals for the development of each operating system;
-- [x] Guides for administration of each operating system.
+- [x] Guides for administration of each operating system;
+- [x] Hardware documentation;
+- [x] Documentation on operating systems development.
 
 Click on each highlighted operating system to access material for that operating system.
 
@@ -665,8 +667,9 @@ Click on each highlighted operating system to access material for that operating
 </details>
 
 <details title="SysAdmin" align='left'>
-<br>
 <summary align='left'>SysAdmin</summary>
+
+#### Unix-like (general)
 
 * [Reading UNIX Manual Pages - Apple](https://developer.apple.com/documentation/os/reading_unix_manual_pages)
 
