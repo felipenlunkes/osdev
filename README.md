@@ -428,15 +428,15 @@ This repository aims to count and list the open source operating system projects
 
 # Reference material
 
-## Books, online material and documents
+## Books, online books, historical material and documents
 
 <details title="UNIX" align='left'>
 <br>
 <summary align='left'>UNIX</summary>
 
-* [Research UNIX v1-v7 source code - documentation](https://github.com/dspinellis/unix-history-repo)
-* [Research UNIX v10 source code - documentation](https://github.com/Alhadis/Research-Unix-v10)
-* [UNIX System V source code - documentation](https://archive.org/details/ATTUNIXSystemVRelease4Version2)
+* [Research UNIX v1-v7 source code (documentation)](https://github.com/dspinellis/unix-history-repo)
+* [Research UNIX v10 source code (documentation)](https://github.com/Alhadis/Research-Unix-v10)
+* [UNIX System V source code (documentation)](https://archive.org/details/ATTUNIXSystemVRelease4Version2)
 * [UNIX Seventh Edition Manual, Volume 2](https://wolfram.schneider.org/bsd/7thEdManVol2/)
 * [Read The Single UNIX® Specification](https://unix.org/online.html)
 * [A Brief History of Everything UNIX](https://illumos.org/docs/about/history/)
