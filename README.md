@@ -52,6 +52,9 @@ This is a list of open source operating system projects, as well as useful mater
 * [Nanvix](https://github.com/nanvix/nanvix)
 * [NexNix](https://github.com/nexos-dev/nexnix)
 * [nightingale](https://github.com/tyler569/nightingale)
+* [OS67](https://github.com/SilverRainZ/OS67)
+* [qword-OS](https://github.com/qword-os/qword)
+* [SeaOS](https://github.com/dbittman/seakernel)
 * [SerenityOS](https://github.com/SerenityOS/serenity)
 * [Sortix](https://sortix.org/)
 * [Soso](https://github.com/ozkl/soso)
@@ -76,6 +79,7 @@ This is a list of open source operating system projects, as well as useful mater
 * [Night Kernel](https://groups.google.com/forum/?hl=en#!forum/night-dos-kernel)
 * [Public Domain Operating System](http://pdos.org/)
 * [PX-DOS](https://github.com/felipenlunkes/PX-DOS-Core)
+* [SimpleOS](https://github.com/xing1357/SimpleOS/)
 
 </details>
 
@@ -160,9 +164,9 @@ This is a list of open source operating system projects, as well as useful mater
 * [mos](https://github.com/MQuy/mos)
 * [Mu](https://github.com/akkartik/mu)
 * [MysticOS](http://www.d-rift.nl/combuster/mos3/)
-* [Nano](https://github.com/NANO-DEV/)
+* [Nano16](https://github.com/NANO-DEV/NANO-S16)
+* [Nano32](https://github.com/NANO-DEV/NANO-S32)
 * [NOS](https://github.com/xenos1984/NOS)
-* [OS67](https://github.com/SilverRainZ/OS67)
 * [OS](http://sourceforge.net/projects/lowest-kernel/files/)
 * [OSv](https://github.com/cloudius-systems/osv)
 * [OS/K](https://git.a-lec.org/os-k-team/os-on-kaleid)
@@ -177,18 +181,14 @@ This is a list of open source operating system projects, as well as useful mater
 * [primus-os](https://github.com/araujo88/primus-os)
 * [Quark Operating System](https://github.com/quark-os/quark-os)
 * [QuasiOS](https://git.imada.sdu.dk/Sandsized/QuasiOS-64-bit)
-* [Quinn](https://github.com/apamment)
-* [qword-OS](https://github.com/qword-os/qword)
 * [RDOS](http://www.rdos.net/)
 * [Reaver OS](https://github.com/griwes/ReaverOS)
 * [Red OS](https://github.com/primis/redos)
 * [Redox-OS](https://github.com/redox-os/redox/)
 * [RISC OS](http://riscosopen.org/)
-* [SeaOS](https://github.com/dbittman/seakernel)
 * [seL4](https://github.com/seL4/seL4)
 * [SerpaeOS](https://serpaeos.sourceforge.io/)
 * [Silcos](https://github.com/SukantPal/Silcos-Kernel)
-* [SimpleOS](https://github.com/xing1357/SimpleOS/)
 * [SingOS](https://git.imada.sdu.dk/Sandsized/SingOS)
 * [SivelkiriaOS](https://git.sivelkiria.org/)
 * [skiftOS](https://github.com/skiftOS/skift)
@@ -204,7 +204,7 @@ This is a list of open source operating system projects, as well as useful mater
 * [Týndur](https://git.tyndur.org/lowlevel/tyndur/commits/master)
 * [Tysos](https://github.com/jncronin/tysos)
 * [Unet Operating System](https://unet.lithicsoft.repl.co/)
-* [Ultibo Core](https://github.com/ultibohub/)
+* [Ultibo Core](https://github.com/ultibohub/Core)
 * [U365](http://gitlab.com/bps-projs/U365)
 * [Visopsys](http://visopsys.org/)
 * [VSTa](http://sources.vsta.org:7100/vsta/index)
@@ -227,7 +227,7 @@ This is a list of open source operating system projects, as well as useful mater
 
 # Sorted by language
 
-> This list is under update.
+> This section is under update.
 
 ## Assembly language
 
@@ -236,14 +236,18 @@ This is a list of open source operating system projects, as well as useful mater
 |[Research Unix v1-v7](https://github.com/dspinellis/unix-history-repo)|Assembly (early versions) and C|PDP-7, PDP-11| Unix | Yes | No (historical) | ![](https://img.shields.io/github/license/dspinellis/unix-history-repo.svg)|
 |[BareMetal](https://github.com/ReturnInfinity/BareMetal)|Assembly|x86|Other|Yes|No|![](https://img.shields.io/github/license/ReturnInfinity/BareMetal.svg)|
 |[BleskOS](https://github.com/Klaykap/BleskOS)|Assembly|x86|Other|Yes|Yes|![](https://img.shields.io/github/license/Klaykap/BleskOS.svg)|
-|[Cloudium OS](https://sourceforge.net/projects/cloudium-os/)|Assembly|x86|Other|No|Yes|Unknow|
+|[Cloudium OS](https://sourceforge.net/projects/cloudium-os/)|Assembly|x86|Other|No|Yes|Unknown|
 |[Cyjon](https://github.com/CorruptedByCPU/Cyjon/)|Assembly|x86_64|Other|Yes|Yes|![](https://img.shields.io/github/license/CorruptedByCPU/Cyjon.svg)|
+|[MicroBe OS](http://www.microbe.cz/)|Assembly|x86|Other|No|Yes|Unknown|
+|[MikeOS](http://mikeos.sourceforge.net/)|Assembly|x86 (16-bit)|No|Yes|BSD-like|
 |[MS-DOS](https://github.com/microsoft/MS-DOS)|Assembly|x86 (16-bit)|DOS|Yes|No|![](https://img.shields.io/github/license/microsoft/MS-DOS.svg)|
+|[Mu](https://github.com/akkartik/mu)|Assembly, Forth|x86|Other|Yes|Yes|![](https://img.shields.io/github/license/akkartik/mu.svg)|
 |[Hexagonix](https://github.com/hexagonix/)|Assembly|x86|Unix-like|Yes|Yes|![](https://img.shields.io/github/license/Hexagonix/hexagonix.svg)|
 |[KnightOS](https://github.com/KnightOS/KnightOS)|Assembly|Texas Instruments Calculators|Unix-like|Yes|Yes|![](https://img.shields.io/github/license/KnightOS/KnightOS.svg)|
 |[Kolibri OS](http://www.kolibrios.org/)|Assembly|x86|Other|No|Yes|GPLv2|
 |[MenuetOS](http://www.menuetos.net/)|Assembly|x86, x86_64|Other|No|Yes|GPL|
 |[Snowdrop OS](http://sebastianmihai.com/snowdrop/)|Assembly|x86 (16-bit)|Other|No|Yes|Public domain|
+|[tatOS](https://github.com/tatimmer/tatOS)|Assembly|x86|Other|Yes|No|![](https://img.shields.io/github/license/tatimmer/tatOS.svg)|
 
 ## Basic
 
@@ -305,24 +309,35 @@ This is a list of open source operating system projects, as well as useful mater
 |[Minoca](https://github.com/minoca/os)|C|-|Other|Yes|Yes|![](https://img.shields.io/github/license/minoca/os.svg)|
 |[MollenOS](https://github.com/Meulengracht/MollenOS)|C|-|Other|Yes|Yes|![](https://img.shields.io/github/license/Meulengracht/MollenOS.svg)|
 |[mos](https://github.com/MQuy/mos)|C|-|Other|Yes|Yes|![](https://img.shields.io/github/license/MQuy/mos.svg)|
+|[Nano16](https://github.com/NANO-DEV/NANO-S16)|C|x86 (16-bit)|Other|Yes|Yes|![](https://img.shields.io/github/license/NANO-DEV/NANO-S16.svg)|
+|[Nano32](https://github.com/NANO-DEV/NANO-S32)|C|x86|Other|Yes|Yes|![](https://img.shields.io/github/license/NANO-DEV/NANO-S32.svg)|
 |[Nanvix](https://github.com/nanvix/nanvix)|C|x86|Unix-like|Yes|Yes|![](https://img.shields.io/github/license/nanvix/nanvix.svg)|
 |[NetDOS/32](https://github.com/clementtttttttt/NetDOS-32)|C|x86|DOS|Yes|No|![](https://img.shields.io/github/license/clementtttttttt/NetDOS-32.svg)|
 |[NexNix](https://github.com/nexos-dev/nexnix)|C|x86|Unix-like|Yes|Yes|![](https://img.shields.io/github/license/nexos-dev/nexnix.svg)|
 |[NewOS](https://github.com/travisg/newos)|C|x86|BeOS-like|Yes|Yes|![](https://img.shields.io/github/license/travisg/newos.svg)|
 |[nightingale](https://github.com/tyler569/nightingale)|C|x86|Unix-like|Yes|Yes|![](https://img.shields.io/github/license/tyler569/nightingale.svg)|
 |[opuntiaOS](https://github.com/opuntiaOS-Project/opuntiaOS)|C|x86, ARM|Other|Yes|Yes|![](https://img.shields.io/github/license/opuntiaOS-Project/opuntiaOS.svg)|
+|[OS67](https://github.com/SilverRainZ/OS67)|C|x86|Unix-like|Yes|Yes|![](https://img.shields.io/github/license/SilverRainZ/OS67.svg)|
+|[OSv](https://github.com/cloudius-systems/osv)|C|x86, ARM AArch64|Other|Yes|Yes|![](https://img.shields.io/github/license/cloudius-systems/osv.svg)|
 |[OS67](https://github.com/SilverRainZ/OS67)|C|-|Other|Yes|Yes|![](https://img.shields.io/github/license/SilverRainZ/OS67.svg)|
-|[OSv](https://github.com/cloudius-systems/osv)|C|-|Other|Yes|Yes|![](https://img.shields.io/github/license/cloudius-systems/osv.svg)|
 |[PastaOS](https://github.com/arighi/pastaos)|C|x86|Other|Yes|Yes|![](https://img.shields.io/github/license/arighi/pastaos.svg)|
 |[Polaris](https://github.com/NSG650/Polaris)|C|-|Other|Yes|Yes|![](https://img.shields.io/github/license/NSG650/Polaris.svg)|
 |[primus-os](https://github.com/araujo88/primus-os)|C|x86|Other|Yes|Yes|![](https://img.shields.io/github/license/araujo88/primus-os.svg)|
 |[Public Domain Operating System](http://pdos.org/)|C|x86 (16-bit, 32-bit)|DOS|No|Yes|Public Domain|
 |[PX-DOS](https://github.com/felipenlunkes/PX-DOS-Core)|C|x86 (16-bit)|DOS|Yes|No|![](https://img.shields.io/github/license/felipenlunkes/PX-DOS-Core.svg)|
+|[qword-OS](https://github.com/qword-os/qword)|C|x86_64|Unix-like|Yes|No|![](https://img.shields.io/github/license/qword-os/qword.svg)|
 |[ReactOS](https://github.com/reactos/reactos)|C|x86|Windows|Yes|Yes|![](https://img.shields.io/github/license/reactos/reactos.svg)|
+|[Red OS](https://github.com/primis/redos)|C|x86|Other|Yes|No|![](https://img.shields.io/github/license/primis/redos.svg)|
+|[SeaOS](https://github.com/dbittman/seakernel)|C|x86_64|Unix-like|Yes|No|![](https://img.shields.io/github/license/dbittman/seakernel.svg)|
 |[seL4](https://github.com/seL4/seL4)|C|-|L4|Yes|Yes|![](https://img.shields.io/github/license/seL4/seL4.svg)|
+|[SerpaeOS](https://serpaeos.sourceforge.io/)|C|x86|Other|No|Yes|GPLv3|
 |[Sortix](https://sortix.org/)|C|x86, x86_64|Unix-like|No|Yes|ISC license|
 |[Soso](https://github.com/ozkl/soso)|C|x86|Unix-like|Yes|Yes|![](https://img.shields.io/github/license/ozkl/soso.svg)|
+|[Synergy OS](https://github.com/JackScottAU/Synergy-OS)|C|x86|Other|Yes|No|![](https://img.shields.io/github/license/JackScottAU/Synergy-OS.svg)|
+|[tachyon](https://github.com/mduft/tachyon3)|C|x86_64|Other|Yes|Yes|![](https://img.shields.io/github/license/mduft/tachyon3.svg)|
+[TempleOS](http://templeos.org/)|C|x86|Other|No|No|Public domain|
 |[Tilck](https://github.com/vvaltchev/tilck)|C|x86|Unix-like|Yes|Yes|![](https://img.shields.io/github/license/vvaltchev/tilck.svg)|
+|[TinyOS](https://github.com/tinyos/tinyos-main)|C|x86|Other|Yes|Yes|![](https://img.shields.io/github/license/tinyos/tinyos-main.svg)|
 |[ToaruOS](http://github.com/klange/toaruos)|C|x86_64, ARMv8|Unix-like|Yes|Yes|![](https://img.shields.io/github/license/klange/toaruos.svg)|
 |[TravorOS](https://github.com/TravorLZH/TravorOS)|C|x86|Unix-like|Yes|No|![](https://img.shields.io/github/license/TravorLZH/TravorOS.svg)|
 |[Tupai](https://gitlab.com/zesterer/tupai/)|C|x86, ARM|Unix-like|No|Yes|GNU General Public License version 3|
@@ -348,27 +363,25 @@ This is a list of open source operating system projects, as well as useful mater
 |[LemonOS](https://github.com/LemonOSProject/LemonOS)|C++|-|Unix-like|Yes|Yes|![](https://img.shields.io/github/license/LemonOSProject/LemonOS.svg)|
 |[Managarm](https://github.com/managarm/managarm)|C++|-|Other|Yes|Yes|![](https://img.shields.io/github/license/managarm/managarm.svg)|
 |[mikanos](https://github.com/uchan-nos/mikanos)|C++|-|Other|Yes|Yes|![](https://img.shields.io/github/license/uchan-nos/mikanos.svg)|
+|[mkfreeOS](https://github.com/ramonmayedo/mkfreeOS)|C++|x86|Other|Yes|Yes|![](https://img.shields.io/github/license/ramonmayedo/mkfreeOS.svg)|
+|[NOS](https://github.com/xenos1984/NOS)|C++|x86, x86_64, ARM, ARM AArch64|Other|Yes|Yes|![](https://img.shields.io/github/license/xenos1984/NOS.svg)|
+|[Perception](https://github.com/AndrewAPrice/Perception)|C++|x86_64|Other|Yes|Yes|![](https://img.shields.io/github/license/AndrewAPrice/Perception.svg)|
+|[Plan 42](https://github.com/mooseman/plan_42)|C++|x86|Other|Yes|No|Public Domain|
+|[Quark Operating System](https://github.com/quark-os/quark-os)|C++|x86|Other|Yes|No|![](https://img.shields.io/github/license/quark-os/quark-os.svg)|
+|[Reaver OS](https://github.com/griwes/ReaverOS)|C++|x86_64|Other|Yes|Yes|![](https://img.shields.io/github/license/griwes/ReaverOS.svg)|
 |[SerenityOS](https://github.com/SerenityOS/serenity)|C++|x86|Unix-like|Yes|Yes|![](https://img.shields.io/github/license/SerenityOS/serenity.svg)|
+|[Silcos](https://github.com/SukantPal/Silcos-Kernel)|C++|x86|Other|Yes|Yes|![](https://img.shields.io/github/license/SukantPal/Silcos-Kernel.svg)|
+|[SimpleOS](https://github.com/xing1357/SimpleOS/)|C|x86|DOS|Yes|Yes|![](https://img.shields.io/github/license/xing1357/SimpleOS.svg)|
 |[skiftOS](https://github.com/skiftOS/skift)|C++|-|Other|Yes|Yes|![](https://img.shields.io/github/license/skiftOS/skift.svg)|
 |[Upanix](https://github.com/prajwal83/upanix)|C++|x86|Unix-like|Yes|Yes|![](https://img.shields.io/github/license/prajwal83/upanix.svg)|
+|[WingOS](https://github.com/Supercip971/WingOS_x64/)|C++|x86_64|Other|Yes|[No](https://github.com/brutal-org/brutal)|![](https://img.shields.io/github/license/Supercip971/WingOS_x64.svg)|
 
 ## C#
 
 | Name | Language | Architecture | OS family | Available on GitHub | Active | License |
 |:----:|:--------:|:------------:|:---------:|:-------------------:|:------:|:-------:|
 |[Fling OS](https://github.com/FlingOS/FlingOS)|C#|x86|Other|Yes|Yes|![](https://img.shields.io/github/license/FlingOS/FlingOS.svg)
-
-
-## Rust
-
-| Name | Language | Architecture | OS family | Available on GitHub | Active | License |
-|:----:|:--------:|:------------:|:---------:|:-------------------:|:------:|:-------:|
-|[Aura](https://github.com/projectasiago/aura)|Rust|x86|Other|Yes|Yes|![](https://img.shields.io/github/license/projectasiago/aura.svg)|
-|[MOROS](https://github.com/vinc/moros)|Rust|x86|Other|Yes|Yes|![](https://img.shields.io/github/license/vinc/moros.svg)|
-|[Redox-OS](https://github.com/redox-os/kernel)|Rust|x86, ARM|Other|Yes|Yes|![](https://img.shields.io/github/license/redox-os/kernel.svg)|
-|[snarkOS](https://github.com/AleoHQ/snarkOS)|Rust|-|Other|Yes|Yes|![](https://img.shields.io/github/license/AleoHQ/snarkOS.svg)|
-|[The Stupid Operating System](https://github.com/sos-os/kernel)|Rust|-|Other|Yes|Yes|![](https://img.shields.io/github/license/sos-os/kernel.svg)|
-|[Theseus](https://github.com/theseus-os/Theseus)|Rust|-|Other|Yes|Yes|![](https://img.shields.io/github/license/theseus-os/Theseus.svg)|
+|[Tysos](https://github.com/jncronin/tysos)|C#|x86_64|Other|Yes|Yes|![](https://img.shields.io/github/license/jncronin/tysos.svg)
 
 ## Common Lisp
 
@@ -381,6 +394,18 @@ This is a list of open source operating system projects, as well as useful mater
 | Name | Language | Architecture | OS family | Available on GitHub | Active | License |
 |:----:|:--------:|:------------:|:---------:|:-------------------:|:------:|:-------:|
 |[Asuro](https://www.spexeah.com/index.php/asuro/)|Pascal (FreePascal)|x86|Other|No|Yes|Apache License 2.0|
+|[Ultibo Core](https://github.com/ultibohub/Core)|Pascal|Raspberry Pi|Other|Yes|Yes|![](https://img.shields.io/github/license/ultibohub/Core.svg)|
+
+## Rust
+
+| Name | Language | Architecture | OS family | Available on GitHub | Active | License |
+|:----:|:--------:|:------------:|:---------:|:-------------------:|:------:|:-------:|
+|[Aura](https://github.com/projectasiago/aura)|Rust|x86|Other|Yes|Yes|![](https://img.shields.io/github/license/projectasiago/aura.svg)|
+|[MOROS](https://github.com/vinc/moros)|Rust|x86|Other|Yes|Yes|![](https://img.shields.io/github/license/vinc/moros.svg)|
+|[Redox-OS](https://github.com/redox-os/kernel)|Rust|x86, ARM|Other|Yes|Yes|![](https://img.shields.io/github/license/redox-os/kernel.svg)|
+|[snarkOS](https://github.com/AleoHQ/snarkOS)|Rust|-|Other|Yes|Yes|![](https://img.shields.io/github/license/AleoHQ/snarkOS.svg)|
+|[The Stupid Operating System](https://github.com/sos-os/kernel)|Rust|-|Other|Yes|Yes|![](https://img.shields.io/github/license/sos-os/kernel.svg)|
+|[Theseus](https://github.com/theseus-os/Theseus)|Rust|-|Other|Yes|Yes|![](https://img.shields.io/github/license/theseus-os/Theseus.svg)|
 
 <hr>
 
