@@ -69,6 +69,7 @@ This is a list of open source operating system projects, as well as useful mater
 
 * [FreeDOS](http://www.freedos.org/)
 * [JSD/OS](https://github.com/pgrAm/JSD-OS)
+* [MS-DOS](https://github.com/microsoft/MS-DOS)
 * [NetDOS/32](https://github.com/clementtttttttt/NetDOS-32)
 * [Night Kernel](https://groups.google.com/forum/?hl=en#!forum/night-dos-kernel)
 * [Public Domain Operating System](http://pdos.org/)
@@ -237,6 +238,7 @@ This is a list of open source operating system projects, as well as useful mater
 |[BleskOS](https://github.com/Klaykap/BleskOS)|Assembly|x86|Other|Yes|Yes|![](https://img.shields.io/github/license/Klaykap/BleskOS.svg)|
 |[Cloudium OS](https://sourceforge.net/projects/cloudium-os/)|Assembly|x86|Other|No|Yes|Unknow|
 |[Cyjon](https://github.com/CorruptedByCPU/Cyjon/)|Assembly|x86_64|Other|Yes|Yes|![](https://img.shields.io/github/license/CorruptedByCPU/Cyjon.svg)|
+|[MS-DOS](https://github.com/microsoft/MS-DOS)|Assembly|x86 (16-bit)|DOS|Yes|No|![](https://img.shields.io/github/license/microsoft/MS-DOS.svg)|
 |[Hexagonix](https://github.com/hexagonix/)|Assembly|x86|Unix-like|Yes|Yes|![](https://img.shields.io/github/license/Hexagonix/hexagonix.svg)|
 |[Snowdrop OS](http://sebastianmihai.com/snowdrop/)|Assembly|x86 (16-bit)|Other|No|Yes|Public domain|
 
