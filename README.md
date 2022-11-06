@@ -568,4 +568,4 @@ This is a list of open source operating system projects, as well as useful mater
 
 ## Other resources
 
-* [os-dev](http://wiki.osdev.org/Main_Page)
+* [OSDev Wiki](http://wiki.osdev.org/Main_Page)
