@@ -683,6 +683,8 @@ Click on each highlighted operating system to access material for that operating
 
 <div align="justify">
 
+In this session you will find text or video tutorials for operating system development and administration. The tutorials are separated by architecture (in case of development) and target (in case of administration).
+
 ### Creating an x86 operating system
 
 * [Kernels 101 – Let’s write a Kernel](https://arjunsreedharan.org/post/82710718100/kernels-101-lets-write-a-kernel)
@@ -726,6 +728,8 @@ Click on each highlighted operating system to access material for that operating
 ## Websites and other resources
 
 <div align="justify">
+
+In this section you will find useful websites for more material on operating system development and administration.
 
 * [OSDev Wiki](http://wiki.osdev.org/Main_Page)
 * [Images of historical operating systems](https://winworldpc.com/library/operating-systems)
