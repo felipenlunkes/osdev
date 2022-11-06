@@ -461,6 +461,21 @@ In this session, the projects were separated by the main programming language us
 
 ## Reference material
 
+<div align="justify">
+
+In this section you will find documentation available for the main operating systems (open source or not). This documentation includes official material, scientific papers, original source code from historic operating systems, and books, online or in print. The session addresses:
+
+- [x] History of operating systems;
+- [x] Historical material;
+- [x] Internal technical documentation (kernel, interfaces, etc);
+- [x] User manuals;
+- [x] Manuals for the development of each operating system;
+- [x] Guides for administration of each operating system.
+
+Click on each highlighted operating system to access material for that operating system.
+
+</div>
+
 ### Books, papers, historical material and documents
 
 <div align="justify">
