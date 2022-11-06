@@ -525,15 +525,27 @@ This is a list of open source operating system projects, as well as useful mater
 
 </details>
 
-<details title="Mach Kernel" align='left'>
+<details title="Mach Kernel and XNU" align='left'>
 <br>
-<summary align='left'>Mach Kernel</summary>
+<summary align='left'>Mach Kernel and XNU</summary>
+
+* [The Mach Project](https://www.cs.cmu.edu/afs/cs/project/mach/public/www/mach.html)
+* [MACH threads and the UNIX kernel : the battle for control](https://kilthub.cmu.edu/articles/journal_contribution/MACH_threads_and_the_UNIX_kernel_the_battle_for_control/6607079/1)
+* [A Trusted, Scalable, Real-Time Operating System Environment - PDF](https://web.archive.org/web/20170822053715/https://pdfs.semanticscholar.org/03ac/1296f530719497b49d7580b55a2d9b8353ab.pdf)
+* [Mach: A New Kernel Foundation For UNIX Development - PDF](https://www.cs.ubc.ca/~norm/508/2009W1/mach_usenix86.pdf)
+* [Mach Overview - Apple](https://developer.apple.com/library/archive/documentation/Darwin/Conceptual/KernelProgramming/Mach/Mach.html)
+* [Mach Kernel Interface Reference - MIT](http://web.mit.edu/darwin/src/modules/xnu/osfmk/man/)
+* [The GNU Mach Reference Manual - PDF](https://www.gnu.org/software/hurd/gnumach-doc/mach.pdf)
+* [A Technical History of Apple's Operating Systems](https://web.archive.org/web/20190827125517/http://www.osxbook.com/book/bonus/chapter1/)
+* [Mac OS X Internals: A Systems Approach - Amazon](https://www.amazon.com/Mac-OS-Internals-Systems-Approach/dp/0321278542)
 
 </details>
 
 <details title="DOS (Disk Operating System)" align='left'>
 <br>
 <summary align='left'>DOS (Disk Operating System)</summary>
+
+ * [MS-DOS v1.25 and v2.0 source code](https://github.com/microsoft/MS-DOS)
 
 </details>
 
@@ -554,6 +566,7 @@ This is a list of open source operating system projects, as well as useful mater
 * [The little book about OS development](http://littleosbook.github.io/)
 * [Think OS](http://greenteapress.com/thinkos/)
 * [xv6: a simple, Unix-like teaching operating system](https://pdos.csail.mit.edu/6.828/2019/xv6/book-riscv-rev0.pdf)
+* [Operating System Concepts](https://www.os-book.com/OS9/index.html)
 
 </details>
 
