@@ -37,6 +37,8 @@ This is a list of open source operating system projects, as well as useful mater
 * [AquilaOS](http://github.com/thethumbler/Aquila)
 * [BeeOS](https://github.com/davxy/beeos)
 * [Brutal](https://github.com/brutal-org/brutal)
+* [dahliaOS](https://dahliaos.io/)
+* [Darwin (XNU kernel)](https://github.com/apple/darwin-xnu)
 * [Dennix](https://github.com/dennis95/dennix)
 * [duckOS](https://github.com/byteduck/duckOS)
 * [Escape](https://github.com/Nils-TUD/Escape)
@@ -66,7 +68,7 @@ This is a list of open source operating system projects, as well as useful mater
 * [Tupai](https://gitlab.com/zesterer/tupai/)
 * [Upanix](https://github.com/prajwal83/upanix)
 * [Vanadium OS](https://github.com/p-durlej/newsys)
-* [Darwin (XNU kernel)](https://github.com/apple/darwin-xnu)
+* [xv6](https://github.com/mit-pdos/xv6-public)
 * [ZeldaOS](https://github.com/chillancezen/ZeldaOS)
 
 </details>
@@ -348,6 +350,7 @@ This is a list of open source operating system projects, as well as useful mater
 |[TravorOS](https://github.com/TravorLZH/TravorOS)|C|x86|Unix-like|Yes|No|![](https://img.shields.io/github/license/TravorLZH/TravorOS.svg)|
 |[Tupai](https://gitlab.com/zesterer/tupai/)|C|x86, ARM|Unix-like|No|Yes|GNU General Public License version 3|
 |[Vanadium OS](https://github.com/p-durlej/newsys)|C|x86|Unix-like|Yes|Yes|![](https://img.shields.io/github/license/p-durlej/newsys.svg)|
+|[xv6](https://github.com/mit-pdos/xv6-public)|C|x86|Unix-like|Yes|Yes|![](https://img.shields.io/github/license/mit-pdos/xv6-public.svg)|
 |[ZeldaOS](https://github.com/chillancezen/ZeldaOS)|C|x86, x86_64|Unix-like|Yes|Yes|![](https://img.shields.io/github/license/chillancezen/ZeldaOS.svg)|
 
 <!-- Em atualização -->
