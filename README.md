@@ -640,7 +640,6 @@ Click on each highlighted operating system to access material for that operating
 * [Architecture of Windows NT - Wikipedia](https://en.wikipedia.org/wiki/Architecture_of_Windows_NT)
 * [NTAPI Undocumented Functions](http://undocumented.ntinternals.net/)
 * [Memory management in the Windows XP kernel](https://reactos.org/wiki/Techwiki:Memory_management_in_the_Windows_XP_kernel)
-*
 
 </details>
 
