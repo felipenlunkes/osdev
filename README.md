@@ -244,7 +244,7 @@ This is a list of open source operating system projects, as well as useful mater
 
 | Name | Language | Architecture | OS family | Available on GitHub | Active | License |
 |:----:|:--------:|:------------:|:---------:|:-------------------:|:------:|:-------:|
-|[Research Unix v10](https://github.com/Alhadis/Research-Unix-v10)|C|-|Unix|Yes|No|![](https://img.shields.io/github/license/Alhadis/Research-Unix-v10.svg)|
+|[Research Unix v10](https://github.com/Alhadis/Research-Unix-v10)|C|-|Unix|Yes|No (historical)|![](https://img.shields.io/github/license/Alhadis/Research-Unix-v10.svg)|
 |[Plan 9](https://9p.io/plan9/)|C|x86|Unix|No|Yes|-|
 |[9front](https://code.9front.org/hg/plan9front)|C|x86|Unix|No|Yes|-|
 |[FreeBSD](https://github.com/freebsd/freebsd-src)|C|x86, ARM, PowerPC, RISC-V|Unix|Yes|Yes|![](https://img.shields.io/github/license/freebsd/freebsd-src.svg)|
