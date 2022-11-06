@@ -8,15 +8,15 @@ This repository aims to count and list the open source operating system projects
 
 ## Summary
 
-* [Sorted by family](#sorted-by-family)
-* [Sorted by language](#sorted-by-language)
+* [Sorted by family](#os-projects-sorted-by-family)
+* [Sorted by language](#os-projects-sorted-by-language)
 * [Reference material](#reference-material)
 * [Tutorials](#tutorials)
 * [Websites and other resources](#websites-and-other-resources)
 
 </div>
 
-## Sorted by family
+## OS projects sorted by family
 
 <details title="UNIX and descendants" align='left'>
 <br>
@@ -237,7 +237,7 @@ This repository aims to count and list the open source operating system projects
 
 <hr>
 
-# Sorted by language
+# OS projects sorted by language
 
 > This section is under update.
 
