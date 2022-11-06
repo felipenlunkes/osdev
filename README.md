@@ -279,7 +279,7 @@ This is a list of open source operating system projects, as well as useful mater
 
 | Name | Language | Architecture | OS family | Available on GitHub | Active | License |
 |:----:|:--------:|:------------:|:---------:|:-------------------:|:------:|:-------:|
-|[aurora-xeneva](https://github.com/manaskamal/aurora-xeneva)|C++|x86_64|OtherYes|Yes|![](https://img.shields.io/github/license/manaskamal/aurora-xeneva.svg)|
+|[aurora-xeneva](https://github.com/manaskamal/aurora-xeneva)|C++|x86_64|Other|Yes|Yes|![](https://img.shields.io/github/license/manaskamal/aurora-xeneva.svg)|
 |[Beelzebub](https://github.com/vercas/Beelzebub)|C++|x86, x86_64|Other|Yes|Yes|![](https://img.shields.io/github/license/vercas/Beelzebub.svg)|
 |[ChaiOS](https://github.com/ChaiSoft/ChaiOS)|C++|x86|Other|Yes|Yes|![](https://img.shields.io/github/license/ChaiSoft/ChaiOS.svg)
 |[Dennix](https://github.com/dennis95/dennix)|C++|x86_64|Unix-like|Yes|Yes|![](https://img.shields.io/github/license/dennis95/dennix.svg)|
@@ -305,7 +305,7 @@ This is a list of open source operating system projects, as well as useful mater
 
 | Name | Language | Architecture | OS family | Available on GitHub | Active | License |
 |:----:|:--------:|:------------:|:---------:|:-------------------:|:------:|:-------:|
-|[Aura](https://github.com/projectasiago/aura)|Rust|x86|Other|Yes|Yes|![](https://img.shields.io/github/license/projectasiago/aur.svg)|
+|[Aura](https://github.com/projectasiago/aura)|Rust|x86|Other|Yes|Yes|![](https://img.shields.io/github/license/projectasiago/aura.svg)|
 |[MOROS](https://github.com/vinc/moros)|Rust|x86|Other|Yes|Yes|![](https://img.shields.io/github/license/vinc/moros.svg)|
 |[Redox-OS](https://github.com/redox-os/kernel)|Rust|x86, ARM|Other|Yes|Yes|![](https://img.shields.io/github/license/redox-os/kernel.svg)|
 |[snarkOS](https://github.com/AleoHQ/snarkOS)|Rust|-|Other|Yes|Yes|![](https://img.shields.io/github/license/AleoHQ/snarkOS.svg)|
