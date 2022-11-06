@@ -561,13 +561,24 @@ This repository aims to count and list the open source operating system projects
 <br>
 <summary align='left'>DOS (Disk Operating System)</summary>
 
- * [MS-DOS v1.25 and v2.0 source code](https://github.com/microsoft/MS-DOS)
+* [MS-DOS v1.25 and v2.0 source code](https://github.com/microsoft/MS-DOS)
+* [VCF West XIII -- Tim Paterson -- Original DOS and the old days - YouTube](https://www.youtube.com/watch?v=R2Qh0O3Dt10)
+* [The roots of DOS: Tim Paterson](https://patersontech.com/dos/softalk.aspx)
+* [A Short History of MS-DOS](https://patersontech.com/dos/byte%E2%80%93history.aspx)
+* [An Inside Look at MS-DOS](https://patersontech.com/dos/byte%E2%80%93inside-look.aspx)
 
 </details>
 
 <details title="Windows" align='left'>
 <br>
 <summary align='left'>Windows</summary>
+
+* [Windows technical documentation for developers and IT Pros.](https://learn.microsoft.com/en-us/windows/)
+* [Windows kernel - Microsoft](https://learn.microsoft.com/en-us/windows-hardware/drivers/ddi/_kernel/)
+* [Architecture of Windows NT - Wikipedia](https://en.wikipedia.org/wiki/Architecture_of_Windows_NT)
+* [NTAPI Undocumented Functions](http://undocumented.ntinternals.net/)
+* [Memory management in the Windows XP kernel](https://reactos.org/wiki/Techwiki:Memory_management_in_the_Windows_XP_kernel)
+*
 
 </details>
 
@@ -642,3 +653,4 @@ This repository aims to count and list the open source operating system projects
 ## Websites and other resources
 
 * [OSDev Wiki](http://wiki.osdev.org/Main_Page)
+* [Images of historical operating systems](https://winworldpc.com/library/operating-systems)
