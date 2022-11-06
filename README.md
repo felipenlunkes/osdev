@@ -74,8 +74,8 @@ This is a list of open source operating system projects, as well as useful mater
 
 ## Other
 
-* [Amiga Research Operating System](http://www.aros.org)
-* [AQUA OS](https://obiwac.wordpress.com/aqua-os/)
+* [Amiga Research Operating System](https://github.com/aros-development-team/AROS)
+* [AQUA OS](https://github.com/inobulles/aquabsd-core)
 * [Asuro](https://www.spexeah.com/index.php/asuro/)
 * [Aura](https://github.com/projectasiago/aura)
 * [AwooOS](https://github.com/awooos/awooos)
@@ -89,14 +89,15 @@ This is a list of open source operating system projects, as well as useful mater
 * [BoneOS](https://github.com/Bone-Project/BoneOS)
 * [ChaiOS](https://github.com/ChaiSoft/ChaiOS)
 * [Cloudium OS](https://sourceforge.net/projects/cloudium-os/)
-* [Cthulhu OS](http://enerccio.github.io/Cthulhu-OS/)
-* [Cyjon](https://blackdev.org/)
+* [Cthulhu OS](https://github.com/Enerccio/Cthulhu-OS)
+* [Cyjon](https://github.com/CorruptedByCPU/Cyjon/)
 * [Dawn OS](http://gerigeri.uw.hu/DawnOS/index.html)
 * [DreamOS](https://github.com/inuyasha82/DreamOs)
+* [DreamOS64](https://github.com/dreamos82/Dreamos64)
 * [Dux](https://github.com/duckinator/dux)
 * [Einherjar](https://github.com/narke/Einherjar)
 * [Fling OS](https://github.com/FlingOS/FlingOS)
-* [FoxOS](https://theultimatefoxos.github.io/)
+* [FoxOS](https://github.com/TheUltimateFoxOS/horizon)
 * [FROST](https://github.com/thrimbor/frost)
 * [Fudge](http://github.com/jezze/fudge/)
 * [FuzzyOS](https://github.com/scopeInfinity/FuzzyOS)
@@ -205,6 +206,11 @@ This is a list of open source operating system projects, as well as useful mater
 |[Hexagonix](https://github.com/hexagonix/)|Assembly|x86|Unix-like|Yes|Yes|![](https://img.shields.io/github/license/Hexagonix/hexagonix.svg)|
 |[Snowdrop OS](http://sebastianmihai.com/snowdrop/)|Assembly|x86 (16-bit)|Other|No|Yes|Public domain|
 
+
+|[BleskOS](https://github.com/Klaykap/BleskOS)|Assembly|x86|Other|Yes|Yes|![](https://img.shields.io/github/license/Klaykap/BleskOS.svg)|
+|[Cloudium OS](https://sourceforge.net/projects/cloudium-os/)|Assembly|x86|Other|No|Yes|Unknow|
+|[Cyjon](https://github.com/CorruptedByCPU/Cyjon/)|Assembly|x86_64|Other|Yes|Yes|![](https://img.shields.io/github/license/CorruptedByCPU/Cyjon.svg)|
+
 ## C
 
 | Name | Language | Architecture | OS family | Available on GitHub | Active | License |
@@ -216,12 +222,22 @@ This is a list of open source operating system projects, as well as useful mater
 |[NetBSD](https://github.com/NetBSD/src)|C|x86, ARM, PowerPC, RISC-V|Unix|Yes|Yes|![](https://img.shields.io/github/license/NetBSD/src.svg)|
 |[OpenBSD](https://github.com/openbsd/src)|C|x86, ARM, PowerPC, RISC-V|Unix|Yes|Yes|![](https://img.shields.io/github/license/openbsd/src.svg)|
 |[Illumos (openSolaris)](https://github.com/illumos/illumos-gate)|C|x86, SPARC|Unix|Yes|Yes|![](https://img.shields.io/github/license/illumos/illumos-gate.svg)|
+|[Amiga Research Operating System](https://github.com/aros-development-team/AROS)|C|x68k, x86, x86_64, PowerPC, ARM|Other (Amiga)|Yes|Yes|![](https://img.shields.io/github/license/aros-development-team/AROS.svg)|
 |[The Apollo Project](https://github.com/primis/Apollo)|C|x86, Raspberry Pi Model 4B|Unix-like|Yes|Yes|![](https://img.shields.io/github/license/primis/Apollo.svg)|
+|[AQUA OS](https://github.com/inobulles/aquabsd-core)|C|x86_64|Unix (FreeBSD)|Yes|Yes|![](https://img.shields.io/github/license/inobulles/aquabsd-core.svg)|
 |[AquilaOS](http://github.com/thethumbler/Aquila)|C|x86|Unix-like|Yes|Yes|![](https://img.shields.io/github/license/thethumbler/Aquila.svg)|
+|[AwooOS](https://github.com/awooos/awooos)|C|x86, x86_64|Other|Yes|Yes|![](https://img.shields.io/github/license/awooos/awooos.svg)|
 |[Banana Operating System](https://github.com/alexdboxall/Banana-Operating-System)|C|x86|Other|Yes|Yes|![](https://img.shields.io/github/license/alexdboxall/Banana-Operating-System.svg)|
 |[BeeOS](https://github.com/davxy/beeos)|C|x86|Unix-like|Yes|Yes|![](https://img.shields.io/github/license/davxy/beeos.svg)|
+|[BlueKernel](http://www.bluekernel.com.au/)|C|x86|Other|Yes|Yes|Creative Commons Attribution-NonCommercial-NoDerivatives 4.0|
+|[BoneOS](https://github.com/Bone-Project/BoneOS)|C|x86|Other|Yes|Yes|![](https://img.shields.io/github/license/Bone-Project/BoneOS.svg)|
 |[Brutal](https://github.com/brutal-org/brutal)|C|x86, x86_64, ARM, RISC-V|Unix-like|Yes|Yes|![](https://img.shields.io/github/license/brutal-org/brutal.svg)|
+|[Cthulhu OS](https://github.com/Enerccio/Cthulhu-OS)|C|x86_64|Other|Yes|Yes|![](https://img.shields.io/github/license/Enerccio/Cthulhu-OS.svg)|
+|[DreamOS](https://github.com/inuyasha82/DreamOs)|C|x86|Other|Yes|No|![](https://img.shields.io/github/license/inuyasha82/DreamOs.svg)|
+|[DreamOS64](https://github.com/dreamos82/Dreamos64)|C|x86_64|Other|Yes|Yes|![](https://img.shields.io/github/license/dreamos82/Dreamos64.svg)|
 |[duckOS](https://github.com/byteduck/duckOS)|C, C++|x86|Unix-like|Yes|Yes|![](https://img.shields.io/github/license/byteduck/duckOS.svg)|
+|[Dux](https://github.com/duckinator/dux)|C|x86|Other|Yes|No|![](https://img.shields.io/github/license/duckinator/dux.svg)|
+|[Einherjar](https://github.com/narke/Einherjar)|C|x86_64, PowerPC|Other|Yes|Yes|![](https://img.shields.io/github/license/narke/Einherjar.svg)|
 |[Escape](https://github.com/Nils-TUD/Escape)|C, C++|x86, x86_64, ECO32, MMIX|Unix-like|Yes|Yes|![](https://img.shields.io/github/license/Nils-TUD/Escape.svg)|
 |[Fiwix](http://github.com/mikaku/Fiwix)|C|x86|Unix-like|Yes|Yes|![](https://img.shields.io/github/license/mikaku/Fiwix.svg)|
 |[FreeDOS](https://github.com/FDOS/kernel)|C|x86 (16-bit)|DOS|Yes|Yes|![](https://img.shields.io/github/license/FDOS/kernel.svg)|
@@ -259,12 +275,18 @@ This is a list of open source operating system projects, as well as useful mater
 |[Vanadium OS](https://github.com/p-durlej/newsys)|C|x86|Unix-like|Yes|Yes|![](https://img.shields.io/github/license/p-durlej/newsys.svg)|
 |[ZeldaOS](https://github.com/chillancezen/ZeldaOS)|C|x86, x86_64|Unix-like|Yes|Yes|![](https://img.shields.io/github/license/chillancezen/ZeldaOS.svg)|
 
+<!-- Em atualização -->
+
 ## C++
 
 | Name | Language | Architecture | OS family | Available on GitHub | Active | License |
 |:----:|:--------:|:------------:|:---------:|:-------------------:|:------:|:-------:|
+|[aurora-xeneva](https://github.com/manaskamal/aurora-xeneva)|C++|x86_64|OtherYes|Yes|![](https://img.shields.io/github/license/manaskamal/aurora-xeneva.svg)|
+|[Beelzebub](https://github.com/vercas/Beelzebub)|C++|x86, x86_64|Other|Yes|Yes|![](https://img.shields.io/github/license/vercas/Beelzebub.svg)|
+|[ChaiOS](https://github.com/ChaiSoft/ChaiOS)|C++|x86|Other|Yes|Yes|![](https://img.shields.io/github/license/ChaiSoft/ChaiOS.svg)
 |[Dennix](https://github.com/dennis95/dennix)|C++|x86_64|Unix-like|Yes|Yes|![](https://img.shields.io/github/license/dennis95/dennix.svg)|
 |[duckOS](https://github.com/byteduck/duckOS)|C++|-|Unix-like|Yes|Yes|![](https://img.shields.io/github/license/byteduck/duckOS.svg)|
+|[FoxOS](https://github.com/TheUltimateFoxOS/horizon)|C++|x86|Other|Yes|Yes|![](https://img.shields.io/github/license/TheUltimateFoxOS/horizon.svg)
 |[Haiku](https://github.com/haiku/haiku)|C++|x86, ARM|BeOS-like|Yes|Yes|![](https://img.shields.io/github/license/haiku/haiku.svg)|
 |[JSD/OS](https://github.com/pgrAm/JSD-OS)|C++|x86|DOS|Yes|Yes|![](https://img.shields.io/github/license/pgrAm/JSD-OS.svg)|
 |[LemonOS](https://github.com/LemonOSProject/LemonOS)|C++|-|Unix-like|Yes|Yes|![](https://img.shields.io/github/license/LemonOSProject/LemonOS.svg)|
@@ -274,10 +296,18 @@ This is a list of open source operating system projects, as well as useful mater
 |[skiftOS](https://github.com/skiftOS/skift)|C++|-|Other|Yes|Yes|![](https://img.shields.io/github/license/skiftOS/skift.svg)|
 |[Upanix](https://github.com/prajwal83/upanix)|C++|x86|Unix-like|Yes|Yes|![](https://img.shields.io/github/license/prajwal83/upanix.svg)|
 
+## C#
+
+| Name | Language | Architecture | OS family | Available on GitHub | Active | License |
+|:----:|:--------:|:------------:|:---------:|:-------------------:|:------:|:-------:|
+|[Fling OS](https://github.com/FlingOS/FlingOS)|C#|x86|Other|Yes|Yes|![](https://img.shields.io/github/license/FlingOS/FlingOS.svg)
+
+
 ## Rust
 
 | Name | Language | Architecture | OS family | Available on GitHub | Active | License |
 |:----:|:--------:|:------------:|:---------:|:-------------------:|:------:|:-------:|
+|[Aura](https://github.com/projectasiago/aura)|Rust|x86|Other|Yes|Yes|![](https://img.shields.io/github/license/projectasiago/aur.svg)|
 |[MOROS](https://github.com/vinc/moros)|Rust|x86|Other|Yes|Yes|![](https://img.shields.io/github/license/vinc/moros.svg)|
 |[Redox-OS](https://github.com/redox-os/kernel)|Rust|x86, ARM|Other|Yes|Yes|![](https://img.shields.io/github/license/redox-os/kernel.svg)|
 |[snarkOS](https://github.com/AleoHQ/snarkOS)|Rust|-|Other|Yes|Yes|![](https://img.shields.io/github/license/AleoHQ/snarkOS.svg)|
@@ -289,6 +319,12 @@ This is a list of open source operating system projects, as well as useful mater
 | Name | Language | Architecture | OS family | Available on GitHub | Active | License |
 |:----:|:--------:|:------------:|:---------:|:-------------------:|:------:|:-------:|
 |[Mezzano](https://github.com/froggey/Mezzano)|Rust|-|Other|Yes|Yes|![](https://img.shields.io/github/license/froggey/Mezzano.svg)|
+
+## Pascal
+
+| Name | Language | Architecture | OS family | Available on GitHub | Active | License |
+|:----:|:--------:|:------------:|:---------:|:-------------------:|:------:|:-------:|
+|[Asuro](https://www.spexeah.com/index.php/asuro/)|Pascal (FreePascal)|x86|Other|No|Yes|Apache License 2.0|
 
 <hr>
 
