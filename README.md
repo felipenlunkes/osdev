@@ -12,6 +12,7 @@ This repository aims to count and list the open source operating system projects
 * [Sorted by language](#sorted-by-language)
 * [Reference material](#reference-material)
 * [Tutorials](#tutorials)
+* [Websites and other resources](#websites-and-other-resources)
 
 </div>
 
@@ -660,7 +661,7 @@ This repository aims to count and list the open source operating system projects
 * [Kernel dev from scratch by Dragon Zap Education](https://www.youtube.com/watch?v=HNIg3TXfdX8&list=PLrGN1Qi7t67V-9uXzj4VSQCffntfvn42v)
 * [Nanobyte](https://www.youtube.com/channel/UCSPIuWADJIMIf9Erf--XAsA)
 
-## Websites and other resources
+# Websites and other resources
 
 * [OSDev Wiki](http://wiki.osdev.org/Main_Page)
 * [Images of historical operating systems](https://winworldpc.com/library/operating-systems)
