@@ -558,7 +558,6 @@ This repository aims to count and list the open source operating system projects
 </details>
 
 <details title="DOS (Disk Operating System)" align='left'>
-<br>
 <summary align='left'>DOS (Disk Operating System)</summary>
 
 #### 86-DOS and MS-DOS
