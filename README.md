@@ -518,3 +518,33 @@ This is a list of open source operating system projects, as well as useful mater
 </details>
 
 # Tutorials
+
+## Creating an x86 operating system
+
+* [Kernels 101 – Let’s write a Kernel](https://arjunsreedharan.org/post/82710718100/kernels-101-lets-write-a-kernel)
+* [Kernels 201 - Let’s write a Kernel with keyboard and screen support](https://arjunsreedharan.org/post/99370248137/kernels-201-lets-write-a-kernel-with-keyboard)
+* [Bran's Kernel Development](http://www.osdever.net/bkerndev/Docs/title.htm)
+* [Writing a Tiny x86 Bootloader](https://www.joe-bergeron.com/posts/Writing%20a%20Tiny%20x86%20Bootloader/)
+* [Writing a Bootloader](http://3zanders.co.uk/2017/10/13/writing-a-bootloader/)
+* [os-tutorial - How to create an OS from scratch](https://github.com/cfenollosa/os-tutorial)
+* [Roll your own toy UNIX-clone OS](http://jamesmolloy.co.uk/tutorial_html/)
+
+## Creating an ARM operating system
+
+* [Baking Pi  Operating Systems Development](https://www.cl.cam.ac.uk/projects/raspberrypi/tutorials/os/index.html)
+* [Learning operating system development using Linux kernel and Raspberry Pi](https://github.com/s-matyukevich/raspberry-pi-os)
+* [Build a minimal multi-tasking OS kernel for ARM from scratch](https://github.com/jserv/mini-arm-os)
+
+## Creating an RISC-V operating system
+
+* [Making a RISC-V Operating System using Rust](http://osblog.stephenmarz.com/)
+
+## General OSDev
+
+* [Operating systems development for Dummies](https://medium.com/@lduck11007/operating-systems-development-for-dummies-3d4d786e8ac)
+
+## Linux tutorials
+
+* [How to write a Linux kernel patch and submit it](https://github.com/gregkh/kernel-tutorial)
+* [Presentation on how the Linux kernel is developed](https://github.com/gregkh/kernel-development)
+* [Writing an OS in Rust](https://os.phil-opp.com/)
