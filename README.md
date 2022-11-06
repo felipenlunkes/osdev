@@ -1,3 +1,9 @@
+<p align="center">
+<img src="https://github.com/felipenlunkes/osdev/blob/main/img/banner.png">
+</p>
+
+<hr>
+
 # Operating system projects and reference material
 
 <div align="justify">
