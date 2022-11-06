@@ -486,6 +486,7 @@ Click on each highlighted operating system to access material for that operating
 <br>
 <summary align='left'>UNIX</summary>
 
+* [UNIX History - Figure](https://upload.wikimedia.org/wikipedia/commons/7/77/Unix_history-simple.svg)
 * [Research UNIX v1-v7 source code (documentation)](https://github.com/dspinellis/unix-history-repo)
 * [Research UNIX v10 source code (documentation)](https://github.com/Alhadis/Research-Unix-v10)
 * [UNIX System V source code (documentation)](https://archive.org/details/ATTUNIXSystemVRelease4Version2)
@@ -496,6 +497,7 @@ Click on each highlighted operating system to access material for that operating
 * [About the Unix Boot Process](https://www.oreilly.com/library/view/essential-system-administration/0596003439/ch04s01.html)
 * [UNIX Documentation at Stanford](https://uit.stanford.edu/service/sharedcomputing/unix)
 * [X Window System at Stanford](https://web.stanford.edu/group/farmshare/cgi-bin/wiki/index.php/X_Window_System)
+
 
 </details>
 
