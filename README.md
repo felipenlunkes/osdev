@@ -463,6 +463,8 @@ In this session, the projects were separated by the main programming language us
 
 ### Books, papers, historical material and documents
 
+<div align="justify">
+
 <details title="UNIX" align='left'>
 <br>
 <summary align='left'>UNIX</summary>
@@ -654,6 +656,8 @@ In this session, the projects were separated by the main programming language us
 * [Reading UNIX Manual Pages - Apple](https://developer.apple.com/documentation/os/reading_unix_manual_pages)
 
 </details>
+
+</div>
 
 <hr>
 
