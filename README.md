@@ -46,6 +46,7 @@ This is a list of open source operating system projects, as well as useful mater
 * [Hexagonix](https://github.com/hexagonix)
 * [KnightOS](https://github.com/KnightOS/KnightOS)
 * [Lemon OS](https://github.com/LemonOSProject/LemonOS)
+* [Linux (kernel)](https://github.com/torvalds/linux)
 * [lk](https://github.com/littlekernel/lk)
 * [Lunix OS](https://github.com/felipenlunkes/lunix)
 * [MentOS](https://github.com/mentos-team/MentOS)
@@ -304,6 +305,7 @@ This is a list of open source operating system projects, as well as useful mater
 |[KOS](https://github.com/guilt/KOS)|C|x86|Other|Yes|Yes|![](https://img.shields.io/github/license/guilt/KOS.svg)|
 |[Lambda OS](https://github.com/farlepet/lambda-os)|C|x86, ARMv7|Other|Yes|Yes|![](https://img.shields.io/github/license/farlepet/lambda-kern.svg)|
 |[LFOS](https://github.com/LittleFox94/lf-os_amd64)|C|x86_64|Other|Yes|Yes|![](https://img.shields.io/github/license/LittleFox94/lf-os_amd64.svg)|
+|[Linux (kernel)](https://github.com/torvalds/linux)|C|x86, x86_64, ARM, ARM AArch64, SPARC, PowerPC, RISC-V, [...]|Unix-like|Yes|Yes|![](https://img.shields.io/github/license/torvalds/linux.svg)|
 |[lk](https://github.com/littlekernel/lk)|C|x86, ARM|Unix-like|Yes|Yes|![](https://img.shields.io/github/license/littlekernel/lk.svg)|
 |[Lotus-Effect](https://github.com/CorruptedByCPU/Lotus-Effect/)|C|x86|Other|Yes|Yes|![](https://img.shields.io/github/license/CorruptedByCPU/Lotus-Effect.svg)|
 |[Lunix OS](https://github.com/felipenlunkes/lunix)|C|x86|Unix-like|Yes|Yes|![](https://img.shields.io/github/license/felipenlunkes/lunix.svg)|
