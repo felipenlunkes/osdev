@@ -357,7 +357,7 @@ This is a list of open source operating system projects, as well as useful mater
 |[duckOS](https://github.com/byteduck/duckOS)|C++|-|Unix-like|Yes|Yes|![](https://img.shields.io/github/license/byteduck/duckOS.svg)|
 |[FoxOS](https://github.com/TheUltimateFoxOS/horizon)|C++|x86|Other|Yes|Yes|![](https://img.shields.io/github/license/TheUltimateFoxOS/horizon.svg)
 |[Ghost OS](https://github.com/maxdev1/ghost/)|C++|x86|Other|Yes|Yes|![](https://img.shields.io/github/license/maxdev1/ghostx.svg)|
-|[GreenteaOS](https://github.com/GreenteaOS)|C++|x86|Yes|Yes|![](https://img.shields.io/github/license/GreenteaOS/Tofita.svg)|
+|[GreenteaOS](https://github.com/GreenteaOS)|C++|x86|Other|Yes|Yes|![](https://img.shields.io/github/license/GreenteaOS/Tofita.svg)|
 |[Haiku](https://github.com/haiku/haiku)|C++|x86, ARM|BeOS-like|Yes|Yes|![](https://img.shields.io/github/license/haiku/haiku.svg)|
 |[JSD/OS](https://github.com/pgrAm/JSD-OS)|C++|x86|DOS|Yes|Yes|![](https://img.shields.io/github/license/pgrAm/JSD-OS.svg)|
 |[LemonOS](https://github.com/LemonOSProject/LemonOS)|C++|-|Unix-like|Yes|Yes|![](https://img.shields.io/github/license/LemonOSProject/LemonOS.svg)|
