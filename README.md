@@ -249,7 +249,7 @@ This is a list of open source operating system projects, as well as useful mater
 
 | Name | Language | Architecture | OS family | Available on GitHub | Active | License |
 |:----:|:--------:|:------------:|:---------:|:-------------------:|:------:|:-------:|
-|[FROST](https://github.com/thrimbor/frost)|Basic (FreeBasic)|x86|Yes|Yes|![](https://img.shields.io/github/license/thrimbor/frost.svg)|
+|[FROST](https://github.com/thrimbor/frost)|Basic (FreeBasic)|x86|Other|Yes|Yes|![](https://img.shields.io/github/license/thrimbor/frost.svg)|
 
 ## C
 
@@ -282,7 +282,7 @@ This is a list of open source operating system projects, as well as useful mater
 |[Fiwix](http://github.com/mikaku/Fiwix)|C|x86|Unix-like|Yes|Yes|![](https://img.shields.io/github/license/mikaku/Fiwix.svg)|
 |[FreeDOS](https://github.com/FDOS/kernel)|C|x86 (16-bit)|DOS|Yes|Yes|![](https://img.shields.io/github/license/FDOS/kernel.svg)|
 |[Fudge](http://github.com/jezze/fudge/)|C|x86, ARM|Other|Yes|Yes|![](https://img.shields.io/github/license/jezze/fudge.svg)|
-|[FuzzyOS](https://github.com/scopeInfinity/FuzzyOS|C|x86|Other|Yes|Yes|![](https://img.shields.io/github/license/scopeInfinity/FuzzyOS.svg)|
+|[FuzzyOS](https://github.com/scopeInfinity/FuzzyOS)|C|x86|Other|Yes|Yes|![](https://img.shields.io/github/license/scopeInfinity/FuzzyOS.svg)|
 |[Harvey](https://github.com/Harvey-OS/harvey)|C|x86|Unix (Plan 9)|Yes|Yes|![](https://img.shields.io/github/license/Harvey-OS/harvey.svg)|
 |[HelenOS](https://github.com/HelenOS/helenos)|C, C++|x86, x86_64, i64, ARM, SPARC|Unix-like|Yes|Yes|![](https://img.shields.io/github/license/HelenOS/helenos.svg)|
 |[HeliX](https://github.com/Helix-OS/helix-os)|C|x86|Other|Yes|Yes|![](https://img.shields.io/github/license/Helix-OS/helix-os.svg)|
