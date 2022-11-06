@@ -486,14 +486,17 @@ Click on each highlighted operating system to access material for that operating
 <br>
 <summary align='left'>UNIX</summary>
 
-* [UNIX History - Figure](https://upload.wikimedia.org/wikipedia/commons/7/77/Unix_history-simple.svg)
-* [History of UNIX](http://ibgwww.colorado.edu/~lessem/psyc5112/usail/concepts/hx-of-unix/unixhx.html)
-* [History and Timeline - UNIX.org](https://unix.org/what_is_unix/history_timeline.html#:~:text=The%20history%20of%20UNIX%20starts,what%20was%20to%20become%20UNIX.&text=It%20had%20a%20assembler%20for,text%20processing%20of%20patent%20documents.)
-* [UNIX - Wikipedia](https://en.wikipedia.org/wiki/Unix)
-* [History of UNIX - Wikipedia](https://en.wikipedia.org/wiki/History_of_Unix)
+#### Original source code
+
 * [Research UNIX v1-v7 source code (documentation)](https://github.com/dspinellis/unix-history-repo)
 * [Research UNIX v10 source code (documentation)](https://github.com/Alhadis/Research-Unix-v10)
 * [UNIX System V source code (documentation)](https://archive.org/details/ATTUNIXSystemVRelease4Version2)
+
+#### Specifications, documentation, manuals and historical material
+
+* [UNIX History - Figure](https://upload.wikimedia.org/wikipedia/commons/7/77/Unix_history-simple.svg)
+* [History of UNIX](http://ibgwww.colorado.edu/~lessem/psyc5112/usail/concepts/hx-of-unix/unixhx.html)
+* [History and Timeline - UNIX.org](https://unix.org/what_is_unix/history_timeline.html#:~:text=The%20history%20of%20UNIX%20starts,what%20was%20to%20become%20UNIX.&text=It%20had%20a%20assembler%20for,text%20processing%20of%20patent%20documents.)
 * [UNIX Seventh Edition Manual, Volume 2](https://wolfram.schneider.org/bsd/7thEdManVol2/)
 * [Read The Single UNIX® Specification](https://unix.org/online.html)
 * [A Brief History of Everything UNIX](https://illumos.org/docs/about/history/)
@@ -511,6 +514,10 @@ Click on each highlighted operating system to access material for that operating
 * [The Evolution of the UNIX Time-sharing System - PDF (same as above)](https://curtsinger.cs.grinnell.edu/teaching/2019S/CSC213/files/unix_evolution.pdf)
 * [Spinellis, D. A repository of Unix history and evolution. Empir Software Eng 22, 1372–1404 (2017). https://doi.org/10.1007/s10664-016-9445-5](https://link.springer.com/article/10.1007/s10664-016-9445-5)
 
+#### Wikipedia content
+
+* [UNIX - Wikipedia](https://en.wikipedia.org/wiki/Unix)
+* [History of UNIX - Wikipedia](https://en.wikipedia.org/wiki/History_of_Unix)
 
 </details>
 
@@ -524,6 +531,10 @@ Click on each highlighted operating system to access material for that operating
 * [Berkeley Software Architecture Manual 4.4BSD Edition](https://docs-legacy.freebsd.org/44doc/psd/05.sysman/paper.html)
 * [4.4 Berkeley Software Distribution Documentation](https://www.netbsd.org/docs/bsd/lite2/)
 * [4.3 Berkeley Software Distribution Documentation](https://www.netbsd.org/docs/bsd/net2/)
+
+#### Wikipedia content
+
+* [Berkeley Software Distribuition](https://en.wikipedia.org/wiki/Berkeley_Software_Distribution)
 
 </details>
 
@@ -541,6 +552,9 @@ Click on each highlighted operating system to access material for that operating
 * [FreeBSD Licensing Policy](https://docs.freebsd.org/en/articles/license-guide/)
 * [Instroduction to NanoBSD](https://docs.freebsd.org/en/articles/nanobsd/)
 * [Linux® emulation in FreeBSD](https://docs.freebsd.org/en/articles/linux-emulation/)
+
+#### Wikipedia content
+
 
 </details>
 
