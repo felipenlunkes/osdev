@@ -5,7 +5,7 @@
 This is a list of open source operating system projects, as well as useful material for operating system development.
 
 * [Sorted by family](#sorted-by-family)
-* [Sorted by language](#sorted-by-language-under-update)
+* [Sorted by language](#sorted-by-language)
 * [Reference material](#reference-material)
 
 </div>
@@ -223,7 +223,9 @@ This is a list of open source operating system projects, as well as useful mater
 
 <hr>
 
-# Sorted by language (under update)
+# Sorted by language
+
+> This list is under update.
 
 ## Assembly language
 
