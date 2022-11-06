@@ -483,7 +483,6 @@ Click on each highlighted operating system to access material for that operating
 <div align="justify">
 
 <details title="UNIX" align='left'>
-<br>
 <summary align='left'>UNIX</summary>
 
 #### Original source code
@@ -512,12 +511,13 @@ Click on each highlighted operating system to access material for that operating
 
 * [The Evolution of the Unix Time-sharing System - Dennis M. Ritchie (Bell Labs), 1984](https://www.bell-labs.com/usr/dmr/www/hist.html)
 * [The Evolution of the UNIX Time-sharing System - PDF (same as above)](https://curtsinger.cs.grinnell.edu/teaching/2019S/CSC213/files/unix_evolution.pdf)
-* [Spinellis, D. A repository of Unix history and evolution. Empir Software Eng 22, 1372–1404 (2017). https://doi.org/10.1007/s10664-016-9445-5](https://link.springer.com/article/10.1007/s10664-016-9445-5)
+* [Spinellis, D. A repository of Unix history and evolution. Empir Software Eng 22, 1372–1404 (2017)](https://link.springer.com/article/10.1007/s10664-016-9445-5)
 
 #### Wikipedia content
 
-* [UNIX - Wikipedia](https://en.wikipedia.org/wiki/Unix)
-* [History of UNIX - Wikipedia](https://en.wikipedia.org/wiki/History_of_Unix)
+* [UNIX](https://en.wikipedia.org/wiki/Unix)
+* [History of UNIX](https://en.wikipedia.org/wiki/History_of_Unix)
+* [UNIX System V](https://en.wikipedia.org/wiki/UNIX_System_V)
 
 </details>
 
@@ -535,6 +535,7 @@ Click on each highlighted operating system to access material for that operating
 #### Wikipedia content
 
 * [Berkeley Software Distribuition](https://en.wikipedia.org/wiki/Berkeley_Software_Distribution)
+* [386BSD](https://en.wikipedia.org/wiki/386BSD)
 
 </details>
 
@@ -553,8 +554,9 @@ Click on each highlighted operating system to access material for that operating
 * [Instroduction to NanoBSD](https://docs.freebsd.org/en/articles/nanobsd/)
 * [Linux® emulation in FreeBSD](https://docs.freebsd.org/en/articles/linux-emulation/)
 
-#### Wikipedia content
+#### Wikipedia Content
 
+* [FreeBSD](https://en.wikipedia.org/wiki/FreeBSD)
 
 </details>
 
@@ -566,6 +568,10 @@ Click on each highlighted operating system to access material for that operating
 * [NetBSD Internals](https://www.netbsd.org/docs/internals/en/index.html)
 * [Hardware Documentation - NetBSD](https://www.netbsd.org/docs/Hardware/index.html)
 
+#### Wikipedia content
+
+* [NetBSD](https://en.wikipedia.org/wiki/NetBSD)
+
 </details>
 
 <details title="OpenBSD" align='left'>
@@ -575,6 +581,10 @@ Click on each highlighted operating system to access material for that operating
 * [OpenBSD FAQ](https://www.openbsd.org/faq/index.html)
 * [OpenBSD Porter's Handbook](https://www.openbsd.org/faq/ports/index.html)
 
+#### Wikipedia content
+
+* [OpenBSD](https://en.wikipedia.org/wiki/OpenBSD)
+
 </details>
 
 <details title="Solaris" align='left'>
@@ -582,6 +592,10 @@ Click on each highlighted operating system to access material for that operating
 <summary align='left'>Solaris</summary>
 
 * [Oracle Solaris Documentation](https://docs.oracle.com/en/operating-systems/solaris.html)
+
+#### Wikipedia content
+
+* [Oracle Solaris](https://en.wikipedia.org/wiki/Oracle_Solaris)
 
 </details>
 
@@ -595,6 +609,11 @@ Click on each highlighted operating system to access material for that operating
 * [Modular Debugger Guide](https://illumos.org/books/mdb/preface.html#preface)
 * [Writing Device Drivers](https://illumos.org/books/wdd/preface.html#preface)
 * [Memory and Thread Placement Optimization Developer's Guide](https://illumos.org/books/lgrps/preface.html#preface)
+
+#### Wikipedia content
+
+* [openSolaris](https://en.wikipedia.org/wiki/OpenSolaris)
+* [illumos](https://en.wikipedia.org/wiki/Illumos)
 
 </details>
 
