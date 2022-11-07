@@ -776,9 +776,9 @@ Click on each highlighted operating system to access material for that operating
 
 </details>
 
-<details title="Licenses" align='left'>
+<details title="Software licenses" align='left'>
 <br>
-<summary align='left'>Licenses</summary>
+<summary align='left'>Software licenses</summary>
 
 Here you can get more information about the main free licenses to apply in your project, or understand your rights and duties when using free software.
 
