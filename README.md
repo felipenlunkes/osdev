@@ -518,6 +518,7 @@ Click on each highlighted operating system to access material for that operating
 * [UNIX](https://en.wikipedia.org/wiki/Unix)
 * [History of UNIX](https://en.wikipedia.org/wiki/History_of_Unix)
 * [UNIX System V](https://en.wikipedia.org/wiki/UNIX_System_V)
+* [UNIX Wars](https://en.wikipedia.org/wiki/Unix_wars)
 
 </details>
 
@@ -536,6 +537,8 @@ Click on each highlighted operating system to access material for that operating
 
 * [Berkeley Software Distribuition](https://en.wikipedia.org/wiki/Berkeley_Software_Distribution)
 * [386BSD](https://en.wikipedia.org/wiki/386BSD)
+* [List of BSD operating systems](https://en.wikipedia.org/wiki/List_of_BSD_operating_systems)
+* [Comparison of BSD operating systems](https://en.wikipedia.org/wiki/Comparison_of_BSD_operating_systems)
 
 </details>
 
@@ -719,6 +722,44 @@ Click on each highlighted operating system to access material for that operating
 #### Unix-like (general)
 
 * [Reading UNIX Manual Pages - Apple](https://developer.apple.com/documentation/os/reading_unix_manual_pages)
+
+</details>
+
+<details title="Licenses" align='left'>
+<br>
+<summary align='left'>Licenses</summary>
+
+Here you can get more information about the main free licenses to apply in your project, or understand your rights and duties when using free software.
+
+#### Wikipedia content
+
+* [BSD licenses](https://en.wikipedia.org/wiki/BSD_licenses)
+* [Apache license](https://en.wikipedia.org/wiki/Apache_License)
+* [Apple Public Source License (APSL)](https://en.wikipedia.org/wiki/Apple_Public_Source_License)
+* [Creative Commons license (CC)](https://en.wikipedia.org/wiki/Creative_Commons_license)
+* [Common Development and Distribution License (CDDL)](https://en.wikipedia.org/wiki/Common_Development_and_Distribution_License)
+* [GNU General Public License (GPL)](https://en.wikipedia.org/wiki/GNU_General_Public_License)
+* [GNU Lesser General Public License (LGPL)](https://en.wikipedia.org/wiki/GNU_Lesser_General_Public_License)
+* [MIT License](https://en.wikipedia.org/wiki/MIT_License)
+* [ISC license](https://en.wikipedia.org/wiki/ISC_license)
+* [Mozilla Public License (MPL)](https://en.wikipedia.org/wiki/Mozilla_Public_License)
+* [Unlicense]https://en.wikipedia.org/wiki/Unlicense
+
+#### Exemples
+
+| License | Software |
+|:-------:|:--------:|
+|BSD|FreeBSD, NetBSD, Hexagonix, BareMetal, Chromium|
+|Apache|Android, Clang, Fuchsia OS, Kotlin|
+|APSL|XNU, Darwin|
+|CC|-|
+|CDDL|OpenSolaris, illumos|
+|GPL|Linux Kernel, Audacity, Gedit, Git|
+|LGPL|PulseAudio, FreeCAD, Qt, Wine, VLC|
+|MIT|.NET, Laravel, X11|
+|ISC|Hw.sensors (OpenBSD), OpenBSD (ISC modified)|
+|MPL|Mozilla Firefox, LibreOffice|
+|Unlicense|youtube-dl|
 
 </details>
 
