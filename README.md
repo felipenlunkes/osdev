@@ -550,6 +550,7 @@ Click on each highlighted operating system to access material for that operating
 * [UNIX](https://en.wikipedia.org/wiki/Unix)
 * [History of UNIX](https://en.wikipedia.org/wiki/History_of_Unix)
 * [UNIX System V](https://en.wikipedia.org/wiki/UNIX_System_V)
+* [UNIX/32V](https://en.wikipedia.org/wiki/UNIX/32V)
 * [UNIX Wars](https://en.wikipedia.org/wiki/Unix_wars)
 
 </details>
