@@ -747,6 +747,8 @@ Here you can get more information about the main free licenses to apply in your 
 
 #### Exemples
 
+<div align="center">
+
 | License | Software |
 |:-------:|:--------:|
 |BSD|FreeBSD, NetBSD, Hexagonix, BareMetal, Chromium|
@@ -760,6 +762,8 @@ Here you can get more information about the main free licenses to apply in your 
 |ISC|Hw.sensors (OpenBSD), OpenBSD (ISC modified)|
 |MPL|Mozilla Firefox, LibreOffice|
 |Unlicense|youtube-dl|
+
+</div>
 
 </details>
 
