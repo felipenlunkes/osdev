@@ -552,6 +552,7 @@ Click on each highlighted operating system to access material for that operating
 * [UNIX System V](https://en.wikipedia.org/wiki/UNIX_System_V)
 * [UNIX/32V](https://en.wikipedia.org/wiki/UNIX/32V)
 * [UNIX Wars](https://en.wikipedia.org/wiki/Unix_wars)
+* [Xenix](https://en.wikipedia.org/wiki/Xenix)
 
 </details>
 
@@ -691,6 +692,12 @@ Click on each highlighted operating system to access material for that operating
 * [A Technical History of Apple's Operating Systems](https://web.archive.org/web/20190827125517/http://www.osxbook.com/book/bonus/chapter1/)
 * [Mac OS X Internals: A Systems Approach - Amazon](https://www.amazon.com/Mac-OS-Internals-Systems-Approach/dp/0321278542)
 
+#### Wikipedia content
+
+* [NeXTSTEP](https://en.wikipedia.org/wiki/NeXTSTEP)
+* [XNU kernel](https://en.wikipedia.org/wiki/XNU)
+* [Darwin Operating System](https://en.wikipedia.org/wiki/Darwin_(operating_system))
+
 </details>
 
 <details title="DOS (Disk Operating System)" align='left'>
@@ -713,6 +720,14 @@ Click on each highlighted operating system to access material for that operating
 * [Using FreeDOS - PDF](https://www.freedos.org/books/download/using-freedos-24.pdf)
 * [Writing FreeDOS programs in C](https://www.freedos.org/books/cprogramming/)
 
+#### Wikipedia content
+
+* [86-DOS](https://en.wikipedia.org/wiki/86-DOS)
+* [MS-DOS](https://en.wikipedia.org/wiki/MS-DOS)
+* [IBM PC DOS](https://en.wikipedia.org/wiki/IBM_PC_DOS)
+* [DR-DOS](https://en.wikipedia.org/wiki/DR-DOS)
+* [FreeDOS](https://en.wikipedia.org/wiki/FreeDOS)
+
 </details>
 
 <details title="Windows" align='left'>
@@ -721,9 +736,12 @@ Click on each highlighted operating system to access material for that operating
 
 * [Windows technical documentation for developers and IT Pros.](https://learn.microsoft.com/en-us/windows/)
 * [Windows kernel - Microsoft](https://learn.microsoft.com/en-us/windows-hardware/drivers/ddi/_kernel/)
-* [Architecture of Windows NT - Wikipedia](https://en.wikipedia.org/wiki/Architecture_of_Windows_NT)
 * [NTAPI Undocumented Functions](http://undocumented.ntinternals.net/)
 * [Memory management in the Windows XP kernel](https://reactos.org/wiki/Techwiki:Memory_management_in_the_Windows_XP_kernel)
+
+#### Wikipedia content
+
+* [Architecture of Windows NT - Wikipedia](https://en.wikipedia.org/wiki/Architecture_of_Windows_NT)
 
 </details>
 
