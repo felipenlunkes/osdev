@@ -775,7 +775,7 @@ Here you can get more information about the main free licenses to apply in your 
 * [MIT License](https://en.wikipedia.org/wiki/MIT_License)
 * [ISC license](https://en.wikipedia.org/wiki/ISC_license)
 * [Mozilla Public License (MPL)](https://en.wikipedia.org/wiki/Mozilla_Public_License)
-* [Unlicense]https://en.wikipedia.org/wiki/Unlicense
+* [Unlicense](https://en.wikipedia.org/wiki/Unlicense)
 
 #### Exemples
 
