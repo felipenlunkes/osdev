@@ -50,6 +50,7 @@ In this session, the projects were separated by the operating system family to w
 * [FreeBSD](https://github.com/freebsd/freebsd-src)
 * [NetBSD](https://github.com/NetBSD/src)
 * [OpenBSD](https://github.com/openbsd/src)
+* [MirBSD](http://www.mirbsd.org/)
 * [illumos (OpenSolaris)](https://github.com/illumos/illumos-gate)
 
 </details>
@@ -68,6 +69,7 @@ In this session, the projects were separated by the operating system family to w
 * [duckOS](https://github.com/byteduck/duckOS)
 * [Escape](https://github.com/Nils-TUD/Escape)
 * [Fiwix](http://github.com/mikaku/Fiwix)
+* [Fuchsia OS](https://fuchsia.dev/)
 * [Harvey](https://github.com/Harvey-OS/harvey)
 * [HelenOS](https://github.com/HelenOS/helenos)
 * [Hexagonix](https://github.com/hexagonix)
