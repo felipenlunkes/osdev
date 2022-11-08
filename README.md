@@ -544,6 +544,7 @@ Click on each highlighted operating system to access material for that operating
 * [X Window System at Stanford](https://web.stanford.edu/group/farmshare/cgi-bin/wiki/index.php/X_Window_System)
 * [A Brief History of Unix and How did Linux came into being](https://medium.com/@safiuddinkhan/a-brief-history-of-unix-dcd41d0816c1)
 * [Multics - The ancestor of UNIX](https://www.multicians.org/)
+* [UNIX® on the Game Boy Advance](https://web.archive.org/web/20060831141959/http://www.kernelthread.com/publications/gbaunix/)
 
 #### Papers
 
