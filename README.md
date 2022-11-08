@@ -325,6 +325,7 @@ In this session, the projects were separated by the main programming language us
 |[FreeBSD](https://github.com/freebsd/freebsd-src)|C|x86, ARM, PowerPC, RISC-V|Unix|Yes|Yes|![](https://img.shields.io/github/license/freebsd/freebsd-src.svg)|
 |[NetBSD](https://github.com/NetBSD/src)|C|x86, ARM, PowerPC, RISC-V|Unix|Yes|Yes|![](https://img.shields.io/github/license/NetBSD/src.svg)|
 |[OpenBSD](https://github.com/openbsd/src)|C|x86, ARM, PowerPC, RISC-V|Unix|Yes|Yes|![](https://img.shields.io/github/license/openbsd/src.svg)|
+|[MirBSD](http://www.mirbsd.org/)|C|x86|Unix|No|Yes|BSD license|
 |[Illumos (OpenSolaris)](https://github.com/illumos/illumos-gate)|C|x86, SPARC|Unix|Yes|Yes|![](https://img.shields.io/github/license/illumos/illumos-gate.svg)|
 |[Amiga Research Operating System](https://github.com/aros-development-team/AROS)|C|x68k, x86, x86_64, PowerPC, ARM|Other (Amiga)|Yes|Yes|![](https://img.shields.io/github/license/aros-development-team/AROS.svg)|
 |[The Apollo Project](https://github.com/primis/Apollo)|C|x86, Raspberry Pi Model 4B|Unix-like|Yes|Yes|![](https://img.shields.io/github/license/primis/Apollo.svg)|
