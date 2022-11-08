@@ -70,6 +70,7 @@ In this session, the projects were separated by the operating system family to w
 * [Escape](https://github.com/Nils-TUD/Escape)
 * [Fiwix](http://github.com/mikaku/Fiwix)
 * [Fuchsia OS](https://fuchsia.dev/)
+* [GNU Hurd](https://www.gnu.org/software/hurd/)  
 * [Harvey](https://github.com/Harvey-OS/harvey)
 * [HelenOS](https://github.com/HelenOS/helenos)
 * [Hexagonix](https://github.com/hexagonix)
