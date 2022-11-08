@@ -560,6 +560,9 @@ Click on each highlighted operating system to access material for that operating
 * [UNIX/32V](https://en.wikipedia.org/wiki/UNIX/32V)
 * [UNIX Wars](https://en.wikipedia.org/wiki/Unix_wars)
 * [Xenix](https://en.wikipedia.org/wiki/Xenix)
+* [PWB/UNIX](https://en.wikipedia.org/wiki/PWB/UNIX)
+* [UnixWare](https://en.wikipedia.org/wiki/UnixWare)
+* [Ancient UNIX](https://en.wikipedia.org/wiki/Ancient_UNIX)  
 
 </details>
 
