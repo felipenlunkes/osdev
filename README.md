@@ -348,6 +348,7 @@ In this session, the projects were separated by the main programming language us
 |[FreeDOS](https://github.com/FDOS/kernel)|C|x86 (16-bit)|DOS|Yes|Yes|![](https://img.shields.io/github/license/FDOS/kernel.svg)|
 |[Fudge](http://github.com/jezze/fudge/)|C|x86, ARM|Other|Yes|Yes|![](https://img.shields.io/github/license/jezze/fudge.svg)|
 |[FuzzyOS](https://github.com/scopeInfinity/FuzzyOS)|C|x86|Other|Yes|Yes|![](https://img.shields.io/github/license/scopeInfinity/FuzzyOS.svg)|
+|[Fuchsia OS](https://fuchsia.dev/)|C, C++|x86_64, ARM, ARM AArch64|Unix-like|No|Yes|Apache|
 |[Harvey](https://github.com/Harvey-OS/harvey)|C|x86|Unix (Plan 9)|Yes|Yes|![](https://img.shields.io/github/license/Harvey-OS/harvey.svg)|
 |[HelenOS](https://github.com/HelenOS/helenos)|C, C++|x86, x86_64, i64, ARM, SPARC|Unix-like|Yes|Yes|![](https://img.shields.io/github/license/HelenOS/helenos.svg)|
 |[HeliX](https://github.com/Helix-OS/helix-os)|C|x86|Other|Yes|Yes|![](https://img.shields.io/github/license/Helix-OS/helix-os.svg)|
