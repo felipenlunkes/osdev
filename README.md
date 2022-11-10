@@ -783,6 +783,7 @@ Click on each highlighted operating system to access material for that operating
 * [Operating System Concepts](https://www.os-book.com/OS9/index.html)
 * [FreeBSD/Linux Kernel Cross Reference](http://fxr.watson.org/fxr/source/?v=MK84)
 * [Operating System Concepts - 10th edition](https://github.com/greggagne/osc10e)
+* [Open source compatible BIOS for PC - GLaBIOS](https://github.com/640-KB/GLaBIOS)
 
 </details>
 
