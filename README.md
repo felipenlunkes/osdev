@@ -45,8 +45,10 @@ In this session, the projects were separated by the operating system family to w
 * [Research UNIX v1-v7](https://github.com/dspinellis/unix-history-repo)
 * [Research UNIX v10](https://github.com/Alhadis/Research-Unix-v10)
 * [UNIX System V](https://archive.org/details/ATTUNIXSystemVRelease4Version2)
+* [UNIX PDP-7](https://github.com/asegid/pdp7-unix)
 * [Plan 9](https://9p.io/plan9/)
 * [9front](https://code.9front.org/hg/plan9front)
+* [4.4BSD-Lite2](https://github.com/sergev/4.4BSD-Lite2)
 * [FreeBSD](https://github.com/freebsd/freebsd-src)
 * [NetBSD](https://github.com/NetBSD/src)
 * [OpenBSD](https://github.com/openbsd/src)
@@ -70,7 +72,8 @@ In this session, the projects were separated by the operating system family to w
 * [Escape](https://github.com/Nils-TUD/Escape)
 * [Fiwix](http://github.com/mikaku/Fiwix)
 * [Fuchsia OS](https://fuchsia.dev/)
-* [GNU Hurd](https://www.gnu.org/software/hurd/)  
+* [GNU Hurd](https://www.gnu.org/software/hurd/) 
+* [Gramado](https://github.com/frednora/gramado) 
 * [Harvey](https://github.com/Harvey-OS/harvey)
 * [HelenOS](https://github.com/HelenOS/helenos)
 * [Hexagonix](https://github.com/hexagonix)
@@ -209,6 +212,7 @@ In this session, the projects were separated by the operating system family to w
 * [opuntiaOS](https://github.com/opuntiaOS-Project/opuntiaOS)
 * [PastaOS](https://github.com/arighi/pastaos)
 * [Perception](https://github.com/AndrewAPrice/Perception)
+* [pidi-os](https://github.com/GandelXIV/pidi-os)
 * [Plan 42](https://github.com/mooseman/plan_42)
 * [PlusOS](https://sourceforge.net/projects/plusos/)
 * [Polaris](https://github.com/NSG650/Polaris)
@@ -228,6 +232,7 @@ In this session, the projects were separated by the operating system family to w
 * [SivelkiriaOS](https://git.sivelkiria.org/)
 * [skiftOS](https://github.com/skiftOS/skift)
 * [Snowdrop OS](http://sebastianmihai.com/snowdrop/)
+* [SnowflakeOS](https://github.com/29jm/SnowflakeOS)
 * [SO3](https://gitlab.com/smartobject/so3)
 * [The Stupid Operating System](https://github.com/sos-os/kernel)
 * [Synergy OS](https://github.com/JackScottAU/Synergy-OS)
@@ -240,11 +245,13 @@ In this session, the projects were separated by the operating system family to w
 * [Tysos](https://github.com/jncronin/tysos)
 * [Unet Operating System](https://unet.lithicsoft.repl.co/)
 * [Ultibo Core](https://github.com/ultibohub/Core)
+* [ultronOS](https://github.com/aswinmohanme/ultronOS)
 * [U365](http://gitlab.com/bps-projs/U365)
 * [Visopsys](http://visopsys.org/)
 * [VSTa](http://sources.vsta.org:7100/vsta/index)
 * [WingOS](https://github.com/Supercip971/WingOS_x64/)
 * [XEOS](http://www.xs-labs.com/en/projects/xeos/)
+* [xOS](https://github.com/BrownieOS/xOS)
 * [YaxOS](https://gitlab.com/SopaXorzTaker/yaxos)
 
 </details>
@@ -282,7 +289,8 @@ In this session, the projects were separated by the main programming language us
 
 | Name | Language | Architecture | OS family | Available on GitHub | Active | License |
 |:----:|:--------:|:------------:|:---------:|:-------------------:|:------:|:-------:|
-|[Research UNIX v1-v7](https://github.com/dspinellis/unix-history-repo)|Assembly (early versions) and C|PDP-7, PDP-11| Unix | Yes | No (historical) | ![](https://img.shields.io/github/license/dspinellis/unix-history-repo.svg)|
+|[Research UNIX v1-v7](https://github.com/dspinellis/unix-history-repo)|Assembly (early versions) and C|PDP-7, PDP-11| Unix | Yes | No (historical)|![](https://img.shields.io/github/license/dspinellis/unix-history-repo.svg)|
+|[UNIX PDP-7](https://github.com/asegid/pdp7-unix)|Assembly|PDP-7|Unix|Yes|No|![](https://img.shields.io/github/license/asegid/pdp7-unix.svg)|
 |[BareMetal](https://github.com/ReturnInfinity/BareMetal)|Assembly|x86|Other|Yes|No|![](https://img.shields.io/github/license/ReturnInfinity/BareMetal.svg)|
 |[Bin S.O](https://github.com/felipenlunkes/Bin-S.O)|Assembly|x86 (16-bit)|Other|Yes|No|![](https://img.shields.io/github/license/felipenlunkes/Bin-S.O.svg)|
 |[BleskOS](https://github.com/Klaykap/BleskOS)|Assembly|x86|Other|Yes|Yes|![](https://img.shields.io/github/license/Klaykap/BleskOS.svg)|
@@ -299,6 +307,7 @@ In this session, the projects were separated by the main programming language us
 |[MenuetOS](http://www.menuetos.net/)|Assembly|x86, x86_64|Other|No|Yes|GPL|
 |[Snowdrop OS](http://sebastianmihai.com/snowdrop/)|Assembly|x86 (16-bit)|Other|No|Yes|Public domain|
 |[tatOS](https://github.com/tatimmer/tatOS)|Assembly|x86|Other|Yes|No|![](https://img.shields.io/github/license/tatimmer/tatOS.svg)|
+|[xOS](https://github.com/BrownieOS/xOS)|Assembly|x86|Other|Yes|No|![](https://img.shields.io/github/license/BrownieOS/xOS.svg)|
 
 </div>
 
@@ -322,6 +331,7 @@ In this session, the projects were separated by the main programming language us
 |[UNIX System V](https://archive.org/details/ATTUNIXSystemVRelease4Version2)|C|PDP-11, VAX 11/780, x86|Unix|No|No (historical)|Check files|
 |[Plan 9](https://9p.io/plan9/)|C|x86|Unix|No|Yes|-|
 |[9front](https://code.9front.org/hg/plan9front)|C|x86|Unix|No|Yes|-|
+|[4.4BSD-Lite2](https://github.com/sergev/4.4BSD-Lite2)|C|x86, PowerPC, MIPS|Unix|Yes|No|BSD|
 |[FreeBSD](https://github.com/freebsd/freebsd-src)|C|x86, ARM, PowerPC, RISC-V|Unix|Yes|Yes|![](https://img.shields.io/github/license/freebsd/freebsd-src.svg)|
 |[NetBSD](https://github.com/NetBSD/src)|C|x86, ARM, PowerPC, RISC-V|Unix|Yes|Yes|![](https://img.shields.io/github/license/NetBSD/src.svg)|
 |[OpenBSD](https://github.com/openbsd/src)|C|x86, ARM, PowerPC, RISC-V|Unix|Yes|Yes|![](https://img.shields.io/github/license/openbsd/src.svg)|
@@ -351,6 +361,7 @@ In this session, the projects were separated by the main programming language us
 |[FuzzyOS](https://github.com/scopeInfinity/FuzzyOS)|C|x86|Other|Yes|Yes|![](https://img.shields.io/github/license/scopeInfinity/FuzzyOS.svg)|
 |[Fuchsia OS](https://fuchsia.dev/)|C, C++|x86_64, ARM, ARM AArch64|Unix-like|No|Yes|Apache|
 |[GNU Hurd](https://www.gnu.org/software/hurd/)|C|x86|Unix-like|No|Yes|GPL|  
+|[Gramado](https://github.com/frednora/gramado)|C|x86|Unix-like|Yes|Yes|![](https://img.shields.io/github/license/frednora/gramado.svg)|
 |[Harvey](https://github.com/Harvey-OS/harvey)|C|x86|Unix (Plan 9)|Yes|Yes|![](https://img.shields.io/github/license/Harvey-OS/harvey.svg)|
 |[HelenOS](https://github.com/HelenOS/helenos)|C, C++|x86, x86_64, i64, ARM, SPARC|Unix-like|Yes|Yes|![](https://img.shields.io/github/license/HelenOS/helenos.svg)|
 |[HeliX](https://github.com/Helix-OS/helix-os)|C|x86|Other|Yes|Yes|![](https://img.shields.io/github/license/Helix-OS/helix-os.svg)|
@@ -386,6 +397,7 @@ In this session, the projects were separated by the main programming language us
 |[OSv](https://github.com/cloudius-systems/osv)|C|x86, ARM AArch64|Other|Yes|Yes|![](https://img.shields.io/github/license/cloudius-systems/osv.svg)|
 |[OS67](https://github.com/SilverRainZ/OS67)|C|-|Other|Yes|Yes|![](https://img.shields.io/github/license/SilverRainZ/OS67.svg)|
 |[PastaOS](https://github.com/arighi/pastaos)|C|x86|Other|Yes|Yes|![](https://img.shields.io/github/license/arighi/pastaos.svg)|
+|[pidi-os](https://github.com/GandelXIV/pidi-os)|C|x86|Other|Yes|Yes|![](https://img.shields.io/github/license/GandelXIV/pidi-os.svg)|
 |[Polaris](https://github.com/NSG650/Polaris)|C|-|Other|Yes|Yes|![](https://img.shields.io/github/license/NSG650/Polaris.svg)|
 |[primus-os](https://github.com/araujo88/primus-os)|C|x86|Other|Yes|Yes|![](https://img.shields.io/github/license/araujo88/primus-os.svg)|
 |[Public Domain Operating System](http://pdos.org/)|C|x86 (16-bit, 32-bit)|DOS|No|Yes|Public Domain|
@@ -396,6 +408,7 @@ In this session, the projects were separated by the main programming language us
 |[SeaOS](https://github.com/dbittman/seakernel)|C|x86_64|Unix-like|Yes|No|![](https://img.shields.io/github/license/dbittman/seakernel.svg)|
 |[seL4](https://github.com/seL4/seL4)|C|-|L4|Yes|Yes|![](https://img.shields.io/github/license/seL4/seL4.svg)|
 |[SerpaeOS](https://serpaeos.sourceforge.io/)|C|x86|Other|No|Yes|GPLv3|
+|[SnowflakeOS](https://github.com/29jm/SnowflakeOS)|C|x86|Other|Yes|No|![](https://img.shields.io/github/license/29jm/SnowflakeOS.svg)|
 |[Sortix](https://sortix.org/)|C|x86, x86_64|Unix-like|No|Yes|ISC license|
 |[Soso](https://github.com/ozkl/soso)|C|x86|Unix-like|Yes|Yes|![](https://img.shields.io/github/license/ozkl/soso.svg)|
 |[Synergy OS](https://github.com/JackScottAU/Synergy-OS)|C|x86|Other|Yes|No|![](https://img.shields.io/github/license/JackScottAU/Synergy-OS.svg)|
@@ -443,6 +456,7 @@ In this session, the projects were separated by the main programming language us
 |[Silcos](https://github.com/SukantPal/Silcos-Kernel)|C++|x86|Other|Yes|Yes|![](https://img.shields.io/github/license/SukantPal/Silcos-Kernel.svg)|
 |[SimpleOS](https://github.com/xing1357/SimpleOS/)|C|x86|DOS|Yes|Yes|![](https://img.shields.io/github/license/xing1357/SimpleOS.svg)|
 |[skiftOS](https://github.com/skiftOS/skift)|C++|-|Other|Yes|Yes|![](https://img.shields.io/github/license/skiftOS/skift.svg)|
+|[ultronOS](https://github.com/aswinmohanme/ultronOS)|C++|x86|Other|Yes|No|![](https://img.shields.io/github/license/aswinmohanme/ultronOS.svg)|
 |[Upanix](https://github.com/prajwal83/upanix)|C++|x86|Unix-like|Yes|Yes|![](https://img.shields.io/github/license/prajwal83/upanix.svg)|
 |[WingOS](https://github.com/Supercip971/WingOS_x64/)|C++|x86_64|Other|Yes|[No](https://github.com/brutal-org/brutal)|![](https://img.shields.io/github/license/Supercip971/WingOS_x64.svg)|
 
@@ -760,7 +774,7 @@ Click on each highlighted operating system to access material for that operating
 <summary align='left'>OSdev</summary>
 
 * [How to Make a Computer Operating System](https://github.com/SamyPesse/How-to-Make-a-Computer-Operating-System)
-* [Operating Systems: From 0 to 1](https://tuhdo.github.io/os01/)
+* [Operating Systems: From 0 to 1](https://github.com/tuhdo/os01)
 * [Operating System Development Series](http://www.brokenthorn.com/Resources/OSDevIndex.html)
 * [Operating Systems: Three Easy Pieces](http://pages.cs.wisc.edu/~remzi/OSTEP/)
 * [The little book about OS development](http://littleosbook.github.io/)
@@ -768,6 +782,7 @@ Click on each highlighted operating system to access material for that operating
 * [xv6: a simple, Unix-like teaching operating system](https://pdos.csail.mit.edu/6.828/2019/xv6/book-riscv-rev0.pdf)
 * [Operating System Concepts](https://www.os-book.com/OS9/index.html)
 * [FreeBSD/Linux Kernel Cross Reference](http://fxr.watson.org/fxr/source/?v=MK84)
+* [Operating System Concepts - 10th edition](https://github.com/greggagne/osc10e)
 
 </details>
 
