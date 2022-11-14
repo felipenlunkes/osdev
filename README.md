@@ -52,6 +52,7 @@ In this session, the projects were separated by the operating system family to w
 * [FreeBSD](https://github.com/freebsd/freebsd-src)
 * [NetBSD](https://github.com/NetBSD/src)
 * [OpenBSD](https://github.com/openbsd/src)
+* [DragonFly BSD](https://github.com/DragonFlyBSD/DragonFlyBSD)
 * [MirBSD](http://www.mirbsd.org/)
 * [illumos (OpenSolaris)](https://github.com/illumos/illumos-gate)
 
@@ -335,8 +336,9 @@ In this session, the projects were separated by the main programming language us
 |[FreeBSD](https://github.com/freebsd/freebsd-src)|C|x86, ARM, PowerPC, RISC-V|Unix|Yes|Yes|![](https://img.shields.io/github/license/freebsd/freebsd-src.svg)|
 |[NetBSD](https://github.com/NetBSD/src)|C|x86, ARM, PowerPC, RISC-V|Unix|Yes|Yes|![](https://img.shields.io/github/license/NetBSD/src.svg)|
 |[OpenBSD](https://github.com/openbsd/src)|C|x86, ARM, PowerPC, RISC-V|Unix|Yes|Yes|![](https://img.shields.io/github/license/openbsd/src.svg)|
+[DragonFly BSD](https://github.com/DragonFlyBSD/DragonFlyBSD)|C|x86_64|Yes|Yes|BSD license|
 |[MirBSD](http://www.mirbsd.org/)|C|x86|Unix|No|Yes|BSD license|
-|[Illumos (OpenSolaris)](https://github.com/illumos/illumos-gate)|C|x86, SPARC|Unix|Yes|Yes|![](https://img.shields.io/github/license/illumos/illumos-gate.svg)|
+|[illumos (OpenSolaris)](https://github.com/illumos/illumos-gate)|C|x86, SPARC|Unix|Yes|Yes|![](https://img.shields.io/github/license/illumos/illumos-gate.svg)|
 |[Amiga Research Operating System](https://github.com/aros-development-team/AROS)|C|x68k, x86, x86_64, PowerPC, ARM|Other (Amiga)|Yes|Yes|![](https://img.shields.io/github/license/aros-development-team/AROS.svg)|
 |[The Apollo Project](https://github.com/primis/Apollo)|C|x86, Raspberry Pi Model 4B|Unix-like|Yes|Yes|![](https://img.shields.io/github/license/primis/Apollo.svg)|
 |[AQUA OS](https://github.com/inobulles/aquabsd-core)|C|x86_64|Unix (FreeBSD)|Yes|Yes|![](https://img.shields.io/github/license/inobulles/aquabsd-core.svg)|
@@ -559,6 +561,7 @@ Click on each highlighted operating system to access material for that operating
 * [A Brief History of Unix and How did Linux came into being](https://medium.com/@safiuddinkhan/a-brief-history-of-unix-dcd41d0816c1)
 * [Multics - The ancestor of UNIX](https://www.multicians.org/)
 * [UNIX® on the Game Boy Advance](https://web.archive.org/web/20060831141959/http://www.kernelthread.com/publications/gbaunix/)
+* [X.Org](https://www.x.org/wiki/)
 
 #### Papers
 
@@ -590,6 +593,8 @@ Click on each highlighted operating system to access material for that operating
 * [Berkeley Software Architecture Manual 4.4BSD Edition](https://docs-legacy.freebsd.org/44doc/psd/05.sysman/paper.html)
 * [4.4 Berkeley Software Distribution Documentation](https://www.netbsd.org/docs/bsd/lite2/)
 * [4.3 Berkeley Software Distribution Documentation](https://www.netbsd.org/docs/bsd/net2/)
+* [Utah Lites Release 1.1.u3 - 4.4BSD Lite based server and library for Mach kernel](https://www.cs.utah.edu/flux/lites/html/)
+* [BSD Now, a BSD podcast](https://www.bsdnow.tv/)
 
 #### Wikipedia content
 
@@ -614,6 +619,7 @@ Click on each highlighted operating system to access material for that operating
 * [FreeBSD Licensing Policy](https://docs.freebsd.org/en/articles/license-guide/)
 * [Instroduction to NanoBSD](https://docs.freebsd.org/en/articles/nanobsd/)
 * [Linux® emulation in FreeBSD](https://docs.freebsd.org/en/articles/linux-emulation/)
+* [DistroWatch - FreeBSD](https://distrowatch.com/table.php?distribution=freebsd)
 
 #### Wikipedia Content
 
