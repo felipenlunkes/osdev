@@ -620,6 +620,8 @@ Click on each highlighted operating system to access material for that operating
 * [Instroduction to NanoBSD](https://docs.freebsd.org/en/articles/nanobsd/)
 * [Linux® emulation in FreeBSD](https://docs.freebsd.org/en/articles/linux-emulation/)
 * [DistroWatch - FreeBSD](https://distrowatch.com/table.php?distribution=freebsd)
+* [FreeBSD' IdeasPage](https://wiki.freebsd.org/IdeasPage)
+* [Wiki](https://wiki.freebsd.org/)
 
 #### Wikipedia Content
 
