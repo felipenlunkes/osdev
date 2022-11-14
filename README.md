@@ -284,6 +284,19 @@ In this session, the projects were separated by the main programming language us
 
 Take a shortcut:
 
+<div align="center">
+
+[![assembly](https://img.shields.io/badge/Assembly-F57842?style=for-the-badge&logo=assembly&logoColor=white)](#assembly-language)
+[![basic](https://img.shields.io/badge/VisualBasic-5334ED?style=for-the-badge&logo=.net&logoColor=white)](#basic)
+[![c](https://img.shields.io/badge/C-F5b342?style=for-the-badge&logo=c&logoColor=white)](#c)
+[![cplusplus](https://img.shields.io/badge/C_Plus_Plus-8419D1?style=for-the-badge&logo=cplusplus&logoColor=white)](#c-1)
+[![csharp](https://img.shields.io/badge/C_Sharp-8419D1?style=for-the-badge&logo=csharp&logoColor=white)](#c-1)
+[![Common Lisp](https://img.shields.io/badge/Common_Lisp-118515?style=for-the-badge&logo=lisp&logoColor=white)](#common-lisp)
+[![Pascal](https://img.shields.io/badge/Pascal-0077B5?style=for-the-badge&logo=pascal&logoColor=white)](#pascal)
+[![Rust](https://img.shields.io/badge/Rust-00000F?style=for-the-badge&logo=rust&logoColor=white)](#rust)
+
+</div>
+
 * [Operating systems made in Assembly](#assembly-language)
 * [Operating systems made in Basic](#basic)
 * [Operating systems made in C](#c)
