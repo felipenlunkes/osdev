@@ -305,7 +305,7 @@ In this session, the projects were separated by the main programming language us
 [![Basic](https://img.shields.io/badge/Basic-F2CA30?style=for-the-badge&logo=basic&logoColor=black)](#basic)
 [![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)](#c)
 [![Cplusplus](https://img.shields.io/badge/C_Plus_Plus-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)](#c-1)
-[![Csharp](https://img.shields.io/badge/C_Sharp-8419D1?style=for-the-badge&logo=csharp&logoColor=white)](#c-1)
+[![Csharp](https://img.shields.io/badge/C_Sharp-8419D1?style=for-the-badge&logo=csharp&logoColor=white)](#c-2)
 [![Common Lisp](https://img.shields.io/badge/Common_Lisp-C9284D?style=for-the-badge&logo=lisp&logoColor=black)](#common-lisp)
 [![Pascal](https://img.shields.io/badge/Pascal-68A51C?style=for-the-badge&logo=pascal&logoColor=black)](#pascal)
 [![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)](#rust)
@@ -340,6 +340,8 @@ In this session, the projects were separated by the main programming language us
 
 </div>
 
+* [Go up](#os-projects-sorted-by-language)
+
 ### Basic
 
 <div align="center">
@@ -349,6 +351,8 @@ In this session, the projects were separated by the main programming language us
 |[FROST](https://github.com/thrimbor/frost)|Basic (FreeBasic)|x86|Other|Yes|Yes|![](https://img.shields.io/github/license/thrimbor/frost.svg)|
 
 </div>
+
+* [Go up](#os-projects-sorted-by-language)
 
 ### C
 
@@ -455,6 +459,8 @@ In this session, the projects were separated by the main programming language us
 
 </div>
 
+* [Go up](#os-projects-sorted-by-language)
+
 <!-- Em atualização -->
 
 ### C++
@@ -492,6 +498,8 @@ In this session, the projects were separated by the main programming language us
 
 </div>
 
+* [Go up](#os-projects-sorted-by-language)
+
 ### C#
 
 <div align="center">
@@ -503,6 +511,8 @@ In this session, the projects were separated by the main programming language us
 
 </div>
 
+* [Go up](#os-projects-sorted-by-language)
+
 ### Common Lisp
 
 <div align="center">
@@ -512,6 +522,8 @@ In this session, the projects were separated by the main programming language us
 |[Mezzano](https://github.com/froggey/Mezzano)|Rust|-|Other|Yes|Yes|![](https://img.shields.io/github/license/froggey/Mezzano.svg)|
 
 </div>
+
+* [Go up](#os-projects-sorted-by-language)
 
 ### Pascal
 
@@ -523,6 +535,8 @@ In this session, the projects were separated by the main programming language us
 |[Ultibo Core](https://github.com/ultibohub/Core)|Pascal|Raspberry Pi|Other|Yes|Yes|![](https://img.shields.io/github/license/ultibohub/Core.svg)|
 
 </div>
+
+* [Go up](#os-projects-sorted-by-language)
 
 ### Rust
 
@@ -538,6 +552,8 @@ In this session, the projects were separated by the main programming language us
 |[Theseus](https://github.com/theseus-os/Theseus)|Rust|-|Other|Yes|Yes|![](https://img.shields.io/github/license/theseus-os/Theseus.svg)|
 
 </div>
+
+* [Go up](#os-projects-sorted-by-language)
 
 <hr>
 
