@@ -295,7 +295,7 @@ In this session, the projects were separated by the main programming language us
 - [x] If the project is active (commits more recent than 4 years);
 - [x] License of each project.
 
-Let's take a shortcut! Choose below a language used to write operating system projects:
+<p><strong>Let's take a shortcut! Choose below a language used to write operating system projects:</strong></p>
 
 </div>
 
