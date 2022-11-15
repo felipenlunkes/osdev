@@ -282,7 +282,9 @@ In this session, the projects were separated by the main programming language us
 - [x] If the project is active (commits more recent than 4 years);
 - [x] License of each project.
 
-Take a shortcut:
+Let's take a shortcut! Choose below a language used to write operating system projects:
+
+</div>
 
 <div align="center">
 
@@ -294,17 +296,6 @@ Take a shortcut:
 [![Common Lisp](https://img.shields.io/badge/Common_Lisp-C9284D?style=for-the-badge&logo=lisp&logoColor=black)](#common-lisp)
 [![Pascal](https://img.shields.io/badge/Pascal-FDB515?style=for-the-badge&logo=pascal&logoColor=black)](#pascal)
 [![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)](#rust)
-
-</div>
-
-* [Operating systems made in Assembly](#assembly-language)
-* [Operating systems made in Basic](#basic)
-* [Operating systems made in C](#c)
-* [Operating systems made in C++](#c-1)
-* [Operating systems made in C#](#c-2)
-* [Operating systems made in Common Lisp](#common-lisp)
-* [Operating systems made in Pascal](#pascal)
-* [Operating systems made in Rust](#rust)
 
 </div>
 
