@@ -288,8 +288,8 @@ Let's take a shortcut! Choose below a language used to write operating system pr
 
 <div align="center">
 
-[![Assembly](https://img.shields.io/badge/Assembly-F57842?style=for-the-badge&logo=assembly&logoColor=white)](#assembly-language)
-[![Basic](https://img.shields.io/badge/Basic-5334ED?style=for-the-badge&logo=basic&logoColor=white)](#basic)
+[![Assembly](https://img.shields.io/badge/Assembly-AB2B28?style=for-the-badge&logo=assembly&logoColor=white)](#assembly-language)
+[![Basic](https://img.shields.io/badge/Basic-F2CA30?style=for-the-badge&logo=basic&logoColor=black)](#basic)
 [![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)](#c)
 [![Cplusplus](https://img.shields.io/badge/C_Plus_Plus-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)](#c-1)
 [![Csharp](https://img.shields.io/badge/C_Sharp-8419D1?style=for-the-badge&logo=csharp&logoColor=white)](#c-1)
