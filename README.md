@@ -340,7 +340,7 @@ In this session, the projects were separated by the main programming language us
 
 </div>
 
-* [Go up](#os-projects-sorted-by-language)
+ - [x] [Go up](#os-projects-sorted-by-language)
 
 ### Basic
 
@@ -352,7 +352,7 @@ In this session, the projects were separated by the main programming language us
 
 </div>
 
-* [Go up](#os-projects-sorted-by-language)
+ - [x] [Go up](#os-projects-sorted-by-language)
 
 ### C
 
@@ -459,7 +459,7 @@ In this session, the projects were separated by the main programming language us
 
 </div>
 
-* [Go up](#os-projects-sorted-by-language)
+ - [x] [Go up](#os-projects-sorted-by-language)
 
 <!-- Em atualização -->
 
@@ -498,7 +498,7 @@ In this session, the projects were separated by the main programming language us
 
 </div>
 
-* [Go up](#os-projects-sorted-by-language)
+ - [x] [Go up](#os-projects-sorted-by-language)
 
 ### C#
 
@@ -511,7 +511,7 @@ In this session, the projects were separated by the main programming language us
 
 </div>
 
-* [Go up](#os-projects-sorted-by-language)
+ - [x] [Go up](#os-projects-sorted-by-language)
 
 ### Common Lisp
 
@@ -523,7 +523,7 @@ In this session, the projects were separated by the main programming language us
 
 </div>
 
-* [Go up](#os-projects-sorted-by-language)
+ - [x] [Go up](#os-projects-sorted-by-language)
 
 ### Pascal
 
@@ -536,7 +536,7 @@ In this session, the projects were separated by the main programming language us
 
 </div>
 
-* [Go up](#os-projects-sorted-by-language)
+ - [x] [Go up](#os-projects-sorted-by-language)
 
 ### Rust
 
@@ -553,7 +553,7 @@ In this session, the projects were separated by the main programming language us
 
 </div>
 
-* [Go up](#os-projects-sorted-by-language)
+ - [x] [Go up](#os-projects-sorted-by-language)
 
 <hr>
 
