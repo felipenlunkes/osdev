@@ -286,14 +286,14 @@ Take a shortcut:
 
 <div align="center">
 
-[![assembly](https://img.shields.io/badge/Assembly-F57842?style=for-the-badge&logo=assembly&logoColor=white)](#assembly-language)
-[![basic](https://img.shields.io/badge/VisualBasic-5334ED?style=for-the-badge&logo=.net&logoColor=white)](#basic)
-[![c](https://img.shields.io/badge/C-F5b342?style=for-the-badge&logo=c&logoColor=white)](#c)
-[![cplusplus](https://img.shields.io/badge/C_Plus_Plus-8419D1?style=for-the-badge&logo=cplusplus&logoColor=white)](#c-1)
-[![csharp](https://img.shields.io/badge/C_Sharp-8419D1?style=for-the-badge&logo=csharp&logoColor=white)](#c-1)
-[![Common Lisp](https://img.shields.io/badge/Common_Lisp-118515?style=for-the-badge&logo=lisp&logoColor=white)](#common-lisp)
-[![Pascal](https://img.shields.io/badge/Pascal-0077B5?style=for-the-badge&logo=pascal&logoColor=white)](#pascal)
-[![Rust](https://img.shields.io/badge/Rust-00000F?style=for-the-badge&logo=rust&logoColor=white)](#rust)
+[![Assembly](https://img.shields.io/badge/Assembly-F57842?style=for-the-badge&logo=assembly&logoColor=white)](#assembly-language)
+[![Basic](https://img.shields.io/badge/Basic-5334ED?style=for-the-badge&logo=basic&logoColor=white)](#basic)
+[![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)](#c)
+[![Cplusplus](https://img.shields.io/badge/C_Plus_Plus-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)](#c-1)
+[![Csharp](https://img.shields.io/badge/C_Sharp-8419D1?style=for-the-badge&logo=csharp&logoColor=white)](#c-1)
+[![Common Lisp](https://img.shields.io/badge/Common_Lisp-C9284D?style=for-the-badge&logo=lisp&logoColor=black)](#common-lisp)
+[![Pascal](https://img.shields.io/badge/Pascal-FDB515?style=for-the-badge&logo=pascal&logoColor=black)](#pascal)
+[![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)](#rust)
 
 </div>
 
