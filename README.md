@@ -2,6 +2,19 @@
 <img src="https://github.com/felipenlunkes/osdev/blob/main/img/banner.png">
 </p>
 
+<div align="center">
+
+![](https://img.shields.io/github/license/felipenlunkes/osdev.svg)
+![](https://img.shields.io/github/stars/felipenlunkes/osdev.svg)
+![](https://img.shields.io/github/issues/felipenlunkes/osdev.svg)
+![](https://img.shields.io/github/issues-closed/felipenlunkes/osdev.svg)
+![](https://img.shields.io/github/issues-pr/felipenlunkes/osdev.svg)
+![](https://img.shields.io/github/issues-pr-closed/felipenlunkes/osdev.svg)
+
+</div>
+
+<hr>
+
 # Operating system projects and reference material
 
 <div align="justify">
