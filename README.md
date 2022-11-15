@@ -294,7 +294,7 @@ Let's take a shortcut! Choose below a language used to write operating system pr
 [![Cplusplus](https://img.shields.io/badge/C_Plus_Plus-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)](#c-1)
 [![Csharp](https://img.shields.io/badge/C_Sharp-8419D1?style=for-the-badge&logo=csharp&logoColor=white)](#c-1)
 [![Common Lisp](https://img.shields.io/badge/Common_Lisp-C9284D?style=for-the-badge&logo=lisp&logoColor=black)](#common-lisp)
-[![Pascal](https://img.shields.io/badge/Pascal-FDB515?style=for-the-badge&logo=pascal&logoColor=black)](#pascal)
+[![Pascal](https://img.shields.io/badge/Pascal-68A51C?style=for-the-badge&logo=pascal&logoColor=black)](#pascal)
 [![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)](#rust)
 
 </div>
