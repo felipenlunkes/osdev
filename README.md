@@ -816,12 +816,20 @@ Click on each highlighted operating system to access material for that operating
 
 </details>
 
-<details title="SysAdmin and applications" align='left'>
-<summary align='left'>SysAdmin and applications</summary>
+<details title="SysAdmin" align='left'>
+<summary align='left'>SysAdmin</summary>
 
 #### Unix-like (general)
 
 * [Reading UNIX Manual Pages - Apple](https://developer.apple.com/documentation/os/reading_unix_manual_pages)
+
+</details>
+
+<details title="Applications" align='left'>
+<summary align='left'>Applications</summary>
+
+#### Unix-like (general)
+
 * [WINE](https://www.winehq.org/)
 
 </details>
