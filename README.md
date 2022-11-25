@@ -324,6 +324,7 @@ In this session, the projects were separated by the main programming language us
 [![Common Lisp](https://img.shields.io/badge/Common_Lisp-C9284D?style=for-the-badge&logo=lisp&logoColor=black)](#common-lisp)
 [![D](https://img.shields.io/badge/D-B7472A?style=for-the-badge&logo=D&logoColor=white)](#d)
 [![Pascal](https://img.shields.io/badge/Pascal-68A51C?style=for-the-badge&logo=pascal&logoColor=black)](#pascal)
+[![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=black)](#swift)
 [![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)](#rust)
 
 </div>
@@ -400,7 +401,6 @@ In this session, the projects were separated by the main programming language us
 |[AwooOS](https://github.com/awooos/awooos)|C|x86, x86_64|Other|Yes|Yes|![](https://img.shields.io/github/license/awooos/awooos.svg)|
 |[Banana Operating System](https://github.com/alexdboxall/Banana-Operating-System)|C|x86|Other|Yes|Yes|![](https://img.shields.io/github/license/alexdboxall/Banana-Operating-System.svg)|
 |[BeeOS](https://github.com/davxy/beeos)|C|x86|Unix-like|Yes|Yes|![](https://img.shields.io/github/license/davxy/beeos.svg)|
-|[BetaOS](https://github.com/admkopec/BetaOS)|C, Swift|x86|Other|Yes|Yes|![](https://img.shields.io/github/license/admkopec/BetaOS.svg)|
 |[BlueKernel](http://www.bluekernel.com.au/)|C|x86|Other|Yes|Yes|Creative Commons Attribution-NonCommercial-NoDerivatives 4.0|
 |[BoneOS](https://github.com/Bone-Project/BoneOS)|C|x86|Other|Yes|Yes|![](https://img.shields.io/github/license/Bone-Project/BoneOS.svg)|
 |[Brutal](https://github.com/brutal-org/brutal)|C|x86, x86_64, ARM, RISC-V|Unix-like|Yes|Yes|![](https://img.shields.io/github/license/brutal-org/brutal.svg)|
@@ -576,6 +576,18 @@ In this session, the projects were separated by the main programming language us
 |:----:|:--------:|:------------:|:---------:|:-------------------:|:------:|:-------:|
 |[Asuro](https://www.spexeah.com/index.php/asuro/)|Pascal (FreePascal)|x86|Other|No|Yes|Apache License 2.0|
 |[Ultibo Core](https://github.com/ultibohub/Core)|Pascal|Raspberry Pi|Other|Yes|Yes|![](https://img.shields.io/github/license/ultibohub/Core.svg)|
+
+</div>
+
+- [x] [Go up](#os-projects-sorted-by-language)
+
+### Swift
+
+<div align="center">
+
+| Name | Language | Architecture | OS family | Available on GitHub | Active | License |
+|:----:|:--------:|:------------:|:---------:|:-------------------:|:------:|:-------:|
+|[BetaOS](https://github.com/admkopec/BetaOS)|Swift, C|x86|Other|Yes|Yes|![](https://img.shields.io/github/license/admkopec/BetaOS.svg)|
 
 </div>
 
