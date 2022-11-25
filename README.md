@@ -194,6 +194,7 @@ In this session, the projects were separated by the operating system family to w
 * [Gubernatrix](https://gitlab.com/hgoel0974/gubernatrix)
 * [GreenteaOS](https://github.com/GreenteaOS)
 * [HeliX](https://github.com/Helix-OS/helix-os)
+* [HelloOS](https://github.com/kbu1564/HelloOS)
 * [Hoho](https://github.com/davidepianca98/hoho-os)
 * [Hydrogen](https://moondeck.github.io/hydrogen/)
 * [HypnoticOS](https://github.com/hypnoticos/hypnoticos)
@@ -324,7 +325,7 @@ In this session, the projects were separated by the main programming language us
 [![Common Lisp](https://img.shields.io/badge/Common_Lisp-C9284D?style=for-the-badge&logo=lisp&logoColor=black)](#common-lisp)
 [![D](https://img.shields.io/badge/D-B7472A?style=for-the-badge&logo=D&logoColor=white)](#d)
 [![Pascal](https://img.shields.io/badge/Pascal-68A51C?style=for-the-badge&logo=pascal&logoColor=black)](#pascal)
-[![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=black)](#swift)
+[![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white)](#swift)
 [![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)](#rust)
 
 </div>
@@ -345,6 +346,7 @@ In this session, the projects were separated by the main programming language us
 |[Cloudium OS](https://sourceforge.net/projects/cloudium-os/)|Assembly|x86|Other|No|Yes|Unknown|
 |[Cyjon](https://github.com/CorruptedByCPU/Cyjon/)|Assembly|x86_64|Other|Yes|Yes|![](https://img.shields.io/github/license/CorruptedByCPU/Cyjon.svg)|
 |[Everest OS](https://github.com/felipenlunkes/EverestOS)|Assembly|x86 (16-bit)|Other|Yes|No|![](https://img.shields.io/github/license/felipenlunkes/EverestOS.svg)|
+|[HelloOS](https://github.com/kbu1564/HelloOS)|Assembly|x86|Other|Yes|No|![](https://img.shields.io/github/license/kbu1564/HelloOS.svg)|
 |[Hexagonix](https://github.com/hexagonix/)|Assembly|x86|Unix-like|Yes|Yes|![](https://img.shields.io/github/license/Hexagonix/hexagonix.svg)|
 |[KnightOS](https://github.com/KnightOS/KnightOS)|Assembly|Texas Instruments Calculators|Unix-like|Yes|Yes|![](https://img.shields.io/github/license/KnightOS/KnightOS.svg)|
 |[Kolibri OS](http://www.kolibrios.org/)|Assembly|x86|Other|No|Yes|GPLv2|
