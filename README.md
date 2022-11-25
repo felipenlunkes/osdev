@@ -167,6 +167,7 @@ In this session, the projects were separated by the operating system family to w
 * [BareMetal](https://github.com/ReturnInfinity/BareMetal-OS)
 * [BCOS](http://bcos.hopto.org/)
 * [Beelzebub](https://github.com/vercas/Beelzebub)
+* [BetaOS](https://github.com/admkopec/BetaOS)
 * [Bin S.O](https://github.com/felipenlunkes/Bin-S.O)
 * [BleskOS](https://github.com/Klaykap/BleskOS)
 * [BlueKernel](http://www.bluekernel.com.au/)
@@ -399,6 +400,7 @@ In this session, the projects were separated by the main programming language us
 |[AwooOS](https://github.com/awooos/awooos)|C|x86, x86_64|Other|Yes|Yes|![](https://img.shields.io/github/license/awooos/awooos.svg)|
 |[Banana Operating System](https://github.com/alexdboxall/Banana-Operating-System)|C|x86|Other|Yes|Yes|![](https://img.shields.io/github/license/alexdboxall/Banana-Operating-System.svg)|
 |[BeeOS](https://github.com/davxy/beeos)|C|x86|Unix-like|Yes|Yes|![](https://img.shields.io/github/license/davxy/beeos.svg)|
+|[BetaOS](https://github.com/admkopec/BetaOS)|C, Swift|Other|Yes|Yes|![](https://img.shields.io/github/license/admkopec/BetaOS.svg)|
 |[BlueKernel](http://www.bluekernel.com.au/)|C|x86|Other|Yes|Yes|Creative Commons Attribution-NonCommercial-NoDerivatives 4.0|
 |[BoneOS](https://github.com/Bone-Project/BoneOS)|C|x86|Other|Yes|Yes|![](https://img.shields.io/github/license/Bone-Project/BoneOS.svg)|
 |[Brutal](https://github.com/brutal-org/brutal)|C|x86, x86_64, ARM, RISC-V|Unix-like|Yes|Yes|![](https://img.shields.io/github/license/brutal-org/brutal.svg)|
@@ -966,6 +968,7 @@ In this session you will find text or video tutorials for operating system devel
 * [os-tutorial - How to create an OS from scratch](https://github.com/cfenollosa/os-tutorial)
 * [Roll your own toy UNIX-clone OS](http://jamesmolloy.co.uk/tutorial_html/)
 * [Writing an OS in Rust](https://os.phil-opp.com/)
+* [Learning to write an Operating System](https://github.com/mikesmullin/OperatingSystem)
 
 ### Creating an ARM operating system
 
