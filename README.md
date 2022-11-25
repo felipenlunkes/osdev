@@ -400,7 +400,7 @@ In this session, the projects were separated by the main programming language us
 |[AwooOS](https://github.com/awooos/awooos)|C|x86, x86_64|Other|Yes|Yes|![](https://img.shields.io/github/license/awooos/awooos.svg)|
 |[Banana Operating System](https://github.com/alexdboxall/Banana-Operating-System)|C|x86|Other|Yes|Yes|![](https://img.shields.io/github/license/alexdboxall/Banana-Operating-System.svg)|
 |[BeeOS](https://github.com/davxy/beeos)|C|x86|Unix-like|Yes|Yes|![](https://img.shields.io/github/license/davxy/beeos.svg)|
-|[BetaOS](https://github.com/admkopec/BetaOS)|C, Swift|Other|Yes|Yes|![](https://img.shields.io/github/license/admkopec/BetaOS.svg)|
+|[BetaOS](https://github.com/admkopec/BetaOS)|C, Swift|x86|Other|Yes|Yes|![](https://img.shields.io/github/license/admkopec/BetaOS.svg)|
 |[BlueKernel](http://www.bluekernel.com.au/)|C|x86|Other|Yes|Yes|Creative Commons Attribution-NonCommercial-NoDerivatives 4.0|
 |[BoneOS](https://github.com/Bone-Project/BoneOS)|C|x86|Other|Yes|Yes|![](https://img.shields.io/github/license/Bone-Project/BoneOS.svg)|
 |[Brutal](https://github.com/brutal-org/brutal)|C|x86, x86_64, ARM, RISC-V|Unix-like|Yes|Yes|![](https://img.shields.io/github/license/brutal-org/brutal.svg)|
