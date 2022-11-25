@@ -326,21 +326,21 @@ In this session, the projects were separated by the main programming language us
 |[Cloudium OS](https://sourceforge.net/projects/cloudium-os/)|Assembly|x86|Other|No|Yes|Unknown|
 |[Cyjon](https://github.com/CorruptedByCPU/Cyjon/)|Assembly|x86_64|Other|Yes|Yes|![](https://img.shields.io/github/license/CorruptedByCPU/Cyjon.svg)|
 |[Everest OS](https://github.com/felipenlunkes/EverestOS)|Assembly|x86 (16-bit)|Other|Yes|No|![](https://img.shields.io/github/license/felipenlunkes/EverestOS.svg)|
-|[MicroBe OS](http://www.microbe.cz/)|Assembly|x86|Other|No|Yes|Unknown|
-|[MikeOS](http://mikeos.sourceforge.net/)|Assembly|x86 (16-bit)|Other|No|Yes|BSD-like|
-|[MS-DOS](https://github.com/microsoft/MS-DOS)|Assembly|x86 (16-bit)|DOS|Yes|No (historical)|![](https://img.shields.io/github/license/microsoft/MS-DOS.svg)|
-|[Mu](https://github.com/akkartik/mu)|Assembly, Forth|x86|Other|Yes|Yes|![](https://img.shields.io/github/license/akkartik/mu.svg)|
 |[Hexagonix](https://github.com/hexagonix/)|Assembly|x86|Unix-like|Yes|Yes|![](https://img.shields.io/github/license/Hexagonix/hexagonix.svg)|
 |[KnightOS](https://github.com/KnightOS/KnightOS)|Assembly|Texas Instruments Calculators|Unix-like|Yes|Yes|![](https://img.shields.io/github/license/KnightOS/KnightOS.svg)|
 |[Kolibri OS](http://www.kolibrios.org/)|Assembly|x86|Other|No|Yes|GPLv2|
 |[MenuetOS](http://www.menuetos.net/)|Assembly|x86, x86_64|Other|No|Yes|GPL|
+|[MicroBe OS](http://www.microbe.cz/)|Assembly|x86|Other|No|Yes|Unknown|
+|[MikeOS](http://mikeos.sourceforge.net/)|Assembly|x86 (16-bit)|Other|No|Yes|BSD-like|
+|[MS-DOS](https://github.com/microsoft/MS-DOS)|Assembly|x86 (16-bit)|DOS|Yes|No (historical)|![](https://img.shields.io/github/license/microsoft/MS-DOS.svg)|
+|[Mu](https://github.com/akkartik/mu)|Assembly, Forth|x86|Other|Yes|Yes|![](https://img.shields.io/github/license/akkartik/mu.svg)|
 |[Snowdrop OS](http://sebastianmihai.com/snowdrop/)|Assembly|x86 (16-bit)|Other|No|Yes|Public domain|
 |[tatOS](https://github.com/tatimmer/tatOS)|Assembly|x86|Other|Yes|No|![](https://img.shields.io/github/license/tatimmer/tatOS.svg)|
 |[xOS](https://github.com/BrownieOS/xOS)|Assembly|x86|Other|Yes|No|![](https://img.shields.io/github/license/BrownieOS/xOS.svg)|
 
 </div>
 
- - [x] [Go up](#os-projects-sorted-by-language)
+- [x] [Go up](#os-projects-sorted-by-language)
 
 ### Basic
 
@@ -352,7 +352,7 @@ In this session, the projects were separated by the main programming language us
 
 </div>
 
- - [x] [Go up](#os-projects-sorted-by-language)
+- [x] [Go up](#os-projects-sorted-by-language)
 
 ### C
 
@@ -459,7 +459,7 @@ In this session, the projects were separated by the main programming language us
 
 </div>
 
- - [x] [Go up](#os-projects-sorted-by-language)
+- [x] [Go up](#os-projects-sorted-by-language)
 
 <!-- Em atualização -->
 
@@ -498,7 +498,7 @@ In this session, the projects were separated by the main programming language us
 
 </div>
 
- - [x] [Go up](#os-projects-sorted-by-language)
+- [x] [Go up](#os-projects-sorted-by-language)
 
 ### C#
 
@@ -511,7 +511,7 @@ In this session, the projects were separated by the main programming language us
 
 </div>
 
- - [x] [Go up](#os-projects-sorted-by-language)
+- [x] [Go up](#os-projects-sorted-by-language)
 
 ### Common Lisp
 
@@ -519,11 +519,11 @@ In this session, the projects were separated by the main programming language us
 
 | Name | Language | Architecture | OS family | Available on GitHub | Active | License |
 |:----:|:--------:|:------------:|:---------:|:-------------------:|:------:|:-------:|
-|[Mezzano](https://github.com/froggey/Mezzano)|Rust|-|Other|Yes|Yes|![](https://img.shields.io/github/license/froggey/Mezzano.svg)|
+|[Mezzano](https://github.com/froggey/Mezzano)|Common Lisp|-|Other|Yes|Yes|![](https://img.shields.io/github/license/froggey/Mezzano.svg)|
 
 </div>
 
- - [x] [Go up](#os-projects-sorted-by-language)
+- [x] [Go up](#os-projects-sorted-by-language)
 
 ### Pascal
 
@@ -536,7 +536,7 @@ In this session, the projects were separated by the main programming language us
 
 </div>
 
- - [x] [Go up](#os-projects-sorted-by-language)
+- [x] [Go up](#os-projects-sorted-by-language)
 
 ### Rust
 
@@ -553,7 +553,7 @@ In this session, the projects were separated by the main programming language us
 
 </div>
 
- - [x] [Go up](#os-projects-sorted-by-language)
+- [x] [Go up](#os-projects-sorted-by-language)
 
 <hr>
 
