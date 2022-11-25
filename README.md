@@ -111,6 +111,7 @@ In this session, the projects were separated by the operating system family to w
 * [ToaruOS](http://github.com/klange/toaruos)
 * [TravorOS](https://github.com/TravorLZH/TravorOS)
 * [Tupai](https://gitlab.com/zesterer/tupai/)
+* [µnix](https://github.com/cute-engineewing/munix)
 * [Upanix](https://github.com/prajwal83/upanix)
 * [Vanadium OS](https://github.com/p-durlej/newsys)
 * [xv6](https://github.com/mit-pdos/xv6-public)
@@ -122,6 +123,7 @@ In this session, the projects were separated by the operating system family to w
 <br>
 <summary align='left'>DOS (Disk Operating System)</summary>
 
+* [AtieDOS](https://github.com/AtieP/AtieDOS)
 * [FreeDOS](http://www.freedos.org/)
 * [JSD/OS](https://github.com/pgrAm/JSD-OS)
 * [MS-DOS](https://github.com/microsoft/MS-DOS)
@@ -160,6 +162,7 @@ In this session, the projects were separated by the operating system family to w
 * [Aura](https://github.com/projectasiago/aura)
 * [AwooOS](https://github.com/awooos/awooos)
 * [aurora-xeneva](https://github.com/manaskamal/aurora-xeneva)
+* [azOS](https://github.com/azarovalex/azOS)
 * [Banana Operating System](https://github.com/alexdboxall/Banana-Operating-System)
 * [BareMetal](https://github.com/ReturnInfinity/BareMetal-OS)
 * [BCOS](http://bcos.hopto.org/)
@@ -168,6 +171,7 @@ In this session, the projects were separated by the operating system family to w
 * [BleskOS](https://github.com/Klaykap/BleskOS)
 * [BlueKernel](http://www.bluekernel.com.au/)
 * [BoneOS](https://github.com/Bone-Project/BoneOS)
+* [Carbon](https://github.com/davidaylaian/carbon)
 * [ChaiOS](https://github.com/ChaiSoft/ChaiOS)
 * [Cloudium OS](https://sourceforge.net/projects/cloudium-os/)
 * [Cthulhu OS](https://github.com/Enerccio/Cthulhu-OS)
@@ -177,12 +181,14 @@ In this session, the projects were separated by the operating system family to w
 * [DreamOS64](https://github.com/dreamos82/Dreamos64)
 * [Dux](https://github.com/duckinator/dux)
 * [Einherjar](https://github.com/narke/Einherjar)
+* [ErdOS](https://github.com/gabrielbiga/ErdOS)
 * [Everest OS](https://github.com/felipenlunkes/EverestOS)
 * [Fling OS](https://github.com/FlingOS/FlingOS)
 * [FoxOS](https://github.com/TheUltimateFoxOS/horizon)
 * [FROST](https://github.com/thrimbor/frost)
 * [Fudge](http://github.com/jezze/fudge/)
 * [FuzzyOS](https://github.com/scopeInfinity/FuzzyOS)
+* [GeckOS version 2](https://github.com/fachat/GeckOS-V2)
 * [Ghost OS](https://github.com/maxdev1/ghost/)
 * [Gubernatrix](https://gitlab.com/hgoel0974/gubernatrix)
 * [GreenteaOS](https://github.com/GreenteaOS)
@@ -210,6 +216,7 @@ In this session, the projects were separated by the operating system family to w
 * [mikanos](https://github.com/uchan-nos/mikanos)
 * [MikeOS](http://mikeos.sourceforge.net/)
 * [Minoca](https://github.com/minoca/os)
+* [MiraiOS](https://github.com/LNooteboom/MiraiOS)
 * [mkfreeOS](https://github.com/ramonmayedo/mkfreeOS)
 * [MollenOS](https://github.com/Meulengracht/MollenOS)
 * [MOROS](https://github.com/vinc/moros)
@@ -219,19 +226,24 @@ In this session, the projects were separated by the operating system family to w
 * [Nano16](https://github.com/NANO-DEV/NANO-S16)
 * [Nano32](https://github.com/NANO-DEV/NANO-S32)
 * [NOS](https://github.com/xenos1984/NOS)
+* [OLOS](https://github.com/leonardo-ono/Assembly8086OLOS)
 * [OS](http://sourceforge.net/projects/lowest-kernel/files/)
 * [OSv](https://github.com/cloudius-systems/osv)
 * [OS/K](https://git.a-lec.org/os-k-team/os-on-kaleid)
 * [OS/Z](https://bztsrc.gitlab.io/osz/)
 * [opuntiaOS](https://github.com/opuntiaOS-Project/opuntiaOS)
 * [PastaOS](https://github.com/arighi/pastaos)
+* [PC/GEOS](https://github.com/bluewaysw/pcgeos)
 * [Perception](https://github.com/AndrewAPrice/Perception)
 * [pidi-os](https://github.com/GandelXIV/pidi-os)
+* [PiscisOS](https://github.com/tishion/PiscisOS)
 * [Plan 42](https://github.com/mooseman/plan_42)
 * [PlusOS](https://sourceforge.net/projects/plusos/)
 * [Polaris](https://github.com/NSG650/Polaris)
+* [PowerNex](https://github.com/PowerNex/PowerNex)
 * [PrettyOS](http://prettyos.de/)
 * [primus-os](https://github.com/araujo88/primus-os)
+* [Q Operating System](https://github.com/raphydaphy/Q-Operating-System)
 * [Quark Operating System](https://github.com/quark-os/quark-os)
 * [QuasiOS](https://git.imada.sdu.dk/Sandsized/QuasiOS-64-bit)
 * [RDOS](http://www.rdos.net/)
@@ -254,6 +266,7 @@ In this session, the projects were separated by the operating system family to w
 * [tatOS](https://github.com/tatimmer/tatOS)
 * [TempleOS](http://templeos.org/)
 * [Theseus](https://github.com/theseus-os/Theseus)
+* [Thor Operating System](https://github.com/wichtounet/thor-os)
 * [TinyOS](https://github.com/tinyos/tinyos-main)
 * [Týndur](https://git.tyndur.org/lowlevel/tyndur/commits/master)
 * [Tysos](https://github.com/jncronin/tysos)
@@ -267,6 +280,7 @@ In this session, the projects were separated by the operating system family to w
 * [XEOS](http://www.xs-labs.com/en/projects/xeos/)
 * [xOS](https://github.com/BrownieOS/xOS)
 * [YaxOS](https://gitlab.com/SopaXorzTaker/yaxos)
+* [Zeal 8-bit OS](https://github.com/Zeal8bit/Zeal-8-bit-OS)
 
 </details>
 
@@ -307,6 +321,7 @@ In this session, the projects were separated by the main programming language us
 [![Cplusplus](https://img.shields.io/badge/C_Plus_Plus-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)](#c-1)
 [![Csharp](https://img.shields.io/badge/C_Sharp-8419D1?style=for-the-badge&logo=csharp&logoColor=white)](#c-2)
 [![Common Lisp](https://img.shields.io/badge/Common_Lisp-C9284D?style=for-the-badge&logo=lisp&logoColor=black)](#common-lisp)
+[![D](https://img.shields.io/badge/D-B7472A?style=for-the-badge&logo=D&logoColor=white)](#d)
 [![Pascal](https://img.shields.io/badge/Pascal-68A51C?style=for-the-badge&logo=pascal&logoColor=black)](#pascal)
 [![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)](#rust)
 
@@ -320,6 +335,8 @@ In this session, the projects were separated by the main programming language us
 |:----:|:--------:|:------------:|:---------:|:-------------------:|:------:|:-------:|
 |[Research UNIX v1-v7](https://github.com/dspinellis/unix-history-repo)|Assembly (early versions) and C|PDP-7, PDP-11| Unix | Yes | No (historical)|![](https://img.shields.io/github/license/dspinellis/unix-history-repo.svg)|
 |[UNIX PDP-7](https://github.com/asegid/pdp7-unix)|Assembly|PDP-7|Unix|Yes|No|![](https://img.shields.io/github/license/asegid/pdp7-unix.svg)|
+|[AtieDOS](https://github.com/AtieP/AtieDOS)|Assembly|x86 (16-bit)|DOS|Yes|Yes|![](https://img.shields.io/github/license/AtieP/AtieDOS.svg)|
+|[azOS](https://github.com/azarovalex/azOS)|Assembly|x86 (16-bit)|Other|Yes|No|![](https://img.shields.io/github/license/azarovalex/azOS.svg)|
 |[BareMetal](https://github.com/ReturnInfinity/BareMetal)|Assembly|x86|Other|Yes|No|![](https://img.shields.io/github/license/ReturnInfinity/BareMetal.svg)|
 |[Bin S.O](https://github.com/felipenlunkes/Bin-S.O)|Assembly|x86 (16-bit)|Other|Yes|No|![](https://img.shields.io/github/license/felipenlunkes/Bin-S.O.svg)|
 |[BleskOS](https://github.com/Klaykap/BleskOS)|Assembly|x86|Other|Yes|Yes|![](https://img.shields.io/github/license/Klaykap/BleskOS.svg)|
@@ -334,9 +351,13 @@ In this session, the projects were separated by the main programming language us
 |[MikeOS](http://mikeos.sourceforge.net/)|Assembly|x86 (16-bit)|Other|No|Yes|BSD-like|
 |[MS-DOS](https://github.com/microsoft/MS-DOS)|Assembly|x86 (16-bit)|DOS|Yes|No (historical)|![](https://img.shields.io/github/license/microsoft/MS-DOS.svg)|
 |[Mu](https://github.com/akkartik/mu)|Assembly, Forth|x86|Other|Yes|Yes|![](https://img.shields.io/github/license/akkartik/mu.svg)|
+|[OLOS](https://github.com/leonardo-ono/Assembly8086OLOS)|Assembly|x86 (16-bit)|Other|Yes|Yes|![](https://img.shields.io/github/license/leonardo-ono/Assembly8086OLOS.svg)|
+|[PC/GEOS](https://github.com/bluewaysw/pcgeos)|Assembly|x86|Other|Yes|Yes|![](https://img.shields.io/github/license/bluewaysw/pcgeos.svg)|
+|[PiscisOS](https://github.com/tishion/PiscisOS)|Assembly|x86|Other|Yes|No|![](https://img.shields.io/github/license/tishion/PiscisOS.svg)|
 |[Snowdrop OS](http://sebastianmihai.com/snowdrop/)|Assembly|x86 (16-bit)|Other|No|Yes|Public domain|
 |[tatOS](https://github.com/tatimmer/tatOS)|Assembly|x86|Other|Yes|No|![](https://img.shields.io/github/license/tatimmer/tatOS.svg)|
 |[xOS](https://github.com/BrownieOS/xOS)|Assembly|x86|Other|Yes|No|![](https://img.shields.io/github/license/BrownieOS/xOS.svg)|
+|[Zeal 8-bit OS](https://github.com/Zeal8bit/Zeal-8-bit-OS)|Assembly|Z80|Other|Yes|Yes|![](https://img.shields.io/github/license/Zeal8bit/Zeal-8-bit-OS.svg)|
 
 </div>
 
@@ -381,6 +402,7 @@ In this session, the projects were separated by the main programming language us
 |[BlueKernel](http://www.bluekernel.com.au/)|C|x86|Other|Yes|Yes|Creative Commons Attribution-NonCommercial-NoDerivatives 4.0|
 |[BoneOS](https://github.com/Bone-Project/BoneOS)|C|x86|Other|Yes|Yes|![](https://img.shields.io/github/license/Bone-Project/BoneOS.svg)|
 |[Brutal](https://github.com/brutal-org/brutal)|C|x86, x86_64, ARM, RISC-V|Unix-like|Yes|Yes|![](https://img.shields.io/github/license/brutal-org/brutal.svg)|
+|[Carbon](https://github.com/davidaylaian/carbon)|C|x86|Other|Yes|Yes|![](https://img.shields.io/github/license/davidaylaian/carbon.svg)|
 |[Cthulhu OS](https://github.com/Enerccio/Cthulhu-OS)|C|x86_64|Other|Yes|Yes|![](https://img.shields.io/github/license/Enerccio/Cthulhu-OS.svg)|
 |[Darwin (XNU kernel)](https://github.com/apple/darwin-xnu)|C|x86_64, ARM, ARM AArch64, PowerPC|Unix-like|Yes|Yes|![](https://img.shields.io/github/license/apple/darwin-xnu.svg)|
 |[DreamOS](https://github.com/inuyasha82/DreamOs)|C|x86|Other|Yes|No|![](https://img.shields.io/github/license/inuyasha82/DreamOs.svg)|
@@ -394,6 +416,7 @@ In this session, the projects were separated by the main programming language us
 |[Fudge](http://github.com/jezze/fudge/)|C|x86, ARM|Other|Yes|Yes|![](https://img.shields.io/github/license/jezze/fudge.svg)|
 |[FuzzyOS](https://github.com/scopeInfinity/FuzzyOS)|C|x86|Other|Yes|Yes|![](https://img.shields.io/github/license/scopeInfinity/FuzzyOS.svg)|
 |[Fuchsia OS](https://fuchsia.dev/)|C, C++|x86_64, ARM, ARM AArch64|Unix-like|No|Yes|Apache|
+|[GeckOS version 2](https://github.com/fachat/GeckOS-V2)|C|6502|Other|Yes|Yes|![](https://img.shields.io/github/license/fachat/GeckOS-V2.svg)|
 |[GNU Hurd](https://www.gnu.org/software/hurd/)|C|x86|Unix-like|No|Yes|GPL|  
 |[Gramado](https://github.com/frednora/gramado)|C|x86|Unix-like|Yes|Yes|![](https://img.shields.io/github/license/frednora/gramado.svg)|
 |[Harvey](https://github.com/Harvey-OS/harvey)|C|x86|Unix (Plan 9)|Yes|Yes|![](https://img.shields.io/github/license/Harvey-OS/harvey.svg)|
@@ -417,6 +440,7 @@ In this session, the projects were separated by the main programming language us
 |[MentOS](https://github.com/mentos-team/MentOS)|C|x86|Unix-like|Yes|Yes|![](https://img.shields.io/github/license/mentos-team/MentOS.svg)|
 |[Minix](https://github.com/Stichting-MINIX-Research-Foundation/minix)|C|x86, arm64|Unix-like|Yes|Yes|![](https://img.shields.io/github/license/Stichting-MINIX-Research-Foundation/minix.svg)|
 |[Minoca](https://github.com/minoca/os)|C|-|Other|Yes|Yes|![](https://img.shields.io/github/license/minoca/os.svg)|
+|[MiraiOS](https://github.com/LNooteboom/MiraiOS)|C|x86_64|Other|Yes|Yes|![](https://img.shields.io/github/license/LNooteboom/MiraiOS.svg)|
 |[MollenOS](https://github.com/Meulengracht/MollenOS)|C|-|Other|Yes|Yes|![](https://img.shields.io/github/license/Meulengracht/MollenOS.svg)|
 |[mos](https://github.com/MQuy/mos)|C|-|Other|Yes|Yes|![](https://img.shields.io/github/license/MQuy/mos.svg)|
 |[Nano16](https://github.com/NANO-DEV/NANO-S16)|C|x86 (16-bit)|Other|Yes|Yes|![](https://img.shields.io/github/license/NANO-DEV/NANO-S16.svg)|
@@ -436,12 +460,14 @@ In this session, the projects were separated by the main programming language us
 |[primus-os](https://github.com/araujo88/primus-os)|C|x86|Other|Yes|Yes|![](https://img.shields.io/github/license/araujo88/primus-os.svg)|
 |[Public Domain Operating System](http://pdos.org/)|C|x86 (16-bit, 32-bit)|DOS|No|Yes|Public Domain|
 |[PX-DOS](https://github.com/felipenlunkes/PX-DOS-Core)|C|x86 (16-bit)|DOS|Yes|No|![](https://img.shields.io/github/license/felipenlunkes/PX-DOS-Core.svg)|
+|[Q Operating System](https://github.com/raphydaphy/Q-Operating-System)|C|x86_64|Other|Yes|No|![](https://img.shields.io/github/license/raphydaphy/Q-Operating-System.svg)|
 |[qword-OS](https://github.com/qword-os/qword)|C|x86_64|Unix-like|Yes|No|![](https://img.shields.io/github/license/qword-os/qword.svg)|
 |[ReactOS](https://github.com/reactos/reactos)|C|x86|Windows|Yes|Yes|![](https://img.shields.io/github/license/reactos/reactos.svg)|
 |[Red OS](https://github.com/primis/redos)|C|x86|Other|Yes|No|![](https://img.shields.io/github/license/primis/redos.svg)|
 |[SeaOS](https://github.com/dbittman/seakernel)|C|x86_64|Unix-like|Yes|No|![](https://img.shields.io/github/license/dbittman/seakernel.svg)|
 |[seL4](https://github.com/seL4/seL4)|C|-|L4|Yes|Yes|![](https://img.shields.io/github/license/seL4/seL4.svg)|
 |[SerpaeOS](https://serpaeos.sourceforge.io/)|C|x86|Other|No|Yes|GPLv3|
+|[SimpleOS](https://github.com/xing1357/SimpleOS/)|C|x86|DOS|Yes|Yes|![](https://img.shields.io/github/license/xing1357/SimpleOS.svg)|
 |[SnowflakeOS](https://github.com/29jm/SnowflakeOS)|C|x86|Other|Yes|No|![](https://img.shields.io/github/license/29jm/SnowflakeOS.svg)|
 |[Sortix](https://sortix.org/)|C|x86, x86_64|Unix-like|No|Yes|ISC license|
 |[Soso](https://github.com/ozkl/soso)|C|x86|Unix-like|Yes|Yes|![](https://img.shields.io/github/license/ozkl/soso.svg)|
@@ -474,12 +500,13 @@ In this session, the projects were separated by the main programming language us
 |[ChaiOS](https://github.com/ChaiSoft/ChaiOS)|C++|x86|Other|Yes|Yes|![](https://img.shields.io/github/license/ChaiSoft/ChaiOS.svg)
 |[Dennix](https://github.com/dennis95/dennix)|C++|x86_64|Unix-like|Yes|Yes|![](https://img.shields.io/github/license/dennis95/dennix.svg)|
 |[duckOS](https://github.com/byteduck/duckOS)|C++|-|Unix-like|Yes|Yes|![](https://img.shields.io/github/license/byteduck/duckOS.svg)|
+|[ErdOS](https://github.com/gabrielbiga/ErdOS)|C++|x86|Yes|No|![](https://img.shields.io/github/license/gabrielbiga/ErdOS.svg)|
 |[FoxOS](https://github.com/TheUltimateFoxOS/horizon)|C++|x86|Other|Yes|Yes|![](https://img.shields.io/github/license/TheUltimateFoxOS/horizon.svg)
 |[Ghost OS](https://github.com/maxdev1/ghost/)|C++|x86|Other|Yes|Yes|![](https://img.shields.io/github/license/maxdev1/ghostx.svg)|
 |[GreenteaOS](https://github.com/GreenteaOS)|C++|x86|Other|Yes|Yes|![](https://img.shields.io/github/license/GreenteaOS/Tofita.svg)|
 |[Haiku](https://github.com/haiku/haiku)|C++|x86, ARM|BeOS-like|Yes|Yes|![](https://img.shields.io/github/license/haiku/haiku.svg)|
 |[JSD/OS](https://github.com/pgrAm/JSD-OS)|C++|x86|DOS|Yes|Yes|![](https://img.shields.io/github/license/pgrAm/JSD-OS.svg)|
-|[LemonOS](https://github.com/LemonOSProject/LemonOS)|C++|-|Unix-like|Yes|Yes|![](https://img.shields.io/github/license/LemonOSProject/LemonOS.svg)|
+|[LemonOS](https://git[PowerNex](https://github.com/PowerNex/PowerNex)hub.com/LemonOSProject/LemonOS)|C++|-|Unix-like|Yes|Yes|![](https://img.shields.io/github/license/LemonOSProject/LemonOS.svg)|
 |[Managarm](https://github.com/managarm/managarm)|C++|-|Other|Yes|Yes|![](https://img.shields.io/github/license/managarm/managarm.svg)|
 |[mikanos](https://github.com/uchan-nos/mikanos)|C++|-|Other|Yes|Yes|![](https://img.shields.io/github/license/uchan-nos/mikanos.svg)|
 |[mkfreeOS](https://github.com/ramonmayedo/mkfreeOS)|C++|x86|Other|Yes|Yes|![](https://img.shields.io/github/license/ramonmayedo/mkfreeOS.svg)|
@@ -490,9 +517,10 @@ In this session, the projects were separated by the main programming language us
 |[Reaver OS](https://github.com/griwes/ReaverOS)|C++|x86_64|Other|Yes|Yes|![](https://img.shields.io/github/license/griwes/ReaverOS.svg)|
 |[SerenityOS](https://github.com/SerenityOS/serenity)|C++|x86|Unix-like|Yes|Yes|![](https://img.shields.io/github/license/SerenityOS/serenity.svg)|
 |[Silcos](https://github.com/SukantPal/Silcos-Kernel)|C++|x86|Other|Yes|Yes|![](https://img.shields.io/github/license/SukantPal/Silcos-Kernel.svg)|
-|[SimpleOS](https://github.com/xing1357/SimpleOS/)|C|x86|DOS|Yes|Yes|![](https://img.shields.io/github/license/xing1357/SimpleOS.svg)|
 |[skiftOS](https://github.com/skiftOS/skift)|C++|-|Other|Yes|Yes|![](https://img.shields.io/github/license/skiftOS/skift.svg)|
+|[Thor Operating System](https://github.com/wichtounet/thor-os)|C++|x86_64|Other|Yes|Yes|![](https://img.shields.io/github/license/wichtounet/thor-os.svg)|
 |[ultronOS](https://github.com/aswinmohanme/ultronOS)|C++|x86|Other|Yes|No|![](https://img.shields.io/github/license/aswinmohanme/ultronOS.svg)|
+|[µnix](https://github.com/cute-engineewing/munix)|C++|Raspberry Pi Pico|Unix-like|Yes|Yes|![](https://img.shields.io/github/license/cute-engineewing/munix.svg)|
 |[Upanix](https://github.com/prajwal83/upanix)|C++|x86|Unix-like|Yes|Yes|![](https://img.shields.io/github/license/prajwal83/upanix.svg)|
 |[WingOS](https://github.com/Supercip971/WingOS_x64/)|C++|x86_64|Other|Yes|[No](https://github.com/brutal-org/brutal)|![](https://img.shields.io/github/license/Supercip971/WingOS_x64.svg)|
 
@@ -524,6 +552,19 @@ In this session, the projects were separated by the main programming language us
 </div>
 
 - [x] [Go up](#os-projects-sorted-by-language)
+
+### D
+
+<div align="center">
+
+| Name | Language | Architecture | OS family | Available on GitHub | Active | License |
+|:----:|:--------:|:------------:|:---------:|:-------------------:|:------:|:-------:|
+|[PowerNex](https://github.com/PowerNex/PowerNex)|D|x86_64|Other|Yes|Yes|![](https://img.shields.io/github/license/PowerNex/PowerNex.svg)|
+
+</div>
+
+- [x] [Go up](#os-projects-sorted-by-language)
+
 
 ### Pascal
 
