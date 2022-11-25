@@ -504,7 +504,7 @@ In this session, the projects were separated by the main programming language us
 |[ChaiOS](https://github.com/ChaiSoft/ChaiOS)|C++|x86|Other|Yes|Yes|![](https://img.shields.io/github/license/ChaiSoft/ChaiOS.svg)
 |[Dennix](https://github.com/dennis95/dennix)|C++|x86_64|Unix-like|Yes|Yes|![](https://img.shields.io/github/license/dennis95/dennix.svg)|
 |[duckOS](https://github.com/byteduck/duckOS)|C++|-|Unix-like|Yes|Yes|![](https://img.shields.io/github/license/byteduck/duckOS.svg)|
-|[ErdOS](https://github.com/gabrielbiga/ErdOS)|C++|x86|Yes|No|![](https://img.shields.io/github/license/gabrielbiga/ErdOS.svg)|
+|[ErdOS](https://github.com/gabrielbiga/ErdOS)|C++|x86|Other|Yes|No|![](https://img.shields.io/github/license/gabrielbiga/ErdOS.svg)|
 |[FoxOS](https://github.com/TheUltimateFoxOS/horizon)|C++|x86|Other|Yes|Yes|![](https://img.shields.io/github/license/TheUltimateFoxOS/horizon.svg)
 |[Ghost OS](https://github.com/maxdev1/ghost/)|C++|x86|Other|Yes|Yes|![](https://img.shields.io/github/license/maxdev1/ghostx.svg)|
 |[GreenteaOS](https://github.com/GreenteaOS)|C++|x86|Other|Yes|Yes|![](https://img.shields.io/github/license/GreenteaOS/Tofita.svg)|
