@@ -827,6 +827,7 @@ Click on each highlighted operating system to access material for that operating
 * [The GNU Mach Reference Manual - PDF](https://www.gnu.org/software/hurd/gnumach-doc/mach.pdf)
 * [A Technical History of Apple's Operating Systems](https://web.archive.org/web/20190827125517/http://www.osxbook.com/book/bonus/chapter1/)
 * [Mac OS X Internals: A Systems Approach - Amazon](https://www.amazon.com/Mac-OS-Internals-Systems-Approach/dp/0321278542)
+* [Mach Concepts](https://www.nextcomputers.org/NeXTfiles/Docs/NeXTStep/3.3/nd/OperatingSystem/Part1_Mach/01_Concepts/Concepts.htmld/index.html)
 
 #### Wikipedia content
 
