@@ -111,6 +111,7 @@ In this session, the projects were separated by the operating system family to w
 * [Tilck](https://github.com/vvaltchev/tilck)
 * [ToaruOS](http://github.com/klange/toaruos)
 * [TravorOS](https://github.com/TravorLZH/TravorOS)
+* [TROPIX (NCE/UFRJ)](https://github.com/felipenlunkes/TROPIX)
 * [Tupai](https://gitlab.com/zesterer/tupai/)
 * [µnix](https://github.com/cute-engineewing/munix)
 * [Upanix](https://github.com/prajwal83/upanix)
@@ -483,6 +484,7 @@ In this session, the projects were separated by the main programming language us
 |[TinyOS](https://github.com/tinyos/tinyos-main)|C|x86|Other|Yes|Yes|![](https://img.shields.io/github/license/tinyos/tinyos-main.svg)|
 |[ToaruOS](http://github.com/klange/toaruos)|C|x86_64, ARMv8|Unix-like|Yes|Yes|![](https://img.shields.io/github/license/klange/toaruos.svg)|
 |[TravorOS](https://github.com/TravorLZH/TravorOS)|C|x86|Unix-like|Yes|No|![](https://img.shields.io/github/license/TravorLZH/TravorOS.svg)|
+|[TROPIX (NCE/UFRJ)](https://github.com/felipenlunkes/TROPIX)|C|x86|Unix-like|Yes|No|![](https://img.shields.io/github/license/felipenlunkes/TROPIX.svg)|
 |[Tupai](https://gitlab.com/zesterer/tupai/)|C|x86, ARM|Unix-like|No|Yes|GNU General Public License version 3|
 |[Vanadium OS](https://github.com/p-durlej/newsys)|C|x86|Unix-like|Yes|Yes|![](https://img.shields.io/github/license/p-durlej/newsys.svg)|
 |[xv6](https://github.com/mit-pdos/xv6-public)|C|x86|Unix-like|Yes|Yes|![](https://img.shields.io/github/license/mit-pdos/xv6-public.svg)|
