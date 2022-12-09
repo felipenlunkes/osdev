@@ -222,6 +222,7 @@ In this session, the projects were separated by the operating system family to w
 * [mikanos](https://github.com/uchan-nos/mikanos)
 * [MikeOS](http://mikeos.sourceforge.net/)
 * [Minoca](https://github.com/minoca/os)
+* [Minos](https://github.com/triforce/minos)
 * [MiraiOS](https://github.com/LNooteboom/MiraiOS)
 * [mkfreeOS](https://github.com/ramonmayedo/mkfreeOS)
 * [MollenOS](https://github.com/Meulengracht/MollenOS)
@@ -359,6 +360,7 @@ In this session, the projects were separated by the main programming language us
 |[MenuetOS](http://www.menuetos.net/)|Assembly|x86, x86_64|Other|No|Yes|GPL|
 |[MicroBe OS](http://www.microbe.cz/)|Assembly|x86|Other|No|Yes|Unknown|
 |[MikeOS](http://mikeos.sourceforge.net/)|Assembly|x86 (16-bit)|Other|No|Yes|BSD-like|
+|[Minos](https://github.com/triforce/minos)|Assembly|x86|Other|Yes|Yes|![](https://img.shields.io/github/license/triforce/minos.svg)|
 |[MS-DOS](https://github.com/microsoft/MS-DOS)|Assembly|x86 (16-bit)|DOS|Yes|No (historical)|![](https://img.shields.io/github/license/microsoft/MS-DOS.svg)|
 |[Mu](https://github.com/akkartik/mu)|Assembly, Forth|x86|Other|Yes|Yes|![](https://img.shields.io/github/license/akkartik/mu.svg)|
 |[NightKernel](https://github.com/mercury0x000d/NightKernel)|Assembly|x86|DOS|Yes|No|![](https://img.shields.io/github/license/mercury0x000d/NightKernel.svg)|
