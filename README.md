@@ -114,6 +114,7 @@ In this session, the projects were separated by the operating system family to w
 * [TROPIX (NCE/UFRJ)](https://github.com/felipenlunkes/TROPIX)
 * [Tupai](https://gitlab.com/zesterer/tupai/)
 * [µnix](https://github.com/cute-engineewing/munix)
+* [Unix-like](https://github.com/MaoKo/Unix-Like)
 * [Upanix](https://github.com/prajwal83/upanix)
 * [Vanadium OS](https://github.com/p-durlej/newsys)
 * [xv6](https://github.com/mit-pdos/xv6-public)
@@ -256,6 +257,7 @@ In this session, the projects were separated by the operating system family to w
 * [Red OS](https://github.com/primis/redos)
 * [Redox-OS](https://github.com/redox-os/redox/)
 * [RISC OS](http://riscosopen.org/)
+* [Segmented Kernel (educational)](https://github.com/MaoKo/Segmented_Kernel)
 * [seL4](https://github.com/seL4/seL4)
 * [SerpaeOS](https://serpaeos.sourceforge.io/)
 * [Silcos](https://github.com/SukantPal/Silcos-Kernel)
@@ -363,8 +365,10 @@ In this session, the projects were separated by the main programming language us
 |[OLOS](https://github.com/leonardo-ono/Assembly8086OLOS)|Assembly|x86 (16-bit)|Other|Yes|Yes|![](https://img.shields.io/github/license/leonardo-ono/Assembly8086OLOS.svg)|
 |[PC/GEOS](https://github.com/bluewaysw/pcgeos)|Assembly|x86|Other|Yes|Yes|![](https://img.shields.io/github/license/bluewaysw/pcgeos.svg)|
 |[PiscisOS](https://github.com/tishion/PiscisOS)|Assembly|x86|Other|Yes|No|![](https://img.shields.io/github/license/tishion/PiscisOS.svg)|
+|[Segmented Kernel (educational)](https://github.com/MaoKo/Segmented_Kernel)|Assembly|x86|Other|Yes|Yes|MIT license|
 |[Snowdrop OS](http://sebastianmihai.com/snowdrop/)|Assembly|x86 (16-bit)|Other|No|Yes|Public domain|
 |[tatOS](https://github.com/tatimmer/tatOS)|Assembly|x86|Other|Yes|No|![](https://img.shields.io/github/license/tatimmer/tatOS.svg)|
+|[Unix-like](https://github.com/MaoKo/Unix-Like)|Assembly|x86|Unix-like|Yes|Yes|MIT license|
 |[xOS](https://github.com/BrownieOS/xOS)|Assembly|x86|Other|Yes|No|![](https://img.shields.io/github/license/BrownieOS/xOS.svg)|
 |[Zeal 8-bit OS](https://github.com/Zeal8bit/Zeal-8-bit-OS)|Assembly|Z80|Other|Yes|Yes|![](https://img.shields.io/github/license/Zeal8bit/Zeal-8-bit-OS.svg)|
 
