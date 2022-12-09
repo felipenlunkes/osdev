@@ -130,7 +130,7 @@ In this session, the projects were separated by the operating system family to w
 * [JSD/OS](https://github.com/pgrAm/JSD-OS)
 * [MS-DOS](https://github.com/microsoft/MS-DOS)
 * [NetDOS/32](https://github.com/clementtttttttt/NetDOS-32)
-* [Night Kernel](https://groups.google.com/forum/?hl=en#!forum/night-dos-kernel)
+* [NightKernel](https://github.com/mercury0x000d/NightKernel)
 * [Public Domain Operating System](http://pdos.org/)
 * [PX-DOS](https://github.com/felipenlunkes/PX-DOS-Core)
 * [SimpleOS](https://github.com/xing1357/SimpleOS/)
@@ -357,6 +357,7 @@ In this session, the projects were separated by the main programming language us
 |[MikeOS](http://mikeos.sourceforge.net/)|Assembly|x86 (16-bit)|Other|No|Yes|BSD-like|
 |[MS-DOS](https://github.com/microsoft/MS-DOS)|Assembly|x86 (16-bit)|DOS|Yes|No (historical)|![](https://img.shields.io/github/license/microsoft/MS-DOS.svg)|
 |[Mu](https://github.com/akkartik/mu)|Assembly, Forth|x86|Other|Yes|Yes|![](https://img.shields.io/github/license/akkartik/mu.svg)|
+|[NightKernel](https://github.com/mercury0x000d/NightKernel)|Assembly|x86|DOS|Yes|No|![](https://img.shields.io/github/license/mercury0x000d/NightKernel.svg)|
 |[OLOS](https://github.com/leonardo-ono/Assembly8086OLOS)|Assembly|x86 (16-bit)|Other|Yes|Yes|![](https://img.shields.io/github/license/leonardo-ono/Assembly8086OLOS.svg)|
 |[PC/GEOS](https://github.com/bluewaysw/pcgeos)|Assembly|x86|Other|Yes|Yes|![](https://img.shields.io/github/license/bluewaysw/pcgeos.svg)|
 |[PiscisOS](https://github.com/tishion/PiscisOS)|Assembly|x86|Other|Yes|No|![](https://img.shields.io/github/license/tishion/PiscisOS.svg)|
