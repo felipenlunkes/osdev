@@ -158,6 +158,7 @@ In this session, the projects were separated by the operating system family to w
 <br>
 <summary align='left'>Other</summary>
 
+* [Alotware](https://github.com/0x5CE/alotware)
 * [Amiga Research Operating System](https://github.com/aros-development-team/AROS)
 * [AQUA OS](https://github.com/inobulles/aquabsd-core)
 * [Asuro](https://www.spexeah.com/index.php/asuro/)
@@ -340,6 +341,7 @@ In this session, the projects were separated by the main programming language us
 |:----:|:--------:|:------------:|:---------:|:-------------------:|:------:|:-------:|
 |[Research UNIX v1-v7](https://github.com/dspinellis/unix-history-repo)|Assembly (early versions) and C|PDP-7, PDP-11| Unix | Yes | No (historical)|![](https://img.shields.io/github/license/dspinellis/unix-history-repo.svg)|
 |[UNIX PDP-7](https://github.com/asegid/pdp7-unix)|Assembly|PDP-7|Unix|Yes|No|![](https://img.shields.io/github/license/asegid/pdp7-unix.svg)|
+|[Alotware](https://github.com/0x5CE/alotware)|Assembly|x86|Other|Yes|No|Public domain|
 |[AtieDOS](https://github.com/AtieP/AtieDOS)|Assembly|x86 (16-bit)|DOS|Yes|Yes|![](https://img.shields.io/github/license/AtieP/AtieDOS.svg)|
 |[azOS](https://github.com/azarovalex/azOS)|Assembly|x86 (16-bit)|Other|Yes|No|![](https://img.shields.io/github/license/azarovalex/azOS.svg)|
 |[BareMetal](https://github.com/ReturnInfinity/BareMetal)|Assembly|x86|Other|Yes|No|![](https://img.shields.io/github/license/ReturnInfinity/BareMetal.svg)|
