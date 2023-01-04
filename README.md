@@ -42,6 +42,368 @@ A quick summary of the sessions in this document:
 
 <hr>
 
+## Reference material
+
+<div align="justify">
+
+In this section you will find documentation available for the main operating systems (open source or not). This documentation includes official material, scientific articles, original source code from historic operating systems, and books, online or in print. The session addresses:
+
+- [x] History of operating systems;
+- [x] Historical material;
+- [x] Internal technical documentation (kernel, interfaces, etc);
+- [x] User manuals;
+- [x] Manuals for the development of each operating system;
+- [x] Guides for administration of each operating system;
+- [x] Hardware documentation;
+- [x] Documentation on operating systems development.
+
+Click on each highlighted operating system to access material for that operating system.
+
+</div>
+
+### Books, papers, historical material and documents
+
+<div align="justify">
+
+<details title="UNIX" align='left'>
+<summary align='left'>UNIX</summary>
+
+#### Original source code
+
+* [Research UNIX Version 1 - Version 7 source code (documentation)](https://github.com/dspinellis/unix-history-repo)
+* [Research UNIX v10 source code (documentation)](https://github.com/Alhadis/Research-Unix-v10)
+* [UNIX System V source code (documentation)](https://archive.org/details/ATTUNIXSystemVRelease4Version2)
+* [Version 7 UNIX ported do x86 by Robert Nordier (BSD license)](https://www.nordier.com/v7x86/v7x86-0.8a-all.tar.xz)
+* [Old Unix XRef](https://wfjm.github.io/home/ouxr/)
+
+#### Specifications, documentation, manuals and historical material
+
+* [UNIX History - Figure](https://upload.wikimedia.org/wikipedia/commons/7/77/Unix_history-simple.svg)
+* [History of UNIX](http://ibgwww.colorado.edu/~lessem/psyc5112/usail/concepts/hx-of-unix/unixhx.html)
+* [History and Timeline - UNIX.org](https://unix.org/what_is_unix/history_timeline.html#:~:text=The%20history%20of%20UNIX%20starts,what%20was%20to%20become%20UNIX.&text=It%20had%20a%20assembler%20for,text%20processing%20of%20patent%20documents.)
+* [UNIX Seventh Edition Manual, Volume 2](https://wolfram.schneider.org/bsd/7thEdManVol2/)
+* [Read The Single UNIX® Specification](https://unix.org/online.html)
+* [A Brief History of Everything UNIX](https://illumos.org/docs/about/history/)
+* [UNIX releases](https://www.tuhs.org/Archive/Distributions/Research/)
+* [About the Unix Boot Process](https://www.oreilly.com/library/view/essential-system-administration/0596003439/ch04s01.html)
+* [The UNIX HATERS Handbook - PDF](https://web.mit.edu/~simsong/www/ugh.pdf)
+* [UNIX Documentation at Stanford](https://uit.stanford.edu/service/sharedcomputing/unix)
+* [X Window System at Stanford](https://web.stanford.edu/group/farmshare/cgi-bin/wiki/index.php/X_Window_System)
+* [A Brief History of Unix and How did Linux came into being](https://medium.com/@safiuddinkhan/a-brief-history-of-unix-dcd41d0816c1)
+* [Multics - The ancestor of UNIX](https://www.multicians.org/)
+* [UNIX® on the Game Boy Advance](https://web.archive.org/web/20060831141959/http://www.kernelthread.com/publications/gbaunix/)
+* [X.Org](https://www.x.org/wiki/)
+
+#### Papers
+
+* [The Evolution of the Unix Time-sharing System - Dennis M. Ritchie (Bell Labs), 1984](https://www.bell-labs.com/usr/dmr/www/hist.html)
+* [The Evolution of the UNIX Time-sharing System - PDF (same as above)](https://curtsinger.cs.grinnell.edu/teaching/2019S/CSC213/files/unix_evolution.pdf)
+* [Spinellis, D. A repository of Unix history and evolution. Empir Software Eng 22, 1372–1404 (2017)](https://link.springer.com/article/10.1007/s10664-016-9445-5)
+
+#### Wikipedia content
+
+* [UNIX](https://en.wikipedia.org/wiki/Unix)
+* [History of UNIX](https://en.wikipedia.org/wiki/History_of_Unix)
+* [UNIX System V](https://en.wikipedia.org/wiki/UNIX_System_V)
+* [UNIX/32V](https://en.wikipedia.org/wiki/UNIX/32V)
+* [UNIX Wars](https://en.wikipedia.org/wiki/Unix_wars)
+* [Xenix](https://en.wikipedia.org/wiki/Xenix)
+* [PWB/UNIX](https://en.wikipedia.org/wiki/PWB/UNIX)
+* [UnixWare](https://en.wikipedia.org/wiki/UnixWare)
+* [Ancient UNIX](https://en.wikipedia.org/wiki/Ancient_UNIX)  
+
+#### Run UNIX
+
+* [Run ancient UNIX on modern hardware (Version 1 to Version 7 UNIX and BSD UNIX)](https://github.com/felipenlunkes/run-ancient-unix)
+
+</details>
+
+<details title="BSD" align='left'>
+<br>
+<summary align='left'>BSD</summary>
+
+* [The Design and Implementation of the 4.4BSD Operating System](https://docs.freebsd.org/en/books/design-44bsd/)
+* [Explaining BSD](https://docs.freebsd.org/en/articles/explaining-bsd/)
+* [4.4BSD Documents](https://docs-legacy.freebsd.org/44doc/)
+* [Berkeley Software Architecture Manual 4.4BSD Edition](https://docs-legacy.freebsd.org/44doc/psd/05.sysman/paper.html)
+* [4.4 Berkeley Software Distribution Documentation](https://www.netbsd.org/docs/bsd/lite2/)
+* [4.3 Berkeley Software Distribution Documentation](https://www.netbsd.org/docs/bsd/net2/)
+* [Utah Lites Release 1.1.u3 - 4.4BSD Lite based server and library for Mach kernel](https://www.cs.utah.edu/flux/lites/html/)
+* [BSD Now, a BSD podcast](https://www.bsdnow.tv/)
+* [2.11BSD UNIX system studies](https://wfjm.github.io/home/211bsd/)
+
+#### Wikipedia content
+
+* [Berkeley Software Distribuition](https://en.wikipedia.org/wiki/Berkeley_Software_Distribution)
+* [386BSD](https://en.wikipedia.org/wiki/386BSD)
+* [List of BSD operating systems](https://en.wikipedia.org/wiki/List_of_BSD_operating_systems)
+* [Comparison of BSD operating systems](https://en.wikipedia.org/wiki/Comparison_of_BSD_operating_systems)
+
+</details>
+
+<details title="FreeBSD" align='left'>
+<br>
+<summary align='left'>FreeBSD</summary>
+
+* [FreeBSD Handbook](https://docs.freebsd.org/en/books/handbook/)
+* [FreeBSD Porter's Handbook](https://docs.freebsd.org/en/books/porters-handbook/)
+* [FreeBSD Developers' Handbook](https://docs.freebsd.org/en/books/developers-handbook/)
+* [FreeBSD Documentation Project Primer for New Contributors](https://docs.freebsd.org/en/books/fdp-primer/)
+* [A project model for the FreeBSD Project](https://docs.freebsd.org/en/books/dev-model/)
+* [FreeBSD Architecture Handbook](https://docs.freebsd.org/en/books/arch-handbook/)
+* [For People New to Both FreeBSD and UNIX®](https://docs.freebsd.org/en/articles/new-users/)
+* [FreeBSD Licensing Policy](https://docs.freebsd.org/en/articles/license-guide/)
+* [Instroduction to NanoBSD](https://docs.freebsd.org/en/articles/nanobsd/)
+* [Linux® emulation in FreeBSD](https://docs.freebsd.org/en/articles/linux-emulation/)
+* [DistroWatch - FreeBSD](https://distrowatch.com/table.php?distribution=freebsd)
+* [FreeBSD' IdeasPage](https://wiki.freebsd.org/IdeasPage)
+* [Wiki](https://wiki.freebsd.org/)
+
+#### Wikipedia Content
+
+* [FreeBSD](https://en.wikipedia.org/wiki/FreeBSD)
+
+</details>
+
+<details title="NetBSD" align='left'>
+<br>
+<summary align='left'>NetBSD</summary>
+
+* [The NetBSD Guide](https://www.netbsd.org/docs/guide/en/index.html)
+* [NetBSD Internals](https://www.netbsd.org/docs/internals/en/index.html)
+* [Hardware Documentation - NetBSD](https://www.netbsd.org/docs/Hardware/index.html)
+
+#### Wikipedia content
+
+* [NetBSD](https://en.wikipedia.org/wiki/NetBSD)
+
+</details>
+
+<details title="OpenBSD" align='left'>
+<br>
+<summary align='left'>OpenBSD</summary>
+
+* [OpenBSD FAQ](https://www.openbsd.org/faq/index.html)
+* [OpenBSD Porter's Handbook](https://www.openbsd.org/faq/ports/index.html)
+
+#### Wikipedia content
+
+* [OpenBSD](https://en.wikipedia.org/wiki/OpenBSD)
+
+</details>
+
+<details title="Solaris" align='left'>
+<br>
+<summary align='left'>Solaris</summary>
+
+* [Oracle Solaris Documentation](https://docs.oracle.com/en/operating-systems/solaris.html)
+
+#### Wikipedia content
+
+* [Oracle Solaris](https://en.wikipedia.org/wiki/Oracle_Solaris)
+
+</details>
+
+<details title="illumos (OpenSolaris)" align='left'>
+<br>
+<summary align='left'>illumos (OpenSolaris)</summary>
+
+* [illumos Documentation](https://illumos.org/docs/)
+* [illumos developer's guide](https://illumos.org/books/dev/)
+* [Dynamic Tracing Guide](https://illumos.org/books/dtrace/preface.html#preface)
+* [Modular Debugger Guide](https://illumos.org/books/mdb/preface.html#preface)
+* [Writing Device Drivers](https://illumos.org/books/wdd/preface.html#preface)
+* [Memory and Thread Placement Optimization Developer's Guide](https://illumos.org/books/lgrps/preface.html#preface)
+
+#### Wikipedia content
+
+* [openSolaris](https://en.wikipedia.org/wiki/OpenSolaris)
+* [illumos](https://en.wikipedia.org/wiki/Illumos)
+
+</details>
+
+<details title="Linux" align='left'>
+<br>
+<summary align='left'>Linux</summary>
+
+* [Linux Training Course Notes - LPI 101 - PDF](http://academy.delmar.edu/Courses/ITSC1358/eBooks/LPI-101.LinuxTrainingCourseNotes.pdf)
+* [The Linux Kernel Module Programming Guide](https://sysprog21.github.io/lkmpg/)
+* [The Linux Kernel documentation](https://www.kernel.org/doc/html/latest/)
+* [Working with the kernel development community](https://www.kernel.org/doc/html/latest/process/)
+* [Linux Kernel Teaching](https://linux-kernel-labs.github.io/refs/heads/master)
+* [linux-insides](https://0xax.gitbooks.io/linux-insides/content/)
+* [Linux Kernel Workbook](https://lkw.readthedocs.io/en/latest/index.html)
+* [bootlins interactive Linux kernel map](https://makelinux.github.io/kernel/map/)
+* [OldLinux](http://www.oldlinux.org/)
+* [sam4ks Linux Kernel Resources](https://github.com/sam4k/linux-kernel-resources)
+* [xairys Linux Kernel Exploitation](https://github.com/xairy/linux-kernel-exploitation)
+* [Linux kernel system call table for all archs](https://marcin.juszkiewicz.com.pl/download/tables/syscalls.html)
+* [Linux Kernel in a Nutshell](http://www.kroah.com/lkn/)
+* [HowToForge Linux Tutorials](https://howtoforge.com/)
+* [The Revised Slackware Book Project](http://www.slackbook.org/)
+
+</details>
+
+<details title="Mach Kernel and XNU" align='left'>
+<br>
+<summary align='left'>Mach Kernel and XNU</summary>
+
+* [The Mach Project](https://www.cs.cmu.edu/afs/cs/project/mach/public/www/mach.html)
+* [MACH threads and the UNIX kernel: the battle for control](https://kilthub.cmu.edu/articles/journal_contribution/MACH_threads_and_the_UNIX_kernel_the_battle_for_control/6607079/1)
+* [A Trusted, Scalable, Real-Time Operating System Environment - PDF](https://web.archive.org/web/20170822053715/https://pdfs.semanticscholar.org/03ac/1296f530719497b49d7580b55a2d9b8353ab.pdf)
+* [Mach: A New Kernel Foundation For UNIX Development - PDF](https://www.cs.ubc.ca/~norm/508/2009W1/mach_usenix86.pdf)
+* [A comparison of Mach, Amoeba and Chorus](https://web.archive.org/web/20050513191623/http://www.cdk3.net/oss/Ed2/Comparison.pdf)
+* [The Mach System](https://web.archive.org/web/20130511223918/http://codex.cs.yale.edu/avi/os-book/OS8/os8e/appendices-dir/b.pdf)
+* [Mach Overview - Apple](https://developer.apple.com/library/archive/documentation/Darwin/Conceptual/KernelProgramming/Mach/Mach.html)
+* [Mach Kernel Interface Reference - MIT](http://web.mit.edu/darwin/src/modules/xnu/osfmk/man/)
+* [The GNU Mach Reference Manual - PDF](https://www.gnu.org/software/hurd/gnumach-doc/mach.pdf)
+* [A Technical History of Apple's Operating Systems](https://web.archive.org/web/20190827125517/http://www.osxbook.com/book/bonus/chapter1/)
+* [Mac OS X Internals: A Systems Approach - Amazon](https://www.amazon.com/Mac-OS-Internals-Systems-Approach/dp/0321278542)
+* [Mach Concepts](https://www.nextcomputers.org/NeXTfiles/Docs/NeXTStep/3.3/nd/OperatingSystem/Part1_Mach/01_Concepts/Concepts.htmld/index.html)
+
+#### Wikipedia content
+
+* [NeXTSTEP](https://en.wikipedia.org/wiki/NeXTSTEP)
+* [XNU kernel](https://en.wikipedia.org/wiki/XNU)
+* [Darwin Operating System](https://en.wikipedia.org/wiki/Darwin_(operating_system))
+
+</details>
+
+<details title="DOS (Disk Operating System)" align='left'>
+<summary align='left'>DOS (Disk Operating System)</summary>
+
+#### 86-DOS and MS-DOS
+
+* [MS-DOS v1.25 and v2.0 source code](https://github.com/microsoft/MS-DOS)
+* [VCF West XIII -- Tim Paterson -- Original DOS and the old days - YouTube](https://www.youtube.com/watch?v=R2Qh0O3Dt10)
+* [The roots of DOS: Tim Paterson](https://patersontech.com/dos/softalk.aspx)
+* [A Short History of MS-DOS](https://patersontech.com/dos/byte%E2%80%93history.aspx)
+* [An Inside Look at MS-DOS](https://patersontech.com/dos/byte%E2%80%93inside-look.aspx)
+* [The Origins of DOS - PDF](https://web.archive.org/web/20120531090452/http://www.ece.umd.edu/courses/enee759m.S2000/papers/paterson1994-kildall.pdf)
+* [Undocumented DOS: a programmer's guide to reserved MS-DOS functions and data structures](https://archive.org/details/undocumenteddosp00andr_0)
+* [86-DOS 1.0 Addendum - PDF](http://bitsavers.informatik.uni-stuttgart.de/pdf/seattleComputer/86-DOS_1.0_Addendum.pdf)
+
+#### FreeDOS
+
+* [FreeDOS Wiki](http://wiki.freedos.org/wiki/index.php/Main_Page)
+* [Using FreeDOS - PDF](https://www.freedos.org/books/download/using-freedos-24.pdf)
+* [Writing FreeDOS programs in C](https://www.freedos.org/books/cprogramming/)
+
+#### Wikipedia content
+
+* [86-DOS](https://en.wikipedia.org/wiki/86-DOS)
+* [MS-DOS](https://en.wikipedia.org/wiki/MS-DOS)
+* [IBM PC DOS](https://en.wikipedia.org/wiki/IBM_PC_DOS)
+* [DR-DOS](https://en.wikipedia.org/wiki/DR-DOS)
+* [FreeDOS](https://en.wikipedia.org/wiki/FreeDOS)
+
+</details>
+
+<details title="Windows" align='left'>
+<br>
+<summary align='left'>Windows</summary>
+
+* [Windows technical documentation for developers and IT Pros.](https://learn.microsoft.com/en-us/windows/)
+* [Windows kernel - Microsoft](https://learn.microsoft.com/en-us/windows-hardware/drivers/ddi/_kernel/)
+* [NTAPI Undocumented Functions](http://undocumented.ntinternals.net/)
+* [Memory management in the Windows XP kernel](https://reactos.org/wiki/Techwiki:Memory_management_in_the_Windows_XP_kernel)
+
+#### Wikipedia content
+
+* [Architecture of Windows NT - Wikipedia](https://en.wikipedia.org/wiki/Architecture_of_Windows_NT)
+
+</details>
+
+<details title="OSDev" align='left'>
+<br>
+<summary align='left'>OSdev</summary>
+
+* [How to Make a Computer Operating System](https://github.com/SamyPesse/How-to-Make-a-Computer-Operating-System)
+* [Operating Systems: From 0 to 1](https://github.com/tuhdo/os01)
+* [Operating System Development Series](http://www.brokenthorn.com/Resources/OSDevIndex.html)
+* [Operating Systems: Three Easy Pieces](http://pages.cs.wisc.edu/~remzi/OSTEP/)
+* [The little book about OS development](http://littleosbook.github.io/)
+* [Think OS](http://greenteapress.com/thinkos/)
+* [xv6: a simple, Unix-like teaching operating system](https://pdos.csail.mit.edu/6.828/2019/xv6/book-riscv-rev0.pdf)
+* [Operating System Concepts](https://www.os-book.com/OS9/index.html)
+* [FreeBSD/Linux Kernel Cross Reference](http://fxr.watson.org/fxr/source/?v=MK84)
+* [Operating System Concepts - 10th edition](https://github.com/greggagne/osc10e)
+* [Open source compatible BIOS for PC - GLaBIOS](https://github.com/640-KB/GLaBIOS)
+
+</details>
+
+<details title="Hardware" align='left'>
+<br>
+<summary align='left'>Hardware</summary>
+
+* [w11: PDP-11/70 CPU and SoC](https://wfjm.github.io/home/w11/)
+
+</details>
+
+<details title="SysAdmin" align='left'>
+<summary align='left'>SysAdmin</summary>
+
+#### Unix-like (general)
+
+* [Reading UNIX Manual Pages - Apple](https://developer.apple.com/documentation/os/reading_unix_manual_pages)
+
+</details>
+
+<details title="Applications" align='left'>
+<summary align='left'>Applications</summary>
+
+#### Unix-like (general)
+
+* [WINE](https://www.winehq.org/)
+
+</details>
+
+<details title="Software licenses" align='left'>
+<br>
+<summary align='left'>Software licenses</summary>
+
+Here you can get more information about the main free licenses to apply in your project, or understand your rights and duties when using free software.
+
+#### Wikipedia content
+
+* [BSD licenses](https://en.wikipedia.org/wiki/BSD_licenses)
+* [Apache license](https://en.wikipedia.org/wiki/Apache_License)
+* [Apple Public Source License (APSL)](https://en.wikipedia.org/wiki/Apple_Public_Source_License)
+* [Creative Commons license (CC)](https://en.wikipedia.org/wiki/Creative_Commons_license)
+* [Common Development and Distribution License (CDDL)](https://en.wikipedia.org/wiki/Common_Development_and_Distribution_License)
+* [GNU General Public License (GPL)](https://en.wikipedia.org/wiki/GNU_General_Public_License)
+* [GNU Lesser General Public License (LGPL)](https://en.wikipedia.org/wiki/GNU_Lesser_General_Public_License)
+* [MIT License](https://en.wikipedia.org/wiki/MIT_License)
+* [ISC license](https://en.wikipedia.org/wiki/ISC_license)
+* [Mozilla Public License (MPL)](https://en.wikipedia.org/wiki/Mozilla_Public_License)
+* [Unlicense](https://en.wikipedia.org/wiki/Unlicense)
+
+#### Exemples
+
+<div align="center">
+
+| License | Software |
+|:-------:|:--------:|
+|BSD|FreeBSD, NetBSD, Hexagonix, BareMetal, Chromium|
+|Apache|Android, Clang, Fuchsia OS, Kotlin|
+|APSL|XNU, Darwin|
+|CC|-|
+|CDDL|OpenSolaris, illumos|
+|GPL|Linux Kernel, Audacity, Gedit, Git|
+|LGPL|PulseAudio, FreeCAD, Qt, Wine, VLC|
+|MIT|.NET, Laravel, X11|
+|ISC|Hw.sensors (OpenBSD), OpenBSD (ISC modified)|
+|MPL|Mozilla Firefox, LibreOffice|
+|Unlicense|youtube-dl|
+
+</div>
+
+</details>
+
+</div>
+
+<hr>
+
 ## OS projects sorted by family
 
 <div align="justify">
@@ -623,368 +985,6 @@ In this session, the projects were separated by the main programming language us
 </div>
 
 - [x] [Go up](#os-projects-sorted-by-language)
-
-<hr>
-
-## Reference material
-
-<div align="justify">
-
-In this section you will find documentation available for the main operating systems (open source or not). This documentation includes official material, scientific articles, original source code from historic operating systems, and books, online or in print. The session addresses:
-
-- [x] History of operating systems;
-- [x] Historical material;
-- [x] Internal technical documentation (kernel, interfaces, etc);
-- [x] User manuals;
-- [x] Manuals for the development of each operating system;
-- [x] Guides for administration of each operating system;
-- [x] Hardware documentation;
-- [x] Documentation on operating systems development.
-
-Click on each highlighted operating system to access material for that operating system.
-
-</div>
-
-### Books, papers, historical material and documents
-
-<div align="justify">
-
-<details title="UNIX" align='left'>
-<summary align='left'>UNIX</summary>
-
-#### Original source code
-
-* [Research UNIX Version 1 - Version 7 source code (documentation)](https://github.com/dspinellis/unix-history-repo)
-* [Research UNIX v10 source code (documentation)](https://github.com/Alhadis/Research-Unix-v10)
-* [UNIX System V source code (documentation)](https://archive.org/details/ATTUNIXSystemVRelease4Version2)
-* [Version 7 UNIX ported do x86 by Robert Nordier (BSD license)](https://www.nordier.com/v7x86/v7x86-0.8a-all.tar.xz)
-* [Old Unix XRef](https://wfjm.github.io/home/ouxr/)
-
-#### Specifications, documentation, manuals and historical material
-
-* [UNIX History - Figure](https://upload.wikimedia.org/wikipedia/commons/7/77/Unix_history-simple.svg)
-* [History of UNIX](http://ibgwww.colorado.edu/~lessem/psyc5112/usail/concepts/hx-of-unix/unixhx.html)
-* [History and Timeline - UNIX.org](https://unix.org/what_is_unix/history_timeline.html#:~:text=The%20history%20of%20UNIX%20starts,what%20was%20to%20become%20UNIX.&text=It%20had%20a%20assembler%20for,text%20processing%20of%20patent%20documents.)
-* [UNIX Seventh Edition Manual, Volume 2](https://wolfram.schneider.org/bsd/7thEdManVol2/)
-* [Read The Single UNIX® Specification](https://unix.org/online.html)
-* [A Brief History of Everything UNIX](https://illumos.org/docs/about/history/)
-* [UNIX releases](https://www.tuhs.org/Archive/Distributions/Research/)
-* [About the Unix Boot Process](https://www.oreilly.com/library/view/essential-system-administration/0596003439/ch04s01.html)
-* [The UNIX HATERS Handbook - PDF](https://web.mit.edu/~simsong/www/ugh.pdf)
-* [UNIX Documentation at Stanford](https://uit.stanford.edu/service/sharedcomputing/unix)
-* [X Window System at Stanford](https://web.stanford.edu/group/farmshare/cgi-bin/wiki/index.php/X_Window_System)
-* [A Brief History of Unix and How did Linux came into being](https://medium.com/@safiuddinkhan/a-brief-history-of-unix-dcd41d0816c1)
-* [Multics - The ancestor of UNIX](https://www.multicians.org/)
-* [UNIX® on the Game Boy Advance](https://web.archive.org/web/20060831141959/http://www.kernelthread.com/publications/gbaunix/)
-* [X.Org](https://www.x.org/wiki/)
-
-#### Papers
-
-* [The Evolution of the Unix Time-sharing System - Dennis M. Ritchie (Bell Labs), 1984](https://www.bell-labs.com/usr/dmr/www/hist.html)
-* [The Evolution of the UNIX Time-sharing System - PDF (same as above)](https://curtsinger.cs.grinnell.edu/teaching/2019S/CSC213/files/unix_evolution.pdf)
-* [Spinellis, D. A repository of Unix history and evolution. Empir Software Eng 22, 1372–1404 (2017)](https://link.springer.com/article/10.1007/s10664-016-9445-5)
-
-#### Wikipedia content
-
-* [UNIX](https://en.wikipedia.org/wiki/Unix)
-* [History of UNIX](https://en.wikipedia.org/wiki/History_of_Unix)
-* [UNIX System V](https://en.wikipedia.org/wiki/UNIX_System_V)
-* [UNIX/32V](https://en.wikipedia.org/wiki/UNIX/32V)
-* [UNIX Wars](https://en.wikipedia.org/wiki/Unix_wars)
-* [Xenix](https://en.wikipedia.org/wiki/Xenix)
-* [PWB/UNIX](https://en.wikipedia.org/wiki/PWB/UNIX)
-* [UnixWare](https://en.wikipedia.org/wiki/UnixWare)
-* [Ancient UNIX](https://en.wikipedia.org/wiki/Ancient_UNIX)  
-
-#### Run UNIX
-
-* [Run ancient UNIX on modern hardware (Version 1 to Version 7 UNIX and BSD UNIX)](https://github.com/felipenlunkes/run-ancient-unix)
-
-</details>
-
-<details title="BSD" align='left'>
-<br>
-<summary align='left'>BSD</summary>
-
-* [The Design and Implementation of the 4.4BSD Operating System](https://docs.freebsd.org/en/books/design-44bsd/)
-* [Explaining BSD](https://docs.freebsd.org/en/articles/explaining-bsd/)
-* [4.4BSD Documents](https://docs-legacy.freebsd.org/44doc/)
-* [Berkeley Software Architecture Manual 4.4BSD Edition](https://docs-legacy.freebsd.org/44doc/psd/05.sysman/paper.html)
-* [4.4 Berkeley Software Distribution Documentation](https://www.netbsd.org/docs/bsd/lite2/)
-* [4.3 Berkeley Software Distribution Documentation](https://www.netbsd.org/docs/bsd/net2/)
-* [Utah Lites Release 1.1.u3 - 4.4BSD Lite based server and library for Mach kernel](https://www.cs.utah.edu/flux/lites/html/)
-* [BSD Now, a BSD podcast](https://www.bsdnow.tv/)
-* [2.11BSD UNIX system studies](https://wfjm.github.io/home/211bsd/)
-
-#### Wikipedia content
-
-* [Berkeley Software Distribuition](https://en.wikipedia.org/wiki/Berkeley_Software_Distribution)
-* [386BSD](https://en.wikipedia.org/wiki/386BSD)
-* [List of BSD operating systems](https://en.wikipedia.org/wiki/List_of_BSD_operating_systems)
-* [Comparison of BSD operating systems](https://en.wikipedia.org/wiki/Comparison_of_BSD_operating_systems)
-
-</details>
-
-<details title="FreeBSD" align='left'>
-<br>
-<summary align='left'>FreeBSD</summary>
-
-* [FreeBSD Handbook](https://docs.freebsd.org/en/books/handbook/)
-* [FreeBSD Porter's Handbook](https://docs.freebsd.org/en/books/porters-handbook/)
-* [FreeBSD Developers' Handbook](https://docs.freebsd.org/en/books/developers-handbook/)
-* [FreeBSD Documentation Project Primer for New Contributors](https://docs.freebsd.org/en/books/fdp-primer/)
-* [A project model for the FreeBSD Project](https://docs.freebsd.org/en/books/dev-model/)
-* [FreeBSD Architecture Handbook](https://docs.freebsd.org/en/books/arch-handbook/)
-* [For People New to Both FreeBSD and UNIX®](https://docs.freebsd.org/en/articles/new-users/)
-* [FreeBSD Licensing Policy](https://docs.freebsd.org/en/articles/license-guide/)
-* [Instroduction to NanoBSD](https://docs.freebsd.org/en/articles/nanobsd/)
-* [Linux® emulation in FreeBSD](https://docs.freebsd.org/en/articles/linux-emulation/)
-* [DistroWatch - FreeBSD](https://distrowatch.com/table.php?distribution=freebsd)
-* [FreeBSD' IdeasPage](https://wiki.freebsd.org/IdeasPage)
-* [Wiki](https://wiki.freebsd.org/)
-
-#### Wikipedia Content
-
-* [FreeBSD](https://en.wikipedia.org/wiki/FreeBSD)
-
-</details>
-
-<details title="NetBSD" align='left'>
-<br>
-<summary align='left'>NetBSD</summary>
-
-* [The NetBSD Guide](https://www.netbsd.org/docs/guide/en/index.html)
-* [NetBSD Internals](https://www.netbsd.org/docs/internals/en/index.html)
-* [Hardware Documentation - NetBSD](https://www.netbsd.org/docs/Hardware/index.html)
-
-#### Wikipedia content
-
-* [NetBSD](https://en.wikipedia.org/wiki/NetBSD)
-
-</details>
-
-<details title="OpenBSD" align='left'>
-<br>
-<summary align='left'>OpenBSD</summary>
-
-* [OpenBSD FAQ](https://www.openbsd.org/faq/index.html)
-* [OpenBSD Porter's Handbook](https://www.openbsd.org/faq/ports/index.html)
-
-#### Wikipedia content
-
-* [OpenBSD](https://en.wikipedia.org/wiki/OpenBSD)
-
-</details>
-
-<details title="Solaris" align='left'>
-<br>
-<summary align='left'>Solaris</summary>
-
-* [Oracle Solaris Documentation](https://docs.oracle.com/en/operating-systems/solaris.html)
-
-#### Wikipedia content
-
-* [Oracle Solaris](https://en.wikipedia.org/wiki/Oracle_Solaris)
-
-</details>
-
-<details title="illumos (OpenSolaris)" align='left'>
-<br>
-<summary align='left'>illumos (OpenSolaris)</summary>
-
-* [illumos Documentation](https://illumos.org/docs/)
-* [illumos developer's guide](https://illumos.org/books/dev/)
-* [Dynamic Tracing Guide](https://illumos.org/books/dtrace/preface.html#preface)
-* [Modular Debugger Guide](https://illumos.org/books/mdb/preface.html#preface)
-* [Writing Device Drivers](https://illumos.org/books/wdd/preface.html#preface)
-* [Memory and Thread Placement Optimization Developer's Guide](https://illumos.org/books/lgrps/preface.html#preface)
-
-#### Wikipedia content
-
-* [openSolaris](https://en.wikipedia.org/wiki/OpenSolaris)
-* [illumos](https://en.wikipedia.org/wiki/Illumos)
-
-</details>
-
-<details title="Linux" align='left'>
-<br>
-<summary align='left'>Linux</summary>
-
-* [Linux Training Course Notes - LPI 101 - PDF](http://academy.delmar.edu/Courses/ITSC1358/eBooks/LPI-101.LinuxTrainingCourseNotes.pdf)
-* [The Linux Kernel Module Programming Guide](https://sysprog21.github.io/lkmpg/)
-* [The Linux Kernel documentation](https://www.kernel.org/doc/html/latest/)
-* [Working with the kernel development community](https://www.kernel.org/doc/html/latest/process/)
-* [Linux Kernel Teaching](https://linux-kernel-labs.github.io/refs/heads/master)
-* [linux-insides](https://0xax.gitbooks.io/linux-insides/content/)
-* [Linux Kernel Workbook](https://lkw.readthedocs.io/en/latest/index.html)
-* [bootlins interactive Linux kernel map](https://makelinux.github.io/kernel/map/)
-* [OldLinux](http://www.oldlinux.org/)
-* [sam4ks Linux Kernel Resources](https://github.com/sam4k/linux-kernel-resources)
-* [xairys Linux Kernel Exploitation](https://github.com/xairy/linux-kernel-exploitation)
-* [Linux kernel system call table for all archs](https://marcin.juszkiewicz.com.pl/download/tables/syscalls.html)
-* [Linux Kernel in a Nutshell](http://www.kroah.com/lkn/)
-* [HowToForge Linux Tutorials](https://howtoforge.com/)
-* [The Revised Slackware Book Project](http://www.slackbook.org/)
-
-</details>
-
-<details title="Mach Kernel and XNU" align='left'>
-<br>
-<summary align='left'>Mach Kernel and XNU</summary>
-
-* [The Mach Project](https://www.cs.cmu.edu/afs/cs/project/mach/public/www/mach.html)
-* [MACH threads and the UNIX kernel: the battle for control](https://kilthub.cmu.edu/articles/journal_contribution/MACH_threads_and_the_UNIX_kernel_the_battle_for_control/6607079/1)
-* [A Trusted, Scalable, Real-Time Operating System Environment - PDF](https://web.archive.org/web/20170822053715/https://pdfs.semanticscholar.org/03ac/1296f530719497b49d7580b55a2d9b8353ab.pdf)
-* [Mach: A New Kernel Foundation For UNIX Development - PDF](https://www.cs.ubc.ca/~norm/508/2009W1/mach_usenix86.pdf)
-* [A comparison of Mach, Amoeba and Chorus](https://web.archive.org/web/20050513191623/http://www.cdk3.net/oss/Ed2/Comparison.pdf)
-* [The Mach System](https://web.archive.org/web/20130511223918/http://codex.cs.yale.edu/avi/os-book/OS8/os8e/appendices-dir/b.pdf)
-* [Mach Overview - Apple](https://developer.apple.com/library/archive/documentation/Darwin/Conceptual/KernelProgramming/Mach/Mach.html)
-* [Mach Kernel Interface Reference - MIT](http://web.mit.edu/darwin/src/modules/xnu/osfmk/man/)
-* [The GNU Mach Reference Manual - PDF](https://www.gnu.org/software/hurd/gnumach-doc/mach.pdf)
-* [A Technical History of Apple's Operating Systems](https://web.archive.org/web/20190827125517/http://www.osxbook.com/book/bonus/chapter1/)
-* [Mac OS X Internals: A Systems Approach - Amazon](https://www.amazon.com/Mac-OS-Internals-Systems-Approach/dp/0321278542)
-* [Mach Concepts](https://www.nextcomputers.org/NeXTfiles/Docs/NeXTStep/3.3/nd/OperatingSystem/Part1_Mach/01_Concepts/Concepts.htmld/index.html)
-
-#### Wikipedia content
-
-* [NeXTSTEP](https://en.wikipedia.org/wiki/NeXTSTEP)
-* [XNU kernel](https://en.wikipedia.org/wiki/XNU)
-* [Darwin Operating System](https://en.wikipedia.org/wiki/Darwin_(operating_system))
-
-</details>
-
-<details title="DOS (Disk Operating System)" align='left'>
-<summary align='left'>DOS (Disk Operating System)</summary>
-
-#### 86-DOS and MS-DOS
-
-* [MS-DOS v1.25 and v2.0 source code](https://github.com/microsoft/MS-DOS)
-* [VCF West XIII -- Tim Paterson -- Original DOS and the old days - YouTube](https://www.youtube.com/watch?v=R2Qh0O3Dt10)
-* [The roots of DOS: Tim Paterson](https://patersontech.com/dos/softalk.aspx)
-* [A Short History of MS-DOS](https://patersontech.com/dos/byte%E2%80%93history.aspx)
-* [An Inside Look at MS-DOS](https://patersontech.com/dos/byte%E2%80%93inside-look.aspx)
-* [The Origins of DOS - PDF](https://web.archive.org/web/20120531090452/http://www.ece.umd.edu/courses/enee759m.S2000/papers/paterson1994-kildall.pdf)
-* [Undocumented DOS: a programmer's guide to reserved MS-DOS functions and data structures](https://archive.org/details/undocumenteddosp00andr_0)
-* [86-DOS 1.0 Addendum - PDF](http://bitsavers.informatik.uni-stuttgart.de/pdf/seattleComputer/86-DOS_1.0_Addendum.pdf)
-
-#### FreeDOS
-
-* [FreeDOS Wiki](http://wiki.freedos.org/wiki/index.php/Main_Page)
-* [Using FreeDOS - PDF](https://www.freedos.org/books/download/using-freedos-24.pdf)
-* [Writing FreeDOS programs in C](https://www.freedos.org/books/cprogramming/)
-
-#### Wikipedia content
-
-* [86-DOS](https://en.wikipedia.org/wiki/86-DOS)
-* [MS-DOS](https://en.wikipedia.org/wiki/MS-DOS)
-* [IBM PC DOS](https://en.wikipedia.org/wiki/IBM_PC_DOS)
-* [DR-DOS](https://en.wikipedia.org/wiki/DR-DOS)
-* [FreeDOS](https://en.wikipedia.org/wiki/FreeDOS)
-
-</details>
-
-<details title="Windows" align='left'>
-<br>
-<summary align='left'>Windows</summary>
-
-* [Windows technical documentation for developers and IT Pros.](https://learn.microsoft.com/en-us/windows/)
-* [Windows kernel - Microsoft](https://learn.microsoft.com/en-us/windows-hardware/drivers/ddi/_kernel/)
-* [NTAPI Undocumented Functions](http://undocumented.ntinternals.net/)
-* [Memory management in the Windows XP kernel](https://reactos.org/wiki/Techwiki:Memory_management_in_the_Windows_XP_kernel)
-
-#### Wikipedia content
-
-* [Architecture of Windows NT - Wikipedia](https://en.wikipedia.org/wiki/Architecture_of_Windows_NT)
-
-</details>
-
-<details title="OSDev" align='left'>
-<br>
-<summary align='left'>OSdev</summary>
-
-* [How to Make a Computer Operating System](https://github.com/SamyPesse/How-to-Make-a-Computer-Operating-System)
-* [Operating Systems: From 0 to 1](https://github.com/tuhdo/os01)
-* [Operating System Development Series](http://www.brokenthorn.com/Resources/OSDevIndex.html)
-* [Operating Systems: Three Easy Pieces](http://pages.cs.wisc.edu/~remzi/OSTEP/)
-* [The little book about OS development](http://littleosbook.github.io/)
-* [Think OS](http://greenteapress.com/thinkos/)
-* [xv6: a simple, Unix-like teaching operating system](https://pdos.csail.mit.edu/6.828/2019/xv6/book-riscv-rev0.pdf)
-* [Operating System Concepts](https://www.os-book.com/OS9/index.html)
-* [FreeBSD/Linux Kernel Cross Reference](http://fxr.watson.org/fxr/source/?v=MK84)
-* [Operating System Concepts - 10th edition](https://github.com/greggagne/osc10e)
-* [Open source compatible BIOS for PC - GLaBIOS](https://github.com/640-KB/GLaBIOS)
-
-</details>
-
-<details title="Hardware" align='left'>
-<br>
-<summary align='left'>Hardware</summary>
-
-* [w11: PDP-11/70 CPU and SoC](https://wfjm.github.io/home/w11/)
-
-</details>
-
-<details title="SysAdmin" align='left'>
-<summary align='left'>SysAdmin</summary>
-
-#### Unix-like (general)
-
-* [Reading UNIX Manual Pages - Apple](https://developer.apple.com/documentation/os/reading_unix_manual_pages)
-
-</details>
-
-<details title="Applications" align='left'>
-<summary align='left'>Applications</summary>
-
-#### Unix-like (general)
-
-* [WINE](https://www.winehq.org/)
-
-</details>
-
-<details title="Software licenses" align='left'>
-<br>
-<summary align='left'>Software licenses</summary>
-
-Here you can get more information about the main free licenses to apply in your project, or understand your rights and duties when using free software.
-
-#### Wikipedia content
-
-* [BSD licenses](https://en.wikipedia.org/wiki/BSD_licenses)
-* [Apache license](https://en.wikipedia.org/wiki/Apache_License)
-* [Apple Public Source License (APSL)](https://en.wikipedia.org/wiki/Apple_Public_Source_License)
-* [Creative Commons license (CC)](https://en.wikipedia.org/wiki/Creative_Commons_license)
-* [Common Development and Distribution License (CDDL)](https://en.wikipedia.org/wiki/Common_Development_and_Distribution_License)
-* [GNU General Public License (GPL)](https://en.wikipedia.org/wiki/GNU_General_Public_License)
-* [GNU Lesser General Public License (LGPL)](https://en.wikipedia.org/wiki/GNU_Lesser_General_Public_License)
-* [MIT License](https://en.wikipedia.org/wiki/MIT_License)
-* [ISC license](https://en.wikipedia.org/wiki/ISC_license)
-* [Mozilla Public License (MPL)](https://en.wikipedia.org/wiki/Mozilla_Public_License)
-* [Unlicense](https://en.wikipedia.org/wiki/Unlicense)
-
-#### Exemples
-
-<div align="center">
-
-| License | Software |
-|:-------:|:--------:|
-|BSD|FreeBSD, NetBSD, Hexagonix, BareMetal, Chromium|
-|Apache|Android, Clang, Fuchsia OS, Kotlin|
-|APSL|XNU, Darwin|
-|CC|-|
-|CDDL|OpenSolaris, illumos|
-|GPL|Linux Kernel, Audacity, Gedit, Git|
-|LGPL|PulseAudio, FreeCAD, Qt, Wine, VLC|
-|MIT|.NET, Laravel, X11|
-|ISC|Hw.sensors (OpenBSD), OpenBSD (ISC modified)|
-|MPL|Mozilla Firefox, LibreOffice|
-|Unlicense|youtube-dl|
-
-</div>
-
-</details>
-
-</div>
 
 <hr>
 
