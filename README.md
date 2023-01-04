@@ -32,9 +32,9 @@ This repository aims to count and list the open source operating system projects
 
 A quick summary of the sessions in this document:
 
+* [Reference material](#reference-material)
 * [Operating Systems sorted by family](#os-projects-sorted-by-family)
 * [Operating Systems sorted by language](#os-projects-sorted-by-language)
-* [Source code, reference material and documentation](#reference-material)
 * [Tutorials](#tutorials)
 * [Websites and other resources](#websites-and-other-resources)
 
