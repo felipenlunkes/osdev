@@ -654,9 +654,11 @@ Click on each highlighted operating system to access material for that operating
 
 #### Original source code
 
-* [Research UNIX v1-v7 source code (documentation)](https://github.com/dspinellis/unix-history-repo)
+* [Research UNIX Version 1 - Version 7 source code (documentation)](https://github.com/dspinellis/unix-history-repo)
 * [Research UNIX v10 source code (documentation)](https://github.com/Alhadis/Research-Unix-v10)
 * [UNIX System V source code (documentation)](https://archive.org/details/ATTUNIXSystemVRelease4Version2)
+* [Version 7 UNIX ported do x86 by Robert Nordier (BSD license)](https://www.nordier.com/v7x86/v7x86-0.8a-all.tar.xz)
+* [Old Unix XRef](https://wfjm.github.io/home/ouxr/)
 
 #### Specifications, documentation, manuals and historical material
 
@@ -694,6 +696,10 @@ Click on each highlighted operating system to access material for that operating
 * [UnixWare](https://en.wikipedia.org/wiki/UnixWare)
 * [Ancient UNIX](https://en.wikipedia.org/wiki/Ancient_UNIX)  
 
+#### Run UNIX
+
+* [Run ancient UNIX on modern hardware (Version 1 to Version 7 UNIX and BSD UNIX)](https://github.com/felipenlunkes/run-ancient-unix)
+
 </details>
 
 <details title="BSD" align='left'>
@@ -708,6 +714,7 @@ Click on each highlighted operating system to access material for that operating
 * [4.3 Berkeley Software Distribution Documentation](https://www.netbsd.org/docs/bsd/net2/)
 * [Utah Lites Release 1.1.u3 - 4.4BSD Lite based server and library for Mach kernel](https://www.cs.utah.edu/flux/lites/html/)
 * [BSD Now, a BSD podcast](https://www.bsdnow.tv/)
+* [2.11BSD UNIX system studies](https://wfjm.github.io/home/211bsd/)
 
 #### Wikipedia content
 
@@ -912,6 +919,8 @@ Click on each highlighted operating system to access material for that operating
 <details title="Hardware" align='left'>
 <br>
 <summary align='left'>Hardware</summary>
+
+* [w11: PDP-11/70 CPU and SoC](https://wfjm.github.io/home/w11/)
 
 </details>
 
