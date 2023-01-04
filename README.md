@@ -34,7 +34,7 @@ A quick summary of the sessions in this document:
 
 * [Operating Systems sorted by family](#os-projects-sorted-by-family)
 * [Operating Systems sorted by language](#os-projects-sorted-by-language)
-* [Source code, reference material and documentation of Operating Systems](#reference-material)
+* [Source code, reference material and documentation](#reference-material)
 * [Tutorials](#tutorials)
 * [Websites and other resources](#websites-and-other-resources)
 
