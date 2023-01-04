@@ -46,16 +46,18 @@ A quick summary of the sessions in this document:
 
 <div align="justify">
 
-In this section you will find documentation available for the main operating systems (open source or not). This documentation includes official material, scientific articles, original source code from historic operating systems and books (online or in print). The session addresses:
+In this section you will find documentation available for the main operating systems (open source or not). This documentation includes official material, scientific articles, original source code from historic operating systems and books (online or in print). This session addresses:
 
 - [x] History of operating systems;
 - [x] Historical material;
 - [x] Internal technical documentation (kernel, interfaces, etc);
+- [x] Source code of historical operating systems;
 - [x] User manuals;
 - [x] Manuals for the development of each operating system;
 - [x] Guides for administration of each operating system;
 - [x] Hardware documentation;
-- [x] Documentation on operating systems development.
+- [x] Documentation on operating systems development;
+- [x] Hardware documentation.
 
 Click on each highlighted operating system to access material for that operating system.
 
