@@ -652,6 +652,7 @@ In this session, the projects were separated by the operating system family to w
 * [XEOS](http://www.xs-labs.com/en/projects/xeos/)
 * [xOS](https://github.com/BrownieOS/xOS)
 * [YaxOS](https://gitlab.com/SopaXorzTaker/yaxos)
+* [ZealOS](https://github.com/Zeal-Operating-System/ZealOS)
 * [Zeal 8-bit OS](https://github.com/Zeal8bit/Zeal-8-bit-OS)
 
 </details>
@@ -861,6 +862,7 @@ In this session, the projects were separated by the main programming language us
 |[Tupai](https://gitlab.com/zesterer/tupai/)|C|x86, ARM|Unix-like|No|Yes|GNU General Public License version 3|
 |[Vanadium OS](https://github.com/p-durlej/newsys)|C|x86|Unix-like|Yes|Yes|![](https://img.shields.io/github/license/p-durlej/newsys.svg)|
 |[xv6](https://github.com/mit-pdos/xv6-public)|C|x86|Unix-like|Yes|Yes|![](https://img.shields.io/github/license/mit-pdos/xv6-public.svg)|
+|[ZealOS](https://github.com/Zeal-Operating-System/ZealOS)|C (HolyC)|Other|Yes|Yes|![](https://img.shields.io/github/license/Zeal-Operating-System/ZealOS.svg)|
 |[ZeldaOS](https://github.com/chillancezen/ZeldaOS)|C|x86, x86_64|Unix-like|Yes|Yes|![](https://img.shields.io/github/license/chillancezen/ZeldaOS.svg)|
 
 </div>
