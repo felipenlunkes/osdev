@@ -521,7 +521,7 @@ In this session, the projects were separated by the operating system family to w
 
 <details title="Other" align='left'>
 <br>
-<summary align='left'>Other</summary>
+<summary align='left'>Other (original design)</summary>
 
 * [Alotware](https://github.com/0x5CE/alotware)
 * [Amiga Research Operating System](https://github.com/aros-development-team/AROS)
@@ -862,7 +862,7 @@ In this session, the projects were separated by the main programming language us
 |[Tupai](https://gitlab.com/zesterer/tupai/)|C|x86, ARM|Unix-like|No|Yes|GNU General Public License version 3|
 |[Vanadium OS](https://github.com/p-durlej/newsys)|C|x86|Unix-like|Yes|Yes|![](https://img.shields.io/github/license/p-durlej/newsys.svg)|
 |[xv6](https://github.com/mit-pdos/xv6-public)|C|x86|Unix-like|Yes|Yes|![](https://img.shields.io/github/license/mit-pdos/xv6-public.svg)|
-|[ZealOS](https://github.com/Zeal-Operating-System/ZealOS)|C (HolyC)|Other|Yes|Yes|![](https://img.shields.io/github/license/Zeal-Operating-System/ZealOS.svg)|
+|[ZealOS](https://github.com/Zeal-Operating-System/ZealOS)|C (HolyC)|x86_64|Other (TempleOS)|Yes|Yes|![](https://img.shields.io/github/license/Zeal-Operating-System/ZealOS.svg)|
 |[ZeldaOS](https://github.com/chillancezen/ZeldaOS)|C|x86, x86_64|Unix-like|Yes|Yes|![](https://img.shields.io/github/license/chillancezen/ZeldaOS.svg)|
 
 </div>
