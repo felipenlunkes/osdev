@@ -416,9 +416,9 @@ In this session, the projects were separated by the operating system family to w
 
 <div align="justify">
 
-<details title="UNIX and descendants" align='left'>
+<details title="UNIX and direct descendants" align='left'>
 <br>
-<summary align='left'>UNIX and descendants</summary>
+<summary align='left'>UNIX and direct descendants</summary>
 
 * [Research UNIX v1-v7](https://github.com/dspinellis/unix-history-repo)
 * [Research UNIX v10](https://github.com/Alhadis/Research-Unix-v10)
@@ -502,9 +502,9 @@ In this session, the projects were separated by the operating system family to w
 
 </details>
 
-<details title="Windows" align='left'>
+<details title="Windows and Windows-like" align='left'>
 <br>
-<summary align='left'>Windows</summary>
+<summary align='left'>Windows and Windows-like</summary>
 
 * [ReactOS](http://www.reactos.com/)
 
@@ -519,7 +519,7 @@ In this session, the projects were separated by the operating system family to w
 
 </details>
 
-<details title="Other" align='left'>
+<details title="Other (original design)" align='left'>
 <br>
 <summary align='left'>Other (original design)</summary>
 
