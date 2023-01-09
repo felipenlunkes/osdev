@@ -72,6 +72,7 @@ Click on each highlighted operating system to access material for that operating
 
 #### Original source code
 
+* [The Unix Tree - The UNIX Heritage Society](https://minnie.tuhs.org/cgi-bin/utree.pl)
 * [Research UNIX Version 1 - Version 7 source code (documentation)](https://github.com/dspinellis/unix-history-repo)
 * [Research UNIX v10 source code (documentation)](https://github.com/Alhadis/Research-Unix-v10)
 * [UNIX System V source code (documentation)](https://archive.org/details/ATTUNIXSystemVRelease4Version2)
@@ -102,6 +103,10 @@ Click on each highlighted operating system to access material for that operating
 * [A COMMENTARY ON THE SIXTH EDITION UNIX OPERATING SYSTEM](http://warsus.github.io/lions-/)
 * [UNIX Seventh Edition Manual, Volume 2](https://wolfram.schneider.org/bsd/7thEdManVol2/)
 * [The UNIX HATERS Handbook - PDF](https://web.mit.edu/~simsong/www/ugh.pdf)
+
+#### Websites
+
+* [The UNIX Heritage Society](https://www.tuhs.org/)
 
 #### Wikipedia content
 
