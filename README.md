@@ -359,7 +359,6 @@ Click on each highlighted operating system to access material for that operating
 </details>
 
 <details title="OSDev" align='left'>
-<br>
 <summary align='left'>OSdev</summary>
 
 #### Consolidated projects for learning
