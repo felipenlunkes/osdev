@@ -150,8 +150,13 @@ Click on each highlighted operating system to access material for that operating
 </details>
 
 <details title="FreeBSD" align='left'>
-<br>
 <summary align='left'>FreeBSD</summary>
+
+#### Source code
+
+* [FreeBSD source code](https://github.com/freebsd/freebsd-src)
+
+#### Specifications, documentation, manuals and historical material
 
 * [FreeBSD Handbook](https://docs.freebsd.org/en/books/handbook/)
 * [FreeBSD Porter's Handbook](https://docs.freebsd.org/en/books/porters-handbook/)
@@ -174,8 +179,14 @@ Click on each highlighted operating system to access material for that operating
 </details>
 
 <details title="NetBSD" align='left'>
-<br>
+
 <summary align='left'>NetBSD</summary>
+
+#### Source code
+
+* [NetBSD source code](https://github.com/NetBSD/src)
+
+#### Specifications, documentation, manuals and historical material
 
 * [The NetBSD Guide](https://www.netbsd.org/docs/guide/en/index.html)
 * [NetBSD Internals](https://www.netbsd.org/docs/internals/en/index.html)
@@ -188,8 +199,13 @@ Click on each highlighted operating system to access material for that operating
 </details>
 
 <details title="OpenBSD" align='left'>
-<br>
 <summary align='left'>OpenBSD</summary>
+
+#### Source code
+
+* [OpenBSD source code](https://github.com/openbsd/src)
+
+#### Specifications, documentation, manuals and historical material
 
 * [OpenBSD FAQ](https://www.openbsd.org/faq/index.html)
 * [OpenBSD Porter's Handbook](https://www.openbsd.org/faq/ports/index.html)
@@ -213,7 +229,6 @@ Click on each highlighted operating system to access material for that operating
 </details>
 
 <details title="illumos (OpenSolaris)" align='left'>
-<br>
 <summary align='left'>illumos (OpenSolaris)</summary>
 
 #### Source code
@@ -237,7 +252,6 @@ Click on each highlighted operating system to access material for that operating
 </details>
 
 <details title="Linux" align='left'>
-<br>
 <summary align='left'>Linux</summary>
 
 #### Source code
@@ -269,7 +283,6 @@ Click on each highlighted operating system to access material for that operating
 </details>
 
 <details title="Mach Kernel and XNU" align='left'>
-<br>
 <summary align='left'>Mach Kernel and XNU</summary>
 
 #### Source code
