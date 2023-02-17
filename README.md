@@ -503,6 +503,7 @@ In this session, the projects were separated by the operating system family to w
 * [NetDOS/32](https://github.com/clementtttttttt/NetDOS-32)
 * [NightKernel](https://github.com/mercury0x000d/NightKernel)
 * [Public Domain Operating System](http://pdos.org/)
+* [PC-MOS/386](https://github.com/roelandjansen/pcmos386v501)
 * [PX-DOS](https://github.com/felipenlunkes/PX-DOS-Core)
 * [SimpleOS](https://github.com/xing1357/SimpleOS/)
 
@@ -737,6 +738,7 @@ In this session, the projects were separated by the main programming language us
 |[NightKernel](https://github.com/mercury0x000d/NightKernel)|Assembly|x86|DOS|Yes|No|![](https://img.shields.io/github/license/mercury0x000d/NightKernel.svg)|
 |[OLOS](https://github.com/leonardo-ono/Assembly8086OLOS)|Assembly|x86 (16-bit)|Other|Yes|Yes|![](https://img.shields.io/github/license/leonardo-ono/Assembly8086OLOS.svg)|
 |[PC/GEOS](https://github.com/bluewaysw/pcgeos)|Assembly|x86|Other|Yes|Yes|![](https://img.shields.io/github/license/bluewaysw/pcgeos.svg)|
+|[PC-MOS/386](https://github.com/roelandjansen/pcmos386v501)|Assembly|x86|DOS|Yes|No|[](https://img.shields.io/github/license/roelandjansen/pcmos386v501.svg)|
 |[PiscisOS](https://github.com/tishion/PiscisOS)|Assembly|x86|Other|Yes|No|![](https://img.shields.io/github/license/tishion/PiscisOS.svg)|
 |[Segmented Kernel (educational)](https://github.com/MaoKo/Segmented_Kernel)|Assembly|x86|Other|Yes|Yes|MIT license|
 |[Snowdrop OS](http://sebastianmihai.com/snowdrop/)|Assembly|x86 (16-bit)|Other|No|Yes|Public domain|
