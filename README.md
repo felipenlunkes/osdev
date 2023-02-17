@@ -150,8 +150,13 @@ Click on each highlighted operating system to access material for that operating
 </details>
 
 <details title="FreeBSD" align='left'>
-<br>
 <summary align='left'>FreeBSD</summary>
+
+#### Source code
+
+* [FreeBSD source code](https://github.com/freebsd/freebsd-src)
+
+#### Specifications, documentation, manuals and historical material
 
 * [FreeBSD Handbook](https://docs.freebsd.org/en/books/handbook/)
 * [FreeBSD Porter's Handbook](https://docs.freebsd.org/en/books/porters-handbook/)
@@ -174,8 +179,14 @@ Click on each highlighted operating system to access material for that operating
 </details>
 
 <details title="NetBSD" align='left'>
-<br>
+
 <summary align='left'>NetBSD</summary>
+
+#### Source code
+
+* [NetBSD source code](https://github.com/NetBSD/src)
+
+#### Specifications, documentation, manuals and historical material
 
 * [The NetBSD Guide](https://www.netbsd.org/docs/guide/en/index.html)
 * [NetBSD Internals](https://www.netbsd.org/docs/internals/en/index.html)
@@ -188,8 +199,13 @@ Click on each highlighted operating system to access material for that operating
 </details>
 
 <details title="OpenBSD" align='left'>
-<br>
 <summary align='left'>OpenBSD</summary>
+
+#### Source code
+
+* [OpenBSD source code](https://github.com/openbsd/src)
+
+#### Specifications, documentation, manuals and historical material
 
 * [OpenBSD FAQ](https://www.openbsd.org/faq/index.html)
 * [OpenBSD Porter's Handbook](https://www.openbsd.org/faq/ports/index.html)
@@ -213,8 +229,13 @@ Click on each highlighted operating system to access material for that operating
 </details>
 
 <details title="illumos (OpenSolaris)" align='left'>
-<br>
 <summary align='left'>illumos (OpenSolaris)</summary>
+
+#### Source code
+
+* [illumos source code](https://github.com/illumos/illumos-gate)
+
+#### Specifications, documentation, manuals and historical material
 
 * [illumos Documentation](https://illumos.org/docs/)
 * [illumos developer's guide](https://illumos.org/books/dev/)
@@ -231,10 +252,15 @@ Click on each highlighted operating system to access material for that operating
 </details>
 
 <details title="Linux" align='left'>
-<br>
 <summary align='left'>Linux</summary>
 
-* [Linux Training Course Notes - LPI 101 - PDF](http://academy.delmar.edu/Courses/ITSC1358/eBooks/LPI-101.LinuxTrainingCourseNotes.pdf)
+#### Source code
+
+* [Linux kernel source code](https://kernel.org)
+
+#### Specifications, documentation and manuals
+
+* [Linux Device Drivers, Second Edition](https://www.oreilly.com/library/view/linux-device-drivers/0596000081/ch03s02.html)
 * [The Linux Kernel Module Programming Guide](https://sysprog21.github.io/lkmpg/)
 * [The Linux Kernel documentation](https://www.kernel.org/doc/html/latest/)
 * [Working with the kernel development community](https://www.kernel.org/doc/html/latest/process/)
@@ -246,15 +272,25 @@ Click on each highlighted operating system to access material for that operating
 * [sam4ks Linux Kernel Resources](https://github.com/sam4k/linux-kernel-resources)
 * [xairys Linux Kernel Exploitation](https://github.com/xairy/linux-kernel-exploitation)
 * [Linux kernel system call table for all archs](https://marcin.juszkiewicz.com.pl/download/tables/syscalls.html)
+* [The Revised Slackware Book Project](http://www.slackbook.org/)
+
+#### Courses
+
+* [Linux Training Course Notes - LPI 101 - PDF](http://academy.delmar.edu/Courses/ITSC1358/eBooks/LPI-101.LinuxTrainingCourseNotes.pdf)
 * [Linux Kernel in a Nutshell](http://www.kroah.com/lkn/)
 * [HowToForge Linux Tutorials](https://howtoforge.com/)
-* [The Revised Slackware Book Project](http://www.slackbook.org/)
 
 </details>
 
 <details title="Mach Kernel and XNU" align='left'>
-<br>
 <summary align='left'>Mach Kernel and XNU</summary>
+
+#### Source code
+
+* [Mach 3 original source](https://www.cs.cmu.edu/afs/cs/project/mach/public/www/sources/sources_top.html)
+* [Mach 3 - GitHub (maintained by user)](https://github.com/Prajna/mach)
+
+#### Specifications, documentation, manuals and historical material
 
 * [The Mach Project](https://www.cs.cmu.edu/afs/cs/project/mach/public/www/mach.html)
 * [MACH threads and the UNIX kernel: the battle for control](https://kilthub.cmu.edu/articles/journal_contribution/MACH_threads_and_the_UNIX_kernel_the_battle_for_control/6607079/1)
@@ -323,8 +359,13 @@ Click on each highlighted operating system to access material for that operating
 </details>
 
 <details title="OSDev" align='left'>
-<br>
 <summary align='left'>OSdev</summary>
+
+#### Consolidated projects for learning
+
+* [xv6: a simple, Unix-like teaching operating system](https://pdos.csail.mit.edu/6.828/2019/xv6/book-riscv-rev0.pdf)
+
+#### Courses
 
 * [How to Make a Computer Operating System](https://github.com/SamyPesse/How-to-Make-a-Computer-Operating-System)
 * [Operating Systems: From 0 to 1](https://github.com/tuhdo/os01)
@@ -332,7 +373,6 @@ Click on each highlighted operating system to access material for that operating
 * [Operating Systems: Three Easy Pieces](http://pages.cs.wisc.edu/~remzi/OSTEP/)
 * [The little book about OS development](http://littleosbook.github.io/)
 * [Think OS](http://greenteapress.com/thinkos/)
-* [xv6: a simple, Unix-like teaching operating system](https://pdos.csail.mit.edu/6.828/2019/xv6/book-riscv-rev0.pdf)
 * [Operating System Concepts](https://www.os-book.com/OS9/index.html)
 * [FreeBSD/Linux Kernel Cross Reference](http://fxr.watson.org/fxr/source/?v=MK84)
 * [Operating System Concepts - 10th edition](https://github.com/greggagne/osc10e)
@@ -485,6 +525,8 @@ In this session, the projects were separated by the operating system family to w
 * [Tupai](https://gitlab.com/zesterer/tupai/)
 * [µnix](https://github.com/cute-engineewing/munix)
 * [Unix-like](https://github.com/MaoKo/Unix-Like)
+* [Uzi](https://github.com/paulie-g/uzi)
+* [UZIX](https://uzix.sourceforge.net/uzix2.0/index.php?page=down&lang=pt)
 * [Upanix](https://github.com/prajwal83/upanix)
 * [Vanadium OS](https://github.com/p-durlej/newsys)
 * [xv6](https://github.com/mit-pdos/xv6-public)
@@ -868,6 +910,8 @@ In this session, the projects were separated by the main programming language us
 |[TravorOS](https://github.com/TravorLZH/TravorOS)|C|x86|Unix-like|Yes|No|![](https://img.shields.io/github/license/TravorLZH/TravorOS.svg)|
 |[TROPIX (NCE/UFRJ)](https://github.com/felipenlunkes/TROPIX)|C|x86|Unix-like|Yes|No|![](https://img.shields.io/github/license/felipenlunkes/TROPIX.svg)|
 |[Tupai](https://gitlab.com/zesterer/tupai/)|C|x86, ARM|Unix-like|No|Yes|GNU General Public License version 3|
+|[Uzi](https://github.com/paulie-g/uzi)|C|z80|Unix-like|Yes|Yes|Public domain|
+|[UZIX](https://uzix.sourceforge.net/uzix2.0/index.php?page=down&lang=pt)|C|z80, MSX|Unix-like|No|No|GPL|
 |[Vanadium OS](https://github.com/p-durlej/newsys)|C|x86|Unix-like|Yes|Yes|![](https://img.shields.io/github/license/p-durlej/newsys.svg)|
 |[xv6](https://github.com/mit-pdos/xv6-public)|C|x86|Unix-like|Yes|Yes|![](https://img.shields.io/github/license/mit-pdos/xv6-public.svg)|
 |[ZealOS](https://github.com/Zeal-Operating-System/ZealOS)|C (HolyC)|x86_64|Other (TempleOS)|Yes|Yes|![](https://img.shields.io/github/license/Zeal-Operating-System/ZealOS.svg)|
