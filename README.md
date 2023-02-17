@@ -466,8 +466,8 @@ In this session, the projects were separated by the operating system family to w
 <br>
 <summary align='left'>UNIX and direct descendants</summary>
 
-* [Research UNIX v1-v7](https://github.com/dspinellis/unix-history-repo)
-* [Research UNIX v10](https://github.com/Alhadis/Research-Unix-v10)
+* [Version 1 to Version 7 UNIX](https://github.com/dspinellis/unix-history-repo)
+* [Version 10 UNIX](https://github.com/Alhadis/Research-Unix-v10)
 * [UNIX System V](https://archive.org/details/ATTUNIXSystemVRelease4Version2)
 * [UNIX PDP-7](https://github.com/asegid/pdp7-unix)
 * [Plan 9](https://9p.io/plan9/)
@@ -756,7 +756,7 @@ In this session, the projects were separated by the main programming language us
 
 | Name | Language | Architecture | OS family | Available on GitHub | Active | License |
 |:----:|:--------:|:------------:|:---------:|:-------------------:|:------:|:-------:|
-|[Research UNIX v1-v7](https://github.com/dspinellis/unix-history-repo)|Assembly (early versions) and C|PDP-7, PDP-11| Unix | Yes | No (historical)|![](https://img.shields.io/github/license/dspinellis/unix-history-repo.svg)|
+|[Version 1 to Version 7 UNIX](https://github.com/dspinellis/unix-history-repo)|Assembly (early versions) and C|PDP-7, PDP-11| Unix | Yes | No (historical)|![](https://img.shields.io/github/license/dspinellis/unix-history-repo.svg)|
 |[UNIX PDP-7](https://github.com/asegid/pdp7-unix)|Assembly|PDP-7|Unix|Yes|No|![](https://img.shields.io/github/license/asegid/pdp7-unix.svg)|
 |[Alotware](https://github.com/0x5CE/alotware)|Assembly|x86|Other|Yes|No|Public domain|
 |[AtieDOS](https://github.com/AtieP/AtieDOS)|Assembly|x86 (16-bit)|DOS|Yes|Yes|![](https://img.shields.io/github/license/AtieP/AtieDOS.svg)|
@@ -811,7 +811,7 @@ In this session, the projects were separated by the main programming language us
 
 | Name | Language | Architecture | OS family | Available on GitHub | Active | License |
 |:----:|:--------:|:------------:|:---------:|:-------------------:|:------:|:-------:|
-|[Research UNIX v10](https://github.com/Alhadis/Research-Unix-v10)|C|-|Unix|Yes|No (historical)|![](https://img.shields.io/github/license/Alhadis/Research-Unix-v10.svg)|
+|[Version 10 UNIX](https://github.com/Alhadis/Research-Unix-v10)|C|-|Unix|Yes|No (historical)|![](https://img.shields.io/github/license/Alhadis/Research-Unix-v10.svg)|
 |[UNIX System V](https://archive.org/details/ATTUNIXSystemVRelease4Version2)|C|PDP-11, VAX 11/780, x86|Unix|No|No (historical)|Check files|
 |[Plan 9](https://9p.io/plan9/)|C|x86|Unix|No|Yes|-|
 |[9front](https://code.9front.org/hg/plan9front)|C|x86|Unix|No|Yes|-|
@@ -819,7 +819,7 @@ In this session, the projects were separated by the main programming language us
 |[FreeBSD](https://github.com/freebsd/freebsd-src)|C|x86, ARM, PowerPC, RISC-V|Unix|Yes|Yes|![](https://img.shields.io/github/license/freebsd/freebsd-src.svg)|
 |[NetBSD](https://github.com/NetBSD/src)|C|x86, ARM, PowerPC, RISC-V|Unix|Yes|Yes|![](https://img.shields.io/github/license/NetBSD/src.svg)|
 |[OpenBSD](https://github.com/openbsd/src)|C|x86, ARM, PowerPC, RISC-V|Unix|Yes|Yes|![](https://img.shields.io/github/license/openbsd/src.svg)|
-[DragonFly BSD](https://github.com/DragonFlyBSD/DragonFlyBSD)|C|x86_64|Unix|Yes|Yes|BSD license|
+|[DragonFly BSD](https://github.com/DragonFlyBSD/DragonFlyBSD)|C|x86_64|Unix|Yes|Yes|BSD license|
 |[MirBSD](http://www.mirbsd.org/)|C|x86|Unix|No|Yes|BSD license|
 |[illumos (OpenSolaris)](https://github.com/illumos/illumos-gate)|C|x86, SPARC|Unix|Yes|Yes|![](https://img.shields.io/github/license/illumos/illumos-gate.svg)|
 |[Amiga Research Operating System](https://github.com/aros-development-team/AROS)|C|x68k, x86, x86_64, PowerPC, ARM|Other (Amiga)|Yes|Yes|![](https://img.shields.io/github/license/aros-development-team/AROS.svg)|
