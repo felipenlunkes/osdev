@@ -494,6 +494,7 @@ In this session, the projects were separated by the operating system family to w
 * [Darwin (XNU kernel)](https://github.com/apple/darwin-xnu)
 * [Dennix](https://github.com/dennis95/dennix)
 * [duckOS](https://github.com/byteduck/duckOS)
+* [eduOS-rs](https://github.com/RWTH-OS/eduOS-rs)
 * [Escape](https://github.com/Nils-TUD/Escape)
 * [Fiwix](http://github.com/mikaku/Fiwix)
 * [Fuchsia OS](https://fuchsia.dev/)
@@ -508,6 +509,7 @@ In this session, the projects were separated by the operating system family to w
 * [lk](https://github.com/littlekernel/lk)
 * [Lunix OS](https://github.com/felipenlunkes/lunix)
 * [MentOS](https://github.com/mentos-team/MentOS)
+* [Mimiker](https://github.com/cahirwpz/mimiker)
 * [Minix](http://minix3.org/)
 * [Nanvix](https://github.com/nanvix/nanvix)
 * [NexNix](https://github.com/nexos-dev/nexnix)
@@ -572,6 +574,7 @@ In this session, the projects were separated by the operating system family to w
 <br>
 <summary align='left'>Other (original design)</summary>
 
+* [ackOS](https://github.com/ackOS-project/ackOS)
 * [Alotware](https://github.com/0x5CE/alotware)
 * [Amiga Research Operating System](https://github.com/aros-development-team/AROS)
 * [AQUA OS](https://github.com/inobulles/aquabsd-core)
@@ -618,10 +621,12 @@ In this session, the projects were separated by the operating system family to w
 * [Interim](https://github.com/mntmn/interim)
 * [JaeOS](https://github.com/azsoter/jaeos-devel)
 * [JSLK](https://github.com/sofferjacob/jslk)
+* [Kan](https://github.com/kan-os/kan)
 * [KLIKA-OS](https://github.com/klikaba/klika-os)
 * [Kolibri OS](http://www.kolibrios.org/)
 * [Kora OS](https://github.com/AxFab/kora-kernel)
 * [KOS](https://github.com/guilt/KOS)
+* [Kot](https://github.com/kot-org/Kot)
 * [Lambda OS](https://github.com/farlepet/lambda-os)
 * [LFOS](https://github.com/LittleFox94/lf-os_amd64)
 * [Lotus-Effect](https://github.com/CorruptedByCPU/Lotus-Effect/)
@@ -645,6 +650,7 @@ In this session, the projects were separated by the operating system family to w
 * [MysticOS](http://www.d-rift.nl/combuster/mos3/)
 * [Nano16](https://github.com/NANO-DEV/NANO-S16)
 * [Nano32](https://github.com/NANO-DEV/NANO-S32)
+* [NanoShellOS](https://github.com/iProgramMC/NanoShellOS)
 * [NOS](https://github.com/xenos1984/NOS)
 * [OLOS](https://github.com/leonardo-ono/Assembly8086OLOS)
 * [OS](http://sourceforge.net/projects/lowest-kernel/files/)
@@ -681,6 +687,7 @@ In this session, the projects were separated by the operating system family to w
 * [Snowdrop OS](http://sebastianmihai.com/snowdrop/)
 * [SnowflakeOS](https://github.com/29jm/SnowflakeOS)
 * [SO3](https://gitlab.com/smartobject/so3)
+* [SynapseOS](https://github.com/0Nera/SynapseOS)
 * [The Stupid Operating System](https://github.com/sos-os/kernel)
 * [Synergy OS](https://github.com/JackScottAU/Synergy-OS)
 * [tachyon](https://github.com/mduft/tachyon3)
@@ -857,6 +864,7 @@ In this session, the projects were separated by the main programming language us
 |[Interim](https://github.com/mntmn/interim)|C|x86, x86_64, ARMv7, Motorola 68020|Other|Yes|Yes|![](https://img.shields.io/github/license/mntmn/interims.svg)|
 |[JaeOS](https://github.com/azsoter/jaeos-devel)|C|x86|Other|Yes|Yes|![](https://img.shields.io/github/license/azsoter/jaeos-devel.svg)|
 |[JSLK](https://github.com/sofferjacob/jslk)|C|x86|Other|Yes|Yes|![](https://img.shields.io/github/license/sofferjacob/jslk.svg)|
+|[Kan](https://github.com/kan-os/kan)|C|x86|Other|Yes|Yes|![](https://img.shields.io/github/license/kan-os/kan.svg)|
 |[KLIKA-OS](https://github.com/klikaba/klika-os)|C|x86_64|Other|Yes|Yes|![](https://img.shields.io/github/license/klikaba/klika-os.svg)|
 |[Kora OS](https://github.com/AxFab/kora-kernel)|C|x86, x86_64, ARM|Other|Yes|Yes|![](https://img.shields.io/github/license/AxFab/kora-kernel.svg)|
 |[KOS](https://github.com/guilt/KOS)|C|x86|Other|Yes|Yes|![](https://img.shields.io/github/license/guilt/KOS.svg)|
@@ -868,6 +876,7 @@ In this session, the projects were separated by the main programming language us
 |[Lunix OS](https://github.com/felipenlunkes/lunix)|C|x86|Unix-like|Yes|Yes|![](https://img.shields.io/github/license/felipenlunkes/lunix.svg)|
 |[Lyre](https://github.com/lyre-os/lyre)|C|x86_64|Other|Yes|Yes|![](https://img.shields.io/github/license/lyre-os/lyre.svg)|
 |[MentOS](https://github.com/mentos-team/MentOS)|C|x86|Unix-like|Yes|Yes|![](https://img.shields.io/github/license/mentos-team/MentOS.svg)|
+|[Mimiker](https://github.com/cahirwpz/mimiker)|C|x86, MIPS, AArch64, RISC-V|Unix-like|Yes|Yes|![](https://img.shields.io/github/license/cahirwpz/mimiker.svg)|
 |[Minix](https://github.com/Stichting-MINIX-Research-Foundation/minix)|C|x86, arm64|Unix-like|Yes|Yes|![](https://img.shields.io/github/license/Stichting-MINIX-Research-Foundation/minix.svg)|
 |[Minoca](https://github.com/minoca/os)|C|-|Other|Yes|Yes|![](https://img.shields.io/github/license/minoca/os.svg)|
 |[MiraiOS](https://github.com/LNooteboom/MiraiOS)|C|x86_64|Other|Yes|Yes|![](https://img.shields.io/github/license/LNooteboom/MiraiOS.svg)|
@@ -875,6 +884,7 @@ In this session, the projects were separated by the main programming language us
 |[mos](https://github.com/MQuy/mos)|C|-|Other|Yes|Yes|![](https://img.shields.io/github/license/MQuy/mos.svg)|
 |[Nano16](https://github.com/NANO-DEV/NANO-S16)|C|x86 (16-bit)|Other|Yes|Yes|![](https://img.shields.io/github/license/NANO-DEV/NANO-S16.svg)|
 |[Nano32](https://github.com/NANO-DEV/NANO-S32)|C|x86|Other|Yes|Yes|![](https://img.shields.io/github/license/NANO-DEV/NANO-S32.svg)|
+|[NanoShellOS](https://github.com/iProgramMC/NanoShellOS)|C|x86|Other|Yes|Yes|![](https://img.shields.io/github/license/iProgramMC/NanoShellOS.svg)|
 |[Nanvix](https://github.com/nanvix/nanvix)|C|x86|Unix-like|Yes|Yes|![](https://img.shields.io/github/license/nanvix/nanvix.svg)|
 |[NetDOS/32](https://github.com/clementtttttttt/NetDOS-32)|C|x86|DOS|Yes|No|![](https://img.shields.io/github/license/clementtttttttt/NetDOS-32.svg)|
 |[NexNix](https://github.com/nexos-dev/nexnix)|C|x86|Unix-like|Yes|Yes|![](https://img.shields.io/github/license/nexos-dev/nexnix.svg)|
@@ -901,6 +911,7 @@ In this session, the projects were separated by the main programming language us
 |[SnowflakeOS](https://github.com/29jm/SnowflakeOS)|C|x86|Other|Yes|No|![](https://img.shields.io/github/license/29jm/SnowflakeOS.svg)|
 |[Sortix](https://sortix.org/)|C|x86, x86_64|Unix-like|No|Yes|ISC license|
 |[Soso](https://github.com/ozkl/soso)|C|x86|Unix-like|Yes|Yes|![](https://img.shields.io/github/license/ozkl/soso.svg)|
+|[SynapseOS](https://github.com/0Nera/SynapseOS)|C|x86|Other|Yes|Yes|![](https://img.shields.io/github/license/0Nera/SynapseOS.svg)|
 |[Synergy OS](https://github.com/JackScottAU/Synergy-OS)|C|x86|Other|Yes|No|![](https://img.shields.io/github/license/JackScottAU/Synergy-OS.svg)|
 |[tachyon](https://github.com/mduft/tachyon3)|C|x86_64|Other|Yes|Yes|![](https://img.shields.io/github/license/mduft/tachyon3.svg)|
 [TempleOS](http://templeos.org/)|C|x86|Other|No|No|Public domain|
@@ -929,6 +940,7 @@ In this session, the projects were separated by the main programming language us
 
 | Name | Language | Architecture | OS family | Available on GitHub | Active | License |
 |:----:|:--------:|:------------:|:---------:|:-------------------:|:------:|:-------:|
+|[ackOS](https://github.com/ackOS-project/ackOS)|C++|x86|Other|Yes|Yes|![](https://img.shields.io/github/license/ackOS-project/ackOS.svg)|
 |[aurora-xeneva](https://github.com/manaskamal/aurora-xeneva)|C++|x86_64|Other|Yes|Yes|![](https://img.shields.io/github/license/manaskamal/aurora-xeneva.svg)|
 |[Beelzebub](https://github.com/vercas/Beelzebub)|C++|x86, x86_64|Other|Yes|Yes|![](https://img.shields.io/github/license/vercas/Beelzebub.svg)|
 |[ChaiOS](https://github.com/ChaiSoft/ChaiOS)|C++|x86|Other|Yes|Yes|![](https://img.shields.io/github/license/ChaiSoft/ChaiOS.svg)
@@ -940,6 +952,7 @@ In this session, the projects were separated by the main programming language us
 |[GreenteaOS](https://github.com/GreenteaOS)|C++|x86|Other|Yes|Yes|![](https://img.shields.io/github/license/GreenteaOS/Tofita.svg)|
 |[Haiku](https://github.com/haiku/haiku)|C++|x86, ARM|BeOS-like|Yes|Yes|![](https://img.shields.io/github/license/haiku/haiku.svg)|
 |[JSD/OS](https://github.com/pgrAm/JSD-OS)|C++|x86|DOS|Yes|Yes|![](https://img.shields.io/github/license/pgrAm/JSD-OS.svg)|
+|[Kot](https://github.com/kot-org/Kot)|C++|x86_64|Other|Yes|Yes|![](https://img.shields.io/github/license/kot-org/Kot.svg)|
 |[LemonOS](https://git[PowerNex](https://github.com/PowerNex/PowerNex)hub.com/LemonOSProject/LemonOS)|C++|-|Unix-like|Yes|Yes|![](https://img.shields.io/github/license/LemonOSProject/LemonOS.svg)|
 |[Managarm](https://github.com/managarm/managarm)|C++|-|Other|Yes|Yes|![](https://img.shields.io/github/license/managarm/managarm.svg)|
 |[mikanos](https://github.com/uchan-nos/mikanos)|C++|-|Other|Yes|Yes|![](https://img.shields.io/github/license/uchan-nos/mikanos.svg)|
@@ -1032,6 +1045,7 @@ In this session, the projects were separated by the main programming language us
 | Name | Language | Architecture | OS family | Available on GitHub | Active | License |
 |:----:|:--------:|:------------:|:---------:|:-------------------:|:------:|:-------:|
 |[Aura](https://github.com/projectasiago/aura)|Rust|x86|Other|Yes|Yes|![](https://img.shields.io/github/license/projectasiago/aura.svg)|
+|[eduOS-rs](https://github.com/RWTH-OS/eduOS-rs)|Rust|x86|Unix-like|Yes|Yes|![](https://img.shields.io/github/license/RWTH-OS/eduOS-rs.svg)|
 |[MOROS](https://github.com/vinc/moros)|Rust|x86|Other|Yes|Yes|![](https://img.shields.io/github/license/vinc/moros.svg)|
 |[Redox-OS](https://github.com/redox-os/kernel)|Rust|x86, ARM|Other|Yes|Yes|![](https://img.shields.io/github/license/redox-os/kernel.svg)|
 |[snarkOS](https://github.com/AleoHQ/snarkOS)|Rust|-|Other|Yes|Yes|![](https://img.shields.io/github/license/AleoHQ/snarkOS.svg)|
