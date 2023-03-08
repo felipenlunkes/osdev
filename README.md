@@ -37,6 +37,7 @@ A quick summary of the sessions in this document:
 * [Operating Systems sorted by language](#os-projects-sorted-by-language)
 * [Tutorials](#tutorials)
 * [Websites and other resources](#websites-and-other-resources)
+* [Test historical OSes via SSH](#test-historical-oses-via-ssh)
 
 </div>
 
@@ -1113,5 +1114,17 @@ In this section you will find useful websites for more material on operating sys
 
 * [OSDev Wiki](http://wiki.osdev.org/Main_Page)
 * [Images of historical operating systems](https://winworldpc.com/library/operating-systems)
+
+## Test historical OSes via SSH
+
+You can use a variety of historic operating systems kept running by the Living Computers Museum. For this, you only need to have access to the terminal (Unix systems) or command prompt (Windows) and the SSH utility, to make a remote connection.
+
+To do this, use in the terminal:
+
+```shell
+$ ssh menu@tty.livingcomputers.org
+```
+
+You will be able to select from several systems such as UNIX (including Ancient UNIX, BSD UNIX, IRIX, HP-UX, SunOS and OSF/1), Multics, TOPS-10, TOPS-20 and OpenVMS.
 
 </div>
