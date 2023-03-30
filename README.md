@@ -571,6 +571,16 @@ Under construction!
 
 <div align="justify">
 
+In this section you will find theoretical material on the following topics:
+
+- [x] Design and implementation of operating systems;
+- [x] Hardware and architectures;
+- [x] Systems administration tools and techniques;
+- [x] Applications available for legacy systems and useful for project development; 
+- [x] Software licenses.
+
+> Click on one of the categories below to continue.
+
 <details title="OSDev" align='left'>
 <summary align='left'>OSdev</summary>
 
