@@ -161,6 +161,8 @@ Click on each highlighted operating system to access material for that operating
 * [List of BSD operating systems](https://en.wikipedia.org/wiki/List_of_BSD_operating_systems)
 * [Comparison of BSD operating systems](https://en.wikipedia.org/wiki/Comparison_of_BSD_operating_systems)
 
+<hr>
+
 </details>
 
 <details title="Plan 9 from Bell Labs" align='left'>
@@ -219,6 +221,8 @@ Click on each highlighted operating system to access material for that operating
 
 * [Plan 9 from Bell Labs](https://en.wikipedia.org/wiki/Plan_9_from_Bell_Labs)
 
+<hr>
+
 </details>
 
 <details title="FreeBSD" align='left'>
@@ -253,6 +257,8 @@ Click on each highlighted operating system to access material for that operating
 
 * [FreeBSD](https://en.wikipedia.org/wiki/FreeBSD)
 
+<hr>
+
 </details>
 
 <details title="NetBSD" align='left'>
@@ -277,6 +283,8 @@ Click on each highlighted operating system to access material for that operating
 
 * [NetBSD](https://en.wikipedia.org/wiki/NetBSD)
 
+<hr>
+
 </details>
 
 <details title="OpenBSD" align='left'>
@@ -300,6 +308,8 @@ Click on each highlighted operating system to access material for that operating
 
 * [OpenBSD](https://en.wikipedia.org/wiki/OpenBSD)
 
+<hr>
+
 </details>
 
 <details title="Sun Microsystems/Oracle Solaris" align='left'>
@@ -317,6 +327,8 @@ Click on each highlighted operating system to access material for that operating
 #### Wikipedia content
 
 * [Oracle Solaris](https://en.wikipedia.org/wiki/Oracle_Solaris)
+
+<hr>
 
 </details>
 
@@ -345,6 +357,8 @@ Click on each highlighted operating system to access material for that operating
 
 * [openSolaris](https://en.wikipedia.org/wiki/OpenSolaris)
 * [illumos](https://en.wikipedia.org/wiki/Illumos)
+
+<hr>
 
 </details>
 
@@ -382,6 +396,8 @@ Click on each highlighted operating system to access material for that operating
 * [Linux Kernel in a Nutshell](http://www.kroah.com/lkn/)
 * [HowToForge Linux Tutorials](https://howtoforge.com/)
 
+<hr>
+
 </details>
 
 <details title="Mach Kernel and XNU" align='left'>
@@ -418,6 +434,8 @@ Click on each highlighted operating system to access material for that operating
 * [XNU kernel](https://en.wikipedia.org/wiki/XNU)
 * [Darwin Operating System](https://en.wikipedia.org/wiki/Darwin_(operating_system))
 
+<hr>
+
 </details>
 
 <details title="DOS (Disk Operating System)" align='left'>
@@ -453,6 +471,8 @@ Click on each highlighted operating system to access material for that operating
 * [DR-DOS](https://en.wikipedia.org/wiki/DR-DOS)
 * [FreeDOS](https://en.wikipedia.org/wiki/FreeDOS)
 
+<hr>
+
 </details>
 
 <details title="Windows" align='left'>
@@ -473,6 +493,8 @@ Click on each highlighted operating system to access material for that operating
 #### Wikipedia content
 
 * [Architecture of Windows NT - Wikipedia](https://en.wikipedia.org/wiki/Architecture_of_Windows_NT)
+
+<hr>
 
 </details>
 
@@ -496,6 +518,8 @@ Click on each highlighted operating system to access material for that operating
 * [Operating System Concepts - 10th edition](https://github.com/greggagne/osc10e)
 * [Open source compatible BIOS for PC - GLaBIOS](https://github.com/640-KB/GLaBIOS)
 
+<hr>
+
 </details>
 
 <details title="Hardware" align='left'>
@@ -503,6 +527,8 @@ Click on each highlighted operating system to access material for that operating
 <summary align='left'>Hardware</summary>
 
 * [w11: PDP-11/70 CPU and SoC](https://wfjm.github.io/home/w11/)
+
+<hr>
 
 </details>
 
@@ -513,6 +539,8 @@ Click on each highlighted operating system to access material for that operating
 
 * [Reading UNIX Manual Pages - Apple](https://developer.apple.com/documentation/os/reading_unix_manual_pages)
 
+<hr>
+
 </details>
 
 <details title="Applications" align='left'>
@@ -521,6 +549,8 @@ Click on each highlighted operating system to access material for that operating
 #### Unix-like (general)
 
 * [WINE](https://www.winehq.org/)
+
+<hr>
 
 </details>
 
@@ -563,6 +593,8 @@ Here you can get more information about the main free licenses to apply in your 
 |Unlicense|youtube-dl|
 
 </div>
+
+<hr>
 
 </details>
 
