@@ -153,7 +153,9 @@ Click on each highlighted operating system to access material for that operating
 <details title="Plan 9 from Bell Labs" align='left'>
 <summary align='left'>Plan 9 from Bell Labs</summary>
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Plan_9_Fourth_Edition_rio_interaction_screenshot.png/300px-Plan_9_Fourth_Edition_rio_interaction_screenshot.png)
+<p align="center">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Plan_9_Fourth_Edition_rio_interaction_screenshot.png/300px-Plan_9_Fourth_Edition_rio_interaction_screenshot.png">
+</p>
 
 ### Books, papers, historical material and documents
 
