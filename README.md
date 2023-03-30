@@ -51,7 +51,7 @@ This section will address several operating systems that have revolutionized com
 
 This session addresses:
 
-- [x] A quick resume on the history of each operating system;
+- [x] A quick resume of each operating system;
 - [x] History of operating systems;
 - [x] Historical material;
 - [x] Internal technical documentation (kernel, interfaces, etc);
