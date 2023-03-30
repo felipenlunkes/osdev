@@ -218,7 +218,12 @@ Click on each highlighted operating system to access material for that operating
 </details>
 
 <details title="FreeBSD" align='left'>
+<br>
 <summary align='left'>FreeBSD</summary>
+
+<p align="center">
+<img src="https://upload.wikimedia.org/wikipedia/commons/5/53/FreeBSD_13.0_welcome_prompt_screenshot.png" width="400" height="200">
+</p>
 
 #### Source code
 
@@ -247,8 +252,12 @@ Click on each highlighted operating system to access material for that operating
 </details>
 
 <details title="NetBSD" align='left'>
-
+<br>
 <summary align='left'>NetBSD</summary>
+
+<p align="center">
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/NetBSD_9.2_xdm_screenshot.png" width="400" height="200">
+</p>
 
 #### Source code
 
@@ -267,7 +276,12 @@ Click on each highlighted operating system to access material for that operating
 </details>
 
 <details title="OpenBSD" align='left'>
+<br>
 <summary align='left'>OpenBSD</summary>
+
+<p align="center">
+<img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/OpenBSD_7.0_fvwm_screenshot.png" width="400" height="200">
+</p>
 
 #### Source code
 
@@ -284,9 +298,13 @@ Click on each highlighted operating system to access material for that operating
 
 </details>
 
-<details title="Solaris" align='left'>
+<details title="Sun Microsystems/Oracle Solaris" align='left'>
 <br>
-<summary align='left'>Solaris</summary>
+<summary align='left'>Sun Microsystems/Oracle Solaris</summary>
+
+<p align="center">
+<img src="https://upload.wikimedia.org/wikipedia/commons/b/b8/Solaris_Snapshot.jpg" width="400" height="200">
+</p>
 
 * [Oracle Solaris Documentation](https://docs.oracle.com/en/operating-systems/solaris.html)
 
@@ -297,7 +315,12 @@ Click on each highlighted operating system to access material for that operating
 </details>
 
 <details title="illumos (OpenSolaris)" align='left'>
+<br>
 <summary align='left'>illumos (OpenSolaris)</summary>
+
+<p align="center">
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/95/OpenIndiana_Hipster_2021.10_MATE_desktop_environment_screenshot.png" width="400" height="200">
+</p>
 
 #### Source code
 
@@ -320,7 +343,12 @@ Click on each highlighted operating system to access material for that operating
 </details>
 
 <details title="Linux" align='left'>
+<br>
 <summary align='left'>Linux</summary>
+
+<p align="center">
+<img src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Ubuntu_22.10_Kinetic_Kudu.png" width="400" height="200">
+</p>
 
 #### Source code
 
@@ -351,7 +379,12 @@ Click on each highlighted operating system to access material for that operating
 </details>
 
 <details title="Mach Kernel and XNU" align='left'>
+<br>
 <summary align='left'>Mach Kernel and XNU</summary>
+
+<p align="center">
+<img src="https://upload.wikimedia.org/wikipedia/en/1/1d/NeXTSTEP_desktop.png" width="400" height="200">
+</p>
 
 #### Source code
 
@@ -382,7 +415,12 @@ Click on each highlighted operating system to access material for that operating
 </details>
 
 <details title="DOS (Disk Operating System)" align='left'>
+<br>
 <summary align='left'>DOS (Disk Operating System)</summary>
+
+<p align="center">
+<img src="https://upload.wikimedia.org/wikipedia/commons/b/b0/Ms-dosdir.png" width="400" height="200">
+</p>
 
 #### 86-DOS and MS-DOS
 
@@ -414,6 +452,10 @@ Click on each highlighted operating system to access material for that operating
 <details title="Windows" align='left'>
 <br>
 <summary align='left'>Windows</summary>
+
+<p align="center">
+<img src="https://upload.wikimedia.org/wikipedia/en/b/bb/Windows_NT_3.51.png" width="400" height="200">
+</p>
 
 * [Windows technical documentation for developers and IT Pros.](https://learn.microsoft.com/en-us/windows/)
 * [Windows kernel - Microsoft](https://learn.microsoft.com/en-us/windows-hardware/drivers/ddi/_kernel/)
