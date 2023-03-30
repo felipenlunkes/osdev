@@ -366,6 +366,20 @@ During its development in the 1960s, 1970s and 1980s, UNIX had its source code d
 
 </details>
 
+<details title="Minix" align='left'>
+<br>
+<summary align='left'>Minix</summary>
+
+<p align="center">
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Minix_3.png" width="400" height="200">
+</p>
+
+Under construction!
+
+<hr>
+
+</details>
+
 <details title="Linux" align='left'>
 <br>
 <summary align='left'>Linux</summary>
