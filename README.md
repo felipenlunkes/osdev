@@ -549,6 +549,10 @@ Under construction.
 
 Under construction!
 
+#### Source code
+
+Source code is proprietary.
+
 #### Download the system (install in a virtual machine or use in an emulator)
 
 * [DEC VAX/VMS](https://winworldpc.com/product/vms/4x)
@@ -626,6 +630,10 @@ Under construction!
 
 Under construction!
 
+#### Source code
+
+Source code is proprietary.
+
 #### Download the system (install in a virtual machine or use in an emulator)
 
 * [OS/2](https://winworldpc.com/product/os-2-warp-4/os-2-warp-40)
@@ -641,6 +649,10 @@ Under construction!
 <p align="center">
 <img src="https://upload.wikimedia.org/wikipedia/en/b/bb/Windows_NT_3.51.png" width="400" height="200">
 </p>
+
+#### Source code
+
+Source code is proprietary.
 
 #### Download the system (install in a virtual machine or use in an emulator)
 
