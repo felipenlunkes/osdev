@@ -402,7 +402,7 @@ Click on each highlighted operating system to access material for that operating
 
 <details title="Mach kernel based OSes (NEXTSTEP, OpenStep, Darwin (macOS, iOS, iPadOS...) and DEC OSF/1" align='left'>
 <br>
-<summary align='left'>Mach kernel (NEXTSTEP, OpenStep, Darwin (macOS, iOS, iPadOS...) and DEC OSF/1</summary>
+<summary align='left'>Mach kernel based OSes (NEXTSTEP, OpenStep, Darwin (macOS, iOS, iPadOS...) and DEC OSF/1</summary>
 
 <p align="center">
 <img src="https://upload.wikimedia.org/wikipedia/en/1/1d/NeXTSTEP_desktop.png" width="400" height="200">
