@@ -312,9 +312,9 @@ Click on each highlighted operating system to access material for that operating
 
 </details>
 
-<details title="Sun Microsystems/Oracle Solaris" align='left'>
+<details title="Sun Microsystems/Oracle Solaris (and SunOS)" align='left'>
 <br>
-<summary align='left'>Sun Microsystems/Oracle Solaris</summary>
+<summary align='left'>Sun Microsystems/Oracle Solaris (and SunOS)</summary>
 
 <p align="center">
 <img src="https://upload.wikimedia.org/wikipedia/commons/b/b8/Solaris_Snapshot.jpg" width="400" height="200">
