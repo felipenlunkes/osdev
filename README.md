@@ -371,9 +371,9 @@ Plan 9 from Bell Labs is an operating system developed by the Computing Science 
 
 </details>
 
-<details title="Minix" align='left'>
+<details title="MINIX" align='left'>
 <br>
-<summary align='left'>Minix</summary>
+<summary align='left'>MINIX</summary>
 
 <p align="center">
 <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Minix_3.png" width="400" height="200">
@@ -381,7 +381,23 @@ Plan 9 from Bell Labs is an operating system developed by the Computing Science 
 
 MINIX (derived from the name Mini Unix) is an operating system first developed by Andrew Stuart Tanenbaum, an American computer scientist of German origin, while a professor at the Vrije Universiteit Amsterdam in the Netherlands. MINIX was developed for educational purposes, being initially released in 1987, with source code initially released to Universities and courses focused on research in operating systems. It was developed to demonstrate the concepts available in Tanenbaum's book, Operating Systems: Design and Implementation (1987). Version 1.0 of MINIX had 12,000 lines of code in C, distributed in the kernel, memory manager and file system. In that release, MINIX relied on Version 7 UNIX-compatible system calls. This first version was only compatible with the IBM PC and the IBM PC/AT with an Intel 8088 processor. In its version 1.5, released in 1991, MINIX had already been ported to the Motorola 68000 (m68k) and SPARC processors, being capable of run on Apple Macintosh computers, the Atari ST, Amiga computers, and Sun SPARCstation workstations. An unofficial port was also made for the Intel i386, running the system in protected mode (32-bit). Version 2.0, released in 1997, only supported the x86 and SPARC architectures, and came with the second edition of Tanenbaum's book. A variant, developed by researchers at the University, called MINIX-vmd, added virtual memory and the ability to run graphical environments through the X Window System, already used in UNIX and BSD systems. Starting with version 2.0.3, released in May 2021, MINIX has been licensed under a BSD-3-Clause license, applied retroactively to all previous versions. Previously, the license was already relatively liberal, but it was paid (a value of $69) in order to allow students access to the system. The last released stable version, 3, came to the world on October 24, 2005, along with a new edition of the book. MINIX 3 only supports the x86 and ARM architectures and can be used both by installation and by LiveCD. On April 18, 2006, MINIX 3.1.2 underwent relicensing, with the addition of a fourth clause to the already used BSD license. Version 3.1.5, from 2006, has X11, emacs, vi, gcc, perl, python, bash, zsh and other tools common to the UNIX world. MINIX is a system built on a microkernel. This characteristic contrasts with the kernel architecture of UNIX and BSD systems, which are monolithic kernels (albeit with dynamic loading of modules, in some versions), approaching concepts launched by the Mach kernel (used in DEC OSF-1, NEXTSTEP, OpenStep and finally in Apple systems that use the Darwin operating system as a base, such as macOS, iOS and iPadOS). An interesting point in the history of MINIX is that this system influenced Linus Torvalds to develop Linux. Its creator used MINIX, including to encode and compile Linux in its first versions, which made Linux inherit several of its characteristics in the beginning, such as the file system used. However, Linux was designed and built as a monolithic kernel, which led to a debate between Tanenbaum and Torvalds about the advantages and disadvantages of each implementation model. When free, license-free operating systems for the x86 architecture became more popular and attractive, such as Linux and 386BSD, in the early 1990s, many of the volunteers who were actively involved in the development of MINIX migrated to these projects, the which may have led to the new, more permissive and free licensing model in 2000. Today, MINIX is still used by students and enthusiasts.
 
-Under construction!
+#### Source code
+
+* [MINIX source code](https://github.com/Stichting-MINIX-Research-Foundation/minix)
+
+#### Specifications, books, papers, documentation, manuals and historical material
+
+* [Operating Systems Design and Implementation, 3rd edition (Book)](https://www.pearson.com/en-us/subject-catalog/p/operating-systems-design-and-implementation/P200000003167?view=educator)
+* [Publications relating to MINIX 3 (Books and research papers)](https://wiki.minix3.org/doku.php?id=publications)
+* [Documentation](https://wiki.minix3.org/doku.php?id=www:documentation:start)
+* [Wiki](http://wiki.minix3.org/)
+* [Andrew Tanenbaum demonstrating MINIX 3 at the Embedded World Exhibition in Nuremberg (YouTube video)](https://www.youtube.com/watch?v=vlOsy0PZZyc)
+* [Interview with Andrew Tanenbaum for IEEE Computer Magazine (YouTube video)](http://www.youtube.com/watch?v=86_BkFsb4eI)
+* [Andrew Tanenbaum's talk about MINIX 3 at FOSDEM (YouTube video)](http://www.youtube.com/watch?v=bx3KuE7UjGA)
+
+#### Wikipedia content
+
+* [MINIX](https://en.wikipedia.org/wiki/Minix)
 
 <hr>
 
