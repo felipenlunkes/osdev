@@ -169,6 +169,11 @@ Click on each highlighted operating system to access material for that operating
 <img src="https://upload.wikimedia.org/wikipedia/commons/e/e6/Plan_9_Fourth_Edition_rio_interaction_screenshot.png" width="400" height="200">
 </p>
 
+#### Original source code
+
+* [Plan 9 from Bell Labs](https://9p.io/sources/plan9/sys/src/)
+* [Plan 9 kernel history](https://github.com/0intro/9hist)
+
 #### Specifications, books, papers, documentation, manuals and historical material
 
 * [Plan 9 — The Documents (Volume 2)](https://9p.io/sys/doc/)
@@ -197,11 +202,6 @@ Click on each highlighted operating system to access material for that operating
 * [The Various Ports - Paper](https://9p.io/sys/doc/port.html)
 * [Plan 9 from Bell Labs manuals](https://9p.io/sys/man/)
 * [Plan 9 Wiki](https://9p.io/wiki/plan9/plan_9_wiki/)
-
-#### Original source code
-
-* [Plan 9 from Bell Labs](https://9p.io/sources/plan9/sys/src/)
-* [Plan 9 kernel history](https://github.com/0intro/9hist)
 
 #### Specifications, documentation, manuals and historical material
 
