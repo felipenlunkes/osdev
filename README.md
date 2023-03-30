@@ -150,6 +150,61 @@ Click on each highlighted operating system to access material for that operating
 
 </details>
 
+<details title="Plan 9 from Bell Labs" align='left'>
+<summary align='left'>Plan 9 from Bell Labs</summary>
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Plan_9_Fourth_Edition_rio_interaction_screenshot.png/300px-Plan_9_Fourth_Edition_rio_interaction_screenshot.png)
+
+### Books, papers, historical material and documents
+
+* [Plan 9 — The Documents (Volume 2)](https://9p.io/sys/doc/)
+* [Plan 9 from Bell Labs - Paper](https://9p.io/sys/doc/9.html)
+* [The Use of Name Spaces in Plan 9 - Paper](https://9p.io/sys/doc/names.html)
+* [The Organization of Networks in Plan 9 - Proc. of the Winter 1993 USENIX Conf., pp. 271-280, San Diego, CA](https://9p.io/sys/doc/net/net.html)
+* [Security in Plan 9 - Proc. of the 2002 Usenix Security Symposium, San Francisco](https://9p.io/sys/doc/auth.html)
+* [How to Use the Plan 9 C Compiler - Paper](https://9p.io/sys/doc/comp.html)
+* [ Changes to the Programming Environment in the Fourth Release of Plan 9 - Paper](https://9p.io/sys/doc/prog4.html)
+* [APE — The ANSI/POSIX Environment - Paper](https://9p.io/sys/doc/ape.html)
+* [Acid: A Debugger Built From A Language - Proc. of the Winter 1994 USENIX Conf., pp. 211-222, San Francisco, CA](https://9p.io/sys/doc/acidpaper.html)
+* [Maintaining Files on Plan 9 with Mk - Paper](https://9p.io/sys/doc/mk.html)
+* [Acid Manual - Paper](https://9p.io/sys/doc/acid.html)
+* [Plan 9 Mkfiles - Paper](https://9p.io/sys/doc/mkfiles.html)
+* [A Manual for the Plan 9 assembler](https://9p.io/sys/doc/asm.html)
+* [8½, the Plan 9 Window System - Proc. of the Summer 1991 USENIX Conf., pp. 257-265, Nashville](https://9p.io/sys/doc/8%C2%BD/8%C2%BD.html)
+* [Rc — The Plan 9 Shell](https://9p.io/sys/doc/rc.html)
+* [The Text Editor sam - Paper](https://9p.io/sys/doc/sam/sam.html)
+* [Acme: A User Interface for Programmers - Proc. of the Winter 1994 USENIX Conf., pp. 223-234, San Francisco, CA ](https://9p.io/sys/doc/acme/acme.html)
+* [Plumbing and Other Utilities - Paper](https://9p.io/sys/doc/plumb.html)
+* [Hello World or Καλημέρα κόσμε or こんにちは 世界 - Proc. of the Winter 1993 USENIX Conf., pp. 43-50, San Diego](https://9p.io/sys/doc/utf.html)
+* [Plan 9 C Compilers - Proceedings of the Summer 1990 UKUUG Conference, pp. 41-51, London, 1990](https://9p.io/sys/doc/compiler.html)
+* [Adding Application Support for a New Architecture in Plan 9 - Paper](https://9p.io/sys/doc/libmach.html)
+* [The 64-bit Standalone Plan 9 File Server - Paper](https://9p.io/sys/doc/fs/fs.html)
+* [Venti: a new approach to archival storage - Paper](https://9p.io/sys/doc/venti/venti.html)
+* [The Various Ports - Paper](https://9p.io/sys/doc/port.html)
+* [Plan 9 from Bell Labs manuals](https://9p.io/sys/man/)
+* [Plan 9 Wiki](https://9p.io/wiki/plan9/plan_9_wiki/)
+
+#### Original source code
+
+* [Plan 9 from Bell Labs](https://9p.io/sources/plan9/sys/src/)
+* [Plan 9 kernel history](https://github.com/0intro/9hist)
+
+#### Specifications, documentation, manuals and historical material
+
+* [Software for Plan 9 ](https://9p.io/plan9/addons.html)
+* [Download and install Plan 9 from Bell Labs](https://9p.io/plan9/download.html)
+
+#### Websites
+
+* [Plan 9 from Bell Labs Community](https://9p.io/wiki/plan9/community/)
+* [Plan 9 - Linux Universe (Brazil)](https://linuxuniverse.com.br/artigo/plan9)
+
+#### Wikipedia content
+
+* [Plan 9 from Bell Labs](https://en.wikipedia.org/wiki/Plan_9_from_Bell_Labs)
+
+</details>
+
 <details title="FreeBSD" align='left'>
 <summary align='left'>FreeBSD</summary>
 
@@ -389,8 +444,8 @@ Click on each highlighted operating system to access material for that operating
 
 </details>
 
-<details title="SysAdmin" align='left'>
-<summary align='left'>SysAdmin</summary>
+<details title="Systems administration" align='left'>
+<summary align='left'>Systems administration</summary>
 
 #### Unix-like (general)
 
@@ -471,7 +526,7 @@ In this session, the projects were separated by the operating system family to w
 * [Version 10 UNIX](https://github.com/Alhadis/Research-Unix-v10)
 * [UNIX System V](https://archive.org/details/ATTUNIXSystemVRelease4Version2)
 * [UNIX PDP-7](https://github.com/asegid/pdp7-unix)
-* [Plan 9](https://9p.io/plan9/)
+* [Plan 9 from Bell Labs](https://9p.io/plan9/)
 * [9front](https://code.9front.org/hg/plan9front)
 * [4.4BSD-Lite2](https://github.com/sergev/4.4BSD-Lite2)
 * [FreeBSD](https://github.com/freebsd/freebsd-src)
@@ -821,7 +876,7 @@ In this session, the projects were separated by the main programming language us
 |:----:|:--------:|:------------:|:---------:|:-------------------:|:------:|:-------:|
 |[Version 10 UNIX](https://github.com/Alhadis/Research-Unix-v10)|C|-|Unix|Yes|No (historical)|![](https://img.shields.io/github/license/Alhadis/Research-Unix-v10.svg)|
 |[UNIX System V](https://archive.org/details/ATTUNIXSystemVRelease4Version2)|C|PDP-11, VAX 11/780, x86|Unix|No|No (historical)|Check files|
-|[Plan 9](https://9p.io/plan9/)|C|x86|Unix|No|Yes|-|
+|[Plan 9 from Bell Labs](https://9p.io/plan9/)|C|x86|Unix|No|Yes|-|
 |[9front](https://code.9front.org/hg/plan9front)|C|x86|Unix|No|Yes|-|
 |[4.4BSD-Lite2](https://github.com/sergev/4.4BSD-Lite2)|C|x86, PowerPC, MIPS|Unix|Yes|No|BSD license|
 |[FreeBSD](https://github.com/freebsd/freebsd-src)|C|x86, ARM, PowerPC, RISC-V|Unix|Yes|Yes|![](https://img.shields.io/github/license/freebsd/freebsd-src.svg)|
