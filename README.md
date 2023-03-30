@@ -30,7 +30,9 @@ This repository aims to count and list the open source operating system projects
 
 <div align="justify">
 
-A quick summary of the sessions in this document:
+This document is divided into a few sections to make it easier to search for a specific topic. You will find reference material on operating systems already consolidated, such as UNIX, Linux and Windows in a dedicated section, which will bring documents, papers, books and a short history of each one of them. In another section, you'll find material geared toward operating system development, reference material for systems administration, and more information about software licenses that you can use in your projects. In the third section we have the classification of operating systems in families. In this case, both established commercial products and systems projects (hobbies) are available. In the fourth section, the same projects are classified according to the languages ​​used for their development. More information about each is also displayed, such as the target architecture, whether it is an active project, whether it is available on GitHub, and more information about the license used. There will always be links to the project's main repository (or another repository that can be used).
+
+A quick summary of the sections in this document:
 
 * [Reference material on Operating Systems](#reference-material---operating-systems)
 * [OSDev, system administration, applications and software licenses](#osdev-system-administration-applications-and-software-licenses)
@@ -44,7 +46,7 @@ A quick summary of the sessions in this document:
 
 <hr>
 
-## Reference material - Operating Systems
+## Reference material on Operating Systems
 
 <div align="justify">
 
