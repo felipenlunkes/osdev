@@ -33,7 +33,7 @@ This repository aims to count and list the open source operating system projects
 A quick summary of the sessions in this document:
 
 * [Reference material on Operating Systems](#reference-material---operating-systems)
-* [Reference material on OSDev and system administration](#reference-material---osdev-system-administration-applications-and-software-licenses)
+* [OSDev, system administration, applications and software licenses](#osdev-system-administration-applications-and-software-licenses)
 * [Operating Systems sorted by family](#os-projects-sorted-by-family)
 * [Operating Systems sorted by language](#os-projects-sorted-by-language)
 * [Tutorials](#tutorials)
@@ -565,7 +565,7 @@ Under construction!
 
 <hr>
 
-## Reference material - OSDev, system administration, applications and software licenses
+## OSDev, system administration, applications and software licenses
 
 <div align="justify">
 
