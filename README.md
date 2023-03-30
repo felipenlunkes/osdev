@@ -32,7 +32,8 @@ This repository aims to count and list the open source operating system projects
 
 A quick summary of the sessions in this document:
 
-* [Reference material](#reference-material)
+* [Reference material on Operating Systems](#reference-material---operating-systems)
+* [Reference material on OSDev and system administration](#reference-material---osdev-system-administration-applications-and-software-licenses)
 * [Operating Systems sorted by family](#os-projects-sorted-by-family)
 * [Operating Systems sorted by language](#os-projects-sorted-by-language)
 * [Tutorials](#tutorials)
@@ -43,7 +44,7 @@ A quick summary of the sessions in this document:
 
 <hr>
 
-## Reference material
+## Reference material - Operating Systems
 
 <div align="justify">
 
@@ -59,7 +60,6 @@ This session addresses:
 - [x] User manuals;
 - [x] Manuals for the development of each operating system;
 - [x] Guides for administration of each operating system;
-- [x] Hardware documentation;
 - [x] Documentation on operating systems development;
 - [x] Hardware documentation.
 
@@ -560,6 +560,14 @@ Under construction!
 <hr>
 
 </details>
+
+</div>
+
+<hr>
+
+## Reference material - OSDev, system administration, applications and software licenses
+
+<div align="justify">
 
 <details title="OSDev" align='left'>
 <summary align='left'>OSdev</summary>
