@@ -90,6 +90,22 @@ Have you ever heard of UNIX? UNIX was a revolutionary operating system, initiall
 * [Version 7 UNIX ported do x86 by Robert Nordier (BSD license)](https://www.nordier.com/v7x86/v7x86-0.8a-all.tar.xz)
 * [Old Unix XRef](https://wfjm.github.io/home/ouxr/)
 
+#### Download the system (install in a virtual machine or use in an emulator)
+
+* [Apple A/UX](https://winworldpc.com/product/a-ux/3x)
+* [IBM AIX](https://winworldpc.com/product/aix/ibm-rt)
+* [AT&T System V Unix](https://winworldpc.com/product/att-system-v-unix/2-x)
+* [DELL Unix](https://winworldpc.com/product/dell-unix/40)
+* [Digital UNIX](https://winworldpc.com/product/digital-unix/32b)
+* [HP-UX](https://winworldpc.com/product/hp-ux/9)
+* [Intel Unix System V](https://winworldpc.com/product/intel-unix-system-v/2x)
+* [IRIX](https://winworldpc.com/product/irix/3x)
+* [PC/IX](https://winworldpc.com/product/pc-ix/10)
+* [Sun Solaris](https://winworldpc.com/product/sun-solaris/1x)
+* [UnixWare](https://winworldpc.com/product/unixware/1x)
+* [Venix](https://winworldpc.com/product/venix/86-2x)
+* [Xenix](https://winworldpc.com/product/xenix/8086)
+
 #### Specifications, documentation, manuals and historical material
 
 * [UNIX History - Figure](https://upload.wikimedia.org/wikipedia/commons/7/77/Unix_history-simple.svg)
@@ -187,6 +203,10 @@ Plan 9 from Bell Labs is an operating system developed by the Computing Science 
 * [Plan 9 from Bell Labs](https://9p.io/sources/plan9/sys/src/)
 * [Plan 9 kernel history](https://github.com/0intro/9hist)
 
+#### Download the system (install in a virtual machine or use in an emulator)
+
+* [Plan 9 from Bell Labs](https://9p.io/plan9/download.html)
+
 #### Specifications, books, papers, documentation, manuals and historical material
 
 * [Plan 9 — The Documents (Volume 2)](https://9p.io/sys/doc/)
@@ -246,6 +266,11 @@ Plan 9 from Bell Labs is an operating system developed by the Computing Science 
 
 * [FreeBSD source code](https://github.com/freebsd/freebsd-src)
 
+#### Download the system (install in a virtual machine or use in an emulator)
+
+* [FreeBSD 1.0](https://winworldpc.com/product/bsd/1-0)
+* [FreeBSD](https://www.freebsd.org/where/)
+
 #### Specifications, books, papers, documentation, manuals and historical material
 
 * [FreeBSD Handbook](https://docs.freebsd.org/en/books/handbook/)
@@ -282,6 +307,10 @@ Plan 9 from Bell Labs is an operating system developed by the Computing Science 
 
 * [NetBSD source code](https://github.com/NetBSD/src)
 
+#### Download the system (install in a virtual machine or use in an emulator)
+
+* [NetBSD](https://www.netbsd.org/)
+
 #### Specifications, books, papers, documentation, manuals and historical material
 
 * [The NetBSD Guide](https://www.netbsd.org/docs/guide/en/index.html)
@@ -308,6 +337,10 @@ Plan 9 from Bell Labs is an operating system developed by the Computing Science 
 
 * [OpenBSD source code](https://github.com/openbsd/src)
 
+#### Download the system (install in a virtual machine or use in an emulator)
+
+* [OpenBSD](https://www.openbsd.org/faq/faq4.html#Download)
+
 #### Specifications, books, papers, documentation, manuals and historical material
 
 * [OpenBSD FAQ](https://www.openbsd.org/faq/index.html)
@@ -328,6 +361,14 @@ Plan 9 from Bell Labs is an operating system developed by the Computing Science 
 <p align="center">
 <img src="https://upload.wikimedia.org/wikipedia/commons/b/b8/Solaris_Snapshot.jpg" width="400" height="200">
 </p>
+
+#### Source code
+
+Source code is proprietary (except for OpenSolaris).
+
+#### Download the system (install in a virtual machine or use in an emulator)
+
+* [Sun Solaris](https://winworldpc.com/product/sun-solaris/1x)
 
 #### Specifications, books, papers, documentation, manuals and historical material
 
@@ -352,6 +393,12 @@ Plan 9 from Bell Labs is an operating system developed by the Computing Science 
 #### Source code
 
 * [illumos source code](https://github.com/illumos/illumos-gate)
+
+#### Download the system (install in a virtual machine or use in an emulator)
+
+* [OpenIndiana](https://www.openindiana.org/)
+* [Tribblix](http://www.tribblix.org/)
+* [SmartOS](https://smartos.org/)
 
 #### Specifications, books, papers, documentation, manuals and historical material
 
@@ -385,6 +432,10 @@ MINIX (derived from the name Mini Unix) is an operating system first developed b
 
 * [MINIX source code](https://github.com/Stichting-MINIX-Research-Foundation/minix)
 
+#### Download the system (install in a virtual machine or use in an emulator)
+
+* [MINIX](https://wiki.minix3.org/doku.php?id=www:download:start)
+
 #### Specifications, books, papers, documentation, manuals and historical material
 
 * [Operating Systems Design and Implementation, 3rd edition (Book)](https://www.pearson.com/en-us/subject-catalog/p/operating-systems-design-and-implementation/P200000003167?view=educator)
@@ -414,6 +465,10 @@ MINIX (derived from the name Mini Unix) is an operating system first developed b
 #### Source code
 
 * [Linux kernel source code](https://kernel.org)
+
+#### Download the system (install in a virtual machine or use in an emulator)
+
+Under construction.
 
 #### Specifications, books, papers, documentation, manuals and historical material
 
@@ -452,6 +507,11 @@ MINIX (derived from the name Mini Unix) is an operating system first developed b
 * [Mach 3 original source](https://www.cs.cmu.edu/afs/cs/project/mach/public/www/sources/sources_top.html)
 * [Mach 3 - GitHub (maintained by user)](https://github.com/Prajna/mach)
 
+#### Download the system (install in a virtual machine or use in an emulator)
+
+* [NEXTSTEP/OpenStep](https://winworldpc.com/product/nextstep/3x)
+* [Mac OS X](https://winworldpc.com/product/mac-os-x/rhapsody)
+
 #### Specifications, books, papers, documentation, manuals and historical material
 
 * [The Mach Project](https://www.cs.cmu.edu/afs/cs/project/mach/public/www/mach.html)
@@ -489,6 +549,10 @@ MINIX (derived from the name Mini Unix) is an operating system first developed b
 
 Under construction!
 
+#### Download the system (install in a virtual machine or use in an emulator)
+
+* [DEC VAX/VMS](https://winworldpc.com/product/vms/4x)
+
 <hr>
 
 </details>
@@ -504,6 +568,12 @@ Under construction!
 </p>
 
 Under construction!
+
+#### Download the system (install in a virtual machine or use in an emulator)
+
+* [CP/M](https://winworldpc.com/product/cp-m-80/22)
+* [CP/M-86](https://winworldpc.com/product/cp-m-86/1x)
+* [Concurrent CP/M-86](https://winworldpc.com/product/concurrent-cpm-86/1x)
 
 <hr>
 
@@ -556,6 +626,10 @@ Under construction!
 
 Under construction!
 
+#### Download the system (install in a virtual machine or use in an emulator)
+
+* [OS/2](https://winworldpc.com/product/os-2-warp-4/os-2-warp-40)
+
 <hr>
 
 </details>
@@ -567,6 +641,18 @@ Under construction!
 <p align="center">
 <img src="https://upload.wikimedia.org/wikipedia/en/b/bb/Windows_NT_3.51.png" width="400" height="200">
 </p>
+
+#### Download the system (install in a virtual machine or use in an emulator)
+
+* [Windows 1.x](https://winworldpc.com/product/windows-10/101)
+* [Windows 2.x](https://winworldpc.com/product/windows-20/20)
+* [Windows 3.x](https://winworldpc.com/product/windows-3/31)
+* [Windows 95](https://winworldpc.com/product/windows-95/osr-2)
+* [Windows 98](https://winworldpc.com/product/windows-98/98-second-edition)
+* [Windows ME](https://winworldpc.com/product/windows-me/final)
+* [Windows 2000 (Windows NT)](https://winworldpc.com/product/windows-nt-2000/final)
+* [Windows NT 3.x](https://winworldpc.com/product/windows-nt-3x/351)
+* [Windows NT 4.0](https://winworldpc.com/product/windows-nt-40/40)
 
 #### Specifications, books, papers, documentation, manuals and historical material
 
