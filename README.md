@@ -563,6 +563,9 @@ Under construction!
 
 </details>
 
+- [x] [Go to the next section](#osdev-system-administration-applications-and-software-licenses)
+- [x] [Go back to summary](#summary)
+
 </div>
 
 <hr>
@@ -680,6 +683,9 @@ Here you can get more information about the main free licenses to apply in your 
 <hr>
 
 </details>
+
+- [x] [Go to the next section](#os-projects-sorted-by-family)
+- [x] [Go back to summary](#summary)
 
 </div>
 
@@ -954,6 +960,9 @@ In this session, the projects were separated by the operating system family to w
 * [uDOS](https://github.com/SuperLeaf1995/uDOS)
 
 </details>
+
+- [x] [Go to the next section](#os-projects-sorted-by-language)
+- [x] [Go back to summary](#summary)
 
 </div>
 
@@ -1287,7 +1296,8 @@ In this session, the projects were separated by the main programming language us
 
 </div>
 
-- [x] [Go up](#os-projects-sorted-by-language)
+- [x] [Go to the next section](#tutorials)
+- [x] [Go back to summary](#summary)
 
 <hr>
 
@@ -1336,6 +1346,9 @@ In this session you will find text or video tutorials for operating system devel
 
 <hr>
 
+- [x] [Go to the next section](#websites-and-other-resources)
+- [x] [Go back to summary](#summary)
+
 </div>
 
 ## Websites and other resources
@@ -1347,7 +1360,14 @@ In this section you will find useful websites for more material on operating sys
 * [OSDev Wiki](http://wiki.osdev.org/Main_Page)
 * [Images of historical operating systems](https://winworldpc.com/library/operating-systems)
 
+- [x] [Go to the next section](#test-historical-oses-via-ssh)
+- [x] [Go back to summary](#summary)
+
+</div>
+
 ## Test historical OSes via SSH
+
+<div align="justify">
 
 You can use a variety of historic operating systems kept running by the Living Computers Museum. For this, you only need to have access to the terminal (Unix systems) or command prompt (Windows) and the SSH utility, to make a remote connection.
 
@@ -1358,5 +1378,7 @@ $ ssh menu@tty.livingcomputers.org
 ```
 
 You will be able to select from several systems such as UNIX (including Ancient UNIX, BSD UNIX, IRIX, HP-UX, SunOS and OSF/1), Multics, TOPS-10, TOPS-20 and OpenVMS.
+
+- [x] [Go back to summary](#summary)
 
 </div>
