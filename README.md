@@ -1344,12 +1344,12 @@ In this session you will find text or video tutorials for operating system devel
 * [Kernel dev from scratch by Dragon Zap Education](https://www.youtube.com/watch?v=HNIg3TXfdX8&list=PLrGN1Qi7t67V-9uXzj4VSQCffntfvn42v)
 * [Nanobyte](https://www.youtube.com/channel/UCSPIuWADJIMIf9Erf--XAsA)
 
-<hr>
-
 - [x] [Go to the next section](#websites-and-other-resources)
 - [x] [Go back to summary](#summary)
 
 </div>
+
+<hr>
 
 ## Websites and other resources
 
@@ -1364,6 +1364,8 @@ In this section you will find useful websites for more material on operating sys
 - [x] [Go back to summary](#summary)
 
 </div>
+
+<hr>
 
 ## Test historical OSes via SSH
 
