@@ -69,7 +69,12 @@ Click on each highlighted operating system to access material for that operating
 <div align="justify">
 
 <details title="UNIX" align='left'>
+<br>
 <summary align='left'>UNIX</summary>
+
+<p align="center">
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Simh-pdp11-unix-sysiii.png" width="400" height="200">
+</p>
 
 #### Original source code
 
@@ -130,6 +135,10 @@ Click on each highlighted operating system to access material for that operating
 <details title="BSD" align='left'>
 <br>
 <summary align='left'>BSD</summary>
+
+<p align="center">
+<img src="https://upload.wikimedia.org/wikipedia/commons/e/e6/386BSD_installer_screenshot.png" width="400" height="200">
+</p>
 
 * [The Design and Implementation of the 4.4BSD Operating System](https://docs.freebsd.org/en/books/design-44bsd/)
 * [Explaining BSD](https://docs.freebsd.org/en/articles/explaining-bsd/)
