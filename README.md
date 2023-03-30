@@ -140,6 +140,8 @@ Click on each highlighted operating system to access material for that operating
 <img src="https://upload.wikimedia.org/wikipedia/commons/e/e6/386BSD_installer_screenshot.png" width="400" height="200">
 </p>
 
+#### Specifications, books, papers, documentation, manuals and historical material
+
 * [The Design and Implementation of the 4.4BSD Operating System](https://docs.freebsd.org/en/books/design-44bsd/)
 * [Explaining BSD](https://docs.freebsd.org/en/articles/explaining-bsd/)
 * [4.4BSD Documents](https://docs-legacy.freebsd.org/44doc/)
@@ -167,7 +169,7 @@ Click on each highlighted operating system to access material for that operating
 <img src="https://upload.wikimedia.org/wikipedia/commons/e/e6/Plan_9_Fourth_Edition_rio_interaction_screenshot.png" width="400" height="200">
 </p>
 
-### Books, papers, historical material and documents
+#### Specifications, books, papers, documentation, manuals and historical material
 
 * [Plan 9 — The Documents (Volume 2)](https://9p.io/sys/doc/)
 * [Plan 9 from Bell Labs - Paper](https://9p.io/sys/doc/9.html)
@@ -229,7 +231,7 @@ Click on each highlighted operating system to access material for that operating
 
 * [FreeBSD source code](https://github.com/freebsd/freebsd-src)
 
-#### Specifications, documentation, manuals and historical material
+#### Specifications, books, papers, documentation, manuals and historical material
 
 * [FreeBSD Handbook](https://docs.freebsd.org/en/books/handbook/)
 * [FreeBSD Porter's Handbook](https://docs.freebsd.org/en/books/porters-handbook/)
@@ -263,7 +265,7 @@ Click on each highlighted operating system to access material for that operating
 
 * [NetBSD source code](https://github.com/NetBSD/src)
 
-#### Specifications, documentation, manuals and historical material
+#### Specifications, books, papers, documentation, manuals and historical material
 
 * [The NetBSD Guide](https://www.netbsd.org/docs/guide/en/index.html)
 * [NetBSD Internals](https://www.netbsd.org/docs/internals/en/index.html)
@@ -287,7 +289,7 @@ Click on each highlighted operating system to access material for that operating
 
 * [OpenBSD source code](https://github.com/openbsd/src)
 
-#### Specifications, documentation, manuals and historical material
+#### Specifications, books, papers, documentation, manuals and historical material
 
 * [OpenBSD FAQ](https://www.openbsd.org/faq/index.html)
 * [OpenBSD Porter's Handbook](https://www.openbsd.org/faq/ports/index.html)
@@ -305,6 +307,8 @@ Click on each highlighted operating system to access material for that operating
 <p align="center">
 <img src="https://upload.wikimedia.org/wikipedia/commons/b/b8/Solaris_Snapshot.jpg" width="400" height="200">
 </p>
+
+#### Specifications, books, papers, documentation, manuals and historical material
 
 * [Oracle Solaris Documentation](https://docs.oracle.com/en/operating-systems/solaris.html)
 
@@ -326,7 +330,7 @@ Click on each highlighted operating system to access material for that operating
 
 * [illumos source code](https://github.com/illumos/illumos-gate)
 
-#### Specifications, documentation, manuals and historical material
+#### Specifications, books, papers, documentation, manuals and historical material
 
 * [illumos Documentation](https://illumos.org/docs/)
 * [illumos developer's guide](https://illumos.org/books/dev/)
@@ -354,7 +358,7 @@ Click on each highlighted operating system to access material for that operating
 
 * [Linux kernel source code](https://kernel.org)
 
-#### Specifications, documentation and manuals
+#### Specifications, books, papers, documentation, manuals and historical material
 
 * [Linux Device Drivers, Second Edition](https://www.oreilly.com/library/view/linux-device-drivers/0596000081/ch03s02.html)
 * [The Linux Kernel Module Programming Guide](https://sysprog21.github.io/lkmpg/)
@@ -391,7 +395,7 @@ Click on each highlighted operating system to access material for that operating
 * [Mach 3 original source](https://www.cs.cmu.edu/afs/cs/project/mach/public/www/sources/sources_top.html)
 * [Mach 3 - GitHub (maintained by user)](https://github.com/Prajna/mach)
 
-#### Specifications, documentation, manuals and historical material
+#### Specifications, books, papers, documentation, manuals and historical material
 
 * [The Mach Project](https://www.cs.cmu.edu/afs/cs/project/mach/public/www/mach.html)
 * [MACH threads and the UNIX kernel: the battle for control](https://kilthub.cmu.edu/articles/journal_contribution/MACH_threads_and_the_UNIX_kernel_the_battle_for_control/6607079/1)
@@ -456,6 +460,8 @@ Click on each highlighted operating system to access material for that operating
 <p align="center">
 <img src="https://upload.wikimedia.org/wikipedia/en/b/bb/Windows_NT_3.51.png" width="400" height="200">
 </p>
+
+#### Specifications, books, papers, documentation, manuals and historical material
 
 * [Windows technical documentation for developers and IT Pros.](https://learn.microsoft.com/en-us/windows/)
 * [Windows kernel - Microsoft](https://learn.microsoft.com/en-us/windows-hardware/drivers/ddi/_kernel/)
