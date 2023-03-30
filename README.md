@@ -77,7 +77,7 @@ Click on each highlighted operating system to access material for that operating
 <img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Simh-pdp11-unix-sysiii.png" width="400" height="200">
 </p>
 
-Have you ever heard of UNIX? UNIX was a revolutionary operating system, initially developed in 1969 by Ken Thompson, Dennis Ritchie and other employees of Bell Laboratories, owned by the American company AT&T. Initially developed as a hobby on an old unused PDP-7 computer, UNIX created countless foundations that define a modern operating system, influencing virtually all operating systems developed since then. UNIX instituted features such as support for multiple users and processes running at the same time (multitasking), implemented in a lightweight way (requiring few machine resources), and was initially written in assembly language for PDP-7 and later rewritten for C language (developed by the same authors and used until today). Initially, the source code was distributed to Universities, including the University of California at Berkeley. At that University, UNIX was extensively studied and extended. Graduate students and researchers added advanced features to UNIX, such as virtual memory support, more modern file systems, and network support, leading to BSD (Berkeley Software Distribution) releases. The BSD were nothing more than the UNIX released by AT&T with improvements, then called BSD UNIX. With that, UNIX became very popular. UNIX was licensed to several companies, originating derived systems, such as Xenix, ULTRIX, Venix, Solaris and so on. The BSDs served as the basis for others, such as SunOS. Whereas the BSDs were distributed with a free license, AT&T's UNIX had a paid license. BSD then became the main free implementation of UNIX, giving rise to projects based on version 4.4 of BSD, now just called 4.4 BSD, FreeBSD, NetBSD and OpenBSD. FreeBSD is heavily used on servers these days, as well as forming the basis of macOS and iOS. Other companies' systems, such as Microsoft's MS-DOS and Windows, were heavily influenced by UNIX. UNIX was also an inspiration for the development of non-derived free systems, the so-called Unix-like, such as Minix and Linux itself.
+Have you ever heard of UNIX? UNIX was a revolutionary operating system, initially developed in 1969 by Ken Thompson, Dennis Ritchie and other employees of Bell Laboratories, owned by the American company AT&T. Initially developed as a hobby on an old unused PDP-7 computer, UNIX created countless foundations that define a modern operating system, influencing virtually all operating systems developed since then. UNIX instituted features such as support for multiple users and processes running at the same time (multitasking), implemented in a lightweight way (requiring few machine resources), and was initially written in Assembly language for PDP-7 and later rewritten for C language (developed by the same authors and used until today). Initially, the source code was distributed to Universities, including the University of California at Berkeley. At that University, UNIX was extensively studied and extended. Graduate students and researchers added advanced features to UNIX, such as virtual memory support, more modern file systems, and network support, leading to BSD (Berkeley Software Distribution) releases. The BSD were nothing more than the UNIX released by AT&T with improvements, then called BSD UNIX. With that, UNIX became very popular. UNIX was licensed to several companies, originating derived systems, such as Xenix, ULTRIX, Venix, Solaris and so on. The BSDs served as the basis for others, such as SunOS. Whereas the BSDs were distributed with a free license, AT&T's UNIX had a paid license. BSD then became the main free implementation of UNIX, giving rise to projects based on version 4.4 of BSD, now just called 4.4 BSD, FreeBSD, NetBSD and OpenBSD. FreeBSD is heavily used on servers these days, as well as forming the basis of macOS and iOS. Other companies' systems, such as Microsoft's MS-DOS and Windows, were heavily influenced by UNIX. UNIX was also an inspiration for the development of non-derived free systems, the so-called Unix-like, such as Minix and Linux itself.
 
 #### Original source code
 
@@ -417,22 +417,6 @@ Under construction!
 
 <hr>
 
-</details>
-
-<details title="DEC VAX/VMS and OpenVMS" align='left'>
-<br>
-<summary align='left'>DEC VMS</summary>
-
-<p align="center">
-<img src="https://upload.wikimedia.org/wikipedia/en/4/4b/DECwindows-openvms-v7.3-1.png" width="400" height="200">
-</p>
-
-Under construction!
-
-<hr>
-
-</details>
-
 <details title="Mach kernel based OSes - NEXTSTEP, OpenStep, Darwin (macOS, iOS...) and DEC OSF/1" align='left'>
 <br>
 <summary align='left'>Mach kernel based OSes - NEXTSTEP, OpenStep, Darwin (macOS, iOS...) and DEC OSF/1</summary>
@@ -471,6 +455,38 @@ Under construction!
 
 </details>
 
+</details>
+
+<details title="DEC VAX/VMS and OpenVMS" align='left'>
+<br>
+<summary align='left'>DEC VMS</summary>
+
+<p align="center">
+<img src="https://upload.wikimedia.org/wikipedia/en/4/4b/DECwindows-openvms-v7.3-1.png" width="400" height="200">
+</p>
+
+Under construction!
+
+<hr>
+
+</details>
+
+</details>
+
+<details title="CP/M" align='left'>
+<br>
+<summary align='left'>CP/M</summary>
+
+<p align="center">
+<img src="https://upload.wikimedia.org/wikipedia/commons/e/ec/Commodore_C128_CPM_Screenshot_2_full.jpg" width="400" height="200">
+</p>
+
+Under construction!
+
+<hr>
+
+</details>
+
 <details title="DOS (Disk Operating System)" align='left'>
 <br>
 <summary align='left'>DOS (Disk Operating System)</summary>
@@ -503,6 +519,20 @@ Under construction!
 * [IBM PC DOS](https://en.wikipedia.org/wiki/IBM_PC_DOS)
 * [DR-DOS](https://en.wikipedia.org/wiki/DR-DOS)
 * [FreeDOS](https://en.wikipedia.org/wiki/FreeDOS)
+
+<hr>
+
+</details>
+
+<details title="OS/2" align='left'>
+<br>
+<summary align='left'>OS/2</summary>
+
+<p align="center">
+<img src="https://upload.wikimedia.org/wikipedia/en/f/f0/Os2W4.png" width="400" height="200">
+</p>
+
+Under construction!
 
 <hr>
 
