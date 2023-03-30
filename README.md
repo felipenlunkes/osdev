@@ -939,7 +939,7 @@ In this session, the projects were separated by the main programming language us
 |[DragonFly BSD](https://github.com/DragonFlyBSD/DragonFlyBSD)|C|x86_64|Unix|Yes|Yes|BSD license|
 |[MirBSD](http://www.mirbsd.org/)|C|x86|Unix|No|Yes|BSD license|
 |[illumos (OpenSolaris)](https://github.com/illumos/illumos-gate)|C|x86, SPARC|Unix|Yes|Yes|![](https://img.shields.io/github/license/illumos/illumos-gate.svg)|
-|[Amiga Research Operating System](https://github.com/aros-development-team/AROS)|C|x68k, x86, x86_64, PowerPC, ARM|Other (Amiga)|Yes|Yes|![](https://img.shields.io/github/license/aros-development-team/AROS.svg)|
+|[Amiga Research Operating System](https://github.com/aros-development-team/AROS)|C|m68k, x86, x86_64, PowerPC, ARM|Other (Amiga)|Yes|Yes|![](https://img.shields.io/github/license/aros-development-team/AROS.svg)|
 |[The Apollo Project](https://github.com/primis/Apollo)|C|x86, Raspberry Pi Model 4B|Unix-like|Yes|Yes|![](https://img.shields.io/github/license/primis/Apollo.svg)|
 |[AQUA OS](https://github.com/inobulles/aquabsd-core)|C|x86_64|Unix (FreeBSD)|Yes|Yes|![](https://img.shields.io/github/license/inobulles/aquabsd-core.svg)|
 |[AquilaOS](http://github.com/thethumbler/Aquila)|C|x86|Unix-like|Yes|Yes|![](https://img.shields.io/github/license/thethumbler/Aquila.svg)|
