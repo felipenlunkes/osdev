@@ -47,7 +47,9 @@ A quick summary of the sessions in this document:
 
 <div align="justify">
 
-In this section you will find documentation available for the main operating systems (open source or not). This documentation includes official material, scientific articles, original source code from historic operating systems and books (online or in print). This session addresses:
+This section will address several operating systems that have revolutionized computing over the decades, changing the way we relate to our computers. These mainline systems were responsible for influencing the development of modern alternatives, and many of them (in their various incarnations) are still a part of our lives. In each topic, you will find references to the source code (if available), manuals, papers, books and other pages with more information, as well as forums that discuss aspects of each operating system. You will also be able to obtain information on how to run these systems, natively or in emulators/simulators. To get started, click on one of the options listed below!
+
+This session addresses:
 
 - [x] History of operating systems;
 - [x] Historical material;
@@ -63,8 +65,6 @@ In this section you will find documentation available for the main operating sys
 Click on each highlighted operating system to access material for that operating system.
 
 </div>
-
-### Books, papers, historical material and documents
 
 <div align="justify">
 
