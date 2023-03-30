@@ -130,6 +130,8 @@ Click on each highlighted operating system to access material for that operating
 
 * [Run ancient UNIX on modern hardware (Version 1 to Version 7 UNIX and BSD UNIX)](https://github.com/felipenlunkes/run-ancient-unix)
 
+<hr>
+
 </details>
 
 <details title="BSD" align='left'>
