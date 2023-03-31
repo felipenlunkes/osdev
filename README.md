@@ -857,6 +857,7 @@ In this session, the projects were separated by the operating system family to w
 <summary align='left'>Unix-like</summary>
 
 * [The Apollo Project](https://github.com/primis/Apollo)
+* [aquaBSD](https://github.com/inobulles/aquabsd-core)
 * [Asterisk](https://github.com/Dashbloxx/asterisk)
 * [AquilaOS](http://github.com/thethumbler/Aquila)
 * [BeeOS](https://github.com/davxy/beeos)
@@ -949,7 +950,6 @@ In this session, the projects were separated by the operating system family to w
 * [ackOS](https://github.com/ackOS-project/ackOS)
 * [Alotware](https://github.com/0x5CE/alotware)
 * [Amiga Research Operating System](https://github.com/aros-development-team/AROS)
-* [AQUA OS](https://github.com/inobulles/aquabsd-core)
 * [Asuro](https://www.spexeah.com/index.php/asuro/)
 * [Aura](https://github.com/projectasiago/aura)
 * [AwooOS](https://github.com/awooos/awooos)
@@ -1207,7 +1207,7 @@ In this session, the projects were separated by the main programming language us
 |[Amiga Research Operating System](https://github.com/aros-development-team/AROS)|C|m68k, x86, x86_64, PowerPC, ARM|Other (Amiga)|Yes|Yes|![](https://img.shields.io/github/license/aros-development-team/AROS.svg)|
 |[The Apollo Project](https://github.com/primis/Apollo)|C|x86, Raspberry Pi Model 4B|Unix-like|Yes|Yes|![](https://img.shields.io/github/license/primis/Apollo.svg)|
 |[Asterisk](https://github.com/Dashbloxx/asterisk)|C|x86|Unix-like|Yes|Yes|![](https://img.shields.io/github/license/Dashbloxx/asterisk.svg)|
-|[AQUA OS](https://github.com/inobulles/aquabsd-core)|C|x86_64|Unix (FreeBSD)|Yes|Yes|![](https://img.shields.io/github/license/inobulles/aquabsd-core.svg)|
+|[aquaBSD](https://github.com/inobulles/aquabsd-core)|C|x86_64|Unix (FreeBSD)|Yes|Yes|![](https://img.shields.io/github/license/inobulles/aquabsd-core.svg)|
 |[AquilaOS](http://github.com/thethumbler/Aquila)|C|x86|Unix-like|Yes|Yes|![](https://img.shields.io/github/license/thethumbler/Aquila.svg)|
 |[AwooOS](https://github.com/awooos/awooos)|C|x86, x86_64|Other|Yes|Yes|![](https://img.shields.io/github/license/awooos/awooos.svg)|
 |[Banana Operating System](https://github.com/alexdboxall/Banana-Operating-System)|C|x86|Other|Yes|Yes|![](https://img.shields.io/github/license/alexdboxall/Banana-Operating-System.svg)|
