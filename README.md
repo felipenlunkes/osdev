@@ -857,6 +857,7 @@ In this session, the projects were separated by the operating system family to w
 <summary align='left'>Unix-like</summary>
 
 * [The Apollo Project](https://github.com/primis/Apollo)
+* [Asterisk](https://github.com/Dashbloxx/asterisk)
 * [AquilaOS](http://github.com/thethumbler/Aquila)
 * [BeeOS](https://github.com/davxy/beeos)
 * [Brutal](https://github.com/brutal-org/brutal)
@@ -878,6 +879,7 @@ In this session, the projects were separated by the operating system family to w
 * [Linux (kernel)](https://github.com/torvalds/linux)
 * [lk](https://github.com/littlekernel/lk)
 * [Lunix OS](https://github.com/felipenlunkes/lunix)
+* [magma](https://github.com/Dashbloxx/magma)
 * [MentOS](https://github.com/mentos-team/MentOS)
 * [Mimiker](https://github.com/cahirwpz/mimiker)
 * [Minix](http://minix3.org/)
@@ -1204,6 +1206,7 @@ In this session, the projects were separated by the main programming language us
 |[illumos (OpenSolaris)](https://github.com/illumos/illumos-gate)|C|x86, SPARC|Unix|Yes|Yes|![](https://img.shields.io/github/license/illumos/illumos-gate.svg)|
 |[Amiga Research Operating System](https://github.com/aros-development-team/AROS)|C|m68k, x86, x86_64, PowerPC, ARM|Other (Amiga)|Yes|Yes|![](https://img.shields.io/github/license/aros-development-team/AROS.svg)|
 |[The Apollo Project](https://github.com/primis/Apollo)|C|x86, Raspberry Pi Model 4B|Unix-like|Yes|Yes|![](https://img.shields.io/github/license/primis/Apollo.svg)|
+|[Asterisk](https://github.com/Dashbloxx/asterisk)|C|x86|Unix-like|Yes|Yes|![](https://img.shields.io/github/license/Dashbloxx/asterisk.svg)|
 |[AQUA OS](https://github.com/inobulles/aquabsd-core)|C|x86_64|Unix (FreeBSD)|Yes|Yes|![](https://img.shields.io/github/license/inobulles/aquabsd-core.svg)|
 |[AquilaOS](http://github.com/thethumbler/Aquila)|C|x86|Unix-like|Yes|Yes|![](https://img.shields.io/github/license/thethumbler/Aquila.svg)|
 |[AwooOS](https://github.com/awooos/awooos)|C|x86, x86_64|Other|Yes|Yes|![](https://img.shields.io/github/license/awooos/awooos.svg)|
@@ -1248,6 +1251,7 @@ In this session, the projects were separated by the main programming language us
 |[Lotus-Effect](https://github.com/CorruptedByCPU/Lotus-Effect/)|C|x86|Other|Yes|Yes|![](https://img.shields.io/github/license/CorruptedByCPU/Lotus-Effect.svg)|
 |[Lunix OS](https://github.com/felipenlunkes/lunix)|C|x86|Unix-like|Yes|Yes|![](https://img.shields.io/github/license/felipenlunkes/lunix.svg)|
 |[Lyre](https://github.com/lyre-os/lyre)|C|x86_64|Other|Yes|Yes|![](https://img.shields.io/github/license/lyre-os/lyre.svg)|
+|[magma](https://github.com/Dashbloxx/magma)|C|x86|Unix-like|Yes|Yes|![](https://img.shields.io/github/license/Dashbloxx/magma.svg)|
 |[MentOS](https://github.com/mentos-team/MentOS)|C|x86|Unix-like|Yes|Yes|![](https://img.shields.io/github/license/mentos-team/MentOS.svg)|
 |[Mimiker](https://github.com/cahirwpz/mimiker)|C|x86, MIPS, AArch64, RISC-V|Unix-like|Yes|Yes|![](https://img.shields.io/github/license/cahirwpz/mimiker.svg)|
 |[Minix](https://github.com/Stichting-MINIX-Research-Foundation/minix)|C|x86, arm64|Unix-like|Yes|Yes|![](https://img.shields.io/github/license/Stichting-MINIX-Research-Foundation/minix.svg)|
