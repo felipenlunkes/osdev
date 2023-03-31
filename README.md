@@ -34,7 +34,7 @@ This document is divided into a few sections to make it easier to search for a s
 
 > A quick summary of the sections in this document:
 
-* [Reference material on Operating Systems](#reference-material---operating-systems)
+* [Reference material on Operating Systems](#reference-material-on-operating-systems)
 * [OSDev, system administration, applications and software licenses](#osdev-system-administration-applications-and-software-licenses)
 * [Operating Systems sorted by family](#os-projects-sorted-by-family)
 * [Operating Systems sorted by language](#os-projects-sorted-by-language)
