@@ -16,7 +16,7 @@
 
 <hr>
 
-# Operating system projects and reference material
+# Operating system history, projects and reference material
 
 <div align="justify">
 
