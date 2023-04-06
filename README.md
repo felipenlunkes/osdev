@@ -586,11 +586,35 @@ Source code is proprietary.
 
 CP/M (Control Program/Monitor and later, Control Program for Microcomputers) was an operating system developed by Gary Kildall at Digital Research in 1974. This operating system was initially developed for microcomputers based on 8-bit processors (such as the Intel 8080 and 8085) and 64 kbytes of RAM. Initially, it was a single-task, single-user operating system. The use of CP/M became the standard in the emerging microprocessor market, dominating the market in the late 1970s through the mid-1980s. CP/M was heavily influenced by TOPS-10, an operating system for the DECsystem-10 mainframe. For $90, anyone could get a copy and install it on their device. With the increase in demand, Digital Research increased the licensing fee considerably. In 1979, MP/M was released, a multi-user version derived from CP/M. In this version, several users could connect to a computer using other terminals. There were 8 and 16 bit versions. Version 3 was the last 8-bit version, but it allowed the use of memory banks, allowing the use of more than 64 kbytes of memory. Several famous devices of the time, such as the Commodore 128, used CP/M in its third version. In November 1981, CP/M-86 was released, the first version of the system capable of running on devices with 8086 processors. To avoid confusion, the original CP/M was renamed CP/M-80. With an expensive $240 license, it competed with IBM PC DOS ($40 license). A 16-bit version was also released for Motorola 68000 processors (CP/M-68K). This version was written in Pascal and was later rewritten in C. Other ports were made, such as the Zilog Z8000, called CP/M-8000. In 1980, IBM was developing the IBM PC, which revolutionized home computing. On that occasion, he approached Digital Research (at the suggestion of Microsoft, which already supplied BASIC to several manufacturers) to close an agreement to supply CP/M-80 for these devices. With a failed deal, IBM turned to Microsoft for an alternative. Microsoft, in turn, contacted SCP (Seattle Computer Products) and licensed a newly developed system for the Intel 8086, called 86-DOS (previously known internally as QDOS - Quick and Dirty Operating System). This system was heavily influenced by the CP/M API, although it did not copy code from it. This similarity has been the subject of lawsuits between Digital Research and Microsoft over the years. Microsoft then bought 86-DOS and modified it, along with its creator, hired by Microsoft, Tim Paterson, renamed it MS-DOS. Furthermore, MS-DOS was licensed by IBM and sold as IBM PC DOS. CP/M-86 continued to evolve, giving rise to other derivatives, such as DOS Plus, which eventually gave rise to DR-DOS. DR-DOS began to try to be compatible with and compete with MS-DOS for the personal computing market in the 1990s, including being included in a series of other products, such as the DOS merge, from UnixWare (UNIX System Laboratories and Novell).
 
+#### Source code
+
+* [CP/M source code at The Unofficial CP/M Web site](http://www.cpm.z80.de/source.html)
+* [Digital Research Source Code at RetroArchive](http://www.retroarchive.org/cpm/archive/unofficial/source.html)
+* [CP/M-80 1.x source code](http://www.cpm.z80.de/download/cpm_plm.zip)
+* [CP/M-80 3 and CP/M Plus](http://www.cpm.z80.de/download/cpm3_src.zip)
+* [CP/M-68K](http://www.cpm.z80.de/download/cpm68k.zip)
+* [CP/M-8000](http://www.cpm.z80.de/download/8k0583.zip)
+* [CP/M-86 3.1](http://www.cpm.z80.de/download/ccpmv31.zip)
+* [MP/M I](http://www.cpm.z80.de/download/mpm_i.zip)
+* [MP/M II](http://www.cpm.z80.de/download/mpm_ii.zip)
+* [MP/M-86 2.0](http://www.cpm.z80.de/download/mpm862sr.zip)
+* [Personal CP/M-80 1.0](http://www.cpm.z80.de/download/pcpm.zip)
+* [Personal CP/M-86 2.1](http://www.cpm.z80.de/download/pcpm211s.zip)
+* [Source code for CP/M-80 2.2 CCP and BDOS - GitHub](https://github.com/brouhaha/cpm22)
+
 #### Download the system (install in a virtual machine or use in an emulator)
 
 * [CP/M](https://winworldpc.com/product/cp-m-80/22)
 * [CP/M-86](https://winworldpc.com/product/cp-m-86/1x)
 * [Concurrent CP/M-86](https://winworldpc.com/product/concurrent-cpm-86/1x)
+
+#### Specifications, books, papers, documentation, manuals and historical material
+
+* [Early Digital Research CP/M Source Code at Computer History Museum](https://computerhistory.org/blog/early-digital-research-cpm-source-code/)
+
+#### Wikipedia content
+
+* [CP/M](https://en.wikipedia.org/wiki/CP/M)
 
 <hr>
 
