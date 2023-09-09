@@ -723,9 +723,6 @@ Source code is proprietary.
 
 </details>
 
-- [x] [Go to the next section](#osdev-system-administration-applications-and-software-licenses)
-- [x] [Go back to summary](#summary)
-
 ### Interesting new operating systems
 
 <details title="Fuchsia" align='left'>
@@ -745,6 +742,9 @@ Under construction!
 <hr>
 
 </details>
+
+- [x] [Go to the next section](#osdev-system-administration-applications-and-software-licenses)
+- [x] [Go back to summary](#summary)
 
 </div>
 
