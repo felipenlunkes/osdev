@@ -723,6 +723,32 @@ Source code is proprietary.
 
 </details>
 
+<details title="BeOS" align='left'>
+<br>
+<summary align='left'>BeOS</summary>
+
+<p align="center">
+<img src="https://upload.wikimedia.org/wikipedia/en/a/ae/BeOS_Desktop.png" width="400" height="200">
+</p>
+
+Under construction!
+
+#### Source code
+
+Source code is proprietary.
+
+#### Download the system (install in a virtual machine or use in an emulator)
+
+Under construction!
+
+#### Wikipedia content
+
+* [BeOS](https://en.wikipedia.org/wiki/BeOS)
+
+<hr>
+
+</details>
+
 ### Interesting new operating systems
 
 <details title="Fuchsia" align='left'>
