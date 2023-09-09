@@ -746,7 +746,7 @@ Fuchsia is an operating system that has been developed by Google and was found i
 
 #### Wikipedia content
 
-* [Fuchsia](https://en.wikipedia.org/wiki/Fuchsia_(operating_system)
+* [Fuchsia](https://en.wikipedia.org/wiki/Fuchsia_(operating_system))
 
 <hr>
 
