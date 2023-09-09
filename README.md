@@ -504,7 +504,7 @@ MINIX (derived from the name Mini Unix) is an operating system first developed b
 
 <details title="Linux" align='left'>
 <br>
-<summary align='left'>Linux</summary>
+<summary align='left'>Linux (kernel)</summary>
 
 <p align="center">
 <img src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Ubuntu_22.10_Kinetic_Kudu.png" width="400" height="200">
