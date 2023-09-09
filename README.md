@@ -733,11 +733,20 @@ Source code is proprietary.
 <img src="https://docs.dahliaos.io/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ffimage2.7660324c.webp&w=1080&q=75" width="400" height="200">
 </p>
 
-Under construction!
+Fuchsia is an operating system that has been developed by Google and was found in a git repository in August 2016, although, at the time, no announcement was made by the company. Since then, the project has reached maturity and shown itself to be a possible alternative to the operating systems used for computers and mobile devices, such as Windows, Linux, macOS, Android or ChromeOS. At the time, it was based on a new microkernel called Magenta, which was later renamed Zircon. Fuchsia is based on the [lk](https://github.com/littlekernel/lk) (LittleKernel) kernel, developed by Travis Geiselbrecht, who also developed the NewOS kernel, used by the Haiku project. lk is also used in the Android boot process on certain devices. Zircon, which adds a series of new functions, multitasking and security on top of lk, is written in C++, with parts in C and Assembly, and supports the x86_64, arm64 and RISC-V architecture. Fuchsia is an operating system heavily inspired by UNIX, but incorporates some different features. In addition to not supporting classic UNIX signals and Unix-like systems, it implements an event-driven pattern. Additionally, resources are represented as objects, not files. In addition to having an emulation layer that allows Fuchsia and Zircon to run Linux applications (called Starnix), Fuchsia already has a port of the Chromium browser, Vulkan support and application development in Flutter, in addition to having an graphical interface with a graphics server completely different from those used in the Linux world. In 2021, Fuchsia replaced CastOS (based on Linux) on Google Nest Hub devices. In 2023, it replaced CastOS in the second generation of the device. Despite having a very different architecture, no visual changes were observed in the devices. There are rumors that Fuchsia could one day replace Android and ChromeOS in Google's ecosystem, being an operating system that will run on a range of different devices and form factors, from smart watches to desktop computers. Remember that Fuchsia is free software. Although its support is restricted to specific devices, you can run an emulator/virtualizer with a system image and test Fuchsia. To do this, read more about [FImage](https://github.com/dahliaOS/fimage/releases), provided by the [dahliaOS](https://docs.dahliaos.io/os/fimage) project, below.
 
 #### Source code
 
 * [Source code](https://cs.opensource.google/fuchsia)
+
+#### Fuchsia Portable Emulator (FImage)
+
+* [FImage at GitHub](https://github.com/dahliaOS/fimage/releases)
+* [FImage documentation](https://docs.dahliaos.io/os/fimage)
+
+#### Wikipedia content
+
+* [Fuchsia](https://en.wikipedia.org/wiki/Fuchsia_(operating_system))
 
 <hr>
 
