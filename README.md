@@ -794,7 +794,29 @@ Under construction!
 
 #### Wikipedia content
 
-* [Fuchsia](https://en.wikipedia.org/wiki/Haiku_(operating_system))
+* [Haiku](https://en.wikipedia.org/wiki/Haiku_(operating_system))
+
+<hr>
+
+</details>
+
+<details title="ReactOS" align='left'>
+<br>
+<summary align='left'>ReactOS</summary>
+
+<p align="center">
+<img src="https://reactos.org/sites/default/files/Mizu-AppManager.png" width="400" height="200">
+</p>
+
+Under construction!
+
+#### Source code
+
+* [Source code](https://github.com/reactos/reactos)
+
+#### Wikipedia content
+
+* [Fuchsia](https://github.com/reactos/reactos)
 
 <hr>
 
