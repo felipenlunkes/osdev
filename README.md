@@ -1667,7 +1667,7 @@ In this section you will find useful websites for more material on operating sys
 
 <div align="justify">
 
-You can use a variety of historic operating systems kept running by the Living Computers Museum. For this, you only need to have access to the terminal (Unix systems) or command prompt (Windows) and the SSH utility, to make a remote connection.
+You can use a variety of historic operating systems kept running by the `Living Computers Museum`. For this, you only need to have access to the terminal (Unix systems) or command prompt (Windows) and the SSH utility, to make a remote connection.
 
 To do this, use in the terminal:
 
