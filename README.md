@@ -428,7 +428,7 @@ After Sun's acquisition by Oracle in 2010, the OpenSolaris project was discontin
 <summary align='left'>Mach kernel based OSes - NeXTSTEP, OpenStep, Darwin (macOS, iOS...) and DEC OSF/1</summary>
 
 <p align="center">
-<img src="https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/NeXTSTEP_desktop.png/" width="400" height="200">
+<img src="https://upload.wikimedia.org/wikipedia/en/1/1d/NeXTSTEP_desktop.png" width="400" height="200">
 </p>
 
 #### Source code
