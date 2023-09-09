@@ -746,7 +746,29 @@ Fuchsia is an operating system that has been developed by Google and was found i
 
 #### Wikipedia content
 
-* [Fuchsia](https://en.wikipedia.org/wiki/Fuchsia_(operating_system))
+* [Fuchsia](https://en.wikipedia.org/wiki/Fuchsia_(operating_system)
+
+<hr>
+
+</details>
+
+<details title="Haiku" align='left'>
+<br>
+<summary align='left'>Haiku</summary>
+
+<p align="center">
+<img src="https://www.haiku-os.org/files/slideshow/installer.png" width="400" height="200">
+</p>
+
+Under construction!
+
+#### Source code
+
+* [Source code](https://www.haiku-os.org/guides/building/get-source-git/)
+
+#### Wikipedia content
+
+* [Fuchsia](https://en.wikipedia.org/wiki/Haiku_(operating_system))
 
 <hr>
 
