@@ -423,6 +423,49 @@ After Sun's acquisition by Oracle in 2010, the OpenSolaris project was discontin
 
 </details>
 
+<details title="Mach kernel based OSes - NeXTSTEP, OpenStep, Darwin (macOS, iOS...) and DEC OSF/1" align='left'>
+<br>
+<summary align='left'>Mach kernel based OSes - NeXTSTEP, OpenStep, Darwin (macOS, iOS...) and DEC OSF/1</summary>
+
+<p align="center">
+<img src="https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/NeXTSTEP_desktop.png/" width="400" height="200">
+</p>
+
+#### Source code
+
+* [Mach 3 original source](https://www.cs.cmu.edu/afs/cs/project/mach/public/www/sources/sources_top.html)
+* [Mach 3 - GitHub (maintained by user)](https://github.com/Prajna/mach)
+
+#### Download the system (install in a virtual machine or use in an emulator)
+
+* [NEXTSTEP/OpenStep](https://winworldpc.com/product/nextstep/3x)
+* [Mac OS X](https://winworldpc.com/product/mac-os-x/rhapsody)
+
+#### Specifications, books, papers, documentation, manuals and historical material
+
+* [The Mach Project](https://www.cs.cmu.edu/afs/cs/project/mach/public/www/mach.html)
+* [MACH threads and the UNIX kernel: the battle for control](https://kilthub.cmu.edu/articles/journal_contribution/MACH_threads_and_the_UNIX_kernel_the_battle_for_control/6607079/1)
+* [A Trusted, Scalable, Real-Time Operating System Environment - PDF](https://web.archive.org/web/20170822053715/https://pdfs.semanticscholar.org/03ac/1296f530719497b49d7580b55a2d9b8353ab.pdf)
+* [Mach: A New Kernel Foundation For UNIX Development - PDF](https://www.cs.ubc.ca/~norm/508/2009W1/mach_usenix86.pdf)
+* [A comparison of Mach, Amoeba and Chorus](https://web.archive.org/web/20050513191623/http://www.cdk3.net/oss/Ed2/Comparison.pdf)
+* [The Mach System](https://web.archive.org/web/20130511223918/http://codex.cs.yale.edu/avi/os-book/OS8/os8e/appendices-dir/b.pdf)
+* [Mach Overview - Apple](https://developer.apple.com/library/archive/documentation/Darwin/Conceptual/KernelProgramming/Mach/Mach.html)
+* [Mach Kernel Interface Reference - MIT](http://web.mit.edu/darwin/src/modules/xnu/osfmk/man/)
+* [The GNU Mach Reference Manual - PDF](https://www.gnu.org/software/hurd/gnumach-doc/mach.pdf)
+* [A Technical History of Apple's Operating Systems](https://web.archive.org/web/20190827125517/http://www.osxbook.com/book/bonus/chapter1/)
+* [Mac OS X Internals: A Systems Approach - Amazon](https://www.amazon.com/Mac-OS-Internals-Systems-Approach/dp/0321278542)
+* [Mach Concepts](https://www.nextcomputers.org/NeXTfiles/Docs/NeXTStep/3.3/nd/OperatingSystem/Part1_Mach/01_Concepts/Concepts.htmld/index.html)
+
+#### Wikipedia content
+
+* [NeXTSTEP](https://en.wikipedia.org/wiki/NeXTSTEP)
+* [XNU kernel](https://en.wikipedia.org/wiki/XNU)
+* [Darwin Operating System](https://en.wikipedia.org/wiki/Darwin_(operating_system))
+
+<hr>
+
+</details>
+
 <details title="MINIX" align='left'>
 <br>
 <summary align='left'>MINIX</summary>
@@ -512,48 +555,23 @@ Since Linux is a kernel and comprises a number of distributions (operating syste
 
 <hr>
 
-<details title="Mach kernel based OSes - NEXTSTEP, OpenStep, Darwin (macOS, iOS...) and DEC OSF/1" align='left'>
+</details>
+
+<details title="Classic Mac OS" align='left'>
 <br>
-<summary align='left'>Mach kernel based OSes - NEXTSTEP, OpenStep, Darwin (macOS, iOS...) and DEC OSF/1</summary>
+<summary align='left'>Classic Mac OS</summary>
 
 <p align="center">
-<img src="https://upload.wikimedia.org/wikipedia/en/1/1d/NeXTSTEP_desktop.png" width="400" height="200">
+<img src="https://upload.wikimedia.org/wikipedia/en/c/cd/Mac_OS_9.0.4_emulated_inside_of_the_SheepShaver_emulator.png" width="400" height="200">
 </p>
 
-#### Source code
-
-* [Mach 3 original source](https://www.cs.cmu.edu/afs/cs/project/mach/public/www/sources/sources_top.html)
-* [Mach 3 - GitHub (maintained by user)](https://github.com/Prajna/mach)
-
-#### Download the system (install in a virtual machine or use in an emulator)
-
-* [NEXTSTEP/OpenStep](https://winworldpc.com/product/nextstep/3x)
-* [Mac OS X](https://winworldpc.com/product/mac-os-x/rhapsody)
-
-#### Specifications, books, papers, documentation, manuals and historical material
-
-* [The Mach Project](https://www.cs.cmu.edu/afs/cs/project/mach/public/www/mach.html)
-* [MACH threads and the UNIX kernel: the battle for control](https://kilthub.cmu.edu/articles/journal_contribution/MACH_threads_and_the_UNIX_kernel_the_battle_for_control/6607079/1)
-* [A Trusted, Scalable, Real-Time Operating System Environment - PDF](https://web.archive.org/web/20170822053715/https://pdfs.semanticscholar.org/03ac/1296f530719497b49d7580b55a2d9b8353ab.pdf)
-* [Mach: A New Kernel Foundation For UNIX Development - PDF](https://www.cs.ubc.ca/~norm/508/2009W1/mach_usenix86.pdf)
-* [A comparison of Mach, Amoeba and Chorus](https://web.archive.org/web/20050513191623/http://www.cdk3.net/oss/Ed2/Comparison.pdf)
-* [The Mach System](https://web.archive.org/web/20130511223918/http://codex.cs.yale.edu/avi/os-book/OS8/os8e/appendices-dir/b.pdf)
-* [Mach Overview - Apple](https://developer.apple.com/library/archive/documentation/Darwin/Conceptual/KernelProgramming/Mach/Mach.html)
-* [Mach Kernel Interface Reference - MIT](http://web.mit.edu/darwin/src/modules/xnu/osfmk/man/)
-* [The GNU Mach Reference Manual - PDF](https://www.gnu.org/software/hurd/gnumach-doc/mach.pdf)
-* [A Technical History of Apple's Operating Systems](https://web.archive.org/web/20190827125517/http://www.osxbook.com/book/bonus/chapter1/)
-* [Mac OS X Internals: A Systems Approach - Amazon](https://www.amazon.com/Mac-OS-Internals-Systems-Approach/dp/0321278542)
-* [Mach Concepts](https://www.nextcomputers.org/NeXTfiles/Docs/NeXTStep/3.3/nd/OperatingSystem/Part1_Mach/01_Concepts/Concepts.htmld/index.html)
+Under construction!
 
 #### Wikipedia content
 
-* [NeXTSTEP](https://en.wikipedia.org/wiki/NeXTSTEP)
-* [XNU kernel](https://en.wikipedia.org/wiki/XNU)
-* [Darwin Operating System](https://en.wikipedia.org/wiki/Darwin_(operating_system))
+* [Classic Mac OS](https://en.wikipedia.org/wiki/Classic_Mac_OS)
 
 <hr>
-
-</details>
 
 </details>
 
