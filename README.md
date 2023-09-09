@@ -1654,7 +1654,7 @@ In this session you will find text or video tutorials for operating system devel
 In this section you will find useful websites for more material on operating system development and administration.
 
 * [OSDev Wiki](http://wiki.osdev.org/Main_Page)
-* [Images of historical operating systems](https://winworldpc.com/library/operating-systems)
+* [Disk images of historical operating systems](https://winworldpc.com/library/operating-systems)
 
 - [x] [Go to the next section](#test-historical-oses-via-ssh)
 - [x] [Go back to summary](#summary)
