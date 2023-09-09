@@ -816,7 +816,7 @@ Under construction!
 
 #### Wikipedia content
 
-* [Fuchsia](https://github.com/reactos/reactos)
+* [ReactOS](https://github.com/reactos/reactos)
 
 <hr>
 
