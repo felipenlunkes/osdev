@@ -50,12 +50,13 @@ This document is divided into a few sections to make it easier to search for a s
 
 <div align="justify">
 
-This section will address several operating systems that have revolutionized computing over the decades, changing the way we relate to our computers. These mainline systems were responsible for influencing the development of modern alternatives, and many of them (in their various incarnations) are still a part of our lives. In each topic, you will find references to the source code (if available), manuals, papers, books and other pages with more information, as well as forums that discuss aspects of each operating system. You will also be able to obtain information on how to run these systems, natively or in emulators/simulators. To get started, click on one of the options listed below!
+This section will address several operating systems that have revolutionized computing over the decades, changing the way we relate to our computers. These mainline systems were responsible for influencing the development of modern alternatives, and many of them (in their various incarnations) are still a part of our lives. In each topic, you will find references to the source code (if available), manuals, papers, books and other pages with more information, as well as forums that discuss aspects of each operating system. You will also be able to obtain information on how to run these systems, natively or in emulators/simulators. Additionally, you will see new, modern operating systems that build on existing concepts but attempt to overcome their limitations or solve new problems in new ways. To get started, click on one of the options listed below!
 
 This session addresses:
 
 - [x] A quick resume on each operating system;
 - [x] History of operating systems;
+- [x] Interesting new operating systems;
 - [x] Historical material;
 - [x] Internal technical documentation (kernel, interfaces, etc);
 - [x] Source code of historical operating systems;
@@ -724,6 +725,26 @@ Source code is proprietary.
 
 - [x] [Go to the next section](#osdev-system-administration-applications-and-software-licenses)
 - [x] [Go back to summary](#summary)
+
+### Interesting new operating systems
+
+<details title="Fuchsia" align='left'>
+<br>
+<summary align='left'>Fuchsia (Google)</summary>
+
+<p align="center">
+<img src="https://docs.dahliaos.io/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ffimage2.7660324c.webp&w=1080&q=75" width="400" height="200">
+</p>
+
+Under construction!
+
+#### Source code
+
+* [Source code](https://cs.opensource.google/fuchsia)
+
+<hr>
+
+</details>
 
 </div>
 
