@@ -392,6 +392,8 @@ Source code is proprietary (except for OpenSolaris).
 <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/OpenIndiana_Hipster_2021.10_MATE_desktop_environment_screenshot.png" width="400" height="200">
 </p>
 
+After Sun's acquisition by Oracle in 2010, the OpenSolaris project was discontinued. However, the community has forked and maintained the [illumos](https://illumos.org/) project, which underpins UNIX distributions such as [OpenIndiana](https://www.openindiana.org/). To this day Oracle Solaris is developed, maintained and sold by Oracle, while illumos is an active project in the community. illumos, as well as its distributions, are the only UNIX systems released as free software.
+
 #### Source code
 
 * [illumos source code](https://github.com/illumos/illumos-gate)
