@@ -374,7 +374,23 @@ The system's motto is "Of course it runs NetBSD", highlighting the series of por
 <img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/OpenBSD_7.0_fvwm_screenshot.png" width="400" height="200">
 </p>
 
-Under construction!
+The OpenBSD project began in 1995 after the fork of NetBSD 1.0 by Theo de Raadt. The project focuses on portability, standardization of code and tools, security and correct and audited code. The creation of the project began after disagreements between the creators of the NetBSD project, with Theo de Raadt leaving. The first released version, 1.2, was released in July 1996, followed by version 2.0 released in October 1996. Since then, a new version has been released every six months. Usage statistics show that, in 2005, OpenBSD remained in second place on the list of most used BSDs, with 32.8%, behind only FreeBSD, with 77%. This data shows that OpenBSD has become more used than the project that originated it, NetBSD. In 2007, the OpenBSD Foundation was created to support the development of OpenBSD. Many of the components developed within the project are used by other products. `Services for UNIX`, a Microsoft extension for Windows, uses code from OpenBSD as well as OpenSSH. The pf firewall, created by the project, is used by both FreeBSD and macOS. Among the supported architectures, we have:
+
+* Alpha;
+* x86 (i386);
+* x86_64 (amd64);
+* ARM (ARMv7);
+* ARM64 (AArch64, ARMv8);
+* PA-RISC;
+* LANDISK;
+* Loongson;
+* Omron LUNA-88k/
+* MIPS64;
+* PowerPC (32 and 64-bit);
+* RISC-V 64-bit;
+* SPARC64.
+
+
 
 #### Source code
 
