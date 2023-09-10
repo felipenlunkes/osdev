@@ -326,7 +326,23 @@ Furthermore, there are several forks of the system, such as:
 <img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/NetBSD_9.2_xdm_screenshot.png" width="400" height="200">
 </p>
 
-Under construction!
+Like FreeBSD (read above), NetBSD derives from 386BSD and was the first descendant of 386BSD released, on April 19, 1993. Originally, it derives from 4.3BSD-Reno, and was founded by Chris Demetriou, Theo by Raadt, Adam Glass and Charles Hannum. The project was established on the principles of being portable, clean and having correct code. Its name derives from the growth of networks and the Internet. In October 1994, version 1.0 of NetBSD was released, changing the original base to 4.4BSD-Lite, as was done by FreeBSD. Due to internal discussions within the project, Theo de Raadt was removed from the project, founding OpenBSD in 1995 (see below). Currently, NetBSD supports a number of architectures and platforms, including:
+
+* Alpha;
+* ARM;
+* ARM64 (AArch64);
+* x86 (i386);
+* x86_64 (amd64);
+* PA-RISC;
+* Motorola 68k;
+* MIPS;
+* PowerPC (32 and 64-bit);
+* Super H;
+* SPARC;
+* RISC-V;
+* VAX.
+
+The system's slogan is "Of course it runs NetBSD", highlighting the series of ports made for the most varied architectures.
 
 #### Source code
 
