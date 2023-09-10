@@ -35,10 +35,10 @@ This document is divided into a few sections to make it easier to search for a s
 > A quick summary of the sections in this document:
 
 * [Reference material on Operating Systems](#reference-material-on-operating-systems)
-* [OSDev, system administration, applications and software licenses](#osdev-system-administration-applications-and-software-licenses)
+* [Topics in OSDev, system administration, applications and software licenses](#osdev-system-administration-applications-and-software-licenses)
+* [OSDev tutorials](#tutorials)
 * [Operating Systems sorted by family](#os-projects-sorted-by-family)
 * [Operating Systems sorted by language](#os-projects-sorted-by-language)
-* [Tutorials](#tutorials)
 * [Websites and other resources](#websites-and-other-resources)
 * [Test historical OSes via SSH](#test-historical-oses-via-ssh)
 
@@ -889,14 +889,13 @@ Under construction!
 
 </details>
 
-- [x] [Go to the next section](#osdev-system-administration-applications-and-software-licenses)
 - [x] [Go back to summary](#summary)
 
 </div>
 
 <hr>
 
-## OSDev, system administration, applications and software licenses
+## Topics in OSDev, system administration, applications and software licenses
 
 <div align="justify">
 
@@ -1010,7 +1009,71 @@ Here you can get more information about the main free licenses to apply in your 
 
 </details>
 
-- [x] [Go to the next section](#os-projects-sorted-by-family)
+- [x] [Go back to summary](#summary)
+
+</div>
+
+<hr>
+
+## OSDev tutorials
+
+<div align="justify">
+
+In this session you will find text or video tutorials for operating system development and administration. The tutorials are separated by architecture (in case of development) and target (in case of administration).
+
+### Creating an x86 operating system
+
+* [Kernels 101 – Let’s write a Kernel](https://arjunsreedharan.org/post/82710718100/kernels-101-lets-write-a-kernel)
+* [Kernels 201 - Let’s write a Kernel with keyboard and screen support](https://arjunsreedharan.org/post/99370248137/kernels-201-lets-write-a-kernel-with-keyboard)
+* [Bran's Kernel Development](http://www.osdever.net/bkerndev/Docs/title.htm)
+* [Writing a Tiny x86 Bootloader](https://www.joe-bergeron.com/posts/Writing%20a%20Tiny%20x86%20Bootloader/)
+* [Writing a Bootloader](http://3zanders.co.uk/2017/10/13/writing-a-bootloader/)
+* [os-tutorial - How to create an OS from scratch](https://github.com/cfenollosa/os-tutorial)
+* [Roll your own toy UNIX-clone OS](http://jamesmolloy.co.uk/tutorial_html/)
+* [Writing an OS in Rust](https://os.phil-opp.com/)
+* [Learning to write an Operating System](https://github.com/mikesmullin/OperatingSystem)
+
+### Creating an ARM operating system
+
+* [Baking Pi  Operating Systems Development](https://www.cl.cam.ac.uk/projects/raspberrypi/tutorials/os/index.html)
+* [Learning operating system development using Linux kernel and Raspberry Pi](https://github.com/s-matyukevich/raspberry-pi-os)
+* [Build a minimal multi-tasking OS kernel for ARM from scratch](https://github.com/jserv/mini-arm-os)
+
+### Creating an RISC-V operating system
+
+* [Making a RISC-V Operating System using Rust](http://osblog.stephenmarz.com/)
+
+### General OSDev
+
+* [Operating systems development for Dummies](https://medium.com/@lduck11007/operating-systems-development-for-dummies-3d4d786e8ac)
+
+### Linux tutorials
+
+* [How to write a Linux kernel patch and submit it](https://github.com/gregkh/kernel-tutorial)
+* [Presentation on how the Linux kernel is developed](https://github.com/gregkh/kernel-development)
+
+### Video tutorials
+
+* [Write your own Operating System](https://www.youtube.com/playlist?list=PLHh55M_Kq4OApWScZyPl5HhgsTJS9MZ6M)
+* [Kernel dev from scratch by Dragon Zap Education](https://www.youtube.com/watch?v=HNIg3TXfdX8&list=PLrGN1Qi7t67V-9uXzj4VSQCffntfvn42v)
+* [Nanobyte](https://www.youtube.com/channel/UCSPIuWADJIMIf9Erf--XAsA)
+
+- [x] [Go to the next section](#websites-and-other-resources)
+- [x] [Go back to summary](#summary)
+
+</div>
+
+<hr>
+
+## Websites and other resources
+
+<div align="justify">
+
+In this section you will find useful websites for more material on operating system development and administration.
+
+* [OSDev Wiki](http://wiki.osdev.org/Main_Page)
+* [Disk images of historical operating systems](https://winworldpc.com/library/operating-systems)
+
 - [x] [Go back to summary](#summary)
 
 </div>
@@ -1290,7 +1353,6 @@ In this session, the projects were separated by the operating system family to w
 
 </details>
 
-- [x] [Go to the next section](#os-projects-sorted-by-language)
 - [x] [Go back to summary](#summary)
 
 </div>
@@ -1628,74 +1690,7 @@ In this session, the projects were separated by the main programming language us
 
 </div>
 
-- [x] [Go to the next section](#tutorials)
 - [x] [Go back to summary](#summary)
-
-<hr>
-
-## Tutorials
-
-<div align="justify">
-
-In this session you will find text or video tutorials for operating system development and administration. The tutorials are separated by architecture (in case of development) and target (in case of administration).
-
-### Creating an x86 operating system
-
-* [Kernels 101 – Let’s write a Kernel](https://arjunsreedharan.org/post/82710718100/kernels-101-lets-write-a-kernel)
-* [Kernels 201 - Let’s write a Kernel with keyboard and screen support](https://arjunsreedharan.org/post/99370248137/kernels-201-lets-write-a-kernel-with-keyboard)
-* [Bran's Kernel Development](http://www.osdever.net/bkerndev/Docs/title.htm)
-* [Writing a Tiny x86 Bootloader](https://www.joe-bergeron.com/posts/Writing%20a%20Tiny%20x86%20Bootloader/)
-* [Writing a Bootloader](http://3zanders.co.uk/2017/10/13/writing-a-bootloader/)
-* [os-tutorial - How to create an OS from scratch](https://github.com/cfenollosa/os-tutorial)
-* [Roll your own toy UNIX-clone OS](http://jamesmolloy.co.uk/tutorial_html/)
-* [Writing an OS in Rust](https://os.phil-opp.com/)
-* [Learning to write an Operating System](https://github.com/mikesmullin/OperatingSystem)
-
-### Creating an ARM operating system
-
-* [Baking Pi  Operating Systems Development](https://www.cl.cam.ac.uk/projects/raspberrypi/tutorials/os/index.html)
-* [Learning operating system development using Linux kernel and Raspberry Pi](https://github.com/s-matyukevich/raspberry-pi-os)
-* [Build a minimal multi-tasking OS kernel for ARM from scratch](https://github.com/jserv/mini-arm-os)
-
-### Creating an RISC-V operating system
-
-* [Making a RISC-V Operating System using Rust](http://osblog.stephenmarz.com/)
-
-### General OSDev
-
-* [Operating systems development for Dummies](https://medium.com/@lduck11007/operating-systems-development-for-dummies-3d4d786e8ac)
-
-### Linux tutorials
-
-* [How to write a Linux kernel patch and submit it](https://github.com/gregkh/kernel-tutorial)
-* [Presentation on how the Linux kernel is developed](https://github.com/gregkh/kernel-development)
-
-### Video tutorials
-
-* [Write your own Operating System](https://www.youtube.com/playlist?list=PLHh55M_Kq4OApWScZyPl5HhgsTJS9MZ6M)
-* [Kernel dev from scratch by Dragon Zap Education](https://www.youtube.com/watch?v=HNIg3TXfdX8&list=PLrGN1Qi7t67V-9uXzj4VSQCffntfvn42v)
-* [Nanobyte](https://www.youtube.com/channel/UCSPIuWADJIMIf9Erf--XAsA)
-
-- [x] [Go to the next section](#websites-and-other-resources)
-- [x] [Go back to summary](#summary)
-
-</div>
-
-<hr>
-
-## Websites and other resources
-
-<div align="justify">
-
-In this section you will find useful websites for more material on operating system development and administration.
-
-* [OSDev Wiki](http://wiki.osdev.org/Main_Page)
-* [Disk images of historical operating systems](https://winworldpc.com/library/operating-systems)
-
-- [x] [Go to the next section](#test-historical-oses-via-ssh)
-- [x] [Go back to summary](#summary)
-
-</div>
 
 <hr>
 
