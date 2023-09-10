@@ -1056,21 +1056,6 @@ In this session you will find text or video tutorials for operating system devel
 
 <hr>
 
-## Websites and other resources
-
-<div align="justify">
-
-In this section you will find useful websites for more material on operating system development and administration.
-
-* [OSDev Wiki](http://wiki.osdev.org/Main_Page)
-* [Disk images of historical operating systems](https://winworldpc.com/library/operating-systems)
-
-- [x] [Go back to summary](#summary)
-
-</div>
-
-<hr>
-
 ## OS projects sorted by family
 
 <div align="justify">
@@ -1682,6 +1667,21 @@ In this session, the projects were separated by the main programming language us
 </div>
 
 - [x] [Go back to summary](#summary)
+
+<hr>
+
+## Websites and other resources
+
+<div align="justify">
+
+In this section you will find useful websites for more material on operating system development and administration.
+
+* [OSDev Wiki](http://wiki.osdev.org/Main_Page)
+* [Disk images of historical operating systems](https://winworldpc.com/library/operating-systems)
+
+- [x] [Go back to summary](#summary)
+
+</div>
 
 <hr>
 
