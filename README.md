@@ -34,9 +34,9 @@ This document is divided into a few sections to make it easier to search for a s
 
 > A quick summary of the sections in this document:
 
-* [Reference material on Operating Systems](#reference-material-on-operating-systems)
-* [Topics in OSDev, system administration, applications and software licenses](#topics-in-osdev-system-administration-applications-and-software-licenses)
-* [OSDev tutorials](#osdev-tutorials)
+* [A brief history of Operating Systems](#a-brief-history-of-operating-systems)
+* [Topics in hardware, system administration, applications and software licenses](#topics-in-hardware-system-administration-applications-and-software-licenses)
+* [OSDev material: books, papers and tutorials](#osdev-material-books-papers-and-tutorials)
 * [Operating Systems sorted by family](#os-projects-sorted-by-family)
 * [Operating Systems sorted by language](#os-projects-sorted-by-language)
 * [Websites and other resources](#websites-and-other-resources)
@@ -46,7 +46,7 @@ This document is divided into a few sections to make it easier to search for a s
 
 <hr>
 
-## Reference material on Operating Systems
+## A brief history of Operating Systems
 
 <div align="justify">
 
@@ -895,43 +895,18 @@ Under construction!
 
 <hr>
 
-## Topics in OSDev, system administration, applications and software licenses
+## Topics in hardware, system administration, applications and software licenses
 
 <div align="justify">
 
 In this section you will find theoretical material on the following topics:
 
-- [x] Design and implementation of operating systems;
 - [x] Hardware and architectures;
 - [x] Systems administration tools and techniques;
 - [x] Applications available for legacy systems and useful for project development; 
 - [x] Software licenses.
 
 > Click on one of the categories below to continue.
-
-<details title="OSDev" align='left'>
-<summary align='left'>OSdev</summary>
-
-#### Consolidated projects for learning
-
-* [xv6: a simple, Unix-like teaching operating system](https://pdos.csail.mit.edu/6.828/2019/xv6/book-riscv-rev0.pdf)
-
-#### Courses
-
-* [How to Make a Computer Operating System](https://github.com/SamyPesse/How-to-Make-a-Computer-Operating-System)
-* [Operating Systems: From 0 to 1](https://github.com/tuhdo/os01)
-* [Operating System Development Series](http://www.brokenthorn.com/Resources/OSDevIndex.html)
-* [Operating Systems: Three Easy Pieces](http://pages.cs.wisc.edu/~remzi/OSTEP/)
-* [The little book about OS development](http://littleosbook.github.io/)
-* [Think OS](http://greenteapress.com/thinkos/)
-* [Operating System Concepts](https://www.os-book.com/OS9/index.html)
-* [FreeBSD/Linux Kernel Cross Reference](http://fxr.watson.org/fxr/source/?v=MK84)
-* [Operating System Concepts - 10th edition](https://github.com/greggagne/osc10e)
-* [Open source compatible BIOS for PC - GLaBIOS](https://github.com/640-KB/GLaBIOS)
-
-<hr>
-
-</details>
 
 <details title="Hardware" align='left'>
 <br>
@@ -1015,7 +990,7 @@ Here you can get more information about the main free licenses to apply in your 
 
 <hr>
 
-## OSDev tutorials
+## OSDev material: books, papers and tutorials
 
 <div align="justify">
 
@@ -1058,7 +1033,23 @@ In this session you will find text or video tutorials for operating system devel
 * [Kernel dev from scratch by Dragon Zap Education](https://www.youtube.com/watch?v=HNIg3TXfdX8&list=PLrGN1Qi7t67V-9uXzj4VSQCffntfvn42v)
 * [Nanobyte](https://www.youtube.com/channel/UCSPIuWADJIMIf9Erf--XAsA)
 
-- [x] [Go to the next section](#websites-and-other-resources)
+### Consolidated projects for learning
+
+* [xv6: a simple, Unix-like teaching operating system](https://pdos.csail.mit.edu/6.828/2019/xv6/book-riscv-rev0.pdf)
+
+### Courses
+
+* [How to Make a Computer Operating System](https://github.com/SamyPesse/How-to-Make-a-Computer-Operating-System)
+* [Operating Systems: From 0 to 1](https://github.com/tuhdo/os01)
+* [Operating System Development Series](http://www.brokenthorn.com/Resources/OSDevIndex.html)
+* [Operating Systems: Three Easy Pieces](http://pages.cs.wisc.edu/~remzi/OSTEP/)
+* [The little book about OS development](http://littleosbook.github.io/)
+* [Think OS](http://greenteapress.com/thinkos/)
+* [Operating System Concepts](https://www.os-book.com/OS9/index.html)
+* [FreeBSD/Linux Kernel Cross Reference](http://fxr.watson.org/fxr/source/?v=MK84)
+* [Operating System Concepts - 10th edition](https://github.com/greggagne/osc10e)
+* [Open source compatible BIOS for PC - GLaBIOS](https://github.com/640-KB/GLaBIOS)
+
 - [x] [Go back to summary](#summary)
 
 </div>
