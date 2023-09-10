@@ -189,72 +189,6 @@ During its development in the 1960s, 1970s and 1980s, UNIX had its source code d
 
 </details>
 
-<details title="Plan 9 from Bell Labs" align='left'>
-<br>
-<summary align='left'>Plan 9 from Bell Labs</summary>
-
-<p align="center">
-<img src="https://upload.wikimedia.org/wikipedia/commons/e/e6/Plan_9_Fourth_Edition_rio_interaction_screenshot.png" width="400" height="200">
-</p>
-
-Plan 9 from Bell Labs is an operating system developed by the Computing Science Research Center (CSRC) at Bell Labs. Its development started in the mid-1980s, by the same creators of UNIX. In this way, Plan 9 from Bell Labs was built on UNIX concepts. Its first public version appeared in 1992, with source code and documentation available to universities. In 1995 there was the public release of Plan 9. In the system, the concept of "everything is a file" from UNIX was expanded, where all local resources, but also remote ones, started to be treated as files. This includes distributed file systems. UNIX's use of text terminals has been replaced by a graphical interface, although the Plan 9 shell, rc, remains text-based. The initial project was led by Rob Pike, Ken Thompson and Dave Presotto, with support from Dennis Ritchie, replacing UNIX as the primary research and development platform at Bell Labs. Plan 9 explores many new concepts derived from using networks as a distributed operating system. For a license fee of $350, anyone interested could obtain the system's source code, starting in 1995. With UNIX established as a commercial product for servers and personal computers, as well as Linux growing in the same niche, Plan 9 targeted the embedded computing market. In 1996, the project was put on the back burner in favor of Inferno, an operating system that incorporated much of what was developed for Plan 9, but intended to rival Sun Microsystems' Java platform. At the end of 1990, with the purchase of Bell Labs by Lucent Technologies, commercial support for Plan 9 was withdrawn, with distribution of the system code now as free software, in 2000 (in the third version of Plan 9 from Bell Labs). A large community has formed around the project, including current and former Bell Labs employees, who have continued to develop the system, including releasing new installation images of the system. Bell Labs continues to host the project to the present day. In 2021, rights to Plan 9 were transferred from Bell Labs to the Plan 9 Foundation, after official development of the system was terminated by Bell Labs. Several project forks also occurred, such as 9front, which releases monthly system builds with new features, such as Wi-Fi, audio and USB drivers, as well as game emulators. Other projects were also initiators, such as Harvey OS and Jehanne OS, based on Plan 9 from Bell Labs. Compatibility with UNIX was never a point within the system's initial development team, so much of the software must be recompiled using the APIs available on the system. In 1991, the code required to create a working system was far less than other projects such as the Mach kernel. Many of Plan 9's concepts have been incorporated into other systems, such as UTF-8 encoding. Unix-like systems such as Linux have implemented the 9P2000 protocol for remote file access. Several Plan 9 utilities have also been ported to other systems through the Plan 9 from User Space project. These utilities include the acme editor, also intended to replace utilities coming from GNU with utilities coming from Plan 9. The 9wm window manager was inspired by the Plan 9 counterpart. The Plan 9 rfork call was also implemented on Linux and BSD systems. Version 1903 of Windows 10 implements Plan 9's file system protocol as a server that allows communication between the Windows Subsystem for Linux and Windows itself, allowing the exchange of files. Plan 9 is currently licensed by MIT (March 23, 2021 onwards). Plan 9 is available on a number of platforms such as x86, PowerPC and ARM. It was even ported to run on the Raspberry Pi (ARM architecture).
-
-#### Original source code
-
-* [Plan 9 from Bell Labs](https://9p.io/sources/plan9/sys/src/)
-* [Plan 9 kernel history](https://github.com/0intro/9hist)
-
-#### Download the system (install in a virtual machine or use in an emulator)
-
-* [Plan 9 from Bell Labs](https://9p.io/plan9/download.html)
-
-#### Specifications, books, papers, documentation, manuals and historical material
-
-* [Plan 9 — The Documents (Volume 2)](https://9p.io/sys/doc/)
-* [Plan 9 from Bell Labs - Paper](https://9p.io/sys/doc/9.html)
-* [The Use of Name Spaces in Plan 9 - Paper](https://9p.io/sys/doc/names.html)
-* [The Organization of Networks in Plan 9 - Proc. of the Winter 1993 USENIX Conf., pp. 271-280, San Diego, CA](https://9p.io/sys/doc/net/net.html)
-* [Security in Plan 9 - Proc. of the 2002 Usenix Security Symposium, San Francisco](https://9p.io/sys/doc/auth.html)
-* [How to Use the Plan 9 C Compiler - Paper](https://9p.io/sys/doc/comp.html)
-* [ Changes to the Programming Environment in the Fourth Release of Plan 9 - Paper](https://9p.io/sys/doc/prog4.html)
-* [APE — The ANSI/POSIX Environment - Paper](https://9p.io/sys/doc/ape.html)
-* [Acid: A Debugger Built From A Language - Proc. of the Winter 1994 USENIX Conf., pp. 211-222, San Francisco, CA](https://9p.io/sys/doc/acidpaper.html)
-* [Maintaining Files on Plan 9 with Mk - Paper](https://9p.io/sys/doc/mk.html)
-* [Acid Manual - Paper](https://9p.io/sys/doc/acid.html)
-* [Plan 9 Mkfiles - Paper](https://9p.io/sys/doc/mkfiles.html)
-* [A Manual for the Plan 9 assembler](https://9p.io/sys/doc/asm.html)
-* [8½, the Plan 9 Window System - Proc. of the Summer 1991 USENIX Conf., pp. 257-265, Nashville](https://9p.io/sys/doc/8%C2%BD/8%C2%BD.html)
-* [Rc — The Plan 9 Shell](https://9p.io/sys/doc/rc.html)
-* [The Text Editor sam - Paper](https://9p.io/sys/doc/sam/sam.html)
-* [Acme: A User Interface for Programmers - Proc. of the Winter 1994 USENIX Conf., pp. 223-234, San Francisco, CA ](https://9p.io/sys/doc/acme/acme.html)
-* [Plumbing and Other Utilities - Paper](https://9p.io/sys/doc/plumb.html)
-* [Hello World or Καλημέρα κόσμε or こんにちは 世界 - Proc. of the Winter 1993 USENIX Conf., pp. 43-50, San Diego](https://9p.io/sys/doc/utf.html)
-* [Plan 9 C Compilers - Proceedings of the Summer 1990 UKUUG Conference, pp. 41-51, London, 1990](https://9p.io/sys/doc/compiler.html)
-* [Adding Application Support for a New Architecture in Plan 9 - Paper](https://9p.io/sys/doc/libmach.html)
-* [The 64-bit Standalone Plan 9 File Server - Paper](https://9p.io/sys/doc/fs/fs.html)
-* [Venti: a new approach to archival storage - Paper](https://9p.io/sys/doc/venti/venti.html)
-* [The Various Ports - Paper](https://9p.io/sys/doc/port.html)
-* [Plan 9 from Bell Labs manuals](https://9p.io/sys/man/)
-* [Plan 9 Wiki](https://9p.io/wiki/plan9/plan_9_wiki/)
-
-#### Specifications, documentation, manuals and historical material
-
-* [Software for Plan 9 ](https://9p.io/plan9/addons.html)
-* [Download and install Plan 9 from Bell Labs](https://9p.io/plan9/download.html)
-
-#### Websites
-
-* [Plan 9 from Bell Labs Community](https://9p.io/wiki/plan9/community/)
-* [Plan 9 - Linux Universe (Brazil)](https://linuxuniverse.com.br/artigo/plan9)
-
-#### Wikipedia content
-
-* [Plan 9 from Bell Labs](https://en.wikipedia.org/wiki/Plan_9_from_Bell_Labs)
-
-<hr>
-
-</details>
-
 <details title="FreeBSD" align='left'>
 <br>
 <summary align='left'>FreeBSD</summary>
@@ -263,7 +197,27 @@ Plan 9 from Bell Labs is an operating system developed by the Computing Science 
 <img src="https://upload.wikimedia.org/wikipedia/commons/5/53/FreeBSD_13.0_welcome_prompt_screenshot.png" width="400" height="200">
 </p>
 
-Under construction!
+If you haven't read about BSD above, you might want to read it before continuing! If you've already read it, let's go!
+
+After the release of Net/2, a version of BSD without AT&T proprietary code, William and Lynne Jolitz began porting BSD to Intel 80386 processors. To do so, they had to rewrite six kernel files that still contained AT&T's intellectual property, and they named the new system 386BSD. Development of this port was slow, and a group of users then decided to create a fork of the project. This project was named FreeBSD, the first version of which was released in November 1996. Both 386BSD and FreeBSD were based on versions of BSD, which led to necessary changes to the system base. In 1992, a company founded by former students and professors at the Computer Systems Research Group (CSRG) at the University of California at Berkeley, called Berkeley Software Design, Inc., or BSDi, was sued by AT&T, which claimed that the BSD/386 (later called BSD/OS), a system developed by the company that was based on 386BSD (as well as FreeBSD), contained code proprietary to AT&T. The agreement was not disclosed, but the company was supposed to migrate the system base to the new version 4.4BSD-Lite2, which although incomplete, did not contain AT&T code. To avoid a lawsuit, FreeBSD should also carry out this migration, which occurred in November 1994, with version 2.0 of FreeBSD, completely free of any AT&T intellectual property. Since then, the system has undergone continuous development, and is part of much of the world's network infrastructure. Companies such as IBM, Netflix, WhatsApp, Nokia, Juniper Networks (which produces routers and other network equipment and which run an operating system based on FreeBSD) and NetApp use FreeBSD in their network infrastructure or as a basis for building their products. Additionally, the Mach kernel, which powers Darwin and macOS, borrows much of the code from FreeBSD's kernel and user-mode utilities. Additionally, the Playstations 3, 4 and 5 operating systems are based on various versions of FreeBSD. The Nintendo Switch operating system, although not explored in depth, contains several FreeBSD components. Currently, the system supports the x86 (i386), x86_64 (amd64), arm, arm64 (AArch64), MIPS, PowerPC (32 and 64-bit), 64-bit SPARC and 64-bit RISC-V architectures. The system has modules that allow the execution of Linux binaries without the need for new compilation, in addition to having a wide library of utilities and a very powerful and complete package management system. It also has a compatibility layer for running software written for BSD/OS and UNIX System V Release 4. Additionally, it has a virtualization solution similar to Linux's KVM, called bhyve, which allows it to run a number of guest systems, with FreeBSD itself, OpenBSD, Linux and Windows. Unlike Linux, which only provides the kernel and a base set of drivers, FreeBSD is a complete software distribution in itself. In the FreeBSD source tree we have the kernel, drivers, standard system utilities, documentation and a series of other software, which are maintained and distributed together. Furthermore, it is worth mentioning that, to maintain a base system with the BSD license, the default shell and other utilities are not from the GNU project. An example is the default shell, tcsh, which plays the role of GNU bash on FreeBSD. Several operating systems, in addition to those already mentioned, are based on FreeBSD. Some of them are:
+
+* Juniper's [JUNOS](https://en.wikipedia.org/wiki/JUNOS), an operating system for routers;
+* [OneFS](https://en.wikipedia.org/wiki/OneFS_distributed_file_system), from EMC Isilon;
+* Open Connect Appliance, from Netflix, responsible for managing the platform's content;
+* [pfSense](https://en.wikipedia.org/wiki/PfSense), an operating system responsible for managing firewall, routing and security;
+* [TrueNAS](https://en.wikipedia.org/wiki/TrueNAS).
+
+Furthermore, there are several forks of the system, such as:
+
+* [DesktopBSD](https://en.wikipedia.org/wiki/DesktopBSD), a desktop-oriented system that has a graphical interface upon installation;
+* [GhostBSD](https://en.wikipedia.org/wiki/GhostBSD);
+* [MidnightBSD](https://en.wikipedia.org/wiki/MidnightBSD);
+* [NanoBSD](https://en.wikipedia.org/wiki/NanoBSD);
+* [PicoBSD](https://en.wikipedia.org/wiki/PicoBSD);
+* [OpenServer 10](https://en.wikipedia.org/wiki/OpenServer_10);
+* [TrueOS](https://en.wikipedia.org/wiki/TrueOS);
+* [TrustedBSD](https://en.wikipedia.org/wiki/TrustedBSD);
+* [Orbis OS](https://en.wikipedia.org/wiki/Orbis_OS), Playstation 4 operating system.
 
 #### Source code
 
@@ -470,6 +424,72 @@ Under construction!
 * [NeXTSTEP](https://en.wikipedia.org/wiki/NeXTSTEP)
 * [XNU kernel](https://en.wikipedia.org/wiki/XNU)
 * [Darwin Operating System](https://en.wikipedia.org/wiki/Darwin_(operating_system))
+
+<hr>
+
+</details>
+
+<details title="Plan 9 from Bell Labs" align='left'>
+<br>
+<summary align='left'>Plan 9 from Bell Labs</summary>
+
+<p align="center">
+<img src="https://upload.wikimedia.org/wikipedia/commons/e/e6/Plan_9_Fourth_Edition_rio_interaction_screenshot.png" width="400" height="200">
+</p>
+
+Plan 9 from Bell Labs is an operating system developed by the Computing Science Research Center (CSRC) at Bell Labs. Its development started in the mid-1980s, by the same creators of UNIX. In this way, Plan 9 from Bell Labs was built on UNIX concepts. Its first public version appeared in 1992, with source code and documentation available to universities. In 1995 there was the public release of Plan 9. In the system, the concept of "everything is a file" from UNIX was expanded, where all local resources, but also remote ones, started to be treated as files. This includes distributed file systems. UNIX's use of text terminals has been replaced by a graphical interface, although the Plan 9 shell, rc, remains text-based. The initial project was led by Rob Pike, Ken Thompson and Dave Presotto, with support from Dennis Ritchie, replacing UNIX as the primary research and development platform at Bell Labs. Plan 9 explores many new concepts derived from using networks as a distributed operating system. For a license fee of $350, anyone interested could obtain the system's source code, starting in 1995. With UNIX established as a commercial product for servers and personal computers, as well as Linux growing in the same niche, Plan 9 targeted the embedded computing market. In 1996, the project was put on the back burner in favor of Inferno, an operating system that incorporated much of what was developed for Plan 9, but intended to rival Sun Microsystems' Java platform. At the end of 1990, with the purchase of Bell Labs by Lucent Technologies, commercial support for Plan 9 was withdrawn, with distribution of the system code now as free software, in 2000 (in the third version of Plan 9 from Bell Labs). A large community has formed around the project, including current and former Bell Labs employees, who have continued to develop the system, including releasing new installation images of the system. Bell Labs continues to host the project to the present day. In 2021, rights to Plan 9 were transferred from Bell Labs to the Plan 9 Foundation, after official development of the system was terminated by Bell Labs. Several project forks also occurred, such as 9front, which releases monthly system builds with new features, such as Wi-Fi, audio and USB drivers, as well as game emulators. Other projects were also initiators, such as Harvey OS and Jehanne OS, based on Plan 9 from Bell Labs. Compatibility with UNIX was never a point within the system's initial development team, so much of the software must be recompiled using the APIs available on the system. In 1991, the code required to create a working system was far less than other projects such as the Mach kernel. Many of Plan 9's concepts have been incorporated into other systems, such as UTF-8 encoding. Unix-like systems such as Linux have implemented the 9P2000 protocol for remote file access. Several Plan 9 utilities have also been ported to other systems through the Plan 9 from User Space project. These utilities include the acme editor, also intended to replace utilities coming from GNU with utilities coming from Plan 9. The 9wm window manager was inspired by the Plan 9 counterpart. The Plan 9 rfork call was also implemented on Linux and BSD systems. Version 1903 of Windows 10 implements Plan 9's file system protocol as a server that allows communication between the Windows Subsystem for Linux and Windows itself, allowing the exchange of files. Plan 9 is currently licensed by MIT (March 23, 2021 onwards). Plan 9 is available on a number of platforms such as x86, PowerPC and ARM. It was even ported to run on the Raspberry Pi (ARM architecture).
+
+#### Original source code
+
+* [Plan 9 from Bell Labs](https://9p.io/sources/plan9/sys/src/)
+* [Plan 9 kernel history](https://github.com/0intro/9hist)
+
+#### Download the system (install in a virtual machine or use in an emulator)
+
+* [Plan 9 from Bell Labs](https://9p.io/plan9/download.html)
+
+#### Specifications, books, papers, documentation, manuals and historical material
+
+* [Plan 9 — The Documents (Volume 2)](https://9p.io/sys/doc/)
+* [Plan 9 from Bell Labs - Paper](https://9p.io/sys/doc/9.html)
+* [The Use of Name Spaces in Plan 9 - Paper](https://9p.io/sys/doc/names.html)
+* [The Organization of Networks in Plan 9 - Proc. of the Winter 1993 USENIX Conf., pp. 271-280, San Diego, CA](https://9p.io/sys/doc/net/net.html)
+* [Security in Plan 9 - Proc. of the 2002 Usenix Security Symposium, San Francisco](https://9p.io/sys/doc/auth.html)
+* [How to Use the Plan 9 C Compiler - Paper](https://9p.io/sys/doc/comp.html)
+* [ Changes to the Programming Environment in the Fourth Release of Plan 9 - Paper](https://9p.io/sys/doc/prog4.html)
+* [APE — The ANSI/POSIX Environment - Paper](https://9p.io/sys/doc/ape.html)
+* [Acid: A Debugger Built From A Language - Proc. of the Winter 1994 USENIX Conf., pp. 211-222, San Francisco, CA](https://9p.io/sys/doc/acidpaper.html)
+* [Maintaining Files on Plan 9 with Mk - Paper](https://9p.io/sys/doc/mk.html)
+* [Acid Manual - Paper](https://9p.io/sys/doc/acid.html)
+* [Plan 9 Mkfiles - Paper](https://9p.io/sys/doc/mkfiles.html)
+* [A Manual for the Plan 9 assembler](https://9p.io/sys/doc/asm.html)
+* [8½, the Plan 9 Window System - Proc. of the Summer 1991 USENIX Conf., pp. 257-265, Nashville](https://9p.io/sys/doc/8%C2%BD/8%C2%BD.html)
+* [Rc — The Plan 9 Shell](https://9p.io/sys/doc/rc.html)
+* [The Text Editor sam - Paper](https://9p.io/sys/doc/sam/sam.html)
+* [Acme: A User Interface for Programmers - Proc. of the Winter 1994 USENIX Conf., pp. 223-234, San Francisco, CA ](https://9p.io/sys/doc/acme/acme.html)
+* [Plumbing and Other Utilities - Paper](https://9p.io/sys/doc/plumb.html)
+* [Hello World or Καλημέρα κόσμε or こんにちは 世界 - Proc. of the Winter 1993 USENIX Conf., pp. 43-50, San Diego](https://9p.io/sys/doc/utf.html)
+* [Plan 9 C Compilers - Proceedings of the Summer 1990 UKUUG Conference, pp. 41-51, London, 1990](https://9p.io/sys/doc/compiler.html)
+* [Adding Application Support for a New Architecture in Plan 9 - Paper](https://9p.io/sys/doc/libmach.html)
+* [The 64-bit Standalone Plan 9 File Server - Paper](https://9p.io/sys/doc/fs/fs.html)
+* [Venti: a new approach to archival storage - Paper](https://9p.io/sys/doc/venti/venti.html)
+* [The Various Ports - Paper](https://9p.io/sys/doc/port.html)
+* [Plan 9 from Bell Labs manuals](https://9p.io/sys/man/)
+* [Plan 9 Wiki](https://9p.io/wiki/plan9/plan_9_wiki/)
+
+#### Specifications, documentation, manuals and historical material
+
+* [Software for Plan 9 ](https://9p.io/plan9/addons.html)
+* [Download and install Plan 9 from Bell Labs](https://9p.io/plan9/download.html)
+
+#### Websites
+
+* [Plan 9 from Bell Labs Community](https://9p.io/wiki/plan9/community/)
+* [Plan 9 - Linux Universe (Brazil)](https://linuxuniverse.com.br/artigo/plan9)
+
+#### Wikipedia content
+
+* [Plan 9 from Bell Labs](https://en.wikipedia.org/wiki/Plan_9_from_Bell_Labs)
 
 <hr>
 
