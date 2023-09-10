@@ -342,7 +342,7 @@ Like FreeBSD (read above), NetBSD derives from 386BSD and was the first descenda
 * RISC-V;
 * VAX.
 
-The system's slogan is "Of course it runs NetBSD", highlighting the series of ports made for the most varied architectures.
+The system's motto is "Of course it runs NetBSD", highlighting the series of ports made for the most varied architectures.
 
 #### Source code
 
