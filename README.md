@@ -74,11 +74,13 @@ This session addresses:
 
 <details title="UNIX" align='left'>
 <br>
-<summary align='justify'>UNIX</summary>
+<summary align='left'>UNIX</summary>
 
 <p align="center">
 <img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Simh-pdp11-unix-sysiii.png" width="400" height="200">
 </p>
+
+<div align="justify">
 
 Have you ever heard of UNIX? UNIX was a revolutionary operating system, initially developed in 1969 by Ken Thompson, Dennis Ritchie and other employees of Bell Laboratories, owned by the American company AT&T. Initially developed as a hobby on an old unused PDP-7 computer, UNIX created countless foundations that define a modern operating system, influencing virtually all operating systems developed since then. UNIX instituted features such as support for multiple users and processes running at the same time (multitasking), implemented in a lightweight way (requiring few machine resources), and was initially written in Assembly language for PDP-7 and later rewritten in C language (developed by the same authors and used until today). Initially, the source code was distributed to Universities, including the University of California at Berkeley. At that University, UNIX was extensively studied and extended. Graduate students and researchers added advanced features to UNIX, such as virtual memory support, more modern file systems, and network support, leading to BSD (Berkeley Software Distribution) releases. The BSD were nothing more than the UNIX released by AT&T with improvements, then called BSD UNIX. With that, UNIX became very popular. UNIX was licensed to several companies, originating derived systems, such as Xenix, ULTRIX, Venix, Solaris and so on. The BSDs served as the basis for others, such as SunOS. Whereas the BSDs were distributed with a free license, AT&T's UNIX had a paid license. BSD then became the main free implementation of UNIX, giving rise to projects based on version 4.4 of BSD, now just called 4.4 BSD, FreeBSD, NetBSD and OpenBSD. FreeBSD is heavily used on servers these days, as well as forming the basis of macOS and iOS. Other companies' systems, such as Microsoft's MS-DOS and Windows, were heavily influenced by UNIX. UNIX was also an inspiration for the development of non-derived free systems, the so-called Unix-like, such as Minix and Linux itself.
 
@@ -151,6 +153,8 @@ Have you ever heard of UNIX? UNIX was a revolutionary operating system, initiall
 #### Run UNIX
 
 * [Run ancient UNIX on modern hardware (Version 1 to Version 7 UNIX and BSD UNIX)](https://github.com/felipenlunkes/run-ancient-unix)
+
+</div>
 
 <hr>
 
