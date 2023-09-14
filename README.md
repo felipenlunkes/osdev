@@ -73,8 +73,9 @@ This session addresses:
 <div align="justify">
 
 <details title="UNIX" align='left'>
-<br>
 <summary align='left'>UNIX</summary>
+
+<hr>
 
 <p align="center">
 <img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Simh-pdp11-unix-sysiii.png" width="400" height="200">
@@ -161,8 +162,9 @@ Have you ever heard of UNIX? UNIX was a revolutionary operating system, initiall
 </details>
 
 <details title="BSD" align='left'>
-<br>
 <summary align='left'>BSD</summary>
+
+<hr>
 
 <p align="center">
 <img src="https://upload.wikimedia.org/wikipedia/commons/e/e6/386BSD_installer_screenshot.png" width="400" height="200">
@@ -198,8 +200,9 @@ During its development in the 1960s, 1970s and 1980s, UNIX had its source code d
 </details>
 
 <details title="Plan 9 from Bell Labs" align='left'>
-<br>
 <summary align='left'>Plan 9 from Bell Labs</summary>
+
+<hr>
 
 <p align="center">
 <img src="https://upload.wikimedia.org/wikipedia/commons/e/e6/Plan_9_Fourth_Edition_rio_interaction_screenshot.png" width="400" height="200">
@@ -1123,19 +1126,18 @@ Here you can get more information about the main free licenses to apply in your 
 
 In this session you will find text or video tutorials for operating system development and administration. The tutorials are separated by architecture (in case of development) and target (in case of administration).
 
-<details title="Create a Linux From Scratch (LFS) distribuition" align='left'>
-<summary align='left'><strong>Create a Linux From Scratch (LFS) distribuition</strong></summary>
+### Create a Linux From Scratch (LFS) distribuition
 
 `Linux from Scratch` (LFS) is a project that aims to facilitate the creation of Linux distributions entirely from source code. This project consists of detailed tutorials that teach how to compile the kernel, basic utilities and other packages (such as a graphical interface) completely from scratch, allowing great customization of the final operating system. Following this tutorial gives the user a much deeper insight into the organization of a Linux operating system, as well as the relationship between the various components that make it up. You won't come out of this experience the same, and you will be more ready for any adversity, even when using a commercial system, such as Ubuntu, Fedora, Arch or OpenSUSE. LFS can also help you if you want to become more experienced and then venture into distributions like Arch or Gentoo (either you come from them and want something more customizable or you want to learn more, doing everything from scratch).
 
 * [LFS documentation and tutorials](https://www.linuxfromscratch.org/lfs/)
 
-</details>
-
 ### Creating a operating system
 
 <details title="Creating a x86 operating system" align='left'>
 <summary align='left'>Creating a x86 operating system</summary>
+
+<hr>
 
 In this topic, you will find guides and tutorials for developing simple and small operating systems for the x86 architecture. Additionally, there are guides for developing bootloaders and other components.
 
@@ -1148,6 +1150,8 @@ In this topic, you will find guides and tutorials for developing simple and smal
 * [Roll your own toy UNIX-clone OS](http://jamesmolloy.co.uk/tutorial_html/)
 * [Writing an OS in Rust](https://os.phil-opp.com/)
 * [Learning to write an Operating System](https://github.com/mikesmullin/OperatingSystem)
+
+<hr>
 
 </details>
 
@@ -1169,9 +1173,13 @@ In this topic, there are guides and tutorials for building simple operating syst
 <details title="Creating a RISC-V operating system" align='left'>
 <summary align='left'>Creating a RISC-V operating system</summary>
 
+<hr>
+
 In this topic, there are guides and tutorials for building simple operating systems for the RISC-V architecture.
 
 * [Making a RISC-V Operating System using Rust](http://osblog.stephenmarz.com/)
+
+<hr>
 
 </details>
 
@@ -1184,17 +1192,25 @@ In this topic, there are guides and tutorials for building simple operating syst
 <details title="Linux tutorials" align='left'>
 <summary align='left'><strong>Linux tutorials</strong></summary>
 
+<hr>
+
 * [How to write a Linux kernel patch and submit it](https://github.com/gregkh/kernel-tutorial)
 * [Presentation on how the Linux kernel is developed](https://github.com/gregkh/kernel-development)
+
+<hr>
 
 </details>
 
 <details title="Video tutorials" align='left'>
 <summary align='left'><strong>Video tutorials</strong></summary>
 
+<hr>
+
 * [Write your own Operating System](https://www.youtube.com/playlist?list=PLHh55M_Kq4OApWScZyPl5HhgsTJS9MZ6M)
 * [Kernel dev from scratch by Dragon Zap Education](https://www.youtube.com/watch?v=HNIg3TXfdX8&list=PLrGN1Qi7t67V-9uXzj4VSQCffntfvn42v)
 * [Nanobyte](https://www.youtube.com/channel/UCSPIuWADJIMIf9Erf--XAsA)
+
+<hr>
 
 </details>
 
