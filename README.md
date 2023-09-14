@@ -1154,11 +1154,15 @@ In this topic, you will find guides and tutorials for developing simple and smal
 <details title="Creating an ARM operating system" align='left'>
 <summary align='left'>Creating an ARM operating system</summary>
 
+<hr>
+
 In this topic, there are guides and tutorials for building simple operating systems for the ARM architecture.
 
 * [Baking Pi Operating Systems Development](https://www.cl.cam.ac.uk/projects/raspberrypi/tutorials/os/index.html)
 * [Learning operating system development using Linux kernel and Raspberry Pi](https://github.com/s-matyukevich/raspberry-pi-os)
 * [Build a minimal multi-tasking OS kernel for ARM from scratch](https://github.com/jserv/mini-arm-os)
+
+<hr>
 
 </details>
 
