@@ -1123,6 +1123,12 @@ Here you can get more information about the main free licenses to apply in your 
 
 In this session you will find text or video tutorials for operating system development and administration. The tutorials are separated by architecture (in case of development) and target (in case of administration).
 
+### Create a Linux From Scratch (LFS) distribuition
+
+`Linux from Scratch` (LFS) is a project that aims to facilitate the creation of Linux distributions entirely from source code. This project consists of detailed tutorials that teach how to compile the kernel, basic utilities and other packages (such as a graphical interface) completely from scratch, allowing great customization of the final operating system. Following this tutorial gives the user a much deeper insight into the organization of a Linux operating system, as well as the relationship between the various components that make it up. You won't come out of this experience the same, and you will be more ready for any adversity, even when using a commercial system, such as Ubuntu, Fedora, Arch or OpenSUSE. LFS can also help you if you want to become more experienced and then venture into distributions like Arch or Gentoo (either you come from them and want something more customizable or you want to learn more, doing everything from scratch).
+
+* [LFS documentation and tutorials](https://www.linuxfromscratch.org/lfs/)
+
 ### Creating an x86 operating system
 
 * [Kernels 101 – Let’s write a Kernel](https://arjunsreedharan.org/post/82710718100/kernels-101-lets-write-a-kernel)
