@@ -271,8 +271,9 @@ Plan 9 from Bell Labs is an operating system developed by the Computing Science 
 </details>
 
 <details title="FreeBSD" align='left'>
-<br>
 <summary align='left'>FreeBSD</summary>
+
+<hr>
 
 <p align="center">
 <img src="https://upload.wikimedia.org/wikipedia/commons/5/53/FreeBSD_13.0_welcome_prompt_screenshot.png" width="400" height="200">
@@ -338,8 +339,9 @@ Furthermore, there are several forks of the system, such as:
 </details>
 
 <details title="NetBSD" align='left'>
-<br>
 <summary align='left'>NetBSD</summary>
+
+<hr>
 
 <p align="center">
 <img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/NetBSD_9.2_xdm_screenshot.png" width="400" height="200">
@@ -390,8 +392,9 @@ The system's motto is "Of course it runs NetBSD", highlighting the series of por
 </details>
 
 <details title="OpenBSD" align='left'>
-<br>
 <summary align='left'>OpenBSD</summary>
+
+<hr>
 
 <p align="center">
 <img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/OpenBSD_7.0_fvwm_screenshot.png" width="400" height="200">
@@ -439,8 +442,9 @@ The OpenBSD project began in 1995 after the fork of NetBSD 1.0 by Theo de Raadt.
 </details>
 
 <details title="Sun Microsystems/Oracle Solaris (and SunOS)" align='left'>
-<br>
 <summary align='left'>Sun Microsystems/Oracle Solaris (and SunOS)</summary>
+
+<hr>
 
 <p align="center">
 <img src="https://upload.wikimedia.org/wikipedia/commons/b/b8/Solaris_Snapshot.jpg" width="400" height="200">
@@ -474,8 +478,9 @@ Source code is proprietary (except for OpenSolaris).
 </details>
 
 <details title="illumos (OpenSolaris)" align='left'>
-<br>
 <summary align='left'>illumos (OpenSolaris and OpenIndiana)</summary>
+
+<hr>
 
 <p align="center">
 <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/OpenIndiana_Hipster_2021.10_MATE_desktop_environment_screenshot.png" width="400" height="200">
@@ -516,8 +521,9 @@ After Sun's acquisition by Oracle in 2010, the OpenSolaris project was discontin
 </details>
 
 <details title="Mach kernel based OSes - NeXTSTEP, OpenStep, Darwin (macOS, iOS...) and DEC OSF/1" align='left'>
-<br>
 <summary align='left'>Mach kernel based OSes - NeXTSTEP, OpenStep, Darwin (macOS, iOS...) and DEC OSF/1</summary>
+
+<hr>
 
 <p align="center">
 <img src="https://upload.wikimedia.org/wikipedia/en/1/1d/NeXTSTEP_desktop.png" width="400" height="200">
@@ -565,8 +571,9 @@ Under construction!
 </details>
 
 <details title="MINIX" align='left'>
-<br>
 <summary align='left'>MINIX</summary>
+
+<hr>
 
 <p align="center">
 <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Minix_3.png" width="400" height="200">
@@ -605,8 +612,9 @@ MINIX (derived from the name Mini Unix) is an operating system first developed b
 </details>
 
 <details title="Linux" align='left'>
-<br>
 <summary align='left'>Linux (kernel)</summary>
+
+<hr>
 
 <p align="center">
 <img src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Ubuntu_22.10_Kinetic_Kudu.png" width="400" height="200">
@@ -664,8 +672,9 @@ Since Linux is a kernel and comprises a number of distributions (operating syste
 </details>
 
 <details title="Classic Mac OS" align='left'>
-<br>
 <summary align='left'>Classic Mac OS</summary>
+
+<hr>
 
 <p align="center">
 <img src="https://upload.wikimedia.org/wikipedia/en/c/cd/Mac_OS_9.0.4_emulated_inside_of_the_SheepShaver_emulator.png" width="400" height="200">
@@ -686,8 +695,9 @@ Under construction!
 </details>
 
 <details title="DEC VAX/VMS and OpenVMS" align='left'>
-<br>
 <summary align='left'>DEC VMS</summary>
+
+<hr>
 
 <p align="center">
 <img src="https://upload.wikimedia.org/wikipedia/en/4/4b/DECwindows-openvms-v7.3-1.png" width="400" height="200">
@@ -714,8 +724,9 @@ Source code is proprietary.
 </details>
 
 <details title="CP/M" align='left'>
-<br>
 <summary align='left'>CP/M</summary>
+
+<hr>
 
 <p align="center">
 <img src="https://upload.wikimedia.org/wikipedia/commons/e/ec/Commodore_C128_CPM_Screenshot_2_full.jpg" width="400" height="200">
@@ -762,8 +773,9 @@ CP/M (Control Program/Monitor and later, Control Program for Microcomputers) was
 </details>
 
 <details title="DOS (Disk Operating System)" align='left'>
-<br>
 <summary align='left'>DOS (Disk Operating System)</summary>
+
+<hr>
 
 <p align="center">
 <img src="https://upload.wikimedia.org/wikipedia/commons/b/b0/Ms-dosdir.png" width="400" height="200">
@@ -799,8 +811,9 @@ Under construction!
 </details>
 
 <details title="OS/2" align='left'>
-<br>
 <summary align='left'>OS/2</summary>
+
+<hr>
 
 <p align="center">
 <img src="https://upload.wikimedia.org/wikipedia/en/f/f0/Os2W4.png" width="400" height="200">
@@ -825,8 +838,9 @@ Source code is proprietary.
 </details>
 
 <details title="Windows" align='left'>
-<br>
 <summary align='left'>Windows</summary>
+
+<hr>
 
 <p align="center">
 <img src="https://upload.wikimedia.org/wikipedia/en/b/bb/Windows_NT_3.51.png" width="400" height="200">
@@ -870,8 +884,9 @@ Source code is proprietary.
 </details>
 
 <details title="BeOS" align='left'>
-<br>
 <summary align='left'>BeOS</summary>
+
+<hr>
 
 <p align="center">
 <img src="https://upload.wikimedia.org/wikipedia/en/a/ae/BeOS_Desktop.png" width="400" height="200">
@@ -902,8 +917,9 @@ Under construction!
 ### Interesting new operating systems
 
 <details title="FreeDOS" align='left'>
-<br>
 <summary align='left'>FreeDOS</summary>
+
+<hr>
 
 <p align="center">
 <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/FreeDOS_1.1_screenshot.png" width="400" height="200">
@@ -937,8 +953,9 @@ Under construction!
 </details>
 
 <details title="Fuchsia" align='left'>
-<br>
 <summary align='left'>Fuchsia (Google)</summary>
+
+<hr>
 
 <p align="center">
 <img src="https://docs.dahliaos.io/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ffimage2.7660324c.webp&w=1080&q=75" width="400" height="200">
@@ -968,8 +985,9 @@ Fuchsia is an operating system that has been developed by Google and was found i
 </details>
 
 <details title="Haiku" align='left'>
-<br>
 <summary align='left'>Haiku</summary>
+
+<hr>
 
 <p align="center">
 <img src="https://www.haiku-os.org/files/slideshow/installer.png" width="400" height="200">
@@ -994,8 +1012,9 @@ Under construction!
 </details>
 
 <details title="ReactOS" align='left'>
-<br>
 <summary align='left'>ReactOS</summary>
+
+<hr>
 
 <p align="center">
 <img src="https://reactos.org/sites/default/files/Mizu-AppManager.png" width="400" height="200">
@@ -1039,8 +1058,9 @@ In this section you will find theoretical material on the following topics:
 > Click on one of the categories below to continue.
 
 <details title="Hardware" align='left'>
-<br>
 <summary align='left'>Hardware</summary>
+
+<hr>
 
 * [w11: PDP-11/70 CPU and SoC](https://wfjm.github.io/home/w11/)
 
@@ -1050,6 +1070,8 @@ In this section you will find theoretical material on the following topics:
 
 <details title="Systems administration" align='left'>
 <summary align='left'>Systems administration</summary>
+
+<hr>
 
 #### Unix-like (general)
 
@@ -1062,6 +1084,8 @@ In this section you will find theoretical material on the following topics:
 <details title="Applications" align='left'>
 <summary align='left'>Applications</summary>
 
+<hr>
+
 #### Unix-like (general)
 
 * [WINE](https://www.winehq.org/)
@@ -1071,8 +1095,9 @@ In this section you will find theoretical material on the following topics:
 </details>
 
 <details title="Software licenses" align='left'>
-<br>
 <summary align='left'>Software licenses</summary>
+
+<hr>
 
 Here you can get more information about the main free licenses to apply in your project, or understand your rights and duties when using free software.
 
