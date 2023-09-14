@@ -168,6 +168,8 @@ Have you ever heard of UNIX? UNIX was a revolutionary operating system, initiall
 <img src="https://upload.wikimedia.org/wikipedia/commons/e/e6/386BSD_installer_screenshot.png" width="400" height="200">
 </p>
 
+<div align="justify">
+
 During its development in the 1960s, 1970s and 1980s, UNIX had its source code distributed to several research and teaching institutions. At the beginning of its life cycle, AT&T, the developer of the system, did not see UNIX as commercial software. Among the institutions that gained access to the system's source code, the University of California at Berkeley stood out. At the University, UNIX was used in teaching operating systems theory, as well as being the focus of research and development work, being the basis for several dissertations and postgraduate theses. Thousands of utilities were developed there that expanded on UNIX, including mail servers, text editors, and scientific and graphical modeling utilities. In addition, the researchers expanded the core of the system, inserting new functionalities and compatibility with new peripherals. When several companies and institutions became interested in the software developed at the University, the team began to group all the software produced, in the form of utilities or extensions to the core (kernel) of the system, creating and releasing the first BSD distribution (Berkeley Software Distribution), in March 1978. This release extended UNIX version 6 from AT&T. Over time, more and more software was developed, giving rise to BSD UNIX, a UNIX system adapted by the University and its researchers and students. Several milestones in UNIX development took place within the walls of the University of California, using AT&T's proprietary code as a base. Several commercial systems at the time derived from BSD UNIX software, such as SunOS, and DEC Ultrix. Within BSD UNIX came the TCP/IP implementation, essential for the internet and device-to-device communication as we have it today. All code developed at the University was released as free software under a permissive license, the BSD license. However, the original UNIX code was limited to the paid licensing imposed by AT&T. After a series of legal developments and changes in the point of view of AT&T, which started to market UNIX, all AT&T's proprietary code inside BSD UNIX had to be removed, creating an incomplete system. The missing components were rewritten again without proprietary code, including parts of the kernel, generating BSD Net/2, which loses the right to use the UNIX name. This system was used as a basis for the development of modern BSD systems, after the release of the last version from the University, 4.4BSD-Lite Release 2. After gaining compatibility with Intel processors, used in personal computers, this software, now called 386BSD, became the basis of modern systems such as FreeBSD and NetBSD (released in 1993). FreeBSD, for example, along with components from another project (the Mach kernel), is the basis for macOS, iOS, iPadOS and other Apple software, as well as being used on high-demand servers and personal computers, too. Today there are several descendant systems of 386BSD, which branched out from FreeBSD and NetBSD, such as OpenBSD, MidnightBSD, DragonFlyBSD, Darwin (base of macOS, iOS and others), among others. In addition, FreeBSD is the basis of the operating system for the Playstations 3, 4 and 5, Playstation Vita and borrows components for the operating system of the Nintendo Switch. If you have a Playstation, you have a BSD system in your house. In addition, BSD influenced several Windows components, which borrow the code responsible for the TCP/IP protocol, for example, in addition to several other operating systems. BSD UNIX, from 1978, is still alive today in its descendants, influencing even today how operating systems and utilities are written.
 
 #### Specifications, books, papers, documentation, manuals and historical material
@@ -189,6 +191,8 @@ During its development in the 1960s, 1970s and 1980s, UNIX had its source code d
 * [List of BSD operating systems](https://en.wikipedia.org/wiki/List_of_BSD_operating_systems)
 * [Comparison of BSD operating systems](https://en.wikipedia.org/wiki/Comparison_of_BSD_operating_systems)
 
+</div>
+
 <hr>
 
 </details>
@@ -200,6 +204,8 @@ During its development in the 1960s, 1970s and 1980s, UNIX had its source code d
 <p align="center">
 <img src="https://upload.wikimedia.org/wikipedia/commons/e/e6/Plan_9_Fourth_Edition_rio_interaction_screenshot.png" width="400" height="200">
 </p>
+
+<div align="justify">
 
 Plan 9 from Bell Labs is an operating system developed by the Computing Science Research Center (CSRC) at Bell Labs. Its development started in the mid-1980s, by the same creators of UNIX. In this way, Plan 9 from Bell Labs was built on UNIX concepts. Its first public version appeared in 1992, with source code and documentation available to universities. In 1995 there was the public release of Plan 9. In the system, the concept of "everything is a file" from UNIX was expanded, where all local resources, but also remote ones, started to be treated as files. This includes distributed file systems. UNIX's use of text terminals has been replaced by a graphical interface, although the Plan 9 shell, rc, remains text-based. The initial project was led by Rob Pike, Ken Thompson and Dave Presotto, with support from Dennis Ritchie, replacing UNIX as the primary research and development platform at Bell Labs. Plan 9 explores many new concepts derived from using networks as a distributed operating system. For a license fee of $350, anyone interested could obtain the system's source code, starting in 1995. With UNIX established as a commercial product for servers and personal computers, as well as Linux growing in the same niche, Plan 9 targeted the embedded computing market. In 1996, the project was put on the back burner in favor of Inferno, an operating system that incorporated much of what was developed for Plan 9, but intended to rival Sun Microsystems' Java platform. At the end of 1990, with the purchase of Bell Labs by Lucent Technologies, commercial support for Plan 9 was withdrawn, with distribution of the system code now as free software, in 2000 (in the third version of Plan 9 from Bell Labs). A large community has formed around the project, including current and former Bell Labs employees, who have continued to develop the system, including releasing new installation images of the system. Bell Labs continues to host the project to the present day. In 2021, rights to Plan 9 were transferred from Bell Labs to the Plan 9 Foundation, after official development of the system was terminated by Bell Labs. Several project forks also occurred, such as 9front, which releases monthly system builds with new features, such as Wi-Fi, audio and USB drivers, as well as game emulators. Other projects were also initiators, such as Harvey OS and Jehanne OS, based on Plan 9 from Bell Labs. Compatibility with UNIX was never a point within the system's initial development team, so much of the software must be recompiled using the APIs available on the system. In 1991, the code required to create a working system was far less than other projects such as the Mach kernel. Many of Plan 9's concepts have been incorporated into other systems, such as UTF-8 encoding. Unix-like systems such as Linux have implemented the 9P2000 protocol for remote file access. Several Plan 9 utilities have also been ported to other systems through the Plan 9 from User Space project. These utilities include the acme editor, also intended to replace utilities coming from GNU with utilities coming from Plan 9. The 9wm window manager was inspired by the Plan 9 counterpart. The Plan 9 rfork call was also implemented on Linux and BSD systems. Version 1903 of Windows 10 implements Plan 9's file system protocol as a server that allows communication between the Windows Subsystem for Linux and Windows itself, allowing the exchange of files. Plan 9 is currently licensed by MIT (March 23, 2021 onwards). Plan 9 is available on a number of platforms such as x86, PowerPC and ARM. It was even ported to run on the Raspberry Pi (ARM architecture).
 
@@ -255,6 +261,8 @@ Plan 9 from Bell Labs is an operating system developed by the Computing Science 
 
 * [Plan 9 from Bell Labs](https://en.wikipedia.org/wiki/Plan_9_from_Bell_Labs)
 
+</div>
+
 <hr>
 
 </details>
@@ -266,6 +274,8 @@ Plan 9 from Bell Labs is an operating system developed by the Computing Science 
 <p align="center">
 <img src="https://upload.wikimedia.org/wikipedia/commons/5/53/FreeBSD_13.0_welcome_prompt_screenshot.png" width="400" height="200">
 </p>
+
+<div align="justify">
 
 If you haven't read about BSD above, you might want to read it before continuing! If you've already read it, let's go!
 
@@ -318,6 +328,8 @@ Furthermore, there are several forks of the system, such as:
 
 * [FreeBSD](https://en.wikipedia.org/wiki/FreeBSD)
 
+</div>
+
 <hr>
 
 </details>
@@ -329,6 +341,8 @@ Furthermore, there are several forks of the system, such as:
 <p align="center">
 <img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/NetBSD_9.2_xdm_screenshot.png" width="400" height="200">
 </p>
+
+<div align="justify">
 
 Like FreeBSD (read above), NetBSD derives from 386BSD and was the first descendant of 386BSD released, on April 19, 1993. Originally, it derives from 4.3BSD-Reno, and was founded by Chris Demetriou, Theo by Raadt, Adam Glass and Charles Hannum. The project was established on the principles of being portable, clean and having correct code. Its name derives from the growth of networks and the Internet. In October 1994, version 1.0 of NetBSD was released, changing the original base to 4.4BSD-Lite, as was done by FreeBSD. Due to internal discussions within the project, Theo de Raadt was removed from the project, founding OpenBSD in 1995 (see below). Currently, NetBSD supports a number of architectures and platforms, including:
 
@@ -366,6 +380,8 @@ The system's motto is "Of course it runs NetBSD", highlighting the series of por
 
 * [NetBSD](https://en.wikipedia.org/wiki/NetBSD)
 
+</div>
+
 <hr>
 
 </details>
@@ -377,6 +393,8 @@ The system's motto is "Of course it runs NetBSD", highlighting the series of por
 <p align="center">
 <img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/OpenBSD_7.0_fvwm_screenshot.png" width="400" height="200">
 </p>
+
+<div align="justify">
 
 The OpenBSD project began in 1995 after the fork of NetBSD 1.0 by Theo de Raadt. The project focuses on portability, standardization of code and tools, security and correct and audited code. The creation of the project began after disagreements between the creators of the NetBSD project, with Theo de Raadt leaving. The first released version, 1.2, was released in July 1996, followed by version 2.0 released in October 1996. Since then, a new version has been released every six months. Usage statistics show that, in 2005, OpenBSD remained in second place on the list of most used BSDs, with 32.8%, behind only FreeBSD, with 77%. This data shows that OpenBSD has become more used than the project that originated it, NetBSD. In 2007, the OpenBSD Foundation was created to support the development of OpenBSD. Many of the components developed within the project are used by other products. `Services for UNIX`, a Microsoft extension for Windows, uses code from OpenBSD as well as OpenSSH. The pf firewall, created by the project, is used by both FreeBSD and macOS. Among the supported architectures, we have:
 
@@ -393,8 +411,6 @@ The OpenBSD project began in 1995 after the fork of NetBSD 1.0 by Theo de Raadt.
 * PowerPC (32 and 64-bit);
 * RISC-V 64-bit;
 * SPARC64.
-
-
 
 #### Source code
 
@@ -413,6 +429,8 @@ The OpenBSD project began in 1995 after the fork of NetBSD 1.0 by Theo de Raadt.
 
 * [OpenBSD](https://en.wikipedia.org/wiki/OpenBSD)
 
+</div>
+
 <hr>
 
 </details>
@@ -424,6 +442,8 @@ The OpenBSD project began in 1995 after the fork of NetBSD 1.0 by Theo de Raadt.
 <p align="center">
 <img src="https://upload.wikimedia.org/wikipedia/commons/b/b8/Solaris_Snapshot.jpg" width="400" height="200">
 </p>
+
+<div align="justify">
 
 The history of Solaris begins with SunOS, both being based on UNIX and developed by Sun Microsystems. SunOS (version 0.7) was released in 1982, based on Version 7 UNIX. It was developed to run on the Motorola 68000 processor present in the Sun-1, the brand's computer, and did not have a graphical interface. It was succeeded by SunOS 1.0 in 1983 and became based on 4.2BSD, running on the Motorola 68010 processors present in the Sun-1 and Sun-2 computers. Furthermore, this version introduced a graphical interface, called Sun Window System. Until version 4.1.4, released in 1994, SunOS used BSD as its base. Version 5.0 started to use UNIX System V Release 4, after a great partnership between several companies (including Sun Microsystems) to unify and standardize the several UNIX-based systems available at the time. From that moment on, it was renamed to Solaris (although internally, as in the uname command return, we can find the name SunOS 5). In 1989, Sun released another interface to the system, called OpenWindows, compatible with the X11 protocol and also with OPEN LOOK. In 2005, Sun released Solaris as an open source project, and to date it is the only version of a UNIX system directly derived from and containing AT&T code released under a free license. OpenSolaris was jointly developed by the community and Sun. After Sun's acquisition by Oracle in 2010, it was again renamed Oracle Solaris, and the OpenSolaris project was discontinued. However, the community has forked and maintained the [illumos](https://illumos.org/) project, which underpins UNIX distributions such as [OpenIndiana](https://www.openindiana.org/). To this day Oracle Solaris is developed, maintained and sold by Oracle, while illumos is an active project in the community.
 
@@ -444,6 +464,8 @@ Source code is proprietary (except for OpenSolaris).
 * [Oracle Solaris](https://en.wikipedia.org/wiki/Oracle_Solaris)
 * [SunOS](https://en.wikipedia.org/wiki/SunOS)
 
+</div>
+
 <hr>
 
 </details>
@@ -455,6 +477,8 @@ Source code is proprietary (except for OpenSolaris).
 <p align="center">
 <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/OpenIndiana_Hipster_2021.10_MATE_desktop_environment_screenshot.png" width="400" height="200">
 </p>
+
+<div align="justify">
 
 After Sun's acquisition by Oracle in 2010, the OpenSolaris project was discontinued. However, the community has forked and maintained the [illumos](https://illumos.org/) project, which underpins UNIX distributions such as [OpenIndiana](https://www.openindiana.org/). To this day Oracle Solaris is developed, maintained and sold by Oracle, while illumos is an active project in the community. illumos, as well as its distributions, are the only UNIX systems released as free software.
 
@@ -482,6 +506,8 @@ After Sun's acquisition by Oracle in 2010, the OpenSolaris project was discontin
 * [openSolaris](https://en.wikipedia.org/wiki/OpenSolaris)
 * [illumos](https://en.wikipedia.org/wiki/Illumos)
 
+</div>
+
 <hr>
 
 </details>
@@ -493,6 +519,8 @@ After Sun's acquisition by Oracle in 2010, the OpenSolaris project was discontin
 <p align="center">
 <img src="https://upload.wikimedia.org/wikipedia/en/1/1d/NeXTSTEP_desktop.png" width="400" height="200">
 </p>
+
+<div align="justify">
 
 Under construction!
 
@@ -527,6 +555,8 @@ Under construction!
 * [XNU kernel](https://en.wikipedia.org/wiki/XNU)
 * [Darwin Operating System](https://en.wikipedia.org/wiki/Darwin_(operating_system))
 
+</div>
+
 <hr>
 
 </details>
@@ -538,6 +568,8 @@ Under construction!
 <p align="center">
 <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Minix_3.png" width="400" height="200">
 </p>
+
+<div align="justify">
 
 MINIX (derived from the name Mini Unix) is an operating system first developed by Andrew Stuart Tanenbaum, an American computer scientist of German origin, while a professor at the Vrije Universiteit Amsterdam in the Netherlands. MINIX was developed for educational purposes, being initially released in 1987, with source code initially released to Universities and courses focused on research in operating systems. It was developed to demonstrate the concepts available in Tanenbaum's book, Operating Systems: Design and Implementation (1987). Version 1.0 of MINIX had 12,000 lines of code in C, distributed in the kernel, memory manager and file system. In that release, MINIX relied on Version 7 UNIX-compatible system calls. This first version was only compatible with the IBM PC and the IBM PC/AT with an Intel 8088 processor. In its version 1.5, released in 1991, MINIX had already been ported to the Motorola 68000 (m68k) and SPARC processors, being capable of run on Apple Macintosh computers, the Atari ST, Amiga computers, and Sun SPARCstation workstations. An unofficial port was also made for the Intel i386, running the system in protected mode (32-bit). Version 2.0, released in 1997, only supported the x86 and SPARC architectures, and came with the second edition of Tanenbaum's book. A variant, developed by researchers at the University, called MINIX-vmd, added virtual memory and the ability to run graphical environments through the X Window System, already used in UNIX and BSD systems. Starting with version 2.0.3, released in May 2021, MINIX has been licensed under a BSD-3-Clause license, applied retroactively to all previous versions. Previously, the license was already relatively liberal, but it was paid (a value of $69) in order to allow students access to the system. The last released stable version, 3, came to the world on October 24, 2005, along with a new edition of the book. MINIX 3 only supports the x86 and ARM architectures and can be used both by installation and by LiveCD. On April 18, 2006, MINIX 3.1.2 underwent relicensing, with the addition of a fourth clause to the already used BSD license. Version 3.1.5, from 2006, has X11, emacs, vi, gcc, perl, python, bash, zsh and other tools common to the UNIX world. MINIX is a system built on a microkernel. This characteristic contrasts with the kernel architecture of UNIX and BSD systems, which are monolithic kernels (albeit with dynamic loading of modules, in some versions), approaching concepts launched by the Mach kernel (used in DEC OSF-1, NEXTSTEP, OpenStep and finally in Apple systems that use the Darwin operating system as a base, such as macOS, iOS and iPadOS). An interesting point in the history of MINIX is that this system influenced Linus Torvalds to develop Linux. Its creator used MINIX, including to encode and compile Linux in its first versions, which made Linux inherit several of its characteristics in the beginning, such as the file system used. However, Linux was designed and built as a monolithic kernel, which led to a debate between Tanenbaum and Torvalds about the advantages and disadvantages of each implementation model. When free, license-free operating systems for the x86 architecture became more popular and attractive, such as Linux and 386BSD, in the early 1990s, many of the volunteers who were actively involved in the development of MINIX migrated to these projects, the which may have led to the new, more permissive and free licensing model in 2000. Today, MINIX is still used by students and enthusiasts.
 
@@ -563,6 +595,8 @@ MINIX (derived from the name Mini Unix) is an operating system first developed b
 
 * [MINIX](https://en.wikipedia.org/wiki/Minix)
 
+</div>
+
 <hr>
 
 </details>
@@ -574,6 +608,8 @@ MINIX (derived from the name Mini Unix) is an operating system first developed b
 <p align="center">
 <img src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Ubuntu_22.10_Kinetic_Kudu.png" width="400" height="200">
 </p>
+
+<div align="justify">
 
 During the golden age of UNIX, in the 1970s, 80s and 90s, UNIX influenced the creation of a series of clones by several companies and developers in the world. As UNIX was a commercial system, from a certain point, and always with a paid license, several free software initiatives emerged, including BSD distributions under free license. In 1983, Richard Stallman started the GNU Project, which aimed to create an operating system compatible with UNIX, but composed only of free software and with free distribution. In the early 1990s, many components of an operating system were already written, such as libraries, compilers, the graphical environment and editors, except for the kernel, the core of the operating system. This kernel is based on the Mach microkernel, which was undergoing slow development with few developers interested. Meanwhile, a student at the University of Helsinki started a UNIX course and was exposed to Ultrix and Andrew S. Tanenbaum's book Operating Systems: Design and Implementation. In this course, he also had contact with MINIX. In 1991, he became interested in operating system development. At the time, there was a serious legal battle between the UNIX rights holders and 386BSD, which caused developers to lose interest in working with BSD for fear of legal problems. This also encouraged Linus to write his own kernel as a hobby. According to him, if the GNU Hurd or 386BSD had been available without technical or legal complications, he would not have started Linux. After the announcement of Linux development on the comp.os.minix list, several developers became interested in the project and Linux began to grow, becoming popular and being ported to different processor architectures and device types. Currently, Linux runs on all 500 of the most powerful computers in the world. It is worth mentioning that Linux is just a kernel, not an operating system. An operating system is made up of the kernel and other components such as a shell, utilities and libraries. As Linux grew, many of the GNU project's utilities were ported over to Linux, eventually resulting in a complete operating system called `GNU/Linux` (although there are arguments over whether or not to employ the name GNU/Linux). From that moment on, several distributions began to emerge, with companies and independent developers starting to customize the components that would come above the kernel, including custom graphical interfaces, as well as specific utilities for each type of use. Currently, there are several Linux distributions, ranging from servers to embedded systems. For personal computers, we have popular distributions like `Ubuntu`, `Debian`, `Fedora`, `Arch`, `Gentoo`, `Manjaro`, `Linux Mint`, `Pop!_OS` and `ChromeOS`, among others. Linux is also present in the mobile world, being used as the `Android` kernel, as well as other mobile operating systems such as `MeeGo` (Nokia N9), `Firefox OS`, `Sailfish OS` (Jolla), `Maemo` (Nokia), `Tizen` (Samsung), `HarmonyOS` (Huawei) among others. In addition, it has been ported to numerous architectures, from x86 (original architecture), to SPARC, Alpha, Itanium, amd64, PowerPC, PowerPC64, POWER, ARM, RISC-V, among others. We cannot think today of a world without Linux. In addition to being responsible for controlling all the largest and most powerful computers in the world, Linux is important in embedded applications, such as sensors, in mathematical and scientific applications (being used, for example, in obtaining and analyzing data from the particle accelerator of the CERN), on smart TVs, cell phones, tablets, video games, smart watches, satellites, weather and traffic control systems, cars, smart homes, among other diverse applications on a multitude of devices. Linux remains one of the most successful free software projects in the world, being widely developed. In addition, its architecture, combined with the ability to be easily audited by any interested party, due to its widely available code, makes Linux a safe alternative against Windows. In addition, its huge and active community is able to quickly identify and fix security flaws, in addition to implementing support for new peripherals. A curiosity is that, before buying NeXT and its Unix-like operating system NEXTSTEP (Openstep) and transforming it into Mac OS X (today macOS and its derivatives, such as iOS), Apple invested in a project called `mkLinux`, which aimed to create an operating system based on a fusion of the Linux kernel with Mach, enabling an initial port of Linux to the PowerPC architecture. If the project went ahead, today Apple could use Linux as the basis of its systems. Can you imagine this? Currently, several companies, such as Microsoft, have become allies of the system. Windows started to come with the Windows Subsystem for Linux, running the Linux kernel in a virtualized environment, allowing the use of tools and utilities in text and graphical mode directly in Windows, without having to create a virtual machine or resort to a dualboot environment. Each Linux-based operating system can use a different graphical environment (or none at all, using only a text-based environment). These environments are quite diverse and customizable, such as GNOME (as in the image above, based on Ubuntu Linux), KDE, Unity, XFCE, WindowMaker, etc. When thinking about Android, the interfaces are even more varied, varying from manufacturer to manufacturer.
 
@@ -618,6 +654,8 @@ Since Linux is a kernel and comprises a number of distributions (operating syste
 * [Linux Kernel in a Nutshell](http://www.kroah.com/lkn/)
 * [HowToForge Linux Tutorials](https://howtoforge.com/)
 
+</div>
+
 <hr>
 
 </details>
@@ -630,11 +668,15 @@ Since Linux is a kernel and comprises a number of distributions (operating syste
 <img src="https://upload.wikimedia.org/wikipedia/en/c/cd/Mac_OS_9.0.4_emulated_inside_of_the_SheepShaver_emulator.png" width="400" height="200">
 </p>
 
+<div align="justify">
+
 Under construction!
 
 #### Wikipedia content
 
 * [Classic Mac OS](https://en.wikipedia.org/wiki/Classic_Mac_OS)
+
+</div>
 
 <hr>
 
@@ -648,6 +690,8 @@ Under construction!
 <img src="https://upload.wikimedia.org/wikipedia/en/4/4b/DECwindows-openvms-v7.3-1.png" width="400" height="200">
 </p>
 
+<div align="justify">
+
 Under construction!
 
 #### Source code
@@ -657,6 +701,8 @@ Source code is proprietary.
 #### Download the system (install in a virtual machine or use in an emulator)
 
 * [DEC VAX/VMS](https://winworldpc.com/product/vms/4x)
+
+</div>
 
 <hr>
 
@@ -671,6 +717,8 @@ Source code is proprietary.
 <p align="center">
 <img src="https://upload.wikimedia.org/wikipedia/commons/e/ec/Commodore_C128_CPM_Screenshot_2_full.jpg" width="400" height="200">
 </p>
+
+<div align="justify">
 
 CP/M (Control Program/Monitor and later, Control Program for Microcomputers) was an operating system developed by Gary Kildall at Digital Research in 1974. This operating system was initially developed for microcomputers based on 8-bit processors (such as the Intel 8080 and 8085) and 64 kbytes of RAM. Initially, it was a single-task, single-user operating system. The use of CP/M became the standard in the emerging microprocessor market, dominating the market in the late 1970s through the mid-1980s. CP/M was heavily influenced by TOPS-10, an operating system for the DECsystem-10 mainframe. For $90, anyone could get a copy and install it on their device. With the increase in demand, Digital Research increased the licensing fee considerably. In 1979, MP/M was released, a multi-user version derived from CP/M. In this version, several users could connect to a computer using other terminals. There were 8 and 16 bit versions. Version 3 was the last 8-bit version, but it allowed the use of memory banks, allowing the use of more than 64 kbytes of memory. Several famous devices of the time, such as the Commodore 128, used CP/M in its third version. In November 1981, CP/M-86 was released, the first version of the system capable of running on devices with 8086 processors. To avoid confusion, the original CP/M was renamed CP/M-80. With an expensive $240 license, it competed with IBM PC DOS ($40 license). A 16-bit version was also released for Motorola 68000 processors (CP/M-68K). This version was written in Pascal and was later rewritten in C. Other ports were made, such as the Zilog Z8000, called CP/M-8000. In 1980, IBM was developing the IBM PC, which revolutionized home computing. On that occasion, he approached Digital Research (at the suggestion of Microsoft, which already supplied BASIC to several manufacturers) to close an agreement to supply CP/M-80 for these devices. With a failed deal, IBM turned to Microsoft for an alternative. Microsoft, in turn, contacted SCP (Seattle Computer Products) and licensed a newly developed system for the Intel 8086, called 86-DOS (previously known internally as QDOS - Quick and Dirty Operating System). This system was heavily influenced by the CP/M API, although it did not copy code from it. This similarity has been the subject of lawsuits between Digital Research and Microsoft over the years. Microsoft then bought 86-DOS and modified it, along with its creator, hired by Microsoft, Tim Paterson, renamed it MS-DOS. Furthermore, MS-DOS was licensed by IBM and sold as IBM PC DOS. CP/M-86 continued to evolve, giving rise to other derivatives, such as DOS Plus, which eventually gave rise to DR-DOS. DR-DOS began to try to be compatible with and compete with MS-DOS for the personal computing market in the 1990s, including being included in a series of other products, such as the DOS merge, from UnixWare (UNIX System Laboratories and Novell).
 
@@ -704,6 +752,8 @@ CP/M (Control Program/Monitor and later, Control Program for Microcomputers) was
 
 * [CP/M](https://en.wikipedia.org/wiki/CP/M)
 
+</div>
+
 <hr>
 
 </details>
@@ -715,6 +765,8 @@ CP/M (Control Program/Monitor and later, Control Program for Microcomputers) was
 <p align="center">
 <img src="https://upload.wikimedia.org/wikipedia/commons/b/b0/Ms-dosdir.png" width="400" height="200">
 </p>
+
+<div align="justify">
 
 Under construction!
 
@@ -737,6 +789,8 @@ Under construction!
 * [DR-DOS](https://en.wikipedia.org/wiki/DR-DOS)
 * [FreeDOS](https://en.wikipedia.org/wiki/FreeDOS)
 
+</div>
+
 <hr>
 
 </details>
@@ -749,6 +803,8 @@ Under construction!
 <img src="https://upload.wikimedia.org/wikipedia/en/f/f0/Os2W4.png" width="400" height="200">
 </p>
 
+<div align="justify">
+
 Under construction!
 
 #### Source code
@@ -758,6 +814,8 @@ Source code is proprietary.
 #### Download the system (install in a virtual machine or use in an emulator)
 
 * [OS/2](https://winworldpc.com/product/os-2-warp-4/os-2-warp-40)
+
+</div>
 
 <hr>
 
@@ -770,6 +828,8 @@ Source code is proprietary.
 <p align="center">
 <img src="https://upload.wikimedia.org/wikipedia/en/b/bb/Windows_NT_3.51.png" width="400" height="200">
 </p>
+
+<div align="justify">
 
 Under construction!
 
@@ -800,6 +860,8 @@ Source code is proprietary.
 
 * [Architecture of Windows NT - Wikipedia](https://en.wikipedia.org/wiki/Architecture_of_Windows_NT)
 
+</div>
+
 <hr>
 
 </details>
@@ -811,6 +873,8 @@ Source code is proprietary.
 <p align="center">
 <img src="https://upload.wikimedia.org/wikipedia/en/a/ae/BeOS_Desktop.png" width="400" height="200">
 </p>
+
+<div align="justify">
 
 Under construction!
 
@@ -826,6 +890,8 @@ Under construction!
 
 * [BeOS](https://en.wikipedia.org/wiki/BeOS)
 
+</div>
+
 <hr>
 
 </details>
@@ -839,6 +905,8 @@ Under construction!
 <p align="center">
 <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/FreeDOS_1.1_screenshot.png" width="400" height="200">
 </p>
+
+<div align="justify">
 
 Under construction!
 
@@ -859,6 +927,8 @@ Under construction!
 
 * [FreeDOS](https://en.wikipedia.org/wiki/FreeDOS)
 
+</div>
+
 <hr>
 
 </details>
@@ -870,6 +940,8 @@ Under construction!
 <p align="center">
 <img src="https://docs.dahliaos.io/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ffimage2.7660324c.webp&w=1080&q=75" width="400" height="200">
 </p>
+
+<div align="justify">
 
 Fuchsia is an operating system that has been developed by Google and was found in a git repository in August 2016, although, at the time, no announcement was made by the company. Since then, the project has reached maturity and shown itself to be a possible alternative to the operating systems used for computers and mobile devices, such as Windows, Linux, macOS, Android or ChromeOS. At the time, it was based on a new microkernel called Magenta, which was later renamed Zircon. Fuchsia is based on the [`LK`](https://github.com/littlekernel/lk) (Little Kernel) kernel, developed by Travis Geiselbrecht, who also developed the NewOS kernel, used by the Haiku project. LK is also used in the Android boot process on certain devices. Zircon, which adds a series of new functions, multitasking and security on top of lk, is written in C++, with parts in C and Assembly, and supports the x86_64, arm64 and RISC-V architecture. Fuchsia is an operating system heavily inspired by UNIX, but incorporates some different features. In addition to not supporting classic UNIX signals and Unix-like systems, it implements an event-driven pattern. Additionally, resources are represented as objects, not files. In addition to having an emulation layer that allows Fuchsia and Zircon to run Linux applications (called Starnix), Fuchsia already has a port of the Chromium browser, Vulkan support and application development in Flutter, in addition to having an graphical interface with a graphics server completely different from those used in the Linux world. In 2021, Fuchsia replaced CastOS (based on Linux) on Google Nest Hub devices. In 2023, it replaced CastOS in the second generation of the device. Despite having a very different architecture, no visual changes were observed in the devices. There are rumors that Fuchsia could one day replace Android and ChromeOS in Google's ecosystem, being an operating system that will run on a range of different devices and form factors, from smart watches to desktop computers. Remember that Fuchsia is free software. Although its support is restricted to specific devices, you can run an emulator/virtualizer with a system image and test Fuchsia. To do this, read more about [FImage](https://github.com/dahliaOS/fimage/releases), provided by the [dahliaOS](https://docs.dahliaos.io/os/fimage) project, below.
 
@@ -886,6 +958,8 @@ Fuchsia is an operating system that has been developed by Google and was found i
 
 * [Fuchsia](https://en.wikipedia.org/wiki/Fuchsia_(operating_system))
 
+</div>
+
 <hr>
 
 </details>
@@ -898,6 +972,8 @@ Fuchsia is an operating system that has been developed by Google and was found i
 <img src="https://www.haiku-os.org/files/slideshow/installer.png" width="400" height="200">
 </p>
 
+<div align="justify">
+
 Under construction!
 
 #### Source code
@@ -907,6 +983,8 @@ Under construction!
 #### Wikipedia content
 
 * [Haiku](https://en.wikipedia.org/wiki/Haiku_(operating_system))
+
+</div>
 
 <hr>
 
@@ -920,6 +998,8 @@ Under construction!
 <img src="https://reactos.org/sites/default/files/Mizu-AppManager.png" width="400" height="200">
 </p>
 
+<div align="justify">
+
 Under construction!
 
 #### Source code
@@ -929,6 +1009,8 @@ Under construction!
 #### Wikipedia content
 
 * [ReactOS](https://github.com/reactos/reactos)
+
+</div>
 
 <hr>
 
