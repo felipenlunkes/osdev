@@ -1123,14 +1123,16 @@ Here you can get more information about the main free licenses to apply in your 
 
 In this session you will find text or video tutorials for operating system development and administration. The tutorials are separated by architecture (in case of development) and target (in case of administration).
 
-### Create a Linux From Scratch (LFS) distribuition
+<details title="Create a Linux From Scratch (LFS) distribuition" align='left'>
+<summary align='left'><strong>Create a Linux From Scratch (LFS) distribuition</strong></summary>
 
 `Linux from Scratch` (LFS) is a project that aims to facilitate the creation of Linux distributions entirely from source code. This project consists of detailed tutorials that teach how to compile the kernel, basic utilities and other packages (such as a graphical interface) completely from scratch, allowing great customization of the final operating system. Following this tutorial gives the user a much deeper insight into the organization of a Linux operating system, as well as the relationship between the various components that make it up. You won't come out of this experience the same, and you will be more ready for any adversity, even when using a commercial system, such as Ubuntu, Fedora, Arch or OpenSUSE. LFS can also help you if you want to become more experienced and then venture into distributions like Arch or Gentoo (either you come from them and want something more customizable or you want to learn more, doing everything from scratch).
 
 * [LFS documentation and tutorials](https://www.linuxfromscratch.org/lfs/)
 
+</details>
+
 <details title="Creating a operating system" align='left'>
-<br>
 <summary align='left'><strong>Creating a operating system</strong></summary>
 
 ##### Creating an x86 operating system
@@ -1167,7 +1169,8 @@ In this topic, there are guides and tutorials for building simple operating syst
 
 * [Operating systems development for Dummies](https://medium.com/@lduck11007/operating-systems-development-for-dummies-3d4d786e8ac)
 
-### Tutorials
+<details title="Tutorials" align='left'>
+<summary align='left'><strong>Tutorials</strong></summary>
 
 ##### Linux tutorials
 
@@ -1179,6 +1182,8 @@ In this topic, there are guides and tutorials for building simple operating syst
 * [Write your own Operating System](https://www.youtube.com/playlist?list=PLHh55M_Kq4OApWScZyPl5HhgsTJS9MZ6M)
 * [Kernel dev from scratch by Dragon Zap Education](https://www.youtube.com/watch?v=HNIg3TXfdX8&list=PLrGN1Qi7t67V-9uXzj4VSQCffntfvn42v)
 * [Nanobyte](https://www.youtube.com/channel/UCSPIuWADJIMIf9Erf--XAsA)
+
+</details>
 
 ### Consolidated projects for learning
 
