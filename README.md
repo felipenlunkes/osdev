@@ -1129,7 +1129,11 @@ In this session you will find text or video tutorials for operating system devel
 
 * [LFS documentation and tutorials](https://www.linuxfromscratch.org/lfs/)
 
-### Creating an x86 operating system
+### Creating a operating system
+
+##### Creating an x86 operating system
+
+In this topic, you will find guides and tutorials for developing simple and small operating systems for the x86 architecture. Additionally, there are guides for developing bootloaders and other components.
 
 * [Kernels 101 – Let’s write a Kernel](https://arjunsreedharan.org/post/82710718100/kernels-101-lets-write-a-kernel)
 * [Kernels 201 - Let’s write a Kernel with keyboard and screen support](https://arjunsreedharan.org/post/99370248137/kernels-201-lets-write-a-kernel-with-keyboard)
@@ -1141,13 +1145,17 @@ In this session you will find text or video tutorials for operating system devel
 * [Writing an OS in Rust](https://os.phil-opp.com/)
 * [Learning to write an Operating System](https://github.com/mikesmullin/OperatingSystem)
 
-### Creating an ARM operating system
+##### Creating an ARM operating system
 
-* [Baking Pi  Operating Systems Development](https://www.cl.cam.ac.uk/projects/raspberrypi/tutorials/os/index.html)
+In this topic, there are guides and tutorials for building simple operating systems for the ARM architecture.
+
+* [Baking Pi Operating Systems Development](https://www.cl.cam.ac.uk/projects/raspberrypi/tutorials/os/index.html)
 * [Learning operating system development using Linux kernel and Raspberry Pi](https://github.com/s-matyukevich/raspberry-pi-os)
 * [Build a minimal multi-tasking OS kernel for ARM from scratch](https://github.com/jserv/mini-arm-os)
 
-### Creating an RISC-V operating system
+##### Creating an RISC-V operating system
+
+In this topic, there are guides and tutorials for building simple operating systems for the RISC-V architecture.
 
 * [Making a RISC-V Operating System using Rust](http://osblog.stephenmarz.com/)
 
@@ -1155,12 +1163,14 @@ In this session you will find text or video tutorials for operating system devel
 
 * [Operating systems development for Dummies](https://medium.com/@lduck11007/operating-systems-development-for-dummies-3d4d786e8ac)
 
-### Linux tutorials
+### Tutorials
+
+##### Linux tutorials
 
 * [How to write a Linux kernel patch and submit it](https://github.com/gregkh/kernel-tutorial)
 * [Presentation on how the Linux kernel is developed](https://github.com/gregkh/kernel-development)
 
-### Video tutorials
+##### Video tutorials
 
 * [Write your own Operating System](https://www.youtube.com/playlist?list=PLHh55M_Kq4OApWScZyPl5HhgsTJS9MZ6M)
 * [Kernel dev from scratch by Dragon Zap Education](https://www.youtube.com/watch?v=HNIg3TXfdX8&list=PLrGN1Qi7t67V-9uXzj4VSQCffntfvn42v)
