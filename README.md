@@ -1129,7 +1129,9 @@ In this session you will find text or video tutorials for operating system devel
 
 * [LFS documentation and tutorials](https://www.linuxfromscratch.org/lfs/)
 
-### Creating a operating system
+<details title="Creating a operating system" align='left'>
+<br>
+<summary align='left'><strong>Creating a operating system</strong></summary>
 
 ##### Creating an x86 operating system
 
@@ -1158,6 +1160,8 @@ In this topic, there are guides and tutorials for building simple operating syst
 In this topic, there are guides and tutorials for building simple operating systems for the RISC-V architecture.
 
 * [Making a RISC-V Operating System using Rust](http://osblog.stephenmarz.com/)
+
+</details>
 
 ### General OSDev
 
