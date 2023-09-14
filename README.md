@@ -74,7 +74,7 @@ This session addresses:
 
 <details title="UNIX" align='left'>
 <br>
-<summary align='left'>UNIX</summary>
+<summary align='justify'>UNIX</summary>
 
 <p align="center">
 <img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Simh-pdp11-unix-sysiii.png" width="400" height="200">
