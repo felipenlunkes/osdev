@@ -855,6 +855,8 @@ Under construction!
 
 * [FreeDOS](https://en.wikipedia.org/wiki/FreeDOS)
 
+<hr>
+
 </details>
 
 <details title="Fuchsia" align='left'>
