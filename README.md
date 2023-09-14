@@ -1145,6 +1145,7 @@ Here you can get more information about the main free licenses to apply in your 
 
 <hr>
 
+
 ## OSDev material: books, papers and tutorials
 
 <div align="justify">
