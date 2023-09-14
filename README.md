@@ -446,7 +446,7 @@ Source code is proprietary (except for OpenSolaris).
 
 <details title="illumos (OpenSolaris)" align='left'>
 <br>
-<summary align='left'>illumos (OpenSolaris)</summary>
+<summary align='left'>illumos (OpenSolaris and OpenIndiana)</summary>
 
 <p align="center">
 <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/OpenIndiana_Hipster_2021.10_MATE_desktop_environment_screenshot.png" width="400" height="200">
@@ -725,12 +725,6 @@ Under construction!
 * [Undocumented DOS: a programmer's guide to reserved MS-DOS functions and data structures](https://archive.org/details/undocumenteddosp00andr_0)
 * [86-DOS 1.0 Addendum - PDF](http://bitsavers.informatik.uni-stuttgart.de/pdf/seattleComputer/86-DOS_1.0_Addendum.pdf)
 
-#### FreeDOS
-
-* [FreeDOS Wiki](http://wiki.freedos.org/wiki/index.php/Main_Page)
-* [Using FreeDOS - PDF](https://www.freedos.org/books/download/using-freedos-24.pdf)
-* [Writing FreeDOS programs in C](https://www.freedos.org/books/cprogramming/)
-
 #### Wikipedia content
 
 * [86-DOS](https://en.wikipedia.org/wiki/86-DOS)
@@ -833,6 +827,35 @@ Under construction!
 </details>
 
 ### Interesting new operating systems
+
+<details title="FreeDOS" align='left'>
+<br>
+<summary align='left'>FreeDOS</summary>
+
+<p align="center">
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/10/FreeDOS_1.1_screenshot.png" width="400" height="200">
+</p>
+
+Under construction!
+
+#### Source code
+
+* [FreeDOS kernel source code](https://github.com/FDOS/kernel)
+* [FreeDOS Software](https://www.ibiblio.org/pub/micro/pc-stuff/freedos/files/repositories/1.3/pkg-html/)
+* [FreeDOS Files](https://www.ibiblio.org/pub/micro/pc-stuff/freedos/files/)
+* [FreeDOS Archive at GitLabs](https://gitlab.com/FreeDOS)
+
+#### Documentation
+
+* [FreeDOS Wiki](http://wiki.freedos.org/wiki/index.php/Main_Page)
+* [Using FreeDOS - PDF](https://www.freedos.org/books/download/using-freedos-24.pdf)
+* [Writing FreeDOS programs in C](https://www.freedos.org/books/cprogramming/)
+
+#### Wikipedia content
+
+* [FreeDOS](https://en.wikipedia.org/wiki/FreeDOS)
+
+</details>
 
 <details title="Fuchsia" align='left'>
 <br>
