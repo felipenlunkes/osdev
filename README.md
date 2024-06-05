@@ -24,6 +24,8 @@ This repository aims to count and list the open source operating system projects
 
 </div>
 
+> **For a list of active operating system and open source projects, visit the [osdev-projects](https://github.com/felipenlunkes/osdev-projects) repository**.
+
 <hr>
 
 ## Summary
